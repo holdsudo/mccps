@@ -1,0 +1,125 @@
+{
+ "slug": "cash-vs-card-small-business",
+ "category": "blog",
+ "title": "Cash vs. Card for Small Businesses",
+ "seo_title": "Cash vs. Card for Small Businesses: Real Costs | MCCPS",
+ "meta_description": "Compare the true costs of cash and cards for a small business: handling time, shrink, deposits, processing fees, speed, sales lift and what customers prefer.",
+ "primary_keyword": "cash vs card small business",
+ "keywords": [
+  "cost of accepting cash",
+  "cost of card processing",
+  "cash handling costs",
+  "cash shrink",
+  "bank deposits",
+  "card sales lift",
+  "cash discount"
+ ],
+ "eyebrow": "Payment mix",
+ "dek": "A fair look at what each payment type really costs once you count the hours, the risk and the fees, not just the fee line on a statement.",
+ "intro": [
+  "Card fees are visible: they show up as a line on a statement. Cash costs are hidden: they hide in payroll hours, bank trips, change orders and the occasional drawer that is short. That asymmetry makes cash look free and cards look expensive, which is not an honest comparison.",
+  "The right mix for your business depends on your customers, your ticket size and your tolerance for risk. A farmers market stall and a plumbing company have different answers. What matters is that you compare the full costs, using your own numbers.",
+  "Here is a framework for doing that, with hypothetical examples you can replace with your own."
+ ],
+ "sections": [
+  {
+   "h2": "The visible cost of cards",
+   "paragraphs": [
+    "Card processing fees combine interchange, network assessments and the processor's markup plus any monthly fees. Depending on card mix and how cards are accepted, the all-in cost is often a few percent of sales. On $30,000 of card sales at 3 percent, the fee is $900, a hypothetical figure.",
+    "That number is real and should be minimized. Reading your statement, choosing a fair pricing model and encouraging debit or card-present payments where you can all reduce it. Some businesses use compliant cash-discount programs; rules vary by state and card network and disclosure is required.",
+    "Remember that some of what you pay on cards buys something. Guaranteed funds, instant reconciliation, fraud tools and the ability to sell remotely are all benefits cash cannot offer. Weigh the price against what you get, not in isolation."
+   ]
+  },
+  {
+   "h2": "The hidden cost of cash",
+   "paragraphs": [
+    "Cash has to be counted, secured, bagged, deposited and reconciled. Say an owner spends three hours a week on cash tasks and a manager, at $20 an hour, spends two. That is about $100 a week in labor, or over $5,000 a year, before bank fees for coin and currency deposits and any armored pickup.",
+    "Add change fund costs, the money sitting idle in drawers, and the time spent on shortages. Then add shrink: errors, theft and counterfeit notes. Even a small percentage of sales lost to shrink is a cost that rivals card fees.",
+    "A trip to the bank also has an opportunity cost: the time away from selling, the parking and the exposure while carrying a bag of cash. If your business is open long hours and the owner makes the deposit, the cost is that person's best hours, not a clerk's. Put a value on it."
+   ],
+   "bullets": [
+    "Counting, balancing and deposit labor.",
+    "Coin and currency deposit or armored carrier fees.",
+    "Change fund and safe costs.",
+    "Shrink from errors, theft and counterfeits.",
+    "Reconciliation and bookkeeping time."
+   ]
+  },
+  {
+   "h2": "Risk and security",
+   "paragraphs": [
+    "Cash in the drawer is a robbery target and an employee-theft temptation. Cash on the way to the bank is exposed. Card sales are traceable and deposited electronically, which gives you an audit trail that cash lacks.",
+    "Cards bring their own risks: fraud, chargebacks and data security duties. EMV chip and contactless acceptance, PCI compliance and prompt dispute handling manage those. Each type of risk has controls; the question is which controls you can run well.",
+    "Insurance matters too. Policies often limit coverage for cash on premises or in transit, while electronic funds sit in a bank account. Ask your agent what limits apply to cash and whether lowering your cash balance could change your premium or coverage terms."
+   ]
+  },
+  {
+   "h2": "Speed, convenience and sales",
+   "paragraphs": [
+    "Tap payments can be quicker than counting change, especially at busy counters. Customers who do not carry cash may walk away from a cash-only business, and many spend more when paying by card because they are not limited by what is in their wallet. That effect varies by business, so we will not quote a number, but you can test it by tracking average ticket by payment type.",
+    "Cash remains preferred by some customers for privacy or habit, and refusing it may be restricted in certain places. Check local rules before changing your policy.",
+    "In practice, many owners are surprised by how few customers actually insist on cash once tap payments are fast and easy. Watch your own register for a month and note how many people reach for a wallet versus a phone."
+   ]
+  },
+  {
+   "h2": "Doing your own comparison",
+   "paragraphs": [
+    "Collect one month of data: total cash sales, total card sales, card fees, hours spent on cash handling, shortages and deposit costs. Divide each cost by the sales it relates to. You may find card sales cost about three percent while cash handling costs somewhere in a similar range, or not; the point is to know.",
+    "If card fees come out higher than you want, address them directly through pricing structure or a statement review instead of discouraging cards."
+   ],
+   "steps": [
+    "Total last month's cash and card sales.",
+    "Add up all card fees from the statement.",
+    "Estimate hours spent on cash tasks and multiply by hourly cost.",
+    "Include deposit fees, shrink and change fund costs.",
+    "Compare cost per $100 of sales for each method."
+   ]
+  },
+  {
+   "h2": "A balanced approach",
+   "paragraphs": [
+    "For most small businesses, the answer is to accept both and reduce the cost of each. Tighten cash controls with a daily count and drops to a safe, and reduce card costs with the right pricing and equipment. MCCPS can help on the card side with a free statement analysis and a Zero Processing Fees option for eligible merchants, where rules vary by state and network.",
+    "Keep your existing terminals where possible, and reach out any time to 844.826.6227 for personal service and free 24/7 technical support."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Card fees are visible; cash costs are hidden in labor, shrink and deposits.",
+  "Compare cost per $100 of sales for each payment type.",
+  "Cash raises theft and robbery exposure; cards raise fraud and dispute duties.",
+  "Accepting both usually serves customers best.",
+  "Reduce card cost through pricing structure and statement review."
+ ],
+ "faq": [
+  {
+   "q": "Is cash really free to accept?",
+   "a": "No. Counting, securing, depositing and reconciling cash takes time and money, and shrink can be significant. The costs are less visible than card fees but just as real."
+  },
+  {
+   "q": "Do customers spend more with cards?",
+   "a": "Many businesses see larger tickets on cards, but it varies. Track average ticket by payment type in your own sales reports instead of relying on general claims."
+  },
+  {
+   "q": "Can I offer a discount for cash?",
+   "a": "Many businesses do, but rules vary by state and card network, and disclosure and signage are required. Confirm current requirements before launching and structure it as a discount, not a hidden fee."
+  },
+  {
+   "q": "What is shrink?",
+   "a": "It is loss from errors, theft or counterfeit currency. Cash is more prone to it than electronic payments, which leave a record. Daily counts and limited drawer access reduce it."
+  },
+  {
+   "q": "How do I lower my card fees without losing customers?",
+   "a": "Start with your statement and effective rate, then review pricing model, equipment and card-present habits. A free line-by-line analysis can show where cost sits without changing how customers pay."
+  }
+ ],
+ "related": [
+  "checks-vs-cards",
+  "going-cashless",
+  "offer-cash-discount",
+  "dual-pricing-explained",
+  "effective-rate-explained",
+  "employee-theft-pos"
+ ],
+ "icon": "cash",
+ "read_minutes": 6
+}

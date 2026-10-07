@@ -1,0 +1,125 @@
+{
+ "slug": "negotiate-processing-rates",
+ "category": "blog",
+ "title": "How to Negotiate Lower Processing Rates",
+ "seo_title": "How to Negotiate Lower Processing Rates | MCCPS",
+ "meta_description": "Learn which levers actually move card processing costs: knowing your effective rate, pricing model, volume, card mix, contract terms and timing of your ask.",
+ "primary_keyword": "negotiate processing rates",
+ "keywords": [
+  "lower merchant processing fees",
+  "negotiate with processor",
+  "effective rate",
+  "interchange plus markup",
+  "processing rate leverage",
+  "reduce merchant fees",
+  "renegotiate merchant contract"
+ ],
+ "eyebrow": "Negotiation",
+ "dek": "What you can realistically change, what is fixed by the card networks and how to approach the conversation with facts instead of frustration.",
+ "intro": [
+  "Many merchants assume processing rates are fixed, like a utility bill. They are not, but they are also not entirely negotiable. A large share of what you pay goes to the card networks and issuing banks and is the same for everyone with the same transactions. Your processor controls a smaller piece, its markup and fees, and that piece is where negotiation happens.",
+  "Negotiating well is about knowing which part is which, bringing evidence and being willing to walk away. A vague request for a better rate gets a vague response; a specific request supported by statements and a competing quote can get a real review.",
+  "This guide covers the levers, the sequence and the mistakes that weaken a merchant's position."
+ ],
+ "sections": [
+  {
+   "h2": "Know what is negotiable and what is not",
+   "paragraphs": [
+    "Interchange, the fee paid to the issuing bank, and network assessments are set by the card brands and are not negotiable by the processor. What you can negotiate is the processor's markup, per-transaction fees, monthly and annual fees, gateway and statement fees, equipment terms and sometimes contract length.",
+    "Under interchange-plus pricing, the markup is separate and visible, so it is straightforward to negotiate. Under tiered or flat-rate pricing, the processor's share is blended into the rate, which makes comparison harder. Asking for an itemized breakdown is often the first step.",
+    "Be skeptical of any provider that says its rate is simply 'non-negotiable'. That may be true for the pass-through portion, but the markup is a business decision. Asking whether the markup, the monthly fee or the term is flexible is a fair question, and the answer tells you how much room exists."
+   ]
+  },
+  {
+   "h2": "Calculate your effective rate and your leverage",
+   "paragraphs": [
+    "Divide your total monthly fees by total card volume. If you process $80,000 and pay $2,480, your effective rate is 3.1 percent, a hypothetical figure. Then compare it with what your card mix should cost: debit, standard credit, rewards credit, keyed and online sales all price differently.",
+    "Leverage comes from volume, history and alternatives. A steady merchant with low chargebacks and growing volume is worth keeping. Having a written competing quote shows that you are informed and ready to move.",
+    "Suppose your hypothetical statement shows a markup of 0.4 percent plus 15 cents per transaction on $80,000 and 2,000 transactions. That is $320 plus $300, or $620 a month in processor margin. A reduction of even a few hundredths of a percent, or 3 cents per item, is real money across a year, and it comes out of the part the processor controls."
+   ],
+   "bullets": [
+    "Steady or growing volume over several months.",
+    "Low chargeback and refund ratios.",
+    "Clean payment history and compliance.",
+    "A written quote from another provider."
+   ]
+  },
+  {
+   "h2": "Improve what you bring to the table",
+   "paragraphs": [
+    "Some costs fall when your transactions change. Card-present, EMV and contactless payments cost less than keyed ones. Sending Level 2 and Level 3 data on business-to-business cards can reduce interchange on qualifying transactions. Using address verification and security codes for online sales can reduce downgrades and fraud losses.",
+    "Tidy your account. Complete PCI compliance on time to avoid non-compliance fees, remove unused services and close extra terminals that incur monthly charges. Each removal improves your effective rate without a single negotiation.",
+    "Seasonal merchants have an extra argument. If you can show that volume doubles in certain months and a long history of consistent payments, you can ask for pricing that reflects the annual total rather than the slow months. Documentation of year-over-year growth strengthens any request."
+   ]
+  },
+  {
+   "h2": "Make the ask: timing, tone and structure",
+   "paragraphs": [
+    "Contact the processor in writing, ideally before a renewal date or after a strong period. Say what you pay now, what you have been quoted elsewhere, what you want and by when. Keep the tone businesslike. You are a customer proposing a business decision, not a protester.",
+    "Ask for specific changes: a lower markup, waiver of a monthly fee, removal of an annual charge or a shorter term. Make one clear request instead of many scattered complaints. Be ready for a counter and know your minimum acceptable outcome.",
+    "If the first answer is no, ask what would change it. Longer commitment, higher volume, ACH adoption or an annual prepayment might unlock a different tier. Understand the cost of each concession before agreeing, and never trade away flexibility, such as a short exit window, for a saving that is smaller than the value of that flexibility."
+   ],
+   "steps": [
+    "Gather two to three recent statements.",
+    "Calculate your effective rate and itemize fees.",
+    "Obtain at least one written competing quote.",
+    "Write to your processor with a clear request and deadline.",
+    "Compare the response with your alternative and decide."
+   ]
+  },
+  {
+   "h2": "Beware of the trade-offs inside the offer",
+   "paragraphs": [
+    "A lower rate can come with a longer contract, a higher early termination fee, a new equipment lease or a reserve. Evaluate the whole package, not the headline. A saving of a few hundred dollars a year can be erased by one extra year locked into a worse deal.",
+    "Be careful with promises of savings from salespeople who have not seen your statement. Any real comparison requires your actual numbers.",
+    "Keep records of every conversation and confirm agreements by email. Verbal promises disappear; written confirmations remain. After any change takes effect, check the next statement to confirm that the new pricing was actually applied."
+   ]
+  },
+  {
+   "h2": "When a different pricing approach beats negotiation",
+   "paragraphs": [
+    "Sometimes the biggest change is structural. A compliant cash-discount or dual-pricing program can reduce or even eliminate card-processing cost for eligible merchants, as with the MCCPS Zero Processing Fees program. Rules vary by state and card network, and proper signage and disclosure are required, so confirm current requirements first.",
+    "MCCPS offers a free, no-obligation analysis of two months of your statements, line by line. It shows what you pay now and which levers apply to you. Call 844.826.6227 to start."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Only the processor's markup and fees are negotiable, not interchange.",
+  "Calculate your effective rate and bring written evidence.",
+  "Leverage comes from steady volume, clean history and alternatives.",
+  "Check the whole package for longer terms or leases.",
+  "Structural changes in pricing can beat small rate trims."
+ ],
+ "faq": [
+  {
+   "q": "Can I negotiate interchange?",
+   "a": "No. Interchange is set by the card networks and paid to issuing banks. What you can negotiate is the processor's markup, per-item fees, monthly charges and contract terms. Interchange-plus pricing makes those items easy to see."
+  },
+  {
+   "q": "When is the best time to ask for a lower rate?",
+   "a": "Before renewal, after several months of stable or growing volume or when you hold a competing quote. Avoid asking right after a chargeback spike or compliance problem, which weakens your position."
+  },
+  {
+   "q": "How much can I realistically save?",
+   "a": "It depends on your current pricing, card mix and volume, so no one can honestly promise a figure without reviewing your statements. A line-by-line analysis shows where savings are possible and where costs are fixed."
+  },
+  {
+   "q": "Does switching processors lower my rate?",
+   "a": "Sometimes. A new provider may offer lower markup or fewer fees, but check term length, exit costs and equipment. Compare total yearly cost, including any fee to leave your current agreement."
+  },
+  {
+   "q": "Should I mention that I am considering leaving?",
+   "a": "If it is true, yes, calmly and with a written alternative. Do not bluff. A credible alternative gives the processor a reason to review your account."
+  }
+ ],
+ "related": [
+  "effective-rate-explained",
+  "processor-markup-explained",
+  "interchange-plus-pricing",
+  "lower-processing-fees",
+  "audit-your-merchant-statement",
+  "questions-to-ask-a-processor"
+ ],
+ "icon": "trend",
+ "read_minutes": 6
+}

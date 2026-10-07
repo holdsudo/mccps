@@ -1,0 +1,123 @@
+{
+  "slug": "high-risk-merchant-accounts",
+  "category": "solutions",
+  "title": "High-Risk Merchant Accounts",
+  "seo_title": "High-Risk Merchant Accounts Explained | MCCPS",
+  "meta_description": "Learn what makes a business high risk for card processing, what to expect from underwriting, reserves and pricing, and how to prepare an application.",
+  "primary_keyword": "high-risk merchant accounts",
+  "keywords": [
+    "high risk merchant account",
+    "high risk payment processing",
+    "underwriting risk",
+    "rolling reserve",
+    "chargeback ratio",
+    "high risk industries",
+    "merchant account approval"
+  ],
+  "eyebrow": "Risk and approval",
+  "dek": "High risk is a label about probabilities, not character. Understanding how underwriters see you helps you prepare a stronger application.",
+  "intro": [
+    "Some owners hear the words 'high risk' for the first time when a processor declines their application or closes an account that seemed fine. It stings, especially when the business is legitimate and well run. The label is not a judgment of you. It is a statistical assessment by banks about the likelihood of chargebacks, fraud or regulatory problems in a given type of business.",
+    "This page explains what typically puts a merchant in that category, what to expect if you are classified that way, and how to give underwriters the information that supports a fair decision."
+  ],
+  "sections": [
+    {
+      "h2": "What makes a business high risk",
+      "paragraphs": [
+        "Underwriters weigh several factors. Industries with high dispute rates, delayed delivery, recurring billing with free trials, or regulatory complexity tend to be viewed more cautiously. Large average tickets, sudden volume spikes, a new business with no processing history and a high share of card-not-present sales also add risk.",
+        "A merchant's own history matters. Past chargeback ratios, previous account terminations and credit issues can change the assessment. The same business can be low risk with a clean history and moderate risk after a rough patch.",
+        "None of this means a business is doing anything wrong. A travel seller, for example, takes payment months before the trip, so a cancellation or supplier failure can create many disputes at once, and underwriters price that exposure whether or not the owner is blameless."
+      ],
+      "bullets": [
+        "Elevated historical chargeback ratios",
+        "Delayed delivery, such as pre-orders and travel",
+        "Subscriptions and free-trial offers",
+        "High average ticket or large volume swings",
+        "Heavily regulated or restricted products",
+        "Limited operating or processing history"
+      ]
+    },
+    {
+      "h2": "How underwriting looks at you",
+      "paragraphs": [
+        "Underwriting is a risk review. Expect to provide business documents, a bank statement, a description of your products and how you deliver them, projected volume and average ticket, and often prior processing statements. Websites are reviewed for clear terms, refund policies, contact information and accurate descriptions.",
+        "Be honest and thorough. Misstating volume or products to appear safer is a fast route to a closed account and possible placement on a termination file. Our MATCH list guide explains why that is so costly."
+      ]
+    },
+    {
+      "h2": "Realistic expectations",
+      "paragraphs": [
+        "A higher-risk account often comes with different terms than a standard retail account. Processing rates may be higher, a rolling reserve may hold back a percentage of sales for a period, and caps on monthly volume or ticket size may apply. Funding timing can be slower at first.",
+        "Hypothetically, a 10% rolling reserve on $50,000 in monthly sales holds $5,000 in funds at a time. Plan your cash flow around that rather than being surprised by it. Terms vary by risk profile, and nothing here is a quote or a promise of approval.",
+        "Ask early about how and when reserves are released, whether caps apply to a single transaction, and what happens if volume grows faster than expected. Clear answers up front prevent awkward surprises in month three."
+      ]
+    },
+    {
+      "h2": "Improving your risk profile",
+      "paragraphs": [
+        "You have more influence than you may think. Clear refund and cancellation policies, accurate product descriptions, fast shipping with tracking, responsive customer service and recognizable billing descriptors all reduce disputes. Use fraud tools such as AVS, CVV and 3-D Secure.",
+        "Document your processes. Showing an underwriter that you track chargebacks, respond to disputes and have a plan for growth builds confidence. A merchant with a stable history of low disputes may later qualify for better terms.",
+        "A written risk plan helps even if nobody asks for it: how you verify orders, how quickly you ship, how you handle complaints and who monitors chargebacks. Underwriters respond well to operators who obviously think about these things before they become problems."
+      ]
+    },
+    {
+      "h2": "Avoiding the common mistakes",
+      "paragraphs": [
+        "Do not apply to many processors at once without a plan; multiple declines can complicate matters. Do not hide the true nature of your business. Do not run sudden large volume increases without telling your processor, because unexpected spikes look like fraud.",
+        "Avoid splitting a single large sale across multiple transactions to stay under a limit, a practice called transaction laundering or structuring that can end an account. If you need higher limits, ask for them in advance."
+      ]
+    },
+    {
+      "h2": "When a processor says no",
+      "paragraphs": [
+        "A decline from one processor is not final across the industry. Different underwriters have different appetites, and a thorough explanation of your business model may change the outcome. Ask for the reason, address it, and try again where appropriate.",
+        "Some businesses are simply outside what a given program supports, and a specialist can tell you honestly whether MCCPS is the right fit. Availability depends on underwriting and the banks involved, so a conversation before you apply saves time."
+      ]
+    },
+    {
+      "h2": "Talking to MCCPS",
+      "paragraphs": [
+        "MCCPS offers personal customer service, so you speak to a person who can explain what underwriters will want to see. Free 24/7 technical support, PCI compliance help and a reporting and analytics dashboard in PayPilot by MCCPS support merchants who need to monitor disputes closely.",
+        "Start with the free, no-obligation statement analysis if you currently process, and call 844.826.6227 to discuss your situation. If you need business funding, MCCPS refers merchants to Fidelity Funding, as MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "High risk describes statistical dispute and fraud exposure, not character.",
+    "Expect closer underwriting, possible reserves and different pricing.",
+    "Honest applications and clear policies improve your odds.",
+    "Never misstate your business or split transactions to avoid limits."
+  ],
+  "faq": [
+    {
+      "q": "Is my business automatically high risk?",
+      "a": "Not automatically. Risk is assessed from your industry, history, ticket sizes, delivery model and dispute record. Two businesses in the same industry can be classified differently. A specialist can discuss how underwriters are likely to see yours."
+    },
+    {
+      "q": "What is a rolling reserve?",
+      "a": "A percentage of your sales is held for a set period as protection against chargebacks and refunds, then released over time. Terms vary by account and risk. Plan your cash flow accordingly, and ask how long funds are held."
+    },
+    {
+      "q": "Will I pay higher rates?",
+      "a": "Often, accounts with greater risk carry different pricing than low-risk retail. Exact terms depend on underwriting, and MCCPS does not quote rates in advance. A review of your situation shows what to expect."
+    },
+    {
+      "q": "Can I move to a standard account later?",
+      "a": "Possibly, if you build a record of low disputes, steady volume and good practices. Ask your processor what criteria they use to review accounts. Improvement tends to come gradually."
+    },
+    {
+      "q": "Can MCCPS guarantee approval?",
+      "a": "No. Approval depends on underwriting by the banks and registered ISOs involved. A specialist can explain what is likely to be needed so your application is as complete as possible."
+    }
+  ],
+  "related": [
+    "high-risk-industries-explained",
+    "merchant-account-approval",
+    "merchant-account-holds-and-reserves",
+    "matched-list-explained",
+    "chargeback-management",
+    "travel-agencies"
+  ],
+  "icon": "scale",
+  "read_minutes": 7
+}

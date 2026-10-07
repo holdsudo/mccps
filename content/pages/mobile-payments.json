@@ -1,0 +1,118 @@
+{
+  "slug": "mobile-payments",
+  "category": "solutions",
+  "title": "Mobile Payment Processing",
+  "seo_title": "Mobile Payment Processing & Card Readers | MCCPS",
+  "meta_description": "Take card payments anywhere with mobile readers, tap-to-phone and wireless terminals. See setup options, fees to expect and field-use tips from MCCPS.",
+  "primary_keyword": "mobile payment processing",
+  "keywords": [
+    "mobile credit card processing",
+    "card reader for phone",
+    "accept payments on smartphone",
+    "mobile card reader",
+    "field payments",
+    "wireless card terminal",
+    "on-site payment processing"
+  ],
+  "eyebrow": "Payments anywhere",
+  "dek": "Take cards at the customer's door, the market stall or the job site with equipment small enough to live in a pocket.",
+  "intro": [
+    "Plenty of businesses never meet their customers at a counter. The plumber is under a sink, the photographer is on location, the vendor is behind a folding table. If payment waits until you are back at the office, an invoice sits unpaid and the customer cools off. Mobile payment processing lets you finish the sale while you are still standing there.",
+    "This page covers how mobile setups work, the equipment choices, how to plan for weak signal, and what to check on fees before you commit."
+  ],
+  "sections": [
+    {
+      "h2": "How mobile processing works",
+      "paragraphs": [
+        "The idea is the same as any card transaction, with the terminal replaced by something portable. A card reader, a wireless terminal or the phone itself captures the payment details, encrypts them and sends an authorization request over cellular or Wi-Fi to your processor and onward to the issuing bank.",
+        "What changes is the environment. You are working with variable signal, screen glare, small receipts and sometimes a customer who is standing in the rain. Reliable mobile acceptance depends as much on planning for those conditions as on the equipment."
+      ]
+    },
+    {
+      "h2": "Equipment options",
+      "paragraphs": [
+        "Pocket card readers pair with a smartphone or tablet by Bluetooth or plug-in and accept chip, tap and sometimes swipe. They are inexpensive and light, which suits occasional or low-volume field sales.",
+        "Wireless handheld terminals include their own screen, printer and cellular or Wi-Fi radio. They cost more but behave like a full countertop terminal in your hand, which helps for higher volumes or customers who prefer a printed receipt. Phone-based acceptance, where the phone's NFC reads a card or wallet, is covered separately under tap to pay."
+      ],
+      "bullets": [
+        "Bluetooth readers paired to a phone or tablet",
+        "Wireless handhelds with screen and printer",
+        "Phone-based contactless acceptance",
+        "Virtual terminal as a backup for key entry"
+      ]
+    },
+    {
+      "h2": "Planning for weak signal and long days",
+      "paragraphs": [
+        "Test your connection where you actually work: basements, rural roads, convention halls. If coverage is poor, a device with its own cellular plan can outperform a phone hotspot. Some systems queue transactions offline and submit them later, but a card that is declined after the customer has left becomes your problem, so ask how your setup handles that risk.",
+        "Battery matters too. A reader that dies at 3 p.m. is useless. Carry a charging cable or a small battery pack, and keep a second way to take payment, such as a payment link you can text or email, as insurance."
+      ]
+    },
+    {
+      "h2": "Costs and pricing to watch",
+      "paragraphs": [
+        "Card-present transactions generally cost less than key-entered or online ones, because the risk is lower. The catch is that if a mobile setup forces you to type card numbers, you may pay more per sale. Check what rate applies when a card cannot be read, and what happens to tips and adjustments.",
+        "Say you collect $15,000 a month in the field. A difference of half a percentage point between card-present and key-entered pricing is $75 a month, or $900 a year. Small gaps compound, which is why the free statement analysis looks at how your sales are actually entered."
+      ]
+    },
+    {
+      "h2": "Security basics when you are not at a counter",
+      "paragraphs": [
+        "Use readers that encrypt card data at the point of capture so numbers never sit unprotected on your phone. Keep the device updated, lock it with a passcode, and never write card numbers on paper. If a customer wants to read the number over the phone, use a virtual terminal rather than a notepad.",
+        "PCI compliance applies to mobile merchants too. Equipment that encrypts at the reader generally makes the annual self-assessment simpler, and MCCPS provides PCI compliance help so it is not another thing you have to figure out alone."
+      ]
+    },
+    {
+      "h2": "Handling tips, receipts and refunds on the road",
+      "paragraphs": [
+        "Field payments raise the same questions as counter payments, just without a counter. If you take tips, decide whether the customer enters them on the reader before payment or whether you adjust afterward, and make sure your reader supports whichever you choose. For receipts, offer email or text by default and a printed copy only when asked, which keeps equipment light and gives you a digital record tied to the sale.",
+        "Refunds deserve a clear process because they are easy to mishandle away from the office. Send the money back to the original card whenever possible, record the reason, and avoid giving cash for a card sale. Keep a written policy on what is refundable and how long customers have, and share it before the job starts. A visible policy prevents many disputes before they begin, and fewer disputes means fewer chargebacks to answer later."
+      ]
+    },
+    {
+      "h2": "Getting set up with MCCPS",
+      "paragraphs": [
+        "MCCPS integrates with almost any POS, smartphone or terminal, so many businesses can start with devices they already own. One-time and recurring payments both work, EMV and contactless are supported, and the reporting dashboard shows mobile and in-store sales together.",
+        "Free 24/7 technical support means a reader that will not pair on a Sunday still gets answered. To see what mobile acceptance might cost you, request the free statement analysis and a specialist will go through two months of your current processing with you."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Mobile processing turns phones, readers and handhelds into payment points.",
+    "Test signal and battery where you actually work.",
+    "Key-entered sales cost more than chip and tap, so watch how you enter them.",
+    "Keep a payment link or virtual terminal as backup."
+  ],
+  "faq": [
+    {
+      "q": "What do I need to accept cards on my phone?",
+      "a": "A merchant account, a compatible card reader or a phone with NFC acceptance, and a payment app. MCCPS integrates with almost any smartphone, and a specialist can confirm what works with the devices you already carry."
+    },
+    {
+      "q": "Does mobile processing cost more?",
+      "a": "Not inherently. Costs depend on how the card is entered. Chip and tap sales are card-present and usually cheaper than key-entered ones. Your pricing model and card mix also matter, which is why a statement review is useful."
+    },
+    {
+      "q": "What if I have no signal?",
+      "a": "Options include a device with its own cellular plan, a hotspot, or offline mode that stores sales and submits them later. Offline mode carries decline risk, so ask how it works. A payment link can be a fallback."
+    },
+    {
+      "q": "Can I print receipts in the field?",
+      "a": "Yes. Handheld terminals can print, and most mobile setups send receipts by email or text. Many customers prefer the digital version, and it gives you a record of the transaction."
+    },
+    {
+      "q": "Is mobile card acceptance secure?",
+      "a": "It can be, when you use encrypted readers, keep devices updated and lock them. PCI rules still apply. MCCPS provides PCI compliance help to guide you through the self-assessment."
+    }
+  ],
+  "related": [
+    "tap-to-pay",
+    "accept-payments-on-the-go",
+    "accept-payments-at-events",
+    "virtual-terminal",
+    "credit-card-terminals",
+    "invoicing-and-payment-links"
+  ],
+  "icon": "phone",
+  "read_minutes": 6
+}

@@ -1,0 +1,126 @@
+{
+ "slug": "payment-security-checklist",
+ "category": "blog",
+ "title": "Payment Security Checklist for Small Businesses",
+ "seo_title": "Payment Security Checklist for Small Business | MCCPS",
+ "meta_description": "A practical payment security checklist for small businesses: devices, passwords, PCI, staff and tokenization, with steps you can start this week.",
+ "primary_keyword": "payment security checklist",
+ "keywords": [
+  "small business payment security",
+  "PCI compliance checklist",
+  "card data protection",
+  "POS security",
+  "tokenization",
+  "employee access controls",
+  "secure card terminals"
+ ],
+ "eyebrow": "Security checklist",
+ "dek": "You do not need a security department to protect card data. You need a short list, done consistently.",
+ "intro": [
+  "Small businesses are attractive targets precisely because they are easy to overlook. A criminal who cannot break into a large retailer may find a poorly protected neighborhood store, a default password on a router or a terminal that no one has inspected in a year. The good news is that a handful of habits close most of the common doors.",
+  "This checklist is organized by area so you can assign pieces to the right person. Work through it once, then calendar a review every quarter. None of it replaces your PCI self-assessment or professional security advice, but it covers the basics that matter most to a small merchant."
+ ],
+ "sections": [
+  {
+   "h2": "Start with your terminals and card readers",
+   "paragraphs": [
+    "Physical devices are the first line of defense. Skimmers, tampered readers and swapped terminals have been used to steal card data at checkout. Keep a list of every device with its serial number and location, and inspect each one regularly for loose parts, unfamiliar stickers, new wires or broken tamper seals.",
+    "Use chip and contactless wherever possible, because those methods generate one-time data rather than reusable card details. Do not leave terminals unattended in public spaces, and lock up spares. Repairs and replacements should come only from your processor or an authorized source."
+   ],
+   "bullets": [
+    "Keep a device inventory with serial numbers",
+    "Inspect readers daily for tampering",
+    "Store spare terminals securely",
+    "Accept only authorized repairs and swaps"
+   ]
+  },
+  {
+   "h2": "Control passwords and access",
+   "paragraphs": [
+    "Weak and reused passwords are among the most common causes of small-business breaches. Change every default password on terminals, routers, point-of-sale software and your payment dashboard. Use long, unique passphrases, store them in a password manager and enable two-step verification wherever it is offered.",
+    "Give each employee a separate login so actions are traceable, and grant only the permissions the job requires. A cashier does not need access to refunds above a threshold, to settings, or to reports. When someone leaves, disable their access the same day."
+   ]
+  },
+  {
+   "h2": "Secure the network",
+   "paragraphs": [
+    "If your terminals or registers share a network with guest Wi-Fi, an office computer used for browsing and a smart TV, you are asking for trouble. Put payment devices on their own network segment or a separate router, change the default administrator password and turn off remote management unless you need it.",
+    "Keep firmware and software updated. Many attacks use known weaknesses that were patched months earlier. Turn on automatic updates for your operating systems and point-of-sale software, and ask your provider how terminal updates are delivered."
+   ]
+  },
+  {
+   "h2": "Do not store what you do not need",
+   "paragraphs": [
+    "The safest card number is the one you never keep. Do not write card numbers on paper, in email, in text messages or in a spreadsheet. Never store the security code after authorization. If you need to charge customers repeatedly, use tokenization, where your payment platform stores the card in a vault and gives you a token that is useless to a thief.",
+    "If you take payments by phone, avoid writing numbers on notepads, and shred anything that contains them. Our guide on tokenization explains how this works, and the guide on encryption and P2PE describes how card data is protected from the moment a card is read."
+   ]
+  },
+  {
+   "h2": "Stay on top of PCI compliance",
+   "paragraphs": [
+    "Anyone who accepts cards is expected to follow the Payment Card Industry Data Security Standard. For most small merchants this means completing an annual self-assessment questionnaire that matches how they accept cards, plus passing any required network scans. How you accept cards determines which questionnaire applies, and a simple terminal setup is typically far easier than a custom online checkout.",
+    "Missing the deadline can lead to monthly non-compliance fees from your processor. MCCPS offers PCI compliance help, which can make the process far less painful, and our article on non-compliance fees describes what to watch for on your statement."
+   ]
+  },
+  {
+   "h2": "Train your people",
+   "paragraphs": [
+    "Most successful attacks involve a human step: a phishing email, a phone call from someone pretending to be your processor, or an employee persuaded to bypass a safeguard. Train staff to be suspicious of unexpected requests for passwords, remote access or card numbers, and to hang up and call back using a number they already know.",
+    "Write a one-page policy covering refunds, manual entry, password handling and what to do when something looks wrong. Review it with every new hire, and again at least once a year with everyone."
+   ],
+   "bullets": [
+    "Never give remote access to someone who called you",
+    "Verify processor contacts through a known number",
+    "Report suspicious devices or activity immediately",
+    "Require manager approval for large refunds"
+   ]
+  },
+  {
+   "h2": "Monitor, back up and prepare",
+   "paragraphs": [
+    "Check your processing dashboard and statements for unfamiliar transactions, refunds you did not issue and changes to account details. Early detection limits the damage. Keep backups of business data in a separate location and test restoring them.",
+    "Finally, write down what you would do in an incident: whom to call, which systems to disconnect and where to find your processor's support line. MCCPS provides free 24/7 technical support, and our guide on responding to a data breach covers the next steps. A free statement analysis also helps you spot unfamiliar fees as part of your regular review.",
+    "Set calendar reminders so none of this depends on memory: a daily device check, a monthly access review that removes former employees, a quarterly software update review and an annual PCI self-assessment. Assign a named person to each task, and keep a simple log. Security fails most often when everyone assumes someone else is checking."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Inspect and inventory every terminal and reader on a schedule.",
+  "Use unique passwords, separate logins and two-step verification.",
+  "Isolate payment devices from guest and office networks.",
+  "Tokenize instead of storing card numbers, and never keep security codes.",
+  "Finish your PCI self-assessment each year and train staff on scams."
+ ],
+ "faq": [
+  {
+   "q": "What is the first thing a small business should do for payment security?",
+   "a": "Inspect every card reader and terminal, change all default passwords and put payment devices on a separate network. These steps are inexpensive and block many common attacks. Then complete your annual PCI self-assessment and train employees to recognize scams. The right answer depends on your volume, ticket size and customer mix."
+  },
+  {
+   "q": "Do I really need to follow PCI standards?",
+   "a": "Yes. Anyone who accepts cards is expected to follow PCI requirements, usually by completing a self-assessment questionnaire each year. Your processor may charge non-compliance fees if you do not. MCCPS can help you complete it. Keep a note of what you decided and why, so the next review starts from facts."
+  },
+  {
+   "q": "Is it okay to write down a customer's card number?",
+   "a": "It is best not to. Paper notes, emails, text messages and spreadsheets are easy to lose or steal. Enter the card directly into your payment system and use tokenization if you need to charge the card again. Never store the security code."
+  },
+  {
+   "q": "How often should I check my card readers?",
+   "a": "Inspect them at the start of each day or shift, looking for loose parts, new cables, stickers or broken seals. Do a deeper inventory check monthly against your serial number list. Report anything unusual to your processor immediately. If you are unsure how this applies to your business, MCCPS support can talk it through at 844.826.6227."
+  },
+  {
+   "q": "What should I do if someone calls claiming to be my processor?",
+   "a": "Do not give out passwords, card data or remote access. Hang up and call your processor back using a number from your contract or statement. Legitimate support teams will understand and can confirm whether they contacted you. Your own statements and records are the best guide, so review them before you decide."
+  }
+ ],
+ "related": [
+  "pci-compliance",
+  "become-pci-compliant",
+  "pci-non-compliance-fee",
+  "tokenization-explained",
+  "encryption-p2pe-explained",
+  "data-breach-response"
+ ],
+ "icon": "shield",
+ "read_minutes": 7
+}

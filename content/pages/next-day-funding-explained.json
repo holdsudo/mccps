@@ -1,0 +1,122 @@
+{
+  "slug": "next-day-funding-explained",
+  "category": "blog",
+  "title": "Next-Day Funding: How Settlement Timing Works",
+  "seo_title": "Next-Day Funding Explained: Settlement Timing | MCCPS",
+  "meta_description": "How next-day funding works: batch cutoffs, weekends and holidays, bank timing and what can delay deposits, with tips to get paid faster and avoid delays.",
+  "primary_keyword": "next-day funding",
+  "keywords": [
+    "next day funding merchant",
+    "batch cutoff time",
+    "settlement timing",
+    "weekend deposits",
+    "faster card deposits",
+    "merchant funding schedule",
+    "deposit delays"
+  ],
+  "eyebrow": "Cash flow",
+  "dek": "Why a card sale takes a day or two to reach your bank account, what the cutoff time really means, and how to line up your closing routine.",
+  "intro": [
+    "You ring up a sale at 4 p.m. Friday and wonder why the money is not in your account Saturday morning. Card payments are not instant, even though the customer's card approves in seconds. Between approval and deposit sits a set of steps, each with its own timing rules.",
+    "Next-day funding means the deposit typically arrives the next business day after your batch closes, rather than in two or three days. It helps cash flow, but it works within the limits of banking schedules, so it is worth knowing exactly how it runs."
+  ],
+  "sections": [
+    {
+      "h2": "Authorization is not funding",
+      "paragraphs": [
+        "When a customer pays, the issuer approves the transaction and places a hold on the cardholder's funds. That approval does not move money to you. The sale sits as an authorized transaction until it is captured and settled.",
+        "Capture means your terminal or gateway submits the transaction for payment. Settlement is the process in which the issuer sends the funds through the network and your processor to your bank. Funding is when the money lands in your account. Each step has a timetable."
+      ]
+    },
+    {
+      "h2": "Batches and cutoff times",
+      "paragraphs": [
+        "Most terminals and POS systems group the day's sales into a batch. You close the batch, either manually or automatically at a set time, and the batch is sent to your processor. Your processor has a cutoff time, often in the evening, after which batches count as the next business day.",
+        "If you close the batch before the cutoff, the transactions are processed that day and funded under your next-day schedule. If you miss the cutoff, they fall to the following day, and the deposit shifts accordingly. Auto-close at a consistent time removes the guesswork and the risk of forgetting.",
+        "A reasonable routine for a retail shop is to close the batch right after the last sale, review the total against the POS report, and glance at the confirmation. For a restaurant that adjusts tips late, closing after all tabs are finalized but before the cutoff protects both tip accuracy and timing. The right moment depends on your hours, so pick one and stick with it."
+      ],
+      "bullets": [
+        "Sales accumulate in an open batch",
+        "Closing sends the batch to the processor",
+        "The processor cutoff decides which business day it counts as",
+        "Funding follows on the next business day under next-day terms"
+      ]
+    },
+    {
+      "h2": "Weekends, holidays and bank rules",
+      "paragraphs": [
+        "Funding relies on banking networks that operate on business days. Weekends and bank holidays generally pause deposits. Sales batched on Friday may fund on Monday, and holiday weekends can push deposits another day. This is a feature of the banking system, not necessarily a processor delay.",
+        "Say you close your batch Thursday at 9 p.m. before the cutoff. Under next-day terms, you might see the deposit Friday. A Friday evening batch would typically fund Monday, and a Saturday or Sunday batch may be grouped with Monday's. Your exact schedule depends on your processor and bank, so confirm it.",
+        "Banks themselves add a final layer. Even after funds are sent, your own bank decides when to post them as available, and some banks hold deposits briefly. If your deposit appears in the account's pending list, it is usually a posting delay. Ask your bank how it treats incoming ACH credits from your processor, because that detail can shift your perceived funding time by a few hours."
+      ]
+    },
+    {
+      "h2": "What can slow a deposit",
+      "paragraphs": [
+        "Several things can add delay beyond the schedule. Batches closed after the cutoff, terminals that fail to transmit, mismatched batch totals, flagged high-ticket transactions, new accounts with a review period, reserves, and your own bank's posting time can all matter. Chargebacks and adjustments may also reduce or net against deposits.",
+        "Terminal problems are an everyday cause. If a terminal loses its connection and holds a batch unsent, nothing funds until it is resolved. Check your closing confirmation each night, which is a quick report or receipt showing the batch totals were accepted."
+      ],
+      "steps": [
+        "Find your processor's batch cutoff time in your agreement or portal.",
+        "Set auto-close for a time safely before the cutoff.",
+        "Print or save the batch closing report each day.",
+        "Compare the batch total to your POS sales total.",
+        "Follow up the same day if a batch shows an error."
+      ]
+    },
+    {
+      "h2": "Next-day versus standard funding",
+      "paragraphs": [
+        "Standard funding schedules can run two or more business days. Next-day funding shortens that, which can matter if you pay suppliers, payroll or rent from card receipts. A hypothetical business that processes $5,000 a day and moves from a two-day schedule to a one-day schedule has roughly one day of sales, about $5,000, less tied up at any time. That is a cash flow benefit, not new revenue.",
+        "Availability and terms depend on your account, risk profile and bank arrangements, and there may be conditions. Ask whether next-day funding applies to all card types and all batches, and whether weekend sales are treated differently.",
+        "Cash flow planning benefits from a simple calendar. Mark when payroll, rent and supplier payments are due, then work backward to see which sales batches fund before each date. If a gap appears, you can adjust payment dates, or discuss options with your provider. For businesses seeking working capital beyond what card funding supplies, MCCPS can refer merchants to Fidelity Funding; MCCPS is not a lender."
+      ]
+    },
+    {
+      "h2": "Getting the most from your schedule",
+      "paragraphs": [
+        "Make closing the batch a routine step, not an afterthought. Reconcile the deposit to your batch each day, noting fees and adjustments. If something does not match, you want to find it while the details are fresh.",
+        "MCCPS can arrange next-day funding on eligible accounts, and its free statement analysis includes a look at how and when you are paid. If you want to understand your deposit timing, the support team is available around the clock. Funding terms depend on your agreement, so confirm the details for your account."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Authorization approves a sale; capture, settlement and funding move the money.",
+    "Closing your batch before the processor cutoff decides the funding day.",
+    "Weekends and bank holidays pause deposits regardless of processor speed.",
+    "Terminal and connection errors are common causes of delays.",
+    "Reconcile each deposit to the daily batch report."
+  ],
+  "faq": [
+    {
+      "q": "What does next-day funding mean?",
+      "a": "It means deposits from your card sales generally arrive the next business day after your batch is closed and accepted before the processor's cutoff time, instead of waiting two or more days."
+    },
+    {
+      "q": "Are weekend sales funded on Sunday?",
+      "a": "Usually not. Banking networks handle deposits on business days, so weekend sales are commonly funded the following Monday or Tuesday depending on batch timing."
+    },
+    {
+      "q": "What if I forget to close my batch?",
+      "a": "Many systems auto-close, but if yours does not, the sales may sit until the batch is closed and transmitted, delaying funding. Set an automatic close time to avoid this."
+    },
+    {
+      "q": "Why is my deposit smaller than my sales total?",
+      "a": "Deposits are typically net of fees, refunds, chargebacks and adjustments, depending on your agreement. Compare the batch report with your statement to see the differences."
+    },
+    {
+      "q": "Is next-day funding available for every account?",
+      "a": "Not always. Availability depends on your processing arrangement, risk profile and bank setup. Ask your provider whether it applies to your account and any conditions."
+    }
+  ],
+  "related": [
+    "next-day-funding",
+    "batch-settlement-explained",
+    "get-paid-faster",
+    "merchant-account-holds-and-reserves",
+    "how-credit-card-processing-works",
+    "how-to-read-a-merchant-statement"
+  ],
+  "icon": "clock",
+  "read_minutes": 6
+}

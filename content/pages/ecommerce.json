@@ -1,0 +1,104 @@
+{
+  "slug": "ecommerce",
+  "category": "industries",
+  "title": "E-commerce Payment Processing",
+  "seo_title": "E-commerce Payment Processing & Gateway | MCCPS",
+  "meta_description": "E-commerce payment processing with a secure gateway, cart plugins, fraud controls and chargeback protection. Request a free statement analysis from MCCPS.",
+  "primary_keyword": "e-commerce payment processing",
+  "keywords": ["online payment gateway", "ecommerce merchant account", "card-not-present fraud", "shopping cart integration", "ecommerce chargebacks", "online store payments", "3-D Secure"],
+  "eyebrow": "Online selling",
+  "dek": "How an online store takes cards safely, keeps fraud and chargebacks in check, and avoids paying more than it should.",
+  "intro": [
+    "Selling online means you never see the card, the customer or the signature. Everything you know about the buyer arrives as a handful of data fields, and your payment setup has to decide in seconds whether to trust them. That is the core challenge of e-commerce payment processing.",
+    "It is also an area where small mistakes get expensive. A weak checkout loses sales, loose fraud rules invite chargebacks, and a mismatched cart plugin can leave orders stuck between your store and your bank. Here is how the moving parts fit together and what to check."
+  ],
+  "sections": [
+    {
+      "h2": "The gateway, the processor and the merchant account",
+      "paragraphs": [
+        "Three pieces work together. The payment gateway is the secure bridge between your website and the card networks; it encrypts the card data the shopper types and passes it along. The processor routes the transaction to the issuing bank and settles funds. The merchant account is the account at an acquiring bank where those funds land before they reach yours.",
+        "Some businesses are used to bundled services where all three are hidden under one signup. A dedicated merchant account with a separate gateway usually gives you more visibility into pricing and more control if something goes wrong. MCCPS supports multiple gateways, so you can choose one that fits your cart rather than being forced into whatever comes bundled."
+      ]
+    },
+    {
+      "h2": "Connecting to your shopping cart",
+      "paragraphs": [
+        "Most hosted carts and open-source storefronts offer plugins or extensions that connect to a gateway. The plugin collects payment details in a secure field or hosted page and sends only a token back to your store. That token approach keeps raw card numbers off your server, which narrows your PCI scope considerably.",
+        "When you choose an integration, consider whether the checkout stays on your site, uses an embedded form, or redirects to a hosted payment page. A hosted page is the simplest from a security view. An embedded form feels more seamless for shoppers. Either way, test the full order flow, including a declined card, a refund and a partial capture, before going live."
+      ],
+      "bullets": [
+        "Confirm the plugin is maintained and compatible with your cart version.",
+        "Make sure orders update automatically when a payment succeeds or fails.",
+        "Check how tax, shipping and discount lines are passed to the gateway.",
+        "Verify that refunds can be issued from your store dashboard."
+      ]
+    },
+    {
+      "h2": "Why card-not-present costs more and fails more",
+      "paragraphs": [
+        "Without a chip or a PIN, card-not-present sales carry more fraud risk, and interchange for them is generally higher than for card-present sales. The liability also shifts: in a card-not-present dispute, you as the merchant usually bear the loss if the cardholder says they did not make the purchase, unless you can prove otherwise.",
+        "Declines are another hidden cost. Typos in the card number, mismatched billing addresses and expired cards all cause good customers to fail checkout. A well-built checkout reduces avoidable declines with clear error messages and address autofill, rather than just showing a generic failure."
+      ]
+    },
+    {
+      "h2": "Layers of fraud defense",
+      "paragraphs": [
+        "No single tool stops fraud, so stores layer them. Address Verification (AVS) compares the billing address the buyer typed against what the issuer has on file. The CVV code confirms the buyer has the physical card details. 3-D Secure adds an issuer authentication step for riskier orders and can shift liability for fraud chargebacks to the issuer on authenticated transactions.",
+        "Velocity checks watch for the same card, IP address or email attempting many orders in a short span. That pattern is typical of card testing, where fraudsters try small purchases to see which stolen numbers work. Sensible rules include limiting attempts per session, requiring CVV on every try, and flagging orders where shipping and billing countries differ for manual review."
+      ],
+      "steps": [
+        "Require CVV and AVS on every card entry.",
+        "Enable 3-D Secure for orders above a threshold you choose.",
+        "Set velocity limits per IP, email and card.",
+        "Hold high-risk orders for manual review before shipping.",
+        "Keep delivery confirmation for any order over a set value."
+      ]
+    },
+    {
+      "h2": "Keeping chargebacks under control",
+      "paragraphs": [
+        "A chargeback happens when a cardholder disputes a transaction with their bank. You can answer with evidence, but each dispute usually brings a fee and takes time. Too many of them can draw scrutiny from the card networks and your processor, so prevention is cheaper than winning cases.",
+        "Prevention starts with a clear billing descriptor, so shoppers recognize the charge on their statement. Post shipping times, return terms and contact details where buyers can see them. Respond quickly to customer complaints, and when a refund is justified, issue it promptly; a refund costs less than a dispute. Keep order records, tracking numbers and communication logs so you have evidence ready if you decide to contest a case."
+      ]
+    },
+    {
+      "h2": "Pricing, payouts and getting started",
+      "paragraphs": [
+        "Online processing often shows a percentage plus a per-transaction fee, and some gateways add a monthly fee or a per-item charge on top. Say your store processes $25,000 a month with a 3.2 percent effective rate; that is $800 in fees, and a small shift in pricing structure moves that number noticeably. Subscription or recurring orders, cross-border cards and high-ticket items can change your rates again.",
+        "MCCPS offers a free, no-obligation savings analysis that reviews two months of your statements line by line, along with next-day funding, a reporting dashboard and 24/7 technical support. Savings depend on what the review finds. If you are curious what a cleaner setup might look like for your store, start there and bring your latest statements."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A gateway, processor and merchant account each play a distinct role in online selling.",
+    "Tokenized, hosted checkout fields keep card numbers off your server.",
+    "Layer AVS, CVV, 3-D Secure and velocity checks rather than relying on one tool.",
+    "Clear descriptors, quick refunds and good records reduce chargebacks.",
+    "Review your statement for per-transaction and monthly fees that add up."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a separate gateway for my online store?",
+      "a": "You need a gateway somewhere in the chain, since it is what securely carries card data from your checkout to the processor. Some setups bundle it, others let you choose. MCCPS works with multiple gateways so you can pick one that integrates with your cart."
+    },
+    {
+      "q": "How can I reduce fraud on my website?",
+      "a": "Use several layers: AVS, CVV, 3-D Secure on risky orders, velocity limits and manual review of unusual orders. Keep delivery records. No single control catches everything, but together they reduce losses and chargebacks."
+    },
+    {
+      "q": "What is PCI scope for an online store?",
+      "a": "It describes how much of your environment touches card data. Using a hosted payment page or tokenized fields keeps raw card numbers off your servers, which usually means a simpler self-assessment questionnaire. MCCPS can help you identify which one applies."
+    },
+    {
+      "q": "Why are online card fees higher than in-person fees?",
+      "a": "Card-not-present transactions carry greater fraud risk, so interchange is typically higher, and gateway or per-transaction fees can add to it. Reviewing your statement shows what portion is interchange and what is markup."
+    },
+    {
+      "q": "Can I add a surcharge to online orders?",
+      "a": "Possibly, but surcharging and similar programs depend on state law and card network rules, and they require proper disclosure at checkout. Confirm current requirements with your advisor before adding any fee to online orders."
+    }
+  ],
+  "related": ["payment-gateway", "ecommerce-integrations", "fraud-prevention", "chargeback-management", "3d-secure-explained", "ecommerce-checkout-optimization"],
+  "icon": "cart",
+  "read_minutes": 6
+}

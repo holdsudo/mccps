@@ -1,0 +1,121 @@
+{
+  "slug": "emv-chip-processing",
+  "category": "solutions",
+  "title": "EMV Chip Card Processing",
+  "seo_title": "EMV Chip Card Processing & Liability Shift | MCCPS",
+  "meta_description": "Understand EMV chip card processing, the liability shift, and how chip, PIN and contactless readers protect your business from counterfeit card fraud.",
+  "primary_keyword": "EMV chip card processing",
+  "keywords": [
+    "EMV chip reader",
+    "EMV liability shift",
+    "chip and PIN",
+    "chip card terminal",
+    "counterfeit card fraud",
+    "EMV compliance",
+    "chip and signature"
+  ],
+  "eyebrow": "Card-present security",
+  "dek": "The chip in a card changes who pays when counterfeit fraud happens, which is why chip-capable equipment is more than a courtesy to customers.",
+  "intro": [
+    "For decades, a card's magnetic stripe carried the same static data every time it was swiped. Copy it once and a criminal could print a counterfeit card that worked anywhere. EMV chips were created to end that, and the card networks backed the change with a financial nudge aimed at merchants.",
+    "If you accept cards in person, EMV affects your equipment, your liability and your daily habits at the counter. This page explains how chip processing works and what to check in your own setup."
+  ],
+  "sections": [
+    {
+      "h2": "What the chip actually does",
+      "paragraphs": [
+        "EMV stands for Europay, Mastercard and Visa, the companies that developed the standard. The chip is a tiny computer. When a card is inserted into a reader, the chip and terminal exchange messages, and the chip produces a unique cryptogram for that transaction. A copied cryptogram is useless for any other purchase.",
+        "That is the reason counterfeit fraud drops where chip cards are used properly. A criminal who copies the stripe data cannot reproduce the chip's secret, so cloned cards fail at chip-enabled terminals or are pushed down to less secure fallback methods."
+      ]
+    },
+    {
+      "h2": "The liability shift in plain English",
+      "paragraphs": [
+        "Under card network rules, when a counterfeit card is used in a face-to-face transaction, liability generally falls on whichever party has the weaker technology. If the card has a chip and the merchant has no chip reader, the merchant can be held responsible for the loss. If both are chip-capable, the loss typically goes back to the issuer.",
+        "Say a counterfeit card is used for a $900 purchase at a shop with only a stripe reader. A chargeback for counterfeit fraud could land on the merchant for the full amount, plus a dispute fee. With a chip reader, the same fraud would not usually come back to you. Rules are specific to each network and fraud type, so confirm details with your processor.",
+        "Rules differ by network, by card type and by kind of fraud, and they have changed over time, so treat this as a general picture. The practical lesson is simple: equipment that reads chips keeps counterfeit losses off your books in most cases, and a terminal that cannot is an exposure you are choosing to carry."
+      ]
+    },
+    {
+      "h2": "Chip and PIN, chip and signature, and contactless",
+      "paragraphs": [
+        "Chip cards can verify the cardholder in different ways. Chip and PIN requires the customer to type a code, which is the strongest option. Chip and signature relies on a signature or, increasingly, no verification for lower amounts. No-CVM options are common for small purchases.",
+        "Contactless uses the same chip but communicates by radio instead of contact. The experience is faster, and the security model is similar: a unique code per transaction. Most modern terminals support all three modes in one device."
+      ],
+      "bullets": [
+        "Insert the chip and enter a PIN for debit or PIN-preferring cards",
+        "Insert and sign, or confirm without signature, where permitted",
+        "Tap a card or device for contactless payment",
+        "Swipe only as a fallback when the chip fails"
+      ]
+    },
+    {
+      "h2": "Day-to-day habits at the counter",
+      "paragraphs": [
+        "Train staff to keep the card in the reader until the terminal tells them to remove it. Pulling a card early is the most common reason for read errors and declined chip transactions. Customers often do it out of habit from swiping, so a visible sign helps.",
+        "Define a policy for fallback swipes. If a chip fails and the terminal offers a swipe, it may be acceptable, but you may carry more liability for those transactions. Try cleaning the reader and re-inserting the card first, and ask for another payment method if the card is damaged.",
+        "Signage helps customers too. A small sticker reading 'insert chip, leave card in until prompted' reduces repeat attempts and keeps the line moving. Remember that some customers still reach for the stripe out of habit, so staff should gently redirect rather than comply with a swipe that the terminal could have read as a chip."
+      ]
+    },
+    {
+      "h2": "Equipment checks",
+      "paragraphs": [
+        "Confirm that your terminal reads chip cards, accepts contactless and supports PIN entry. Check that software is up to date, because older firmware may not meet current requirements. Make sure your POS passes chip data correctly, since misconfigured integrations can force transactions to be treated as keyed.",
+        "Many existing terminals can be reprogrammed for a new processor, and MCCPS often keeps re-programmable terminals merchants already own. If a model predates chip technology, replacement is likely worth the cost.",
+        "Test every terminal after any software update or move. Insert a chip card, tap a card and a phone, and run a PIN debit sale, then refund the test. A five-minute check beats discovering a dead contactless antenna with a line of customers waiting. Keep a log of which terminal is where, since a unit that fails often is a candidate for replacement."
+      ]
+    },
+    {
+      "h2": "What EMV does not cover",
+      "paragraphs": [
+        "EMV protects card-present transactions. It does nothing for online, phone and mail orders, where fraud often shifts after chip adoption. If you sell in both settings, you need separate controls for card-not-present sales, such as AVS, CVV, 3-D Secure and velocity limits.",
+        "Chip also does not remove the need for PCI compliance. Encryption of card data and secure handling remain part of your responsibility."
+      ]
+    },
+    {
+      "h2": "Getting chip-ready with MCCPS",
+      "paragraphs": [
+        "MCCPS supports EMV and contactless acceptance and integrates with almost any POS, smartphone or terminal. A specialist can review your current equipment, tell you what can be reprogrammed and recommend replacements only where they make sense. Free 24/7 technical support covers setup questions.",
+        "To see how your current processing compares, request the free statement analysis. Savings depend on that review, and no result is promised in advance."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Chip cards create unique cryptograms, making cloned cards far less useful.",
+    "The liability shift can make merchants without chip readers responsible for counterfeit fraud.",
+    "EMV protects card-present sales only; online sales need other controls.",
+    "Keep the card in the reader until the terminal says to remove it."
+  ],
+  "faq": [
+    {
+      "q": "What happens if I do not have a chip reader?",
+      "a": "You can still swipe, but for counterfeit fraud involving chip cards, liability can shift to you under card network rules. A chip-capable terminal helps protect you. Confirm specifics for your situation with your processor."
+    },
+    {
+      "q": "Is chip and PIN required?",
+      "a": "Not universally. Many chip transactions use signature or no verification for small amounts. PIN is required for some debit cards and is the strongest method. Your terminal should support all options."
+    },
+    {
+      "q": "Why did the chip fail to read?",
+      "a": "Common causes are a dirty reader, a damaged chip, pulling the card too early or outdated terminal software. Try cleaning, re-inserting and updating. Ask for another card if the problem persists."
+    },
+    {
+      "q": "Does EMV stop online fraud?",
+      "a": "No. EMV applies to in-person transactions. Online and phone sales need AVS, CVV, 3-D Secure and monitoring. Fraud can shift to those channels, so cover both."
+    },
+    {
+      "q": "Can my old terminal be upgraded?",
+      "a": "Sometimes. Many models can be updated or reprogrammed, while very old ones cannot read chips. MCCPS can check your make and model during the free analysis."
+    }
+  ],
+  "related": [
+    "emv-liability-shift",
+    "upgrade-to-emv-and-contactless",
+    "credit-card-terminals",
+    "tap-to-pay",
+    "fraud-prevention",
+    "contactless-payments-guide"
+  ],
+  "icon": "card",
+  "read_minutes": 6
+}

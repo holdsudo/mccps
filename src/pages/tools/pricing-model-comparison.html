@@ -1,0 +1,41 @@
+<!--{"title":"Flat Rate vs Tiered vs Interchange-Plus Calculator | MCCPS","desc":"Compare credit card processing pricing models on your own volume and ticket size. See flat-rate, tiered and interchange-plus costs side by side with editable assumptions.","nav":"tools","scripts":["tools.js"]}-->
+<section class="page-hero" style="padding-bottom:clamp(48px,7vw,80px)">
+  <div class="hero__bg" aria-hidden="true"><div class="aurora"><i></i><i></i><i></i><i></i></div><div class="hero__grid"></div></div>
+  <div class="container"><nav class="crumbs fade-up" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/tools/">Tools</a><span>/</span><span>Pricing model comparison</span></nav>
+  <h1 class="h1 fade-up d1">Flat vs. tiered vs. interchange-plus</h1><p class="lead fade-up d2">Same volume, three pricing models. Adjust any assumption to match a quote you’ve received and see which one actually costs less.</p></div>
+</section>
+<section class="section section--tight"><div class="container">
+<div class="tool-wrap" id="pricing">
+  <div class="tool-panel">
+    <h2>Your business</h2>
+    <div class="grid-2">
+      <div class="field"><label for="m-vol">Monthly card volume ($)</label><input class="input" id="m-vol" type="number" value="40000" min="0"></div>
+      <div class="field"><label for="m-ticket">Average sale ($)</label><input class="input" id="m-ticket" type="number" value="45" min="1"></div>
+    </div>
+    <div class="fstep__group"><h3>Flat rate (example assumptions)</h3><div class="grid-2">
+      <div class="field"><label for="m-flat-pct">Rate (%)</label><input class="input" id="m-flat-pct" type="number" step="0.01" value="2.9"></div>
+      <div class="field"><label for="m-flat-fee">Per transaction ($)</label><input class="input" id="m-flat-fee" type="number" step="0.01" value="0.30"></div></div></div>
+    <div class="fstep__group"><h3>Tiered (example assumptions)</h3><div class="grid-3">
+      <div class="field"><label for="m-t1">Qualified %</label><input class="input" id="m-t1" type="number" step="0.01" value="1.79"></div>
+      <div class="field"><label for="m-t2">Mid-qual %</label><input class="input" id="m-t2" type="number" step="0.01" value="2.49"></div>
+      <div class="field"><label for="m-t3">Non-qual %</label><input class="input" id="m-t3" type="number" step="0.01" value="3.49"></div>
+      <div class="field"><label for="m-qual">Share qualified %</label><input class="input" id="m-qual" type="number" value="50"></div>
+      <div class="field"><label for="m-mid">Share mid-qual %</label><input class="input" id="m-mid" type="number" value="25"></div>
+      <div class="field"><label>Share non-qual</label><div class="input" style="display:flex;align-items:center" id="pm-nq">25%</div></div>
+      <div class="field"><label for="m-t-fee">Per transaction ($)</label><input class="input" id="m-t-fee" type="number" step="0.01" value="0.20"></div></div></div>
+    <div class="fstep__group"><h3>Interchange-plus (example assumptions)</h3><div class="grid-2">
+      <div class="field"><label for="m-ic">Avg. interchange + assessments (%)</label><input class="input" id="m-ic" type="number" step="0.01" value="1.85"></div>
+      <div class="field"><label for="m-ic-fee">Interchange per-item ($)</label><input class="input" id="m-ic-fee" type="number" step="0.01" value="0.10"></div>
+      <div class="field"><label for="m-mk">Processor markup (%)</label><input class="input" id="m-mk" type="number" step="0.01" value="0.30"></div>
+      <div class="field"><label for="m-mk-fee">Markup per transaction ($)</label><input class="input" id="m-mk-fee" type="number" step="0.01" value="0.10"></div></div></div>
+  </div>
+  <div class="tool-out" aria-live="polite" style="background:var(--card);color:var(--ink);border:1px solid var(--line)">
+    <div class="lbl" style="color:var(--muted)">Monthly cost by pricing model</div>
+    <div id="pm-out" style="margin-top:10px"></div>
+    <a class="btn btn--primary btn--lg" href="/free-analysis/" style="width:100%;margin-top:22px">Compare against my real statement {{i:arrow}}</a>
+    <p class="muted" style="font-size:12.5px;margin-top:12px;line-height:1.5">All default figures are example assumptions for illustration — not MCCPS rates or any processor’s actual pricing. Real interchange varies by card type, how the card is accepted and your industry.</p>
+  </div>
+</div>
+<div class="prose" style="margin:72px auto 0"><h2>Why the model matters</h2><p><strong>Flat-rate</strong> pricing is simple but bundles everything into one number. <strong>Tiered</strong> pricing sorts transactions into buckets the processor defines — the more that land in “non-qualified”, the more you pay. <strong>Interchange-plus</strong> passes card-network costs through at cost and shows the processor’s markup separately, which makes it the easiest to audit. Read more in <a href="/blog/flat-rate-vs-interchange-plus/">flat-rate vs. interchange-plus</a> and <a href="/blog/tiered-pricing-explained/">tiered pricing explained</a>.</p></div>
+</div></section>
+{{cta-band}}

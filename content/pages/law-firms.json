@@ -1,0 +1,124 @@
+{
+  "slug": "law-firms",
+  "category": "industries",
+  "title": "Law Firm Payment Processing",
+  "seo_title": "Law Firm Payment Processing | MCCPS",
+  "meta_description": "Law firm payment processing for retainers, invoices and card payments, with trust account considerations to review with your bar. Free fee review from MCCPS.",
+  "primary_keyword": "law firm payment processing",
+  "keywords": [
+    "attorney credit card processing",
+    "legal retainer payments",
+    "IOLTA considerations",
+    "trust account card payments",
+    "law firm invoices",
+    "legal billing payment links",
+    "lawyer merchant account"
+  ],
+  "eyebrow": "Legal payments",
+  "dek": "Retainers, trust accounts and client invoices: how law firms can accept cards while respecting the rules that govern client funds.",
+  "intro": [
+    "Lawyers deal with a payment question that most businesses never face: not every dollar a client sends belongs to the firm. A retainer may be client money held until earned, and mixing it with operating funds can raise serious professional-responsibility problems. That makes payment processing for a law firm more delicate than ringing up a sale.",
+    "This page is general information, not legal or ethics advice. Rules governing trust accounts, fee agreements and client funds are set by each state's bar and court system, so always consult your bar association or ethics counsel. What follows explains the mechanics so that you can ask better questions."
+  ],
+  "sections": [
+    {
+      "h2": "Why client funds need separate handling",
+      "paragraphs": [
+        "Bar rules in most jurisdictions require that unearned fees and client funds be kept in a designated trust account, often an IOLTA account, separate from the firm's operating money. Earned fees move to the operating account. If a card payment for an unearned retainer lands in the operating account by default, the firm may have a problem even if everything was refunded later.",
+        "Card processing makes this more complex because payments settle into a single deposit account unless the processor is set up to route them. Some firms arrange for card payments for unearned funds to settle to the trust account, while others accept cards only for earned fees. Bar guidance on this varies, and some bars have issued specific opinions on accepting credit cards and handling processing fees and chargebacks. Check with your bar before choosing a structure."
+      ],
+      "bullets": [
+        "Ask your bar whether card payments may be deposited to a trust account.",
+        "Confirm how processing fees may be charged, since trust funds typically cannot absorb them.",
+        "Document how each payment is classified as earned or unearned.",
+        "Keep reconciliation records for each client ledger."
+      ]
+    },
+    {
+      "h2": "Retainers, flat fees and earned fees",
+      "paragraphs": [
+        "How you classify a payment depends on your fee agreement. An advance retainer that you bill against hourly is generally unearned until you do the work, while a true flat fee may be earned on receipt in some jurisdictions, though rules differ. The agreement should state clearly which applies.",
+        "Where recurring retainers are used, the client should authorize the stored payment method in writing and understand when charges occur. Provide an invoice or statement showing how the retainer is applied. Consult your bar or ethics counsel on how to word these agreements and how to handle refunds of unearned amounts."
+      ]
+    },
+    {
+      "h2": "Chargebacks and fee disputes",
+      "paragraphs": [
+        "A chargeback creates a particular concern for a firm: a client disputing a card payment can force funds out of an account, and if that account is a trust account, the shortfall could affect other clients' money. Some firms therefore take larger payments by ACH or check, and use cards for smaller invoices.",
+        "Strong documentation reduces disputes. Use clear fee agreements, send regular statements, and respond promptly to a client who questions a charge. Many bars also offer fee dispute arbitration programs. If a payment is truly disputed, ask your ethics counsel how to respond, as confidentiality duties can limit the information you may supply to a bank when contesting a chargeback."
+      ],
+      "steps": [
+        "Use a signed fee agreement that explains billing and refunds.",
+        "Send regular, itemized statements.",
+        "Respond to client questions about charges promptly.",
+        "Consult ethics counsel before submitting any client information to a card dispute.",
+        "Refund unearned amounts promptly when required."
+      ]
+    },
+    {
+      "h2": "Making it easy for clients to pay",
+      "paragraphs": [
+        "Clients are often stressed and may be paying a significant sum. A secure payment link on the invoice lets them pay by card or bank transfer without calling the office. For phone payments, use a virtual terminal rather than writing the card number down, and keep card data out of case files.",
+        "Payment receipts should not reveal the nature of the matter. A generic description such as legal services protects confidentiality. MCCPS offers PCI compliance help, and the payment tools can be configured so that descriptions stay generic."
+      ]
+    },
+    {
+      "h2": "Cost considerations",
+      "paragraphs": [
+        "Say a firm processes $60,000 a month on cards at a 2.8 percent effective rate, or $1,680 in fees. Fee agreements and bar rules can limit whether and how you pass processing costs to clients, and trust funds are generally not available to pay them. Some firms add a card fee on top of invoices, and that practice is subject to both bar rules and card network rules.",
+        "Surcharging, cash discount and dual pricing rules vary by state and card network, require disclosure, and professional rules may add more limits. Confirm current requirements with your bar before adding any fee. MCCPS offers a free statement analysis that reviews two months of statements line by line; savings depend on what is found."
+      ]
+    },
+    {
+      "h2": "Documentation habits that protect the firm",
+      "paragraphs": [
+        "Good records are the best protection a firm has when anything about a payment is questioned. Keep each signed fee agreement with the client file, record when each payment was received and how it was classified and reconcile client ledgers on a regular schedule. Keep card terminal reports and processing statements with your accounting records. When staff change roles, make sure the person handling payments understands the trust accounting rules that apply. Many bars offer practice management resources and ethics hotlines for exactly these questions, and using them early is far less costly than correcting a problem discovered during an audit."
+      ]
+    },
+    {
+      "h2": "Next steps",
+      "paragraphs": [
+        "Before changing anything, talk to your bar's ethics hotline or counsel about the trust account question. Once the structure is settled, the technical side is straightforward: payment links, a virtual terminal, recurring authorization for retainers and clear reporting. MCCPS offers next-day funding, a reporting dashboard and free 24/7 support, and can often work with software you already use for billing."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Unearned fees and client funds may need to go to a trust account; ask your bar.",
+    "Card settlement structure matters for trust accounting and chargeback exposure.",
+    "Use clear fee agreements and regular statements to reduce disputes.",
+    "Keep receipts generic to protect client confidentiality.",
+    "Rules on passing card fees vary; confirm with your bar and card network rules."
+  ],
+  "faq": [
+    {
+      "q": "Can a law firm accept credit cards for retainers?",
+      "a": "Many firms do, but trust account rules vary by state. Ask your bar or ethics counsel whether card payments for unearned funds may settle to a trust account and how fees may be handled."
+    },
+    {
+      "q": "What is an IOLTA account?",
+      "a": "It is a pooled trust account used by lawyers for small or short-term client funds, with interest typically directed to legal aid programs under state rules. Specific requirements vary, so consult your bar association."
+    },
+    {
+      "q": "What happens if a client files a chargeback on a retainer?",
+      "a": "The card network can pull funds back from your account while the dispute is reviewed. If the funds came from or settled to a trust account, the situation needs careful handling. Ask ethics counsel before responding."
+    },
+    {
+      "q": "Should receipts describe the legal matter?",
+      "a": "Generally no. A generic description protects confidentiality. Confirm your approach with your bar guidance and compliance counsel."
+    },
+    {
+      "q": "Can a law firm add a surcharge to card payments?",
+      "a": "Possibly, but surcharging depends on state law, card network rules and professional conduct rules, and it requires disclosure. Check with your bar and confirm current requirements before adding any fee."
+    }
+  ],
+  "related": [
+    "professional-services",
+    "accounting-firms",
+    "invoicing-and-payment-links",
+    "surcharging-programs",
+    "reduce-chargebacks",
+    "recurring-billing"
+  ],
+  "icon": "scale",
+  "read_minutes": 6
+}

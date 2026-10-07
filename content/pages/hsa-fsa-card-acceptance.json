@@ -1,0 +1,119 @@
+{
+ "slug": "hsa-fsa-card-acceptance",
+ "category": "blog",
+ "title": "Accepting HSA and FSA Cards",
+ "seo_title": "Accepting HSA and FSA Cards: IIAS Basics | MCCPS",
+ "meta_description": "Learn how HSA and FSA card acceptance works, what IIAS item-level verification means, and how to set up your terminal and POS to take these cards correctly.",
+ "primary_keyword": "HSA FSA card acceptance",
+ "keywords": [
+  "accept HSA cards",
+  "accept FSA cards",
+  "IIAS",
+  "eligible expense verification",
+  "SIGIS",
+  "healthcare spending card processing",
+  "FSA debit card merchant"
+ ],
+ "eyebrow": "Card basics",
+ "dek": "What HSA and FSA cards are, why item-level verification exists, and what a merchant needs in place before a customer taps one at your counter.",
+ "intro": [
+  "A customer hands you a card that looks like any other debit card, but the back says it is for a health savings or flexible spending account. They are buying a mix of items: a thermometer, a bag of candy and a phone charger. Some of that is eligible for tax-advantaged health dollars and some of it is not. If your terminal approves the whole basket without checking, you have just helped the customer spend pre-tax money on something the plan does not allow.",
+  "That is the problem the card networks and the health-spending industry set out to solve, and the solution is called item-level verification. It affects how your point of sale tags products, how your terminal talks to your processor, and what happens when a customer tries to pay with one of these cards for something that does not qualify. Merchants who sell health-adjacent goods, such as pharmacies, convenience stores, groceries, optical shops and general retailers with a wellness aisle, run into it most.",
+  "This guide explains the mechanics in plain terms so you can ask the right questions of your processor, set up your register correctly and avoid the headaches that come from treating an HSA or FSA card like an ordinary debit card."
+ ],
+ "sections": [
+  {
+   "h2": "HSA versus FSA: what the card actually is",
+   "paragraphs": [
+    "A health savings account (HSA) and a flexible spending account (FSA) are both ways for people to set aside pre-tax money for qualified medical expenses. The plan administrator usually issues a debit card branded with a major network so the money can be spent without paperwork at the point of sale. To your terminal, it is a signature or PIN debit transaction, much like any other, and it settles through the same network rails.",
+    "The difference that matters to you is the rulebook behind it. Plan holders are only supposed to use the funds for eligible expenses, and the IRS expects substantiation that they did. Since a card swipe alone does not tell anyone what was in the basket, the industry built a system to supply that detail automatically. Specific eligibility rules are set by the plan and tax authorities, so merchants should not guess; the point-of-sale software and your processor handle the lookup."
+   ]
+  },
+  {
+   "h2": "What IIAS means for your register",
+   "paragraphs": [
+    "IIAS stands for Inventory Information Approval System. In practice it is a certified item list, maintained by an industry body, that identifies which products count as eligible health expenses. A merchant who wants to accept these cards at a store that sells mixed goods must flag each product in the POS as eligible or not, using the item list or the system vendor's built-in mapping.",
+    "When the customer pays, the POS sends the eligible subtotal along with the transaction. The card's account then approves only up to that eligible amount. If the total is higher, the remainder has to be paid another way, such as a second card or cash. The practical result is a split tender at the register, and your cashiers need to know how to handle it calmly."
+   ],
+   "bullets": [
+    "Every SKU in your system needs an eligible or ineligible flag.",
+    "The terminal or POS must transmit the eligible amount, not just the total.",
+    "Your processor must support these cards on your merchant account.",
+    "Staff should be trained on split payments and polite explanations."
+   ]
+  },
+  {
+   "h2": "Who is required to use it, and who is not",
+   "paragraphs": [
+    "Requirements differ by type of business. Merchants that sell only qualified medical goods or services, such as a dental office or a licensed practitioner, generally do not need item-level matching because everything they sell is eligible by nature. Stores that sell a mixture, the classic pharmacy, grocery and convenience setting, are the ones expected to run the item-level check.",
+    "Rules on this evolve and depend on the card program, the network and the plan administrator. Treat what you read in any general article, including this one, as orientation and confirm your obligations with your processor and, for tax questions, with your accountant."
+   ]
+  },
+  {
+   "h2": "Setting up your terminal and POS",
+   "paragraphs": [
+    "Setup begins with your processor. Ask whether your merchant account is enabled for health-spending cards and whether your terminal, gateway or POS software is certified for item-level data. Many stand-alone terminals cannot do it; an integrated POS usually can. At MCCPS, the free statement analysis is a good moment to raise this, because we review how you currently accept cards and can tell you whether your existing hardware is up to it or can be re-programmed."
+   ],
+   "steps": [
+    "Confirm the merchant account is enabled for health-spending cards.",
+    "Verify your POS or terminal supports item-level eligibility data.",
+    "Map your inventory so each product is flagged eligible or not.",
+    "Test with a small mixed basket and confirm the split behaves correctly.",
+    "Train every cashier on what to say when a card is partly declined."
+   ]
+  },
+  {
+   "h2": "Declines, split tenders and customer conversations",
+   "paragraphs": [
+    "The most common point of friction is a partial approval. The customer tries to pay a forty-dollar basket but only twenty dollars is eligible. Your system should clearly show the approved amount and prompt for the balance. Without that prompt, cashiers improvise and lines back up.",
+    "A decline is not necessarily an error on your side. Cards can be out of funds, expired for a plan year, or set up with spending limits. Keep your tone neutral and direct customers to the number on the back of the card for account questions. Never try to override the system by ringing an ineligible item as an eligible one; that creates real problems for the cardholder and potentially for your account."
+   ]
+  },
+  {
+   "h2": "Records, receipts and chargebacks",
+   "paragraphs": [
+    "Plan holders often need a receipt to substantiate their purchases later, so itemized receipts help you and them. Keep your item-flag mapping documented and reasonably current. If a product is added, a new vendor line appears or a supplier changes packaging, the eligibility flag may need updating.",
+    "As with any card transaction, you retain normal chargeback rights and exposure. Keep signed or electronically captured records, and respond to disputes on time. If you want a second set of eyes on how these cards appear on your statement, call 844.826.6227 and ask for the free no-obligation analysis."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "HSA and FSA cards run on normal network rails but carry eligibility rules.",
+  "Merchants with mixed inventory generally need item-level product flagging.",
+  "Your processor, terminal and POS all have to support the data.",
+  "Expect split tenders and train staff for them.",
+  "Confirm your specific obligations with your processor and tax professional."
+ ],
+ "faq": [
+  {
+   "q": "Do I need a special merchant account to accept HSA cards?",
+   "a": "Usually not a separate account, but your existing account has to be enabled for these cards, and your terminal or POS must support the required data if you sell mixed goods. Ask your processor to confirm the exact setup rather than assuming it is already active."
+  },
+  {
+   "q": "What happens if only part of a purchase is eligible?",
+   "a": "The card approves only the eligible subtotal your POS transmits. The customer then pays the remainder with another tender. Your register should show the approved amount and prompt for the balance so cashiers are not improvising at the counter."
+  },
+  {
+   "q": "Can a small shop with a basic countertop terminal accept them?",
+   "a": "Basic terminals often cannot send item-level data, so they may be limited to businesses that sell only eligible goods. Mixed-goods stores generally need an integrated POS. Some existing terminals can be re-programmed, so have the model reviewed before replacing anything."
+  },
+  {
+   "q": "Are there extra fees for HSA or FSA transactions?",
+   "a": "They are generally priced like other debit transactions on your plan, but your pricing model matters. Review your statement to see how debit is billed, and ask your processor whether any certification or per-item charges apply to your setup."
+  },
+  {
+   "q": "Where do I find out which products are eligible?",
+   "a": "Eligibility is defined by the item list maintained by the industry body and by plan and tax rules. Your POS vendor or processor usually supplies a mapping, and your accountant can answer tax-specific questions. Do not guess based on how a product is marketed."
+  }
+ ],
+ "related": [
+  "ebt-snap-acceptance",
+  "pharmacies",
+  "pos-systems",
+  "level-2-3-data-explained",
+  "card-present-vs-card-not-present",
+  "debit-vs-credit-processing-costs"
+ ],
+ "icon": "heart",
+ "read_minutes": 6
+}

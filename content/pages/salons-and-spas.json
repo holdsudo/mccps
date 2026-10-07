@@ -1,0 +1,125 @@
+{
+  "slug": "salons-and-spas",
+  "category": "industries",
+  "title": "Salon & Spa Payment Processing",
+  "seo_title": "Salon & Spa Payment Processing | MCCPS",
+  "meta_description": "Salon and spa payment processing for appointments, deposits, no-show fees, tips and retail sales. Learn how it works and request a free statement analysis.",
+  "primary_keyword": "salon payment processing",
+  "keywords": [
+    "spa credit card processing",
+    "salon no-show fee",
+    "salon POS tips",
+    "card on file salon",
+    "appointment deposits",
+    "salon retail sales",
+    "spa merchant account"
+  ],
+  "eyebrow": "Industry payments",
+  "dek": "Appointments, deposits, tips and the shampoo on the shelf: a payment setup that fits how salons and spas actually earn.",
+  "intro": [
+    "A salon sells time. When a client does not show up for a 90-minute color appointment, that chair earns nothing, and no amount of apology fills the gap. At the same time, the stylist expects a tip that arrives correctly, the front desk wants a fast checkout and the retail shelf needs ringing up in the same transaction.",
+    "Salon and spa payment processing is mostly about three things: protecting your schedule with deposits and cards on file, handling tips and splits fairly, and keeping the cost of all those card transactions in a range your margins can bear."
+  ],
+  "sections": [
+    {
+      "h2": "Deposits and card on file for appointments",
+      "paragraphs": [
+        "A deposit takes a portion of the service price at booking, which commits the client and gives you something if they cancel late. A card-on-file approach stores a securely tokenized version of the client's card so you can charge a no-show or late-cancel fee according to your written policy. The token replaces the card number, so your system never keeps the real digits.",
+        "The key is consent. Make your cancellation policy visible during booking, ask the client to agree to it, and keep a record of the agreement. A fee charged without clear prior agreement is the classic route to a chargeback. Keep the policy reasonable and consistent so staff are not deciding case by case."
+      ],
+      "bullets": [
+        "Show the cancellation window and fee at booking and in the reminder.",
+        "Record the client's agreement along with the date and time.",
+        "Use tokenized card-on-file storage rather than writing numbers down.",
+        "Send a receipt for any no-show fee with a reference to the policy."
+      ]
+    },
+    {
+      "h2": "Tips, splits and commission",
+      "paragraphs": [
+        "Tipping at a salon is personal and often goes to a specific stylist, assistant or shampoo person. A checkout flow that lets the client divide a tip among several staff avoids awkward envelopes. Tip prompts at the terminal should be easy to skip or change.",
+        "Commission and booth rent complicate things further. Whether stylists are employees paid commission or independent renters, your POS should track service totals by provider. Card tips are paid out of deposits, so cash flow matters; next-day funding is available through MCCPS and shortens the gap. Check with your accountant on how tips and commissions are reported."
+      ]
+    },
+    {
+      "h2": "Selling retail products at checkout",
+      "paragraphs": [
+        "Retail product sales are a high-margin add-on. Your POS should let a stylist add a bottle of shampoo to the same ticket as the haircut, with the retail portion tracked in inventory. A single card payment covers both, which is cheaper in per-transaction fees than two separate charges.",
+        "Because product sales tie into stock counts, an integrated system that deducts each sale from inventory prevents the frustration of promising a product that is no longer on the shelf. MCCPS can integrate with most POS systems, so many salons do not need to replace their booking software to get cleaner payments."
+      ]
+    },
+    {
+      "h2": "Gift cards, packages and memberships",
+      "paragraphs": [
+        "Gift cards are a salon staple, especially around holidays. Prepaid service packages and memberships are another way to smooth revenue, such as a monthly facial plan billed to a card on file. Recurring billing needs the client's clear authorization and an easy way to cancel, and failed payments should trigger a friendly follow-up rather than a surprise.",
+        "Gift card and package rules, including expiration and unused balances, vary by state, so confirm requirements with your advisor before you print a card. Track the liability on your books too, since a sold gift card is not revenue until it is redeemed, a point to discuss with your accountant."
+      ]
+    },
+    {
+      "h2": "Making checkout feel calm",
+      "paragraphs": [
+        "A spa's selling point is calm, and a clunky payment moment spoils it. A wireless handheld or a tablet at the chair allows checkout in the treatment room. Contactless acceptance keeps things quick, and email or text receipts avoid paper at the desk.",
+        "Reliability counts more than gadgets. Have a backup way to take a payment if the internet goes down, whether a cellular reader or a second terminal. Know who to call. MCCPS provides free 24/7 technical support and personal customer service, so a stuck terminal on a Saturday does not end the day."
+      ],
+      "steps": [
+        "Pull up the appointment and confirm the services performed.",
+        "Add any retail products to the ticket.",
+        "Present the total and tip prompt on the device.",
+        "Split the tip among providers if needed.",
+        "Send a receipt by email or text and offer the next booking."
+      ]
+    },
+    {
+      "h2": "Seasonal rushes and bridal parties",
+      "paragraphs": [
+        "Salons and spas see predictable surges, such as prom season, wedding weekends and the week before the holidays. A bridal party may book six services at once and want a single payment, a deposit months ahead and a final balance on the day. Plan for these by taking a deposit with a written agreement, charging the balance to the card on file or at the chair and splitting tips among several providers. Gift card sales also spike in December, so make sure your system tracks balances reliably. Test your terminals before the busy season, because the worst time to discover a failing reader is when six people are waiting in robes."
+      ]
+    },
+    {
+      "h2": "Reviewing what you pay",
+      "paragraphs": [
+        "Say your salon processes $45,000 a month on cards at an effective rate of 3.1 percent. That is $1,395 in fees. A deposit-heavy business also sees more small transactions, so per-item charges and any monthly minimums deserve a close read. Card-on-file charges are card-not-present, which can price differently than a tap in the chair.",
+        "Some salons use a cash discount or dual pricing arrangement, and MCCPS offers the Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network and require signage and disclosure, so confirm them first. The simplest next step is a free, no-obligation statement analysis, where MCCPS reviews two months of statements line by line. Savings depend on what is found."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Deposits and cards on file protect your schedule when policies are clearly agreed to.",
+    "Split tips at checkout to avoid envelopes and disputes.",
+    "Put retail products on the same ticket as services to save per-item fees.",
+    "Recurring memberships need clear authorization and an easy cancel path.",
+    "Review fees by channel: in-chair taps and card-on-file charges price differently."
+  ],
+  "faq": [
+    {
+      "q": "Can a salon charge a no-show fee?",
+      "a": "Many do, using a card on file and a written cancellation policy that the client agrees to when booking. Keep a record of the agreement and make the policy easy to find. Local consumer rules can apply, so check with your advisor."
+    },
+    {
+      "q": "How should salons handle tips for several staff members?",
+      "a": "Use a checkout flow that lets the client split a tip among providers, and record who receives what. Confirm reporting and payroll treatment with your accountant, especially if you have both employees and booth renters."
+    },
+    {
+      "q": "Is it safe to store a client's card?",
+      "a": "It is when the card is tokenized by a PCI-compliant system, so you never see or keep the actual number. Avoid writing card numbers in notes or spreadsheets. MCCPS offers PCI compliance help."
+    },
+    {
+      "q": "What if a client disputes a late-cancel fee?",
+      "a": "Your best evidence is the signed or recorded agreement to your policy, the booking record and the reminder messages. Keep them organized. A clear, consistently applied policy lowers the odds of a successful dispute."
+    },
+    {
+      "q": "Can I add a card fee at a salon?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require proper disclosure and signage. Confirm current requirements before changing your price list."
+    }
+  ],
+  "related": [
+    "take-deposits-and-prepayments",
+    "recurring-billing",
+    "accept-tips",
+    "barbershops",
+    "gift-card-programs",
+    "set-up-recurring-payments"
+  ],
+  "icon": "scissors",
+  "read_minutes": 6
+}

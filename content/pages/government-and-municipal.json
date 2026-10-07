@@ -1,0 +1,115 @@
+{
+  "slug": "government-and-municipal",
+  "category": "industries",
+  "title": "Government & Utility Payment Processing",
+  "seo_title": "Government & Utility Payment Processing | MCCPS",
+  "meta_description": "Towns, courts, utilities and agencies accept cards for taxes, permits and bills. Learn how convenience fees, online bill pay and reconciliation work.",
+  "primary_keyword": "government payment processing",
+  "keywords": [
+    "municipal payment processing",
+    "utility bill online payments",
+    "convenience fee government",
+    "permit fee card payments",
+    "court payment processing",
+    "town hall card acceptance",
+    "water bill payments"
+  ],
+  "eyebrow": "Public sector",
+  "dek": "Taxes, permits, fines and utility bills share one problem: the payer would rather not pay, and the agency cannot afford to eat the card fees.",
+  "intro": [
+    "Public-sector payments look like any other payment from the outside, but they sit on top of different rules. A town clerk who takes a dog license fee, a water department that collects monthly bills, a court clerk who receives fines and a permit office taking building fees are all merchants. Yet each also answers to a council, an auditor and often a statute that dictates what can be charged and where the money goes.",
+    "Two things make government payments distinctive. First, the payer has little choice: you cannot shop around for a tax collector. Second, agencies are usually forbidden to simply absorb costs that the taxpayer has not approved, which is why the convenience-fee model is so common in this sector.",
+    "This page explains how it works and what to examine before choosing a provider."
+  ],
+  "sections": [
+    {
+      "h2": "Where public agencies take payments",
+      "paragraphs": [
+        "Most agencies have several payment channels at once: a counter at town hall, a drop box for checks, a phone line, a website, and sometimes kiosks. Each channel has a different cost and a different level of staff effort. Walk-in card payments are card-present; online and phone payments are card-not-present and priced higher.",
+        "Many agencies also use lockbox services or bank bill-pay for checks. A payment mix review helps you see which channels are growing, and where card acceptance has displaced a labor-intensive check process. Faster, electronic payments tend to reduce the time staff spend depositing and reconciling."
+      ],
+      "bullets": [
+        "Counter payments with chip and tap terminals",
+        "Online bill pay with a hosted, secure page",
+        "Phone payments through a virtual terminal",
+        "Recurring autopay for utilities",
+        "ACH for larger or recurring payments"
+      ]
+    },
+    {
+      "h2": "How convenience fees work in the public sector",
+      "paragraphs": [
+        "Because a government entity usually cannot absorb card processing costs without budgeting for them, many charge a convenience fee for card payments, either as a flat amount or a percentage. The fee is typically disclosed before the payer confirms and is charged as a separate transaction or line item. Card network rules treat convenience fees and surcharges differently, and government and utility merchants are often subject to specific provisions.",
+        "Rules differ by state and by card network, and your own statute or ordinance may set limits or require authority for the fee. Confirm current requirements with your counsel, your finance director and your processor before setting a fee. Our guide on convenience fees explains the distinctions.",
+        "Peak seasons deserve planning. Tax due dates and license renewal periods can send thousands of payments through in a few days, so confirm that your online page, phone line and counter terminals can handle the load, and that staff know the procedure when a payer reports a duplicate or failed payment."
+      ]
+    },
+    {
+      "h2": "Utilities, autopay and large payers",
+      "paragraphs": [
+        "Water, sewer, electric and trash services bill every month. Autopay on a stored bank account or card reduces late payments, mailing costs and call volume. Bank-based payments cost less per transaction, so many utilities encourage them. Say a utility collects 10,000 payments a month averaging $90; that is $900,000, and even a small difference in cost per payment adds up across a year.",
+        "Utilities also deal with payers who need flexibility, such as payment plans or partial payments. Make sure your billing software and payment setup handle both, and that receipts show how a payment was applied."
+      ]
+    },
+    {
+      "h2": "Reconciliation, audit and fund accounting",
+      "paragraphs": [
+        "Public money is tracked by fund and by department. A single card batch may include building permits, parking fines and recreation fees that belong in different accounts. Your processing reports and your accounting software must separate those. Look for systems that tag each payment with a department or fee code, and that provide daily settlement reports matching bank deposits.",
+        "Auditors will ask for clear records of every refund and adjustment. A reporting dashboard with exportable detail, a defined approval process for refunds, and limited access by role all help. Keep your payment procedures written down; they are part of your internal controls."
+      ]
+    },
+    {
+      "h2": "Procurement and contracts",
+      "paragraphs": [
+        "Government buyers often have procurement rules that affect how a payment provider is selected, including quotes, bids or cooperative contracts. Terms such as automatic renewals and early termination fees may conflict with municipal contracting rules. Ask any provider for plain-language terms and take them to your purchasing officer or attorney.",
+        "Compare total cost, not just a rate: gateway fees, monthly charges, PCI fees, chargeback fees and any per-transaction components. A line-by-line review of existing statements, such as the free analysis MCCPS provides, is a good basis for a procurement decision."
+      ]
+    },
+    {
+      "h2": "Security and support",
+      "paragraphs": [
+        "Public agencies hold large amounts of citizen data. Keep card numbers out of paper forms, spreadsheets and email, and use tokenization and hosted payment pages so staff never see the numbers. PCI compliance applies to government merchants as it does to anyone else, and MCCPS provides PCI compliance help.",
+        "Deadlines in the public sector are not flexible. When tax bills are due, the system must work. MCCPS offers free 24/7 technical support, a reporting dashboard and, where available, next-day funding. We can often work with terminals you already own that can be re-programmed. For capital projects, we can refer you to Fidelity Funding for business funding where applicable; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Agencies often use convenience fees because they cannot absorb card costs.",
+    "Rules on fees vary by state, card network and local statute; confirm with counsel.",
+    "Autopay and bank payments reduce late payments and processing cost for utilities.",
+    "Reports must separate payments by department or fund for audit purposes.",
+    "Review contract terms against municipal procurement rules."
+  ],
+  "faq": [
+    {
+      "q": "Can a city or town charge a fee for card payments?",
+      "a": "Many do, using a convenience fee that is disclosed before payment. Rules vary by state, card network and local law, and some entities need explicit legal authority. Confirm with your counsel, finance office and processor before setting a fee."
+    },
+    {
+      "q": "What is the difference between a convenience fee and a surcharge?",
+      "a": "A surcharge is typically a percentage added to credit card transactions by the merchant; a convenience fee is usually a flat fee for a particular payment channel. Card networks treat them differently, and government merchants may have special provisions. Check current rules."
+    },
+    {
+      "q": "How can a utility reduce late payments?",
+      "a": "Offer autopay by bank account or card, send reminders before due dates, provide payment plans where allowed, and make paying online simple. Electronic payments also reduce mail handling and deposit work."
+    },
+    {
+      "q": "How do agencies separate payments by department?",
+      "a": "By tagging each payment with a fee code or department in the billing or gateway system, and using reports that break out deposits accordingly. This supports fund accounting and audits."
+    },
+    {
+      "q": "Do government merchants need PCI compliance?",
+      "a": "Yes, any organization that accepts cards must follow PCI standards. Using hosted payment pages and tokenization reduces scope. MCCPS provides PCI compliance help."
+    }
+  ],
+  "related": [
+    "convenience-fees-explained",
+    "accept-payments-online",
+    "ach-processing",
+    "nonprofits",
+    "pci-compliance",
+    "multi-location-payments"
+  ],
+  "icon": "building",
+  "read_minutes": 6
+}

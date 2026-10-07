@@ -1,0 +1,95 @@
+{
+  "slug": "get-paid-faster",
+  "category": "use-cases",
+  "title": "Getting Paid Faster",
+  "seo_title": "How to Get Paid Faster by Card | MCCPS",
+  "meta_description": "Speed up cash flow with next-day funding, daily batching, payment links and smarter invoicing. See where the delays hide between a sale and your bank deposit.",
+  "primary_keyword": "get paid faster",
+  "keywords": ["faster card settlement", "next-day funding", "improve cash flow small business", "payment links for invoices", "batch cutoff time", "speed up merchant deposits", "reduce accounts receivable days"],
+  "eyebrow": "Cash flow",
+  "dek": "Money can be late for two different reasons: customers who delay paying, and settlement that delays arriving. Both are fixable.",
+  "intro": [
+    "A sale is not cash until it clears your bank. Between the swipe and the deposit sit batch cutoffs, weekends, holds and, for invoiced work, the days a customer takes to get around to paying. For a business that buys inventory, meets payroll and pays rent on fixed dates, those gaps matter as much as the sale price.",
+    "Getting paid faster rarely means one dramatic change. It usually means removing a handful of small delays in two places: how quickly customers pay you, and how quickly your processor delivers the funds once they do. This guide covers both."
+  ],
+  "sections": [
+    {
+      "h2": "Where the days go after a card sale",
+      "paragraphs": [
+        "When a card is approved, the funds are not yet yours. The transaction waits in an open batch until it is closed, either manually by you or automatically at a set time. The batch goes to your processor, then through the card network to the issuing banks, and the net amount, less fees, is sent to your bank by the funding schedule on your account.",
+        "That chain means a sale made late on Friday may land after the weekend, and one made just after your cutoff can slip a full day. Reading your processor's cutoff time and funding schedule is the first step to knowing why money arrives when it does."
+      ]
+    },
+    {
+      "h2": "Next-day funding and cutoff discipline",
+      "paragraphs": [
+        "Standard funding commonly takes a couple of business days. Next-day funding shortens that, so batches closed before the cutoff are deposited the following business day. MCCPS offers next-day funding where available on an account, and eligibility and exact timing depend on the bank and the account's profile.",
+        "Whatever the schedule, your own habits matter. Closing your batch every day, at the same time and before the cutoff, prevents sales from sitting open. Auto-close settings remove the human factor. Imagine a shop that closes its batch only on Mondays: nearly a week of sales waits for that one action, and a batch that old can also raise your interchange cost through late-settlement downgrades."
+      ]
+    },
+    {
+      "h2": "Speed up invoiced payments",
+      "paragraphs": [
+        "If you bill after the work, the slowest link is the customer. Every step between receiving the invoice and paying it is a chance to put it off. Removing steps works better than sending more reminders."
+      ],
+      "bullets": [
+        "Put a payment link or button directly on the invoice so the customer can pay in one tap by card or bank transfer.",
+        "Send invoices the same day as the work, not at the end of the month.",
+        "State the due date and late terms plainly, and offer an incentive if early payment suits your margins.",
+        "Offer more than one method, because a customer who cannot find a checkbook may still have a card.",
+        "Automate reminders before and after the due date instead of relying on memory."
+      ]
+    },
+    {
+      "h2": "Collect deposits and use card on file",
+      "paragraphs": [
+        "A deposit at booking shifts cash forward and reduces no-shows. For repeat customers, a card on file with permission lets you charge for the next service as soon as it is complete, with no invoice cycle at all. Both rely on clear terms the customer agrees to ahead of time and on tokenized storage so you do not hold card numbers yourself.",
+        "ACH can fit larger recurring invoices because it generally costs less than cards, though it takes longer to clear and can be returned. Weigh the saved fee against the extra days for your particular customers."
+      ]
+    },
+    {
+      "h2": "Know what can freeze your funds",
+      "paragraphs": [
+        "Occasionally a deposit is delayed for reasons unrelated to schedule. Processors may hold or reserve funds after unusual spikes, a high rate of chargebacks, a first large ticket or incomplete documentation. A sudden jump in volume with no warning is the most common trigger. Tell your processor in advance when you expect a large seasonal sale, keep your business information current and respond promptly to document requests.",
+        "Chargebacks also pull money back after you thought it was settled. Fast refunds and clear billing descriptors prevent many of them."
+      ]
+    },
+    {
+      "h2": "A quick plan to shorten the wait",
+      "paragraphs": [
+        "Start with measurement, then change one thing at a time."
+      ],
+      "steps": [
+        "Look at your last two months of deposits and note the gap between sale date and deposit date.",
+        "Find your batch cutoff and set your terminals to auto-close before it.",
+        "Ask about next-day funding and what it requires on your account.",
+        "Add payment links to every invoice and switch on reminders.",
+        "Move repeat customers to card on file or recurring billing with consent.",
+        "Recheck the deposit gap after a month."
+      ]
+    },
+    {
+      "h2": "Where MCCPS fits",
+      "paragraphs": [
+        "MCCPS can review your statements and funding timeline, set up payment links and recurring billing, and explain which funding options your account supports. Reach out at 844.826.6227 if the gap between a sale and your cash is what keeps you up at night. If you need working capital beyond faster settlement, MCCPS refers merchants to Fidelity Funding, though it is not a lender itself."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Card funds travel through a batch, a cutoff and a funding schedule before reaching your bank.",
+    "Closing your batch daily and before the cutoff prevents avoidable delay.",
+    "Payment links on invoices remove the biggest friction in customer payments.",
+    "Deposits and cards on file move cash forward and reduce no-shows.",
+    "Unusual volume spikes can trigger holds, so tell your processor about big sales in advance."
+  ],
+  "faq": [
+    {"q": "How long does it take to receive credit card money?", "a": "It depends on your processor, bank and batch timing. Standard funding commonly takes one to a few business days, and weekends or holidays can add time. Next-day funding aims to deposit batches closed before the cutoff on the next business day, where available. Check your own account's schedule."},
+    {"q": "What is a batch cutoff time?", "a": "It is the daily deadline by which a closed batch must reach your processor to count for that day's funding. Batches closed after it are treated as the next day's. Your processor can tell you the cutoff, which is usually expressed in a specific time zone, and many terminals can auto-close before it."},
+    {"q": "Does faster funding cost more?", "a": "It can, depending on the provider and account. Pricing for funding speed varies, and MCCPS does not publish specific figures here because they depend on your business profile. Ask for the details in writing and weigh them against the cash flow benefit during the free statement analysis."},
+    {"q": "Why was my deposit smaller than my sales?", "a": "Deposits are net of fees, refunds and chargebacks, and may be split across batches. A difference can also come from sales made after the cutoff that belong to the next deposit. Compare your batch reports with the deposit detail on your statement to reconcile each line."},
+    {"q": "Are payment links secure?", "a": "Yes, when they point to a hosted payment page run by your gateway, because the customer enters card details on a secure page rather than with you. Send links only through channels you control, include the amount and business name for recognition, and set expirations where possible."}
+  ],
+  "related": ["next-day-funding", "next-day-funding-explained", "invoicing-and-payment-links", "batch-settlement-explained", "merchant-account-holds-and-reserves", "collect-overdue-invoices"],
+  "icon": "clock",
+  "read_minutes": 6
+}

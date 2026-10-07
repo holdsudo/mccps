@@ -1,0 +1,115 @@
+{
+  "slug": "membership-and-subscription-pricing",
+  "category": "blog",
+  "title": "Subscription (Membership) Pricing for Processing",
+  "seo_title": "Subscription Pricing for Card Processing | MCCPS",
+  "meta_description": "Membership or subscription pricing charges a monthly fee and passes interchange through at a thin markup. See how it works and who it fits best.",
+  "primary_keyword": "subscription pricing credit card processing",
+  "keywords": [
+    "membership pricing processing",
+    "cost-plus processing",
+    "monthly fee processing",
+    "wholesale interchange pricing",
+    "subscription merchant account",
+    "per-transaction fee only",
+    "high volume pricing"
+  ],
+  "eyebrow": "Pricing models",
+  "dek": "Pay a monthly membership, keep the markup thin, and let interchange pass through at cost. It rewards volume, and it can backfire without it.",
+  "intro": [
+    "Most pricing models take a percentage of every sale. Subscription pricing, sometimes called membership or cost-plus-membership, flips the logic. You pay a flat monthly fee for access to near-wholesale rates, then a very small per-transaction charge on top of the pass-through costs.",
+    "The idea mirrors a warehouse club: you pay to belong, and the per-item price drops. Whether that is a good trade depends on how much you process and how consistently, so it helps to know exactly what you would be buying."
+  ],
+  "sections": [
+    {
+      "h2": "The structure in plain terms",
+      "paragraphs": [
+        "A subscription plan generally has three parts. The membership fee is a recurring monthly charge, often priced by tier of volume or by the features included. The pass-through costs are the real interchange and network assessments for each sale. The per-transaction fee is a small fixed amount, and the percentage markup, if any, is minimal.",
+        "Because most of the processor's margin comes from the membership fee rather than from the percentage of each sale, the provider earns about the same from you whether you process an average month or a very good one. That is the source of both the appeal and the risk."
+      ]
+    },
+    {
+      "h2": "How the math works",
+      "paragraphs": [
+        "Imagine a business that processes $100,000 a month with 1,500 transactions. Pass-through interchange and assessments come to about 1.9%, or $1,900. A membership plan charges a $99 monthly fee, plus 8 cents per transaction ($120) and no percentage markup. Total cost is $2,119, or about 2.1%.",
+        "Under a traditional interchange-plus quote of 0.30% plus 10 cents per item, the same month would be $1,900 plus $300 plus $150, or $2,350. The membership plan is cheaper by $231 in this hypothetical.",
+        "Now apply the same plan to a business that processes $8,000 a month. The $99 fee alone is 1.2% of volume, and the plan stops making sense. The figures are invented, but the shape of the curve is real: membership pricing improves as volume rises.",
+        "A useful sanity check is to ask what the processor earns from you each month under the plan and whether that amount feels proportionate to the support you will need. Because the monthly fee is the primary revenue, providers that sell membership plans have an incentive to keep high-volume customers happy, which can mean good service. They also have an incentive to push low-volume customers to the higher tiers, so make sure you are on the right one.",
+        "It also pays to ask about tier boundaries. If crossing a volume threshold moves you to a higher monthly fee, you want to know the exact amount and whether the change is automatic."
+      ]
+    },
+    {
+      "h2": "Who tends to benefit",
+      "paragraphs": [
+        "Subscription plans work best for merchants with high, stable card volume and a clear understanding of their statement. They can also suit businesses with larger average tickets, where a percentage-based markup would otherwise take a large dollar bite from each sale.",
+        "They are a poorer fit when volume is small or seasonal, because the fixed fee does not shrink in quiet months. A business that processes heavily from May to September and little the rest of the year may end up paying the membership during months when it would have paid less on a percentage plan."
+      ],
+      "bullets": [
+        "Good fit: steady monthly volume well above the plan's break-even point.",
+        "Good fit: larger average tickets or many B2B payments.",
+        "Good fit: owners who want predictable processor margins.",
+        "Weaker fit: new businesses with unpredictable volume.",
+        "Weaker fit: very small tickets, where per-item fees add up.",
+        "Weaker fit: highly seasonal operations."
+      ]
+    },
+    {
+      "h2": "What to check before signing",
+      "paragraphs": [
+        "Membership pricing relies on trust in the pass-through. Ask whether interchange and assessments are passed at cost with no hidden markup, and whether the plan includes the gateway, reporting and support you use or charges for them separately. Find out if the monthly fee is fixed for the contract term or can change, and what happens if your volume drops.",
+        "Also look at the surrounding fees that every plan can carry: PCI program fees, statement fees, chargeback fees and early termination provisions. A clean headline can still come with expensive extras."
+      ]
+    },
+    {
+      "h2": "How it compares with other models",
+      "paragraphs": [
+        "Compared with flat-rate pricing, subscription plans offer lower costs at higher volumes but ask for more attention to the statement. Compared with standard interchange-plus, they shift the provider's margin from a percentage of sales to a fixed monthly amount. Compared with tiered pricing, they are far more transparent.",
+        "A compliant dual-pricing or cash-discount program is a different animal altogether. Instead of choosing which model lowers the merchant's cost, it changes who pays it. Rules vary by state and card network, and proper disclosure is required, so confirm requirements before considering it."
+      ]
+    },
+    {
+      "h2": "Choosing with real numbers",
+      "paragraphs": [
+        "The only reliable approach is to price your own last two months under each option. Take your volume, transaction count and card mix, apply the quotes and compare totals. MCCPS will do this at no cost through its savings analysis, which reviews two months of your processing statements line by line. Whether a membership plan or another structure comes out ahead depends on what the statements show, and you are under no obligation to switch."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Subscription pricing swaps percentage markup for a flat monthly membership plus a small per-item fee.",
+    "It tends to save money at high, steady volume and cost more when volume is small or seasonal.",
+    "Interchange and assessments should pass through at cost, so ask for that in writing.",
+    "Price your own last two months under each model before deciding."
+  ],
+  "faq": [
+    {
+      "q": "What is membership pricing in card processing?",
+      "a": "It is a model where you pay a monthly fee for access to near-wholesale rates. Interchange and network assessments pass through at cost, and the processor adds a small per-transaction fee and little or no percentage markup. The more you process, the more the model tends to favor you."
+    },
+    {
+      "q": "Is subscription pricing better for small businesses?",
+      "a": "Usually not at very low volume, because the monthly fee is spread over fewer dollars and can exceed what a percentage-based plan would cost. It tends to suit mid-to-high volume merchants. Run your own numbers to find the break-even point."
+    },
+    {
+      "q": "Do I still pay interchange under a membership plan?",
+      "a": "Yes. Interchange and network assessments are real costs set outside the processor, so they pass through under any model. What changes is how the processor earns its margin, with a monthly fee in place of a percentage of every sale."
+    },
+    {
+      "q": "Can the monthly fee increase?",
+      "a": "That depends on the contract. Some plans fix the fee for a term, while others allow changes with notice. Ask how fee changes are handled and what your options are if you disagree, including any early termination charges."
+    },
+    {
+      "q": "How do I know if I qualify for a membership plan?",
+      "a": "Providers typically look at your volume, average ticket and business type. A review of your recent statements gives a clear picture. MCCPS offers a free, no-obligation savings analysis that shows how different pricing structures would have performed on your own sales."
+    }
+  ],
+  "related": [
+    "flat-rate-vs-interchange-plus",
+    "interchange-plus-pricing",
+    "effective-rate-explained",
+    "large-ticket-transactions",
+    "free-statement-analysis",
+    "processor-contract-red-flags"
+  ],
+  "icon": "refresh",
+  "read_minutes": 6
+}

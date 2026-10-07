@@ -1,0 +1,120 @@
+{
+  "slug": "level-2-and-level-3-processing",
+  "category": "solutions",
+  "title": "Level 2 and Level 3 Processing for B2B",
+  "seo_title": "Level 2 & Level 3 Processing for B2B | MCCPS",
+  "meta_description": "Send enhanced data on business and purchasing card sales to qualify for lower interchange. Learn Level 2 and Level 3 fields and how MCCPS supports B2B.",
+  "primary_keyword": "Level 2 and Level 3 processing",
+  "keywords": [
+    "level 3 data",
+    "level 2 data",
+    "B2B card processing",
+    "purchasing card processing",
+    "corporate card interchange",
+    "enhanced data interchange",
+    "commercial card processing"
+  ],
+  "eyebrow": "B2B payments",
+  "dek": "Business-to-business card sales can qualify for lower interchange when you pass the right invoice details along with the payment.",
+  "intro": [
+    "When another company pays you with a corporate or purchasing card, the issuer often wants more than a dollar amount. Finance teams want to know what was bought, how much tax was charged and which purchase order it belongs to. Card networks reward merchants who supply that detail with lower interchange on eligible transactions.",
+    "That reward is the reason Level 2 and Level 3 processing exists. It is not relevant to every business, but if a meaningful share of your sales goes to companies, schools or government buyers on commercial cards, it can change what you pay. Here is how it works."
+  ],
+  "sections": [
+    {
+      "h2": "Three levels of data",
+      "paragraphs": [
+        "Level 1 is the basic data every transaction carries: amount, date, merchant and card details. Level 2 adds fields such as sales tax amount, a customer reference or purchase order number, and sometimes a merchant postal code. Level 3 adds line-item detail, including product codes, descriptions, quantity, unit of measure, unit cost, discount and freight.",
+        "Each added layer gives the buyer's accounting department something to reconcile against, and gives the network a reason to treat the sale as lower risk. That is why interchange rates for qualifying commercial transactions can be lower than the standard rate for the same card."
+      ]
+    },
+    {
+      "h2": "Which cards and which sales qualify",
+      "paragraphs": [
+        "Level 2 and Level 3 apply to commercial cards: purchasing cards, corporate cards, fleet cards and some government cards. They do not apply to ordinary consumer cards. The rules, qualifying rates and required fields differ by network and change over time, so treat any rate you see quoted online as a general example, not a promise.",
+        "The data must also be accurate. A tax amount that does not match the invoice, or a purchase order field filled with filler text, may cause a transaction to fall back to a standard rate. Clean data matters more than clever data.",
+        "Because requirements change, ask your processor to confirm which fields are mandatory today rather than relying on an old checklist."
+      ],
+      "bullets": [
+        "Purchasing and corporate cards from business customers",
+        "Fleet cards at fueling and maintenance sites",
+        "Government and public-sector purchasing cards",
+        "Typically larger tickets with documented purchase details"
+      ]
+    },
+    {
+      "h2": "A worked example",
+      "paragraphs": [
+        "Say you invoice a corporate customer $8,000 and they pay with a purchasing card. At a standard commercial card rate, the interchange cost could be a noticeable slice of that ticket. If your invoice carries the right Level 2 and Level 3 data and the network offers a lower qualifying rate, the cost on that same sale can be meaningfully smaller.",
+        "Multiply that by a few dozen similar invoices a month and the gap grows. This is a hypothetical illustration, not a quoted rate; actual outcomes depend on the card, the network rules at the time and whether your transaction qualifies."
+      ]
+    },
+    {
+      "h2": "Where the data comes from",
+      "paragraphs": [
+        "Your invoicing, accounting or POS system usually holds the details already: item numbers, quantities, tax and PO numbers. The work is getting them from there into the payment request. Some platforms do this automatically through an integration, while others rely on fields in a virtual terminal or payment link that someone fills out.",
+        "Ask your accounting or invoicing software vendor what it can pass to the gateway. For manual workflows, build a checklist so the same fields are entered every time. Consistency prevents the mid-month surprise of transactions that did not qualify.",
+        "Test with a small batch first. Run a handful of commercial card sales with full data, then look at the interchange categories on your next statement. If transactions that should have qualified did not, the usual culprits are a missing tax figure, a mismatched total or a field left blank. Fixing the data entry habit once is far cheaper than discovering a month of non-qualifying sales."
+      ]
+    },
+    {
+      "h2": "Which businesses benefit",
+      "paragraphs": [
+        "Wholesalers, distributors, manufacturers, contractors, industrial suppliers, trucking and logistics companies, medical suppliers and professional services firms with commercial clients are typical candidates. The more your customers are other organizations, the more likely enhanced data will matter.",
+        "If nearly all your revenue comes from consumers, the effort may not pay off. A quick look at your statement, specifically the share of commercial card volume, is the first test, and the free statement analysis from MCCPS includes that review."
+      ]
+    },
+    {
+      "h2": "Alongside ACH and invoicing",
+      "paragraphs": [
+        "Cards are not the only B2B route. Larger customers may prefer ACH, which has its own economics, and some buyers pay by card for the rewards and float. Offering both lets the customer choose, and enhanced data keeps your card cost in check when they pick the card.",
+        "Payment links on invoices make it easy for a buyer's accounts payable team to pay quickly, and carrying invoice numbers into the payment keeps your reconciliation clean."
+      ]
+    },
+    {
+      "h2": "Getting set up with MCCPS",
+      "paragraphs": [
+        "MCCPS supports B2B Level 2 and Level 3 processing, along with integration into almost any POS, smartphone or terminal, multiple gateways and the reporting dashboard in PayPilot by MCCPS. A specialist will review how your commercial card sales are currently priced and whether your invoicing system can pass the right fields.",
+        "Savings depend on your volume, card mix and how clean your data is, so nothing is promised until the review is done. Request the free, no-obligation statement analysis and call 844.826.6227 with questions."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Level 2 and Level 3 pass invoice detail with commercial card payments.",
+    "Qualifying transactions can earn lower interchange; rules change over time.",
+    "Accurate tax, PO and line-item data is what makes a sale qualify.",
+    "The benefit depends on how much of your volume is commercial cards."
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between Level 2 and Level 3?",
+      "a": "Level 2 adds fields like sales tax and a purchase order or customer reference. Level 3 adds line-item detail such as product codes, quantity, unit cost and freight. Level 3 is more detailed and typically needed for the most favorable commercial rates."
+    },
+    {
+      "q": "Does it apply to consumer cards?",
+      "a": "No. Enhanced data programs apply to commercial cards such as purchasing, corporate and fleet cards. Sales on ordinary consumer cards are not eligible for these interchange categories."
+    },
+    {
+      "q": "Will I automatically get lower fees?",
+      "a": "Not automatically. Your processor must support the data, the card must be commercial, and the fields must be filled correctly. Rates and rules also change. A statement review shows whether your sales are qualifying today."
+    },
+    {
+      "q": "Do I need special software?",
+      "a": "Often your invoicing or accounting system can pass the data, or you can enter it through a virtual terminal. What works depends on your systems. Ask a specialist to check your setup."
+    },
+    {
+      "q": "Is it worth it for a small business?",
+      "a": "It depends on your share of commercial card sales and ticket size. For a business with occasional commercial buyers, the effort may be modest. For mostly B2B sellers, it can matter a lot."
+    }
+  ],
+  "related": [
+    "level-2-3-data-explained",
+    "process-b2b-payments",
+    "b2b-wholesale",
+    "manufacturing",
+    "ach-processing",
+    "b2b-payment-trends"
+  ],
+  "icon": "building",
+  "read_minutes": 7
+}

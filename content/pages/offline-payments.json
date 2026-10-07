@@ -1,0 +1,131 @@
+{
+ "slug": "offline-payments",
+ "category": "blog",
+ "title": "Taking Payments When the Internet Goes Down",
+ "seo_title": "Taking Card Payments When the Internet Is Down | MCCPS",
+ "meta_description": "Internet outage at checkout? Learn how offline mode and store-and-forward work, the risks of delayed approval and how to keep selling safely.",
+ "primary_keyword": "offline card payments",
+ "keywords": [
+  "offline mode terminal",
+  "store and forward",
+  "internet outage payments",
+  "cellular backup terminal",
+  "offline approval risk",
+  "manual card imprint",
+  "payment downtime plan"
+ ],
+ "eyebrow": "Business continuity",
+ "dek": "A dropped connection should slow you down, not shut you down. Know your options before the router fails.",
+ "intro": [
+  "The internet goes down at the worst possible moment: a full dining room, a line out the door, a vendor booth at the busiest hour of the fair. Customers hold their cards, you hold a dead terminal and you have to decide quickly whether to turn people away, take cash only or accept a payment you cannot verify.",
+  "A little planning turns that decision from a gamble into a procedure. This guide explains how card transactions normally flow, what offline modes actually do, the risks they carry and the backup options that keep money moving when the main connection fails."
+ ],
+ "sections": [
+  {
+   "h2": "What actually happens during a normal card sale",
+   "paragraphs": [
+    "When a customer taps, dips or swipes, the terminal sends the encrypted card data and amount through your connection to the processor, which routes it to the card network and the issuing bank. Within a second or two, the bank approves or declines, and the answer travels back. Later, approved sales are grouped into a batch and settled, with funds deposited to your account.",
+    "That live approval is the whole point. The issuer checks available funds, fraud signals and the card status in real time. Without a connection, none of that checking can happen, which is why offline payments are inherently less certain."
+   ]
+  },
+  {
+   "h2": "How offline mode and store-and-forward work",
+   "paragraphs": [
+    "Some terminals and mobile readers offer an offline or store-and-forward mode. The device accepts the card, encrypts and stores the transaction locally, then submits it for authorization when the connection returns. For the customer it looks like a normal sale and a receipt prints.",
+    "The catch is that the approval is deferred. If the card is declined, lost or over its limit when the transaction is finally submitted, you may have already handed over the goods or service, and the payment can fail with no easy recourse. You bear that risk, not the customer or the bank, so many merchants set a modest per-transaction ceiling and a total offline cap."
+   ],
+   "bullets": [
+    "Offline mode is not available on every terminal or POS",
+    "Chip cards may have offline limits set by the issuer",
+    "Transactions are not guaranteed until they are submitted and approved",
+    "Stored transactions must be sent within the time your processor requires"
+   ]
+  },
+  {
+   "h2": "Set sensible offline limits",
+   "paragraphs": [
+    "If your system allows offline acceptance, set a per-sale limit that you could absorb if the transaction declined. A cafe might choose $50; a furniture store, which sells larger items, may decide never to accept offline for big purchases and use another method instead. Say you accept twenty offline sales averaging $35 during an outage; the exposure is $700 if every one failed, though in practice the vast majority are approved.",
+    "Think about the kinds of customers and products involved. Familiar regulars carry less risk than strangers buying easily resold goods. Tell staff exactly when they may use offline mode and when to ask for another form of payment."
+   ]
+  },
+  {
+   "h2": "Backup connections that keep you online",
+   "paragraphs": [
+    "The best way to handle an outage is to avoid it. A cellular backup device or a terminal with a built-in data connection can take over automatically when the main line fails. Many modern readers can use a phone's hotspot or run through their own mobile network. Test this in advance, because a backup that has never been tried may not work under pressure.",
+    "MCCPS supports a wide range of terminals, smartphones and POS setups, and often keeps terminals you already own. If your equipment lacks a failover option, ask whether a mobile reader or a second terminal on a different network can be added. Free 24/7 technical support is available at 844.826.6227 if you need help diagnosing an outage."
+   ],
+   "bullets": [
+    "Cellular failover on the router or terminal",
+    "A mobile reader using a smartphone's data",
+    "A second terminal on a separate network",
+    "A tested hotspot as a last resort"
+   ]
+  },
+  {
+   "h2": "Low-tech fallbacks and when to use them",
+   "paragraphs": [
+    "Cash remains the simplest fallback, along with checks from known customers where your policy allows. Some businesses keep a manual imprint kit, but those are largely obsolete because chip cards and many issuers no longer support them reliably, and they offer no guarantee of payment.",
+    "Another option is to record the order and invoice the customer or take the card details later through a virtual terminal or payment link once service returns. That only works with trusted customers and clear written authorization. Never write down or text full card numbers casually; our payment security checklist explains why."
+   ]
+  },
+  {
+   "h2": "Train your team on the outage routine",
+   "paragraphs": [
+    "Write a one-page outage procedure and post it near the register. It should say who decides to go offline, what the limits are, how to record offline sales, how to inform customers politely and who to call. Practicing it once during a quiet period shows you what you forgot.",
+    "After the connection returns, follow a simple recovery routine: confirm that stored transactions were submitted, watch for declines, contact customers if any payment fails and reconcile the day's batch carefully against your sales record."
+   ],
+   "bullets": [
+    "Announce the outage plan to staff before it happens",
+    "Log each offline sale with time, amount and last four digits",
+    "Submit stored transactions as soon as service returns",
+    "Reconcile batches and follow up on declines"
+   ]
+  },
+  {
+   "h2": "Reduce your exposure over the long term",
+   "paragraphs": [
+    "Frequent outages are a sign to fix the root cause. Compare internet providers, put payment devices on a reliable wired connection and consider whether your point-of-sale design depends on the cloud for every sale. Some systems keep working locally and sync later; others stop entirely.",
+    "If downtime has been costing you sales, include it when you evaluate your processor and equipment. A free statement analysis from MCCPS reviews your processing costs, and the team can also discuss hardware that fits how your business actually operates."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Live authorization is what normally protects you; offline mode removes it temporarily.",
+  "Store-and-forward approvals are not guaranteed, so set conservative limits.",
+  "Cellular failover prevents most outages from affecting sales.",
+  "Write and rehearse a short outage procedure for staff.",
+  "After an outage, submit stored sales and reconcile carefully."
+ ],
+ "faq": [
+  {
+   "q": "Can I accept credit cards without internet?",
+   "a": "Some terminals and readers can store transactions and submit them when service returns, but the approval is not confirmed until then. If the card turns out to be declined, you may not get paid. Cellular backup is a safer way to keep accepting cards during an outage."
+  },
+  {
+   "q": "Is offline card acceptance safe?",
+   "a": "It carries more risk than a live approval, because you cannot verify funds or fraud signals at the time of sale. Limiting the amount per transaction and accepting only from familiar customers reduces exposure. Check your processor's rules for how long stored transactions may wait."
+  },
+  {
+   "q": "What is store-and-forward?",
+   "a": "Store-and-forward is a mode in which a terminal saves encrypted transaction data when it has no connection and sends it for authorization once the connection returns. It keeps the line moving, but the approval is deferred, and the merchant takes on the risk of any later decline."
+  },
+  {
+   "q": "How can I prevent payment downtime?",
+   "a": "Use a reliable wired connection, add cellular failover and test a backup hotspot or mobile reader regularly. Keep a spare configured terminal on a different network where possible. Having an outage procedure for staff helps you recover quickly when things go wrong."
+  },
+  {
+   "q": "Who should I call when my terminal won't connect?",
+   "a": "Start by checking cables, power and your router. If the terminal still fails, call your processor's technical support. MCCPS provides free 24/7 technical support at 844.826.6227, and the team can help diagnose connection problems or reprogram terminals. Testing it once before you need it will save you stress later."
+  }
+ ],
+ "related": [
+  "payment-terminal-troubleshooting",
+  "mobile-payments",
+  "accept-payments-on-the-go",
+  "virtual-terminal",
+  "batch-settlement-explained",
+  "payment-security-checklist"
+ ],
+ "icon": "bolt",
+ "read_minutes": 7
+}

@@ -1,0 +1,133 @@
+{
+ "slug": "payments-glossary-guide",
+ "category": "blog",
+ "title": "Payment Processing Terms Every Owner Should Know",
+ "seo_title": "Payment Processing Terms Every Owner Should Know | MCCPS",
+ "meta_description": "A plain-English guide to the payment processing terms that appear on your statement, from interchange and assessments to batches, chargebacks and tokens.",
+ "primary_keyword": "payment processing terms",
+ "keywords": [
+  "payment processing glossary",
+  "merchant statement terms",
+  "interchange definition",
+  "chargeback definition",
+  "batch settlement",
+  "payment gateway definition",
+  "PCI definition"
+ ],
+ "eyebrow": "Plain-English glossary",
+ "dek": "Payments vocabulary can sound like a foreign language. This guide explains the terms in the order a sale actually happens.",
+ "intro": [
+  "Open a merchant statement and you meet a wall of words: interchange, assessments, discount rate, batch, MCC, retrieval request. Salespeople use them casually, which can make you feel as if you should already know. You do not need to memorize a dictionary, but knowing the core terms helps you ask better questions and notice when something does not add up.",
+  "Instead of a flat alphabetical list, this guide follows the path of a single card sale from the moment the customer pays to the day the money lands in your bank. Each term appears where it matters, with an example in plain language."
+ ],
+ "sections": [
+  {
+   "h2": "The players: who does what",
+   "paragraphs": [
+    "The cardholder is your customer. The issuer is the bank that gave them the card. You are the merchant. The acquirer is the bank that provides your ability to accept cards, and the processor is the company that handles the technical work of moving the data. The card networks, such as the brands on the front of a card, set the rules and move messages between banks.",
+    "A merchant account is the arrangement that lets you receive card funds. An ISO, or independent sales organization, sells processing services under a bank's sponsorship. Many businesses use the terms processor, acquirer and ISO loosely, but each plays a different role. Our guide on what an ISO is covers the details."
+   ]
+  },
+  {
+   "h2": "Capturing the payment: terminals, gateways and entry methods",
+   "paragraphs": [
+    "A terminal or point-of-sale device captures the card. EMV, or chip, is the technology that generates a unique code for each transaction. Contactless or NFC, used by tap cards and mobile wallets, is a short-range version of the same idea. A swipe reads the magnetic stripe, which is older and less secure.",
+    "A gateway connects your website or software to the processor for online sales. A virtual terminal is a web page where you type in a customer's card manually. Card-present means the physical card or device was there; card-not-present, or CNP, applies to online, phone and keyed sales and usually carries higher fraud risk and cost."
+   ]
+  },
+  {
+   "h2": "Authorization, batching and settlement",
+   "paragraphs": [
+    "Authorization is the real-time approval from the issuer, which reserves the funds. It does not move money yet. A batch is the group of approved transactions that your terminal or system sends for settlement, often once a day. Settlement is the process of moving funds from issuers through the networks and acquirer to your bank, which is the day you actually get paid.",
+    "Funding is the deposit into your account, and next-day funding means it arrives the next business day for eligible merchants. A pre-authorization holds an amount, such as at a hotel or bar tab, and is later adjusted or captured. A void cancels a sale before it settles; a refund returns money after settlement."
+   ],
+   "bullets": [
+    "Authorization: approval, funds reserved",
+    "Batch: group of transactions sent together",
+    "Settlement: movement of money",
+    "Funding: deposit to your bank",
+    "Void versus refund: before versus after settlement"
+   ]
+  },
+  {
+   "h2": "The fees: interchange, assessments and markup",
+   "paragraphs": [
+    "Interchange is the fee paid to the issuer on each card transaction, set by the card networks and varying with card type and how it is accepted. Assessments are small fees charged by the networks. Processor markup is what your provider adds on top, which can be a percentage, a per-item fee or both.",
+    "Your effective rate is total fees divided by total card sales, and it shows what you really pay. Pricing models include flat-rate, tiered and interchange-plus. The discount rate is an older term for the percentage charged on sales. Our guides on interchange and effective rate cover each in depth."
+   ]
+  },
+  {
+   "h2": "Pricing programs: dual pricing, cash discount and surcharging",
+   "paragraphs": [
+    "Dual pricing displays two prices, one for cash and one for cards. A cash discount reduces the price for customers paying with cash. A surcharge is an added fee on card transactions, and a convenience fee is a fee for a particular payment channel. These programs differ in how they are disclosed and regulated.",
+    "Rules vary by state and card network, and each requires proper disclosure and signage, so confirm current requirements before using one. MCCPS's Zero Processing Fees program is built on compliant dual-pricing or cash-discount methods for eligible businesses."
+   ]
+  },
+  {
+   "h2": "When things go wrong: chargebacks and fraud terms",
+   "paragraphs": [
+    "A chargeback is a dispute a cardholder files with their bank, which pulls the money back from you while the case is reviewed. A reason code explains the claimed cause. Representment is your response with evidence. Friendly fraud occurs when a legitimate cardholder disputes a real purchase. AVS and CVV are checks of the billing address and security code.",
+    "Card testing is when criminals try small transactions to see which stolen numbers work. A reserve or hold is money a processor sets aside against risk. Be aware of the matched list, a database of terminated merchants that can make it hard to open a new account."
+   ],
+   "bullets": [
+    "Chargeback: a formal dispute through the card issuer",
+    "Representment: your documented rebuttal",
+    "AVS and CVV: address and security-code checks",
+    "Reserve: funds held against potential losses"
+   ]
+  },
+  {
+   "h2": "Security and compliance terms",
+   "paragraphs": [
+    "PCI DSS is the security standard for businesses that accept cards, and a SAQ is the self-assessment questionnaire you complete. Tokenization replaces the card number with a stand-in value; encryption scrambles the data in transit; P2PE, or point-to-point encryption, protects it from the moment of card read.",
+    "3D Secure is an additional authentication step for online purchases. Level 2 and Level 3 data are extra details such as tax and line items on business card transactions that can lower costs for B2B sellers. A non-compliance fee is a charge from a processor for not completing PCI requirements."
+   ]
+  },
+  {
+   "h2": "Contract terms to watch",
+   "paragraphs": [
+    "Early termination fee: a charge if you leave before the contract ends. Auto-renewal: the contract extends automatically unless you cancel in time. Liquidated damages: a pre-set amount owed on early exit. Equipment lease: a long-term obligation for a terminal, often costing far more than the device itself. Minimum monthly fee: a floor on what you pay, even in slow months.",
+    "If any term on your statement or contract is unclear, ask for a written explanation. MCCPS offers a free, no-obligation statement analysis where the team reviews two months of statements line by line, and technical support is available at 844.826.6227 at any hour."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "A sale moves from authorization to batch to settlement to funding.",
+  "Interchange and assessments are pass-through costs; markup is your provider's share.",
+  "Effective rate shows your true cost across all fees.",
+  "Dual pricing, cash discount and surcharging have different rules that vary by state and network.",
+  "Know chargeback, reserve and contract terms before you sign."
+ ],
+ "faq": [
+  {
+   "q": "What is the difference between a processor and a gateway?",
+   "a": "A processor handles the transmission and settlement of card transactions, while a gateway securely connects your website, software or virtual terminal to the processor. Some providers offer both together. Card-present terminals often do not need a separate gateway. Your accountant or attorney can confirm how this applies to your circumstances."
+  },
+  {
+   "q": "What is interchange?",
+   "a": "Interchange is the fee paid to the card-issuing bank for each card transaction. Its amount varies by card type, how the card was accepted and the transaction. Networks set the schedule, and your processor adds its own markup on top of interchange and assessments."
+  },
+  {
+   "q": "What is the difference between authorization and settlement?",
+   "a": "Authorization is the issuer approving a sale and reserving funds, happening in seconds. Settlement is the later movement of money, after the batch is submitted, so that funds are deposited into your bank. Approval alone does not mean you have been paid."
+  },
+  {
+   "q": "What is a chargeback?",
+   "a": "A chargeback occurs when a cardholder disputes a charge with their issuing bank and the bank reverses the payment while it investigates. The merchant can respond with evidence. Chargebacks bring fees and, if frequent, can lead to account monitoring or termination. Start small, measure what happens, and adjust from there."
+  },
+  {
+   "q": "What is the effective rate?",
+   "a": "The effective rate is total processing fees divided by total card sales for the period. If you paid $1,240 in fees on $40,000 in sales, your effective rate is 3.1 percent. It captures the true cost better than the quoted rate alone."
+  }
+ ],
+ "related": [
+  "how-credit-card-processing-works",
+  "interchange-explained",
+  "effective-rate-explained",
+  "batch-settlement-explained",
+  "chargeback-reason-codes",
+  "what-is-an-iso"
+ ],
+ "icon": "book",
+ "read_minutes": 8
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "assessment-fees-explained",
+  "category": "blog",
+  "title": "Card Network Assessment Fees Explained",
+  "seo_title": "Card Network Assessment Fees Explained | MCCPS",
+  "meta_description": "Assessment fees are the small card network charges stacked on every sale. See what they cover, how they are calculated, and where they show up on statements.",
+  "primary_keyword": "card network assessment fees",
+  "keywords": [
+    "assessment fees",
+    "network fees merchant statement",
+    "card brand fees",
+    "network access fee",
+    "cross-border assessment",
+    "interchange vs assessments",
+    "pass-through fees"
+  ],
+  "eyebrow": "Fee basics",
+  "dek": "Beyond interchange sits a second layer of pass-through charges paid to the card brands themselves. They are small per sale, but they are never zero.",
+  "intro": [
+    "When owners ask where their processing dollars go, the answer usually starts with interchange. The second answer, which gets far less attention, is assessments: the fees the card networks charge for running the rails that connect issuers, acquirers and merchants.",
+    "Assessments tend to be a fraction of a percent of volume, so they rarely trigger alarm. The trouble is that they appear on statements under a handful of different labels, and some processors mark them up or bundle them in ways that make them look like part of the processor's own fee. Knowing what a real assessment looks like helps you spot when something else is wearing its name."
+  ],
+  "sections": [
+    {
+      "h2": "What the card networks charge for",
+      "paragraphs": [
+        "Each card brand operates a global network that authorizes transactions, clears them and enforces rules around security and dispute handling. They fund that operation partly through fees charged to the banks that participate. Because merchants send their transactions through an acquirer, those fees are ultimately passed down to the merchant, which is why they appear on your statement even though you never signed a contract with the network.",
+        "Assessments are generally set by each network and apply uniformly to acquirers, which makes them a pass-through: they are not a place where your processor is supposed to earn a margin, though how a given provider handles them depends on its pricing model and contract.",
+        "It helps to keep the proportions in mind. In a typical statement, interchange is the largest layer, assessments are a thin second layer and the processor's own charges are the remainder. When owners focus on assessments alone, they sometimes spend an afternoon chasing a few dollars while a monthly fee they never use costs more. Use assessments as one line in a broader review, not as the whole story.",
+        "Because the card brands publish their schedules and update them from time to time, a line that matched last year's figures may be slightly off today. That is normal. What you are checking for is whether the line behaves like a pass-through, moving with volume and transaction count, or like a fixed provider fee, which stays put regardless of your sales."
+      ]
+    },
+    {
+      "h2": "Common types of network charges",
+      "paragraphs": [
+        "Names vary by brand and by processor, but most fall into a few families. Your statement may label them differently, so read the descriptions rather than relying on the exact title.",
+        "Assessments typically combine a small percentage of the sale volume with certain per-item charges. Some brands charge slightly different percentages for credit and debit, and many apply additional charges for particular situations."
+      ],
+      "bullets": [
+        "Volume-based assessment: a small percentage of gross card sales, charged on credit and debit.",
+        "Per-authorization or per-transaction network access fees: a fixed amount of a cent or a few cents each time a transaction is submitted.",
+        "Cross-border or international assessments: an added charge when the card was issued outside the country or the currency differs.",
+        "Misuse of authorization and zero-dollar verification fees: charges tied to how authorizations are used, including declined or reversed ones.",
+        "Digital or card-not-present data fees: small charges that can apply to online or keyed transactions."
+      ]
+    },
+    {
+      "h2": "A worked example",
+      "paragraphs": [
+        "Suppose a shop runs $60,000 in card sales over a month across 1,200 transactions. Assume, purely for illustration, an assessment of 0.13% on volume and a network access charge of 2 cents per authorization. The volume portion would be $78, and the per-item portion would be $24, so assessments total about $102, or roughly 0.17% of sales.",
+        "Those numbers are hypothetical, and real figures depend on the brand and the current schedule, but the pattern holds. Assessments are measured in tenths of a percent, which makes them small next to interchange yet large enough that a mistaken markup of a few basis points across a full year adds up."
+      ]
+    },
+    {
+      "h2": "How assessments appear on a statement",
+      "paragraphs": [
+        "On an interchange-plus statement, assessments usually show as their own line or group of lines, close to the interchange summary. The amounts match the card brand's published schedule and should reconcile to your volume. If you divide the assessment total by the brand's volume, you should arrive at a percentage that looks like the published one.",
+        "On tiered or flat-rate statements, assessments are folded into the bundled rate. That is fine as a business decision, but it means you cannot verify them. You are paying whatever the blended number says, whether the underlying cost is large or small on a given month."
+      ]
+    },
+    {
+      "h2": "Where markups sneak in",
+      "paragraphs": [
+        "The most common issue is not the assessment itself but how it is described. A line called a network fee, brand fee or association fee might be a true pass-through, or it might be a processor charge using similar language. Some providers add a fixed fee per transaction and label it as network related, even though the actual network charge is lower.",
+        "A simple check is to compare each assessment line to the networks' published tables, or ask your processor to confirm in writing which lines are pass-through at cost and which are their own fees. A good provider answers that question plainly."
+      ]
+    },
+    {
+      "h2": "What you can do about them",
+      "paragraphs": [
+        "You cannot negotiate assessments, but you can avoid avoidable ones. Cross-border charges depend on who the cardholder is, so there is little to do there. Others can be limited by good practice: avoid repeatedly submitting authorizations for the same sale, clear zero-dollar checks only when needed, and make sure reversed or voided sales are handled properly rather than processed twice.",
+        "The bigger lever is transparency. If your current statement hides these costs, an itemized analysis shows what the true pass-through layers are, and what the remainder, the processor's actual margin, looks like. MCCPS provides that review for free and without obligation, and the result tells you whether your costs are in line or whether there is room to improve."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Assessments are charges by the card networks themselves, passed through your acquirer to you.",
+    "They are small, often a fraction of a percent, but never zero and appear on every sale.",
+    "Look for suspicious lines labeled network or brand fees that do not match published schedules.",
+    "Itemized statements make assessments verifiable, while bundled pricing hides them."
+  ],
+  "faq": [
+    {
+      "q": "Are assessment fees the same as interchange?",
+      "a": "No. Interchange goes to the card-issuing bank, while assessments go to the card networks. Both are pass-through costs set outside your processor, and both are separate from the processor's own markup and fixed fees. Together, interchange and assessments make up most of your total processing cost."
+    },
+    {
+      "q": "Can my processor charge extra on assessments?",
+      "a": "Under interchange-plus or similar itemized models, assessments should be passed at cost, with markup shown separately. Under bundled models, the processor sets one rate that covers everything. Review your agreement and statement to see which applies, and ask for written clarification if a fee label is ambiguous."
+    },
+    {
+      "q": "Why am I charged for declined transactions?",
+      "a": "Some networks and processors charge a small authorization fee regardless of the outcome, since a request still traveled the network. Declines, reversals and zero-dollar verifications can generate charges. Cleaning up repeated retries and unneeded verifications can reduce them."
+    },
+    {
+      "q": "Do assessment fees change over time?",
+      "a": "Yes. The networks adjust their schedules periodically and can introduce new fees. Changes are communicated to acquirers and flow to merchants, so you may see small shifts in assessments between statements even if your own pricing agreement has not changed."
+    },
+    {
+      "q": "How do I check whether my assessments are correct?",
+      "a": "Take the assessment lines from your statement, divide each by the related volume or transaction count, and compare to the networks' published schedule. If you are unsure how, request a statement analysis. MCCPS will do this review for free by examining two months of statements."
+    }
+  ],
+  "related": [
+    "interchange-explained",
+    "processor-markup-explained",
+    "how-to-read-a-merchant-statement",
+    "hidden-fees-on-merchant-statements",
+    "interchange-plus-pricing",
+    "international-cards-fees"
+  ],
+  "icon": "file",
+  "read_minutes": 6
+}

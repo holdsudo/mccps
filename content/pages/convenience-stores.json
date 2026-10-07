@@ -1,0 +1,83 @@
+{
+  "slug": "convenience-stores",
+  "category": "industries",
+  "title": "Convenience Store Payment Processing",
+  "seo_title": "Convenience Store Payment Processing | MCCPS",
+  "meta_description": "Convenience stores run on speed and tiny tickets. See how to handle EBT, debit-heavy sales, lottery and card fees at a c-store without slowing the line.",
+  "primary_keyword": "convenience store payment processing",
+  "keywords": ["c-store credit card processing", "convenience store POS", "EBT convenience store", "small ticket card fees", "corner store merchant account", "bodega card processing", "counter card reader"],
+  "eyebrow": "C-store payments",
+  "dek": "When the average sale is a coffee and a snack, every fraction of a percent and every second at the register counts.",
+  "intro": [
+    "A convenience store makes its money on repetition. The same customers come back daily for a drink, a paper, a scratch-off or a pack of gum, and the average transaction is small. That makes card acceptance a mixed blessing: customers expect to tap and go, but a fixed per-transaction fee on a four-dollar sale takes a bigger bite than it does on a four-hundred-dollar one.",
+    "Add the quirks of the trade, including EBT in many stores, age-restricted items, lottery rules, cash-heavy counters and an owner who may be working the register alone, and you can see why a generic payment setup often fits badly.",
+    "The notes below are about matching your processing to how a c-store really operates."
+  ],
+  "sections": [
+    {
+      "h2": "Why small tickets change the math",
+      "paragraphs": [
+        "Card fees have two parts: a percentage and a per-transaction amount. On large sales the percentage dominates. On small ones the fixed part matters much more. Say you sell a $3.50 coffee and the total cost is a percentage plus a few cents; the fixed cents are a sizeable slice of that sale.",
+        "That is why c-store owners should pay attention to the per-item component of their pricing and to how debit transactions are treated. Debit is a large share of small purchases, and its interchange structure differs from credit. A statement analysis can show you the actual cents-per-transaction you pay across the month, which is a better yardstick than the quoted rate alone."
+      ],
+      "bullets": [
+        "Look at cost per transaction, not just the percentage",
+        "Check whether debit and credit are priced separately",
+        "Watch for monthly minimums that bite in a slow month",
+        "Ask how contactless sales are priced compared with swiped ones"
+      ]
+    },
+    {
+      "h2": "Speed at the counter",
+      "paragraphs": [
+        "Customers will leave a line that is slow. A reader that accepts tap, chip and mobile wallets, with a fast response, shortens each transaction by seconds, and over a busy morning that adds up to real throughput. Put the reader where customers can reach it without the cashier handing it over, and keep a spare in case one fails.",
+        "Offline behavior matters too. If your internet goes down during the morning rush, you need to know in advance what your system will do: queue transactions, decline them, or switch to a backup connection. MCCPS works with terminals and POS systems that can include cellular failover, and technical support is available at any hour, which fits a business open late and early."
+      ]
+    },
+    {
+      "h2": "EBT and benefit programs",
+      "paragraphs": [
+        "Many convenience stores accept EBT for eligible food items. That requires authorization through the appropriate state and federal program, and EBT transactions follow their own rules: they are processed with a PIN, they cover only eligible items, and EBT cash benefits and SNAP food benefits are separate balances. Your POS needs to separate eligible from ineligible items correctly at the time of sale.",
+        "EBT is not a card-network credit transaction, so pricing and settlement are different. See our guide on EBT processing for how it works and what you must have in place before you accept it."
+      ]
+    },
+    {
+      "h2": "Age-restricted goods, lottery and rules at the register",
+      "paragraphs": [
+        "Tobacco, vape products, alcohol in some states, and lottery tickets all come with age checks and, in some cases, restrictions on how they can be paid for. Lottery commissions typically have their own payment arrangements with the state agency, and some states restrict credit card purchases of lottery tickets. Check the requirements that apply to you and set your POS to enforce them.",
+        "A POS that prompts for an ID check on restricted items protects your license and also reduces cashier errors. These are operational rules rather than payment ones, but they influence how you configure your system."
+      ]
+    },
+    {
+      "h2": "Cash, cards and the cost of each",
+      "paragraphs": [
+        "Convenience stores still see a lot of cash, and cash has costs too: shrink, bank deposits and the risk of robbery. Many owners reasonably want to encourage cards for larger sales while keeping the speed of cash on small ones. Some stores set a card minimum; those practices are regulated differently by state and card network, and require proper signage, so check before posting a sign.",
+        "A compliant dual-pricing or cash-discount program can lower or even eliminate processing cost in some cases. MCCPS offers a Zero Processing Fees program built around this idea. Rules vary by state and card network, disclosure and signage are required, and results depend on your customer mix, so the first step is a free statement analysis rather than a promise."
+      ]
+    },
+    {
+      "h2": "Reporting, theft and getting paid",
+      "paragraphs": [
+        "In a store where employees handle many small sales, reporting is a loss-prevention tool. Look at voids, refunds and no-sale openings by employee and shift. A good dashboard can flag patterns that deserve attention and shows you daily batch totals matched to bank deposits.",
+        "Next-day funding can be available, which is useful for stores that pay vendors on delivery. If you are thinking about expanding or adding a second location, MCCPS can refer you to Fidelity Funding for business funding; MCCPS is not a lender. Call for a no-obligation review of your last two statements."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "On small tickets, the per-transaction fee matters as much as the percentage.",
+    "Fast tap acceptance and a backup connection protect the morning rush.",
+    "EBT has its own authorization and item-eligibility rules.",
+    "Card minimums and cash discounts need proper signage and vary by state.",
+    "Void and refund reports help catch problems early."
+  ],
+  "faq": [
+    {"q": "What is the best card setup for a convenience store?", "a": "A fast countertop reader that accepts chip, tap and wallets, tied to a POS that handles EBT eligibility and age-restricted items, with a backup connection. Pricing should be judged by total cost per transaction on your actual sales, not by the headline rate."},
+    {"q": "Can a convenience store set a minimum for card purchases?", "a": "Some stores do, but rules vary by state and by card network, and signage is typically required. Confirm what is currently allowed with your attorney or processor before posting a minimum."},
+    {"q": "How do I accept EBT at my store?", "a": "You generally apply through the relevant federal and state authorities for authorization, then use equipment that supports EBT PIN transactions. Only eligible items can be bought with SNAP benefits. Your POS must keep eligible and ineligible items separate."},
+    {"q": "Why are my card fees so high on small purchases?", "a": "Each card transaction includes a fixed amount along with a percentage, so on a small sale the fixed amount is a larger share. Debit-heavy volume and monthly fees also matter. A statement review can show your actual cost per transaction."},
+    {"q": "Can I keep the terminals I already have?", "a": "Often yes. If your terminals can be re-programmed, MCCPS can usually load them for a new setup rather than requiring you to buy new equipment. Ask for a compatibility check during your free statement analysis."}
+  ],
+  "related": ["gas-stations", "grocery-stores", "ebt-processing", "small-ticket-transactions", "offer-cash-discount", "liquor-stores"],
+  "icon": "store",
+  "read_minutes": 6
+}

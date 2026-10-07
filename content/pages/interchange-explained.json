@@ -1,0 +1,116 @@
+{
+  "slug": "interchange-explained",
+  "category": "blog",
+  "title": "Interchange Fees Explained",
+  "seo_title": "Interchange Fees Explained: Who Sets Them & Why | MCCPS",
+  "meta_description": "Interchange is the largest part of card processing cost. Learn who sets it, why it varies by card and sale type, and what you can and cannot control.",
+  "primary_keyword": "interchange fees explained",
+  "keywords": [
+    "what is interchange",
+    "interchange rates",
+    "interchange categories",
+    "card network interchange tables",
+    "interchange plus",
+    "why interchange varies",
+    "interchange reimbursement fee"
+  ],
+  "eyebrow": "Fee basics",
+  "dek": "Interchange is the biggest slice of what you pay to take cards, and no processor sets it. Here is where it comes from and why it moves.",
+  "intro": [
+    "Open any merchant statement and you will find a line, or a whole page, of rates that look oddly specific: one percent plus a few cents here, close to two percent there, a different figure for the same card when the sale is keyed in. Those figures are interchange, and they quietly account for the majority of what most businesses pay to accept cards.",
+    "The confusing part is that your processor does not control them, yet two businesses with the same sales volume can pay noticeably different totals. The difference comes from how the sales were accepted, what cards were used, and how your processor chooses to present the cost to you."
+  ],
+  "sections": [
+    {
+      "h2": "What interchange actually is",
+      "paragraphs": [
+        "Interchange is a fee paid on every card sale from the merchant's side of the transaction to the bank that issued the customer's card. It compensates the issuer for fraud losses, the cost of operating card accounts, the credit it extends, and in the case of rewards cards, a portion of the benefits it gives cardholders.",
+        "Your acquirer collects it from your sales and passes it along. It is a pass-through, which means a processor that charges you interchange is not keeping it. What the processor adds on top is a separate markup, which we cover elsewhere."
+      ]
+    },
+    {
+      "h2": "Who sets the rates",
+      "paragraphs": [
+        "The card networks publish interchange tables. Each network maintains its own schedule with dozens of categories, and the tables are revised periodically, often twice a year, in spring and fall. Individual banks and processors cannot negotiate their own interchange for ordinary merchants, so a quote that promises a lower interchange rate than the published table for your category should raise questions.",
+        "That is why the useful questions for any provider are not what interchange costs, which is public information, but how much they add and whether that added amount is visible on your statement.",
+        "A practical consequence of published tables is that you can verify your own statement. Pick the largest interchange line, note its rate and compare it with the category name. If a line reads as a standard consumer credit rate but the volume attached is mostly debit, something is mislabeled. Itemized statements make this kind of spot check possible in a few minutes, while bundled statements do not.",
+        "It also explains why a quote that seems to promise rates below interchange cannot be taken at face value. Either the figure is a blended average that includes sales that cost less than the headline, or some cost is being recovered elsewhere, such as in monthly or per-item fees. Ask for the full cost at your volume."
+      ]
+    },
+    {
+      "h2": "Why the same card can cost different amounts",
+      "paragraphs": [
+        "A single customer's card might be charged at several different interchange rates depending on how it is used. The category is determined by a mix of factors rather than one rule.",
+        "Each sale is slotted into the category that best matches its data. If your system sends incomplete or mismatched information, the transaction can fall into a more expensive default category. This is one of the less obvious ways a poorly configured terminal quietly raises costs."
+      ],
+      "bullets": [
+        "Card type: consumer debit, consumer credit, rewards credit, commercial or corporate.",
+        "Entry method: chip, contactless or swipe in person versus keyed or online.",
+        "Merchant category: grocery, fuel, restaurants, utilities and similar groups sometimes carry special tables.",
+        "Ticket size: very small sales may have a lower percentage with a different fixed component.",
+        "Data quality: address verification, security codes and settlement timing that meet network requirements.",
+        "Business-to-business data: Level 2 and Level 3 details can qualify some commercial card sales for lower rates."
+      ]
+    },
+    {
+      "h2": "The structure of an interchange rate",
+      "paragraphs": [
+        "Most interchange rates have two parts: a percentage of the sale plus a fixed per-transaction amount. So a category might be written as a percentage plus a few cents. On a small sale the fixed piece takes a larger share, which is why a handful of low-ticket purchases can have a higher effective rate than a few big ones.",
+        "Take a hypothetical sale of $50 at 1.8% plus ten cents. The percentage portion is 90 cents, and adding the ten cents gives $1.00 of interchange, or exactly 2.0% of the sale. Run a $10 sale through the same category and the interchange is 28 cents, or 2.8%. The category is identical, but the effective percentage changes with the ticket size."
+      ]
+    },
+    {
+      "h2": "Regulated and unregulated interchange",
+      "paragraphs": [
+        "Debit cards issued by the largest banks fall under federal rules that cap the interchange the issuer can collect, while smaller issuers and credit cards are not subject to the same cap. That is a main reason debit and credit costs differ so widely, a topic we break down separately.",
+        "Rules and caps change over time, so treat any figure you read, including in articles like this one, as a starting point and confirm current rates directly from your processor's disclosures or the networks' published tables."
+      ]
+    },
+    {
+      "h2": "What you can control",
+      "paragraphs": [
+        "You cannot negotiate interchange itself, but you can influence which category your sales land in. Reading cards by chip or contactless instead of keying them, collecting address and security code data for online orders, closing batches daily, and sending Level 2 and 3 data on business purchases all help sales qualify for the best category available to them.",
+        "You can also choose a pricing model that shows interchange openly. Under interchange-plus, you see the pass-through plus a clearly stated markup. Under tiered or flat-rate structures, interchange is blended into bundled rates, which makes it harder to tell whether a given rate is fair.",
+        "MCCPS reviews two months of your statements at no cost and no obligation, separating interchange from everything else so you can see what is fixed and what is negotiable. Whether you would save depends on your card mix and how you accept payments."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Interchange goes to the card-issuing bank and is set by the card networks, not by your processor.",
+    "The same card can land in different categories depending on how and where it is used.",
+    "Small tickets feel the fixed per-transaction part of interchange more than large ones.",
+    "You cannot negotiate interchange, but you can influence the category your sales qualify for."
+  ],
+  "faq": [
+    {
+      "q": "Can I negotiate interchange rates with my processor?",
+      "a": "Not for ordinary merchants. Interchange is published by the card networks and passed through. What is negotiable is the markup your processor adds on top, plus monthly, gateway and per-item fees. Ask for a statement that itemizes both layers so you can see exactly which one you are discussing."
+    },
+    {
+      "q": "Why did my rates change twice a year?",
+      "a": "The card networks update their interchange tables on a periodic schedule, often in spring and fall, and new categories or adjustments can shift what your sales cost. Your processor's markup stays the same unless your agreement says otherwise, so changes you see are usually in the pass-through."
+    },
+    {
+      "q": "Is interchange the same as the processing fee?",
+      "a": "No. Interchange is one component of total processing cost, alongside network assessments and your processor's markup and fixed fees. Your total cost divided by total card sales is your effective rate, which is the better number for comparing providers."
+    },
+    {
+      "q": "Why are keyed-in sales more expensive?",
+      "a": "Keyed or online transactions carry more fraud risk than chip or contactless reads, so the networks assign them to higher-cost categories unless extra data such as address verification is provided. The extra cost can still be reduced by collecting the right data."
+    },
+    {
+      "q": "Does interchange apply to debit cards?",
+      "a": "Yes. Debit transactions carry interchange too, but sales on cards from the largest issuers are subject to federal limits, which usually makes them cheaper than credit. Smaller issuers fall outside the cap, and rules change, so confirm current details with your processor."
+    }
+  ],
+  "related": [
+    "assessment-fees-explained",
+    "processor-markup-explained",
+    "debit-vs-credit-processing-costs",
+    "rewards-cards-cost-more",
+    "interchange-plus-pricing",
+    "level-2-3-data-explained"
+  ],
+  "icon": "dollar",
+  "read_minutes": 6
+}

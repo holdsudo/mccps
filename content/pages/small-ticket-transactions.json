@@ -1,0 +1,118 @@
+{
+ "slug": "small-ticket-transactions",
+ "category": "blog",
+ "title": "Small-Ticket Transactions and Processing Costs",
+ "seo_title": "Small-Ticket Transactions and Processing Costs | MCCPS",
+ "meta_description": "Why small-ticket sales cost more per dollar to process, how per-transaction fees add up, and pricing and workflow choices for cafes, stalls and more.",
+ "primary_keyword": "small ticket transactions",
+ "keywords": [
+  "small ticket processing fees",
+  "per transaction fee",
+  "micro transactions merchants",
+  "low ticket card payments",
+  "minimum card purchase",
+  "coffee shop card fees",
+  "small ticket interchange"
+ ],
+ "eyebrow": "Pricing mechanics",
+ "dek": "Why a five-dollar sale can cost proportionally more to process than a fifty-dollar one, and what to do about it.",
+ "intro": [
+  "A five-dollar coffee sold by card and a five-hundred-dollar repair paid by card go through the same pipeline. The customer taps, the terminal requests an authorization, the issuer approves and the funds settle. Yet the fee as a share of the sale looks very different, because part of the cost is a fixed amount per transaction.",
+  "For businesses with many small sales, such as cafes, snack bars, parking, vending, laundromats and farmers market stalls, that fixed component can become the main driver of the effective rate. Understanding it helps you choose pricing, set policies and adjust workflows without alienating customers.",
+  "This guide explains where the per-item costs come from, with hypothetical examples, and lists practical options."
+ ],
+ "sections": [
+  {
+   "h2": "The fixed part of a percentage-and-fee price",
+   "paragraphs": [
+    "Card pricing generally has two parts: a percentage of the sale and a fixed amount per transaction. Interchange has both, as does the processor's markup. On a large sale, the fixed piece is a rounding error. On a small one, it can be a large slice.",
+    "Say a processor charges 2.5 percent plus 15 cents all-in. On a $5 sale that is 12.5 cents plus 15 cents, or 27.5 cents, a 5.5 percent effective rate. On a $100 sale it is $2.50 plus 15 cents, or 2.65 percent. The numbers are hypothetical, but the shape is typical: smaller tickets carry higher effective rates.",
+    "Per-item charges also stack across steps. A single sale can trigger an authorization charge, a gateway charge and a share of a batch charge, each only a few cents. Add them across thousands of monthly sales and the total can exceed the percentage-based fees you were focused on."
+   ]
+  },
+  {
+   "h2": "Where the per-item costs sit",
+   "paragraphs": [
+    "Look at your statement for authorization fees, per-transaction markup, gateway fees and batch fees. Each can add a few cents. Tiered statements may bury them in rates. Interchange-plus statements list them separately.",
+    "Some card programs have special small-ticket categories with different interchange structures for qualifying merchant types, and eligibility depends on the merchant category and network rules. Ask your processor whether any apply to you, and do not assume.",
+    "Consider a hypothetical stand that sells 3,000 items a month at $4 each, or $12,000 in card volume. At 27 cents per sale all-in, fees come to $810, a 6.75 percent effective rate. If the same $12,000 came from 300 sales of $40, fees at the same structure would be about $390. Same volume, very different bill, entirely due to ticket count."
+   ],
+   "bullets": [
+    "Authorization or per-item fee.",
+    "Gateway fee per transaction.",
+    "Batch or settlement fee.",
+    "Fixed component inside interchange."
+   ]
+  },
+  {
+   "h2": "Pricing structures that help",
+   "paragraphs": [
+    "Interchange-plus with a low per-item markup is often more transparent for small-ticket businesses than a flat percentage. A flat rate that looks attractive for large tickets can be costly when the fixed component is high. Ask for a per-item fee that reflects your average ticket.",
+    "Another route is a compliant cash-discount or dual-pricing program, which can reduce or remove card-processing cost. MCCPS offers Zero Processing Fees for eligible merchants. Rules vary by state and card network and require clear disclosure, so confirm current requirements before launching.",
+    "Unattended and subscription-like micro-payments are another variant. Parking meters and vending machines often aggregate several small events before charging a card, which reduces the number of fees. Ask whether your system supports aggregation or tab-style authorizations."
+   ]
+  },
+  {
+   "h2": "Minimums and incentives: use with care",
+   "paragraphs": [
+    "Some merchants post a minimum purchase for cards. Rules on minimums depend on the card network and local law, and they may require specific disclosure; confirm what is permitted before posting one. Others encourage cash for very small sales, which should be handled by signage, not by refusing cards unexpectedly.",
+    "Incentives often work better than limits: a loyalty stamp, a small discount for cash or a bundled item that lifts the ticket size. Customers respond to a clear benefit more than to a restriction.",
+    "For debit specifically, regulated and unregulated debit are priced differently depending on the issuer's size, which can influence small-ticket economics. Your processor can show how debit is billed on your statement, and that detail can matter more than the headline percentage."
+   ]
+  },
+  {
+   "h2": "Workflow tweaks that cut cost and time",
+   "paragraphs": [
+    "Speed matters at small-ticket counters. Contactless payments and mobile wallets shorten the transaction and keep you in card-present pricing. Make sure your readers are fast and reliable, and that receipts are optional or digital to avoid paper costs.",
+    "Batch settlement can be automatic or manual; confirm which applies so you do not pay for extra batches. Combine small purchases into one tab when your business allows, such as a regular who adds to a running order.",
+    "Track average ticket by hour. If a morning rush of three-dollar sales drags the average down, a small add-on offer or bundle can lift the ticket without changing prices. A modest rise in average ticket reduces the fixed-fee share more than most rate negotiations."
+   ]
+  },
+  {
+   "h2": "Reviewing your numbers",
+   "paragraphs": [
+    "Add up transactions and fees from last month and compute your average ticket, your effective rate and your cost per transaction. If the per-transaction cost is more than a few cents above what you were quoted, ask why. The monthly statement is the evidence.",
+    "MCCPS provides a free, no-obligation analysis of two months of statements and can tell you how your small-ticket mix is being priced. Free 24/7 support and the option to keep existing terminals make changes easier."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Fixed per-item fees weigh heavily on small sales.",
+  "Calculate cost per transaction as well as effective rate.",
+  "Interchange-plus with low per-item markup can be more transparent.",
+  "Minimums and surcharges have rules; confirm before using them.",
+  "Contactless speed and loyalty incentives help more than restrictions."
+ ],
+ "faq": [
+  {
+   "q": "Why are my fees higher on small purchases?",
+   "a": "Because card pricing includes a fixed amount per transaction. On a small sale that fixed amount is a larger percentage of the total, so the effective rate rises as ticket size falls."
+  },
+  {
+   "q": "Can I set a minimum for card purchases?",
+   "a": "Possibly, but rules vary by card network and local law, and disclosure is typically required. Confirm what is allowed in your location before posting a minimum, and apply it consistently."
+  },
+  {
+   "q": "Is flat-rate pricing good for small tickets?",
+   "a": "It can be simple, but a flat percentage with a high fixed fee can be costly on very small sales. Compare the total cost on your average ticket against other structures."
+  },
+  {
+   "q": "Do contactless payments cost less?",
+   "a": "They are card-present transactions, which are usually cheaper than keyed ones, and they speed up the line. The fixed per-item fee still applies, so ticket size remains the main driver."
+  },
+  {
+   "q": "What is a good way to see my true cost?",
+   "a": "Divide total fees by number of transactions to find cost per sale, and by volume for effective rate. Compare both with your quote. A line-by-line statement review shows what is driving each."
+  }
+ ],
+ "related": [
+  "effective-rate-explained",
+  "coffee-shops",
+  "farmers-markets-and-vendors",
+  "debit-vs-credit-processing-costs",
+  "offer-cash-discount",
+  "flat-rate-vs-interchange-plus"
+ ],
+ "icon": "dollar",
+ "read_minutes": 6
+}

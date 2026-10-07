@@ -1,0 +1,119 @@
+{
+ "slug": "international-cards-fees",
+ "category": "blog",
+ "title": "Cross-Border and International Card Fees",
+ "seo_title": "Cross-Border and International Card Fees | MCCPS",
+ "meta_description": "Why international cards cost more to accept: cross-border assessments, currency conversion, higher fraud risk, and how to manage fees when selling worldwide.",
+ "primary_keyword": "international card fees",
+ "keywords": [
+  "cross-border fees",
+  "currency conversion fee",
+  "foreign card surcharge",
+  "dynamic currency conversion",
+  "accept international cards",
+  "cross-border interchange",
+  "multi-currency processing"
+ ],
+ "eyebrow": "Global sales",
+ "dek": "What changes when the card, the customer or the currency crosses a border, and how to keep the extra cost under control.",
+ "intro": [
+  "The moment a customer from another country pays with a card issued abroad, the economics of the sale can change. Additional network charges may apply, currency may need to be converted, fraud checks get harder and chargebacks can take longer to resolve. None of this should stop you from selling, but it should be reflected in your pricing and your expectations.",
+  "The terms are confusing because several different things get called international fees. One is the cross-border assessment charged by the networks. Another is the currency conversion margin. A third is the processor's own surcharge for foreign cards. They may appear as separate lines or be buried in a blended rate.",
+  "This guide explains each one, how to spot it on your statement and what choices you have."
+ ],
+ "sections": [
+  {
+   "h2": "What counts as cross-border",
+   "paragraphs": [
+    "Generally a transaction is cross-border when the card's issuing country differs from the merchant's country. It does not depend on where the customer is standing; a traveler using a domestic card in your shop is domestic, while a local resident using a foreign-issued card may be cross-border.",
+    "Networks add assessment fees to such transactions, and interchange rates for foreign-issued cards can be different from domestic ones. The specific amounts change over time and by network, so rely on your statement and current processor pricing instead of fixed figures.",
+    "Think of it in layers. The base interchange is the bank-to-bank fee. Network assessments are charged by the card brand, and cross-border ones are higher. The processor then adds its markup. The foreign-card surcharge some processors apply is on top of all that. If you know which layer a line item belongs to, you know who can change it."
+   ]
+  },
+  {
+   "h2": "Currency conversion: who does it and who profits",
+   "paragraphs": [
+    "If you charge in your own currency, the customer's issuer converts the amount to theirs, usually adding a margin that the customer sees on their statement. If you offer multi-currency pricing, you display prices in the customer's currency and settle in yours or theirs, depending on your setup.",
+    "Dynamic currency conversion, where the terminal or checkout offers the customer the choice to pay in their home currency, adds a markup that is shared in some arrangements. Customers can feel misled if it is presented poorly, so clear disclosure matters.",
+    "If you plan to add multi-currency pricing, decide how you will handle exchange-rate swings. Some merchants update prices daily, others weekly, and some use a buffer. Customers dislike seeing the price change between cart and checkout, so lock the rate for the session.",
+    "Some merchants display both prices clearly on the page, such as a local figure with an approximate conversion in the customer's currency. Whatever you choose, make sure the amount the customer approves is the amount actually charged, and that your receipts show both currency and the exchange basis."
+   ],
+   "bullets": [
+    "Pricing in your currency: simple, but customer pays the issuer's conversion.",
+    "Multi-currency pricing: friendlier, but exposes you to rate movement.",
+    "Dynamic currency conversion: check disclosure and local rules carefully."
+   ]
+  },
+  {
+   "h2": "Risk is higher too",
+   "paragraphs": [
+    "International card-not-present orders have more fraud potential, and address verification systems often work only for certain countries. Shipping to freight forwarders, mismatched billing and shipping regions and unusual order patterns warrant scrutiny.",
+    "Chargebacks cost more to fight, since mail, time zones and evidence rules complicate disputes. Clear terms, tracked shipping with signature on high-value orders and prompt customer communication reduce the number you have to fight.",
+    "Refunds on international orders can lose money. If the currency moved between sale and refund, you may refund slightly more or less in your own currency than you received. Also, fees on the original transaction are typically not returned. Include this in your refund policy and your margin calculations."
+   ]
+  },
+  {
+   "h2": "How the fees appear on your statement",
+   "paragraphs": [
+    "On interchange-plus statements, cross-border and international assessments appear as separate lines, and foreign-issued interchange is often distinct. On tiered statements, such transactions may be put in the most expensive tier, and flat-rate arrangements may charge a higher percentage for international cards.",
+    "Hypothetically, if your domestic effective rate is 2.9 percent and a foreign card adds another percentage point, a $200 international sale costs about $7.80 versus $5.80. Check your statement for the actual difference.",
+    "Ask your processor how foreign-issued debit and credit are priced, whether it differentiates by region and how often pricing is updated. A processor that can explain these points without hesitation likely understands the business you are bringing."
+   ]
+  },
+  {
+   "h2": "Ways to manage the cost",
+   "paragraphs": [
+    "You can price for it, accept only cards from certain regions, add a clear surcharge where permitted, or negotiate the processor's international markup. Rules on surcharging vary by state and card network, and signage and disclosure are required, so confirm current requirements before adding one.",
+    "Many merchants simply absorb the cost and treat it as the price of reaching more customers. Whatever you choose, know the proportion of your sales that are foreign-issued so you can judge the impact.",
+    "Review a quarter of statements to see what share of your volume is foreign-issued. If it is a small share, the extra cost may not justify complex changes. If it is a large share, negotiating the international markup or restructuring pricing becomes worthwhile."
+   ]
+  },
+  {
+   "h2": "Setting up to accept international cards",
+   "paragraphs": [
+    "Make sure your merchant account is enabled for international cards, your gateway supports your chosen currencies and your checkout displays clear prices, taxes, duties and shipping. Collect complete billing addresses and use security code checks.",
+    "MCCPS offers a free, no-obligation review of your statements that shows how international transactions are priced today, along with support for multiple gateways and free 24/7 help if a payment fails.",
+    "Finally, tell your team what a foreign-issued decline looks like and what to say. A polite request for another card or a different payment method, with no suggestion of suspicion, keeps the sale alive and the customer comfortable. Reserve escalation for orders that show several risk signs at once."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Cross-border means the card's issuing country differs from yours.",
+  "Network assessments and conversion margins can add cost.",
+  "Dynamic currency conversion needs clear disclosure.",
+  "International card-not-present orders carry more fraud and dispute difficulty.",
+  "Check your statement to see the true added cost."
+ ],
+ "faq": [
+  {
+   "q": "What makes a card international?",
+   "a": "The issuing country. A card issued abroad is typically treated as cross-border even if the customer is in your store, and a domestic card used abroad is domestic for your own processor."
+  },
+  {
+   "q": "Who pays the currency conversion fee?",
+   "a": "If you price in your own currency, the customer's issuer converts and the customer bears the margin. With multi-currency options, the conversion cost may shift to you or be shared, depending on the arrangement."
+  },
+  {
+   "q": "Can I add a surcharge for foreign cards?",
+   "a": "Rules vary by state, country and card network, and proper disclosure is required. Confirm the current requirements with your processor and counsel before adding one."
+  },
+  {
+   "q": "Why are international orders riskier?",
+   "a": "Address verification is less reliable across borders, shipping addresses can be forwarders and disputes take longer. Use security codes, review unusual orders and keep tracking and delivery records."
+  },
+  {
+   "q": "Do I need a special account to accept them?",
+   "a": "Often the same merchant account can accept them, but it must be enabled, and your gateway must support the currencies. Ask your processor to confirm before advertising to foreign customers."
+  }
+ ],
+ "related": [
+  "accept-international-cards",
+  "accept-payments-online",
+  "ecommerce",
+  "card-present-vs-card-not-present",
+  "avs-and-cvv",
+  "3d-secure-explained"
+ ],
+ "icon": "pin",
+ "read_minutes": 6
+}

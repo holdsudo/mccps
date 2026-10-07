@@ -1,0 +1,83 @@
+{
+  "slug": "credit-card-processing",
+  "category": "solutions",
+  "title": "Credit Card Processing for Businesses",
+  "seo_title": "Credit Card Processing for Businesses | MCCPS",
+  "meta_description": "Learn how credit card processing works, from merchant account to settlement, and how MCCPS helps you accept cards in store, online and on the go.",
+  "primary_keyword": "credit card processing",
+  "keywords": ["credit card processing services", "merchant account", "how credit card processing works", "accept credit cards", "payment processing for small business", "card processing fees", "merchant services"],
+  "eyebrow": "Core solution",
+  "dek": "A plain-English look at what happens between a customer's tap and the money in your bank account, and what you control along the way.",
+  "intro": [
+    "A customer hands over a card, the terminal beeps, and a receipt prints. To you it feels instant. Behind that beep are five or six parties exchanging messages in about two seconds, and several more steps that happen overnight before cash lands in your account. Most owners never see that chain until a statement arrives with fees they cannot decode.",
+    "Understanding the basics of credit card processing is the fastest way to stop overpaying and to choose equipment and pricing that fit how you actually sell. This page walks through the moving parts, the costs attached to each one, and the decisions that are genuinely yours.",
+    "Merchant Credit Card Processing Services LLC (MCCPS) sets businesses up to accept cards in store, online, by phone and on the go. If you would rather skip straight to a second opinion on your current setup, the free statement analysis is the easiest place to start."
+  ],
+  "sections": [
+    {
+      "h2": "What a merchant account actually is",
+      "paragraphs": [
+        "A merchant account is the arrangement that lets your business receive card money. It is not a bank account in the everyday sense. It is a relationship with an acquiring bank, usually managed through a processor or a registered ISO, that agrees to advance funds for approved card sales and then collect from the customer's issuing bank.",
+        "Because the acquirer takes on risk, you go through underwriting before you are approved. They look at what you sell, how you sell it, your expected monthly volume and your average ticket. A florist taking walk-in orders is a different risk profile from a company that charges a customer in January for a service delivered in June."
+      ]
+    },
+    {
+      "h2": "From tap to authorization in two seconds",
+      "paragraphs": [
+        "When a card is dipped, tapped or typed, the terminal or gateway packages the details and sends an authorization request to your processor. The processor routes it through the card network to the issuing bank. The issuer checks that the account is open, the funds or credit line are there, and nothing looks fraudulent, then answers approve or decline.",
+        "An approval is a promise to pay, not payment itself. The issuer places a hold on the cardholder's available balance. Nothing has moved into your account yet, which is why a sale can look approved on the screen and still be adjusted later if a tip is added or an order is cancelled."
+      ],
+      "bullets": [
+        "Cardholder presents the card, phone or watch",
+        "Terminal or gateway encrypts and sends the request",
+        "Processor and network route it to the issuing bank",
+        "Issuer returns an approval code or a decline reason",
+        "The sale waits in an open batch until it is closed"
+      ]
+    },
+    {
+      "h2": "Batching, clearing and settlement",
+      "paragraphs": [
+        "At the end of the day, usually automatically, the terminal closes its batch: the list of all approved sales is sent to the processor for clearing. The processor passes the batch to the networks, the networks tell each issuer what it owes, and the issuers send funds back through the acquirer.",
+        "Settlement is the step where money moves. Standard timing is often one to three business days after the batch closes, and weekends and bank holidays stretch that. Next-day funding is available through MCCPS, subject to your account setup, which can meaningfully change how comfortably you cover payroll or inventory orders."
+      ]
+    },
+    {
+      "h2": "Where the fees come from",
+      "paragraphs": [
+        "Every card sale carries three layers of cost. Interchange goes to the issuing bank and varies by card type, whether the card was present, and how the transaction was entered. Assessments go to the card networks. The processor's markup, which is the only layer that is negotiable, sits on top.",
+        "Say you process $40,000 a month and your statement shows $1,240 in total fees. That is a 3.1% effective rate. If the underlying interchange and assessments were closer to 2.2% on your card mix, the gap is markup and junk fees, and that is where a line-by-line review earns its keep. Effective rates commonly land in the 2 to 4 percent range depending on card mix and how cards are accepted, so your own number matters more than any average."
+      ]
+    },
+    {
+      "h2": "Choosing how you accept cards",
+      "paragraphs": [
+        "In-person sales can run through countertop terminals, wireless units, a POS system or a phone-based reader. Online sales go through a payment gateway connected to your website or cart. Phone and mail orders use a virtual terminal. A single merchant account can usually support all of these, so you get one set of statements and one place to look for problems.",
+        "MCCPS integrates with almost any POS, smartphone or terminal, and often keeps re-programmable terminals you already own, which avoids paying for new hardware just to change processors. Multiple gateways are supported for online selling, and one-time and recurring payments both work on the same account."
+      ]
+    },
+    {
+      "h2": "Security, compliance and support",
+      "paragraphs": [
+        "Accepting cards means taking responsibility for protecting card data. PCI compliance is the annual process of confirming you do that, and unmanaged compliance is a common source of surprise fees. EMV chip and contactless acceptance reduce counterfeit risk, and tokenization keeps stored card numbers out of your own systems.",
+        "Good processing also means a person to call when something breaks on a Saturday night. MCCPS offers free 24/7 technical support and personal customer service, along with a reporting and analytics dashboard so you can see volume, fees and trends yourself. Pricing programs such as Zero Processing Fees, a compliant dual-pricing or cash-discount approach, may reduce or remove card-processing cost, but rules vary by state and card network and need proper signage. Send two recent statements for the free analysis and a specialist will show you what applies to your business."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "An approval is a promise to pay; money moves later at settlement.",
+    "Fees have three layers: interchange, assessments and processor markup.",
+    "Your effective rate, not the quoted rate, shows what you really pay.",
+    "One merchant account can cover in-store, online, phone and mobile sales."
+  ],
+  "faq": [
+    {"q": "How long does credit card processing take?", "a": "Authorization takes a couple of seconds. Settlement, when money reaches your bank, commonly takes one to three business days after the batch closes. Next-day funding is available through MCCPS depending on your account setup, and weekends or bank holidays can still push deposits later."},
+    {"q": "Do I need a merchant account to accept cards?", "a": "Yes, in some form. Either you hold a dedicated merchant account through an acquirer, or you sign up under an aggregator's shared account. A dedicated account usually offers more control over pricing, holds and reporting. A specialist can explain which structure fits your volume and risk profile."},
+    {"q": "What is the difference between a processor and a gateway?", "a": "A processor moves the transaction data between the card networks and banks and handles settlement. A gateway is the secure connection that captures card data from a website, virtual terminal or app and passes it to the processor. Online sellers need both, working together."},
+    {"q": "Can I keep my existing card terminal?", "a": "Often, yes. Many terminals can be reprogrammed to work with a new processor, which avoids buying hardware. It depends on the make and model and whether it is locked or leased. MCCPS can check your terminal during the free statement analysis."},
+    {"q": "Why does my statement show different rates for different cards?", "a": "Interchange depends on the card type, whether the card was present, and how the sale was entered. Rewards and corporate cards, key-entered sales and online orders usually cost more than a debit card swiped in person. Your pricing model decides how clearly that shows up."}
+  ],
+  "related": ["interchange-plus-pricing", "free-statement-analysis", "next-day-funding", "how-credit-card-processing-works", "what-is-a-merchant-account", "zero-processing-fees"],
+  "icon": "card",
+  "read_minutes": 6
+}

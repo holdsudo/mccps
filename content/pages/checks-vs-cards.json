@@ -1,0 +1,125 @@
+{
+ "slug": "checks-vs-cards",
+ "category": "blog",
+ "title": "Paper Checks vs. Card Payments for Small Businesses",
+ "seo_title": "Paper Checks vs. Card Payments for Businesses | MCCPS",
+ "meta_description": "Comparing checks and cards? See how cost, speed, fraud risk and customer convenience differ, and when each payment method makes sense for your business.",
+ "primary_keyword": "checks vs credit cards",
+ "keywords": [
+  "accepting checks",
+  "check fraud",
+  "card payments vs checks",
+  "check deposit time",
+  "ACH alternative to checks",
+  "returned checks NSF",
+  "payment method costs"
+ ],
+ "eyebrow": "Payment methods",
+ "dek": "Checks look free and cards look expensive. The real comparison includes time, risk and the cost of chasing money.",
+ "intro": [
+  "Some customers still hand over a check without thinking twice, and some business owners still prefer them because there is no percentage fee. It seems simple: a check costs a few cents, a card costs a few percent. But when you add up bank charges, deposit trips, returned checks, delays and fraud exposure, the picture is less lopsided than it looks.",
+  "This guide compares checks and cards across the factors that matter to a small business: cost, speed, risk, convenience and customer experience. It also points to a middle path, bank-based electronic payments, that may suit larger or recurring payments better than either."
+ ],
+ "sections": [
+  {
+   "h2": "The visible cost: what you pay per payment",
+   "paragraphs": [
+    "Cards carry processing fees. Depending on card mix and how cards are accepted, effective rates commonly land somewhere in the two to four percent range. On a $1,000 payment, that might be $20 to $40. Checks usually have lower direct fees, though your bank may charge for deposits, returned items or deposit services.",
+    "The difference is real, especially on large tickets. That is why many B2B sellers use ACH or Level 2 and 3 card programs for big invoices. For small purchases, a per-transaction fee on a check can sometimes exceed expectations when you consider handling time."
+   ]
+  },
+  {
+   "h2": "The hidden costs of checks",
+   "paragraphs": [
+    "Checks cost time. Someone has to receive, log, endorse and deposit each one, or scan it with a mobile deposit tool. Mistakes happen: a check goes missing, a digit is misread, a deposit is delayed by a visit to the bank. For a business with steady check volume, that adds up in labor.",
+    "There is also the cost of returned checks. A check can bounce days after you have provided the goods or service, leaving you to chase the customer, pay a fee and wait. Cards, by contrast, receive an approval at the point of sale, so you know immediately whether funds are available."
+   ],
+   "bullets": [
+    "Handling time for receiving, recording and depositing",
+    "Bank fees for returned items and deposits",
+    "Collections effort when a check bounces",
+    "Risk of lost or misplaced paper"
+   ]
+  },
+  {
+   "h2": "Speed: when do you actually get paid",
+   "paragraphs": [
+    "A card sale is authorized in seconds and typically settles within a day or two; next-day funding is available through MCCPS for eligible merchants. A check must be deposited, cleared and sometimes held by the bank, which can take several business days, and it can still be returned after it appears to clear.",
+    "Speed matters most for businesses with thin cash flow. If you must pay suppliers or payroll soon after a sale, waiting on a check can strain the week. If you can wait, the speed gap may matter less."
+   ]
+  },
+  {
+   "h2": "Fraud and risk",
+   "paragraphs": [
+    "Checks carry their own risks. They display your customer's account and routing numbers, making them easy to copy. Altered, counterfeit and stolen checks are all real hazards, and a fraudulent check may only come to light after you have shipped the order.",
+    "Cards offer real-time verification and tools like chip authentication, address and security-code checks, and tokenization. But they bring their own risk: chargebacks. A cardholder can dispute a charge for a period of time, and you must prove the sale was valid. Weigh the exposure differently: check risk is mostly about being unpaid, card risk is about disputes."
+   ],
+   "bullets": [
+    "Checks: bounced items, counterfeits, altered amounts",
+    "Cards: chargebacks, stolen card use online",
+    "Both: require good verification and record keeping"
+   ]
+  },
+  {
+   "h2": "Customer experience",
+   "paragraphs": [
+    "Customers choose payment methods based on habit and convenience. Many younger customers rarely carry checkbooks, and tap or phone payment is quicker than writing. Some older customers or businesses still prefer checks because they provide a record and control.",
+    "Accepting only checks can lose sales; accepting only cards can disappoint a few loyal customers. Where practical, offer several methods and guide people toward the one that costs you the least without making them feel penalized.",
+    "Consider also the paper trail each method leaves. Card payments generate electronic records automatically, which simplifies reconciliation and tax preparation. Checks require someone to match the deposit to the invoice, and a check that arrives without a reference can sit unapplied for weeks. If you keep accepting checks, ask customers to write the invoice number on the memo line, and record every check on the day it arrives."
+   ]
+  },
+  {
+   "h2": "A middle path: ACH and bank transfers",
+   "paragraphs": [
+    "For large or recurring payments, ACH sends money directly between bank accounts, usually at a lower cost than cards and with less handling than checks. It suits rent, retainers, memberships and B2B invoices. Returns can still occur, and authorization requirements apply.",
+    "Our guide on ACH versus credit cards explains the timing and risk differences. Many businesses use a mix: cards for convenience and speed, ACH for big or repeating payments and checks only where customers insist."
+   ]
+  },
+  {
+   "h2": "Choosing for your business and managing card cost",
+   "paragraphs": [
+    "Think about your average ticket, customer base and cash flow. A contractor with large invoices may encourage ACH or checks for big balances and cards for deposits. A retail shop with small sales will find cards essential.",
+    "If card fees are your main objection to accepting them, look at what you are actually paying. MCCPS offers a free, no-obligation statement analysis, and its Zero Processing Fees program is a compliant dual-pricing or cash-discount approach that may bring card-processing cost to zero for eligible businesses. Rules vary by state and card network and require disclosure and signage, so confirm current requirements."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Checks have lower direct fees but real hidden costs in time, delay and returns.",
+  "Cards authorize in seconds, while checks can bounce days later.",
+  "Checks expose account numbers and carry counterfeit risk; cards bring chargeback risk.",
+  "ACH is a strong option for large or recurring payments.",
+  "If fees are the objection to cards, review what you actually pay."
+ ],
+ "faq": [
+  {
+   "q": "Are checks cheaper than credit cards for businesses?",
+   "a": "Checks usually have lower direct fees, but handling time, deposit trips, bank fees and returned checks add costs. Cards charge a percentage but give instant approval and faster funding. The cheaper option depends on your ticket size, volume and cash flow. Your own statements and records are the best guide, so review them before you decide."
+  },
+  {
+   "q": "How long does a check take to clear?",
+   "a": "Deposit and clearing times vary by bank and circumstance, and funds may be held for several business days. A check can also be returned after it first appears to clear. Card payments settle faster and get approved immediately. Check the details against your own agreement, since terms differ between providers."
+  },
+  {
+   "q": "What is the risk of accepting checks?",
+   "a": "The main risks are insufficient funds, closed accounts, counterfeit or altered checks and stolen checks. You may not learn of the problem for days. Verifying identity, using check verification services and depositing promptly reduce but do not eliminate the exposure. A quick call to your processor can confirm how this works on your specific account."
+  },
+  {
+   "q": "When is ACH better than a check or card?",
+   "a": "ACH often suits large, recurring or B2B payments, where card fees would be significant and a check would be slow. It requires proper authorization and carries return risk, so use it with clear agreements and verification of bank details. Write the answer down so every manager and employee gives customers the same explanation."
+  },
+  {
+   "q": "Can I encourage customers to pay by card without hurting sales?",
+   "a": "Offer convenience and clear options. Some merchants use compliant dual-pricing or cash-discount programs. Rules vary by state and card network and require disclosure and signage, so confirm current requirements before changing prices. Customers respond best to clarity and fairness. Revisit the question at least once a year, because equipment, rules and pricing change."
+  }
+ ],
+ "related": [
+  "ach-vs-credit-card",
+  "ach-processing",
+  "cash-vs-card-small-business",
+  "going-cashless",
+  "get-paid-faster",
+  "collect-overdue-invoices"
+ ],
+ "icon": "cash",
+ "read_minutes": 7
+}

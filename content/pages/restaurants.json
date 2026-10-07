@@ -1,0 +1,132 @@
+{
+  "slug": "restaurants",
+  "category": "industries",
+  "title": "Restaurant Payment Processing",
+  "seo_title": "Restaurant Payment Processing & POS | MCCPS",
+  "meta_description": "Restaurant payment processing built for tableside pay, tip adjustments and busy Friday nights. See how fees work and get a free statement analysis.",
+  "primary_keyword": "restaurant payment processing",
+  "keywords": [
+    "restaurant credit card processing",
+    "tableside payments",
+    "restaurant POS integration",
+    "tip adjust",
+    "restaurant processing fees",
+    "pay at table",
+    "restaurant merchant account"
+  ],
+  "eyebrow": "Industry payments",
+  "dek": "Fast tables, fair fees and tips that land correctly: how restaurants can accept cards without giving away margin.",
+  "intro": [
+    "A restaurant runs on thin margins and thick volume. A typical ticket is small, a guest may split a check four ways, and the tip is added after the card is already in the machine. Every one of those habits has a payments consequence, and most owners only notice it when they open a monthly statement and wonder why the fee line looks bigger than the rent on the storage unit.",
+    "Restaurant payment processing is really three jobs at once: getting the guest out the door quickly, getting the tip to the right server, and getting the money into your bank account at the lowest cost your card mix allows. The sections below walk through how each piece works so you can ask better questions of whoever is processing your cards today."
+  ],
+  "sections": [
+    {
+      "h2": "Why restaurant transactions are different",
+      "paragraphs": [
+        "Most retail sales authorize for the exact amount on the receipt. A sit-down restaurant does not. The guest's card is typically swiped or dipped for the food total, then the tip is written in or entered afterward, and the final amount is adjusted before the batch closes. That means the amount that settles is usually higher than the amount that was first authorized, which is allowed within network tolerances for restaurants but only if your terminal or POS is configured for tip adjustment.",
+        "The other quirk is volume. A restaurant may run hundreds of small and mid-sized tickets a day, so even a few cents of per-transaction fees stack up. Say you run 6,000 card transactions a month with an average ticket of $38. That is $228,000 in card volume. At a 2.9% effective rate, you pay about $6,612 a month, and an extra $0.10 per swipe adds another $600. Hypothetical numbers, but the arithmetic is why details matter."
+      ]
+    },
+    {
+      "h2": "Tableside and tap-to-pay at the seat",
+      "paragraphs": [
+        "Handheld payment devices let a server bring the reader to the table, so the card never leaves the guest's sight. That is better for the guest and better for you: a card that stays in hand is less likely to be skimmed or copied, and the table turns faster because nobody waits for a server to return with a slip.",
+        "Contactless matters here too. Tap-to-pay with a phone or watch uses a one-time token rather than the real card number, and tapping is quick enough to shave real seconds off each check. If your current devices are older, many EMV terminals can be re-programmed to work on a new processing platform, which is one reason MCCPS looks at the hardware you already own before suggesting anything new."
+      ],
+      "bullets": [
+        "Pair handhelds with your table map so the check opens on the right seat and covers.",
+        "Turn on EMV and contactless together so every card type is accepted at the table.",
+        "Set a sensible tip prompt (for example 18, 20 and 25 percent) and a custom option.",
+        "Keep a wired or cellular backup for when the Wi-Fi in the dining room drops."
+      ]
+    },
+    {
+      "h2": "Handling tips, splits and adjustments",
+      "paragraphs": [
+        "The usual restaurant flow is authorize, add tip, then close the batch. If a server forgets to adjust a check, the tip is lost and the guest may argue about it later. A good setup shows open, unadjusted checks on a single screen at end of shift, so nothing slips through the batch.",
+        "Split checks multiply authorizations. Four guests paying one check separately means four card payments that each carry their own interchange and per-item fee. It is worth asking your processor how split tickets are priced and whether your POS can combine them logically for reporting while still processing them individually."
+      ],
+      "steps": [
+        "Open the check and apply the items to the right seat or table.",
+        "Present the total on the handheld or printed slip.",
+        "Authorize the card for the pre-tip amount.",
+        "Capture the tip on the device, or adjust it before the end-of-day batch.",
+        "Close the batch and reconcile tips owed against card tips collected."
+      ]
+    },
+    {
+      "h2": "Integrating payments with your restaurant POS",
+      "paragraphs": [
+        "The most common cause of restaurant payment headaches is not the processor, it is the gap between the POS and the card device. When the two are not integrated, a server rings in an amount and then has to retype it into a separate terminal. That is how a $54.20 check becomes a $45.20 charge, and a cash-flow headache.",
+        "An integrated setup sends the check total directly to the reader and posts the approved result back to the check. That lowers keying errors, speeds up closing time and gives your manager one report that ties sales, tips and card deposits together. MCCPS works with a wide range of POS systems, smartphones and terminals, so you do not necessarily have to replace your front-of-house system to get proper integration."
+      ]
+    },
+    {
+      "h2": "Where restaurant processing costs come from",
+      "paragraphs": [
+        "Every card sale carries interchange, set by the card networks and paid to the issuing bank, plus network assessments and your processor's markup. Card-present transactions generally cost less than card-not-present ones, and a restaurant swiping or tapping at the table benefits from that. But rewards cards usually carry higher interchange, and a dining room full of travel-points cards pushes your effective rate up.",
+        "Pricing structure matters as much as the base rates. Some statements bundle most sales into qualified and non-qualified buckets, which can hide the true cost. Others charge a flat percentage that looks simple but is rarely cheap on debit-heavy lunch traffic. Compare statements by effective rate, which is total fees divided by total card volume, and the picture gets clearer fast."
+      ],
+      "bullets": [
+        "Effective rate: total fees divided by total card volume for the month.",
+        "Per-item fees: especially painful on small lunch and coffee tickets.",
+        "Monthly minimums, statement fees and PCI non-compliance fees.",
+        "Chargeback fees, which add up when late-night disputes are common."
+      ]
+    },
+    {
+      "h2": "Cutting fees without squeezing guests",
+      "paragraphs": [
+        "Some restaurants run a cash discount or dual pricing program, where the menu price reflects cash and a clearly disclosed adjustment applies to card payments. Others use the MCCPS Zero Processing Fees program, designed to bring card-processing cost to $0 for the merchant. Rules for cash discounts, dual pricing and surcharges vary by state and by card network, they require proper signage and receipt disclosure, and you should confirm the current requirements with your own advisor before launching anything.",
+        "The simplest first step is a statement review. MCCPS offers a free, no-obligation savings analysis where the team goes through two months of your processing statements line by line, so you can see which fees are interchange, which are network pass-throughs and which are markup. Savings depend entirely on what that review finds, and there is no promise made in advance."
+      ]
+    },
+    {
+      "h2": "Funding, security and support after hours",
+      "paragraphs": [
+        "Restaurants buy food every few days, so waiting two or three business days for card deposits strains cash flow. Next-day funding is available, which means a Friday night's sales can be in your account sooner. Pair that with a reporting dashboard that breaks sales out by day, card type and location, and you can see patterns such as a slow Tuesday or a spike in refunds.",
+        "Security is a shared job. Following the PCI standard for your setup, using encrypted readers and keeping card numbers out of your POS notes all reduce risk. MCCPS offers PCI compliance help and free 24/7 technical support, which matters when a terminal dies at 8 p.m. on a Saturday. If you want a second pair of eyes on your current setup, ask for the free statement analysis and bring your last two months of statements."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Restaurants authorize first and adjust for tip later, so your POS or terminal must support tip adjustment.",
+    "Integrated payments cut keying errors and speed up closing the day.",
+    "Judge your processor by effective rate, not by the headline percentage.",
+    "Cash discount and dual pricing programs have state and network rules; confirm them before you start.",
+    "A free statement analysis shows exactly where your fees come from."
+  ],
+  "faq": [
+    {
+      "q": "How do restaurants process tips on credit cards?",
+      "a": "Most restaurants authorize the card for the pre-tip amount, then adjust the transaction to include the tip before the batch closes. Tableside devices let the guest enter the tip directly. Make sure open checks are reviewed before settlement so no tips are missed, and that your POS records the adjusted total correctly."
+    },
+    {
+      "q": "What is a typical credit card processing fee for a restaurant?",
+      "a": "Effective rates commonly land in the 2 to 4 percent range depending on card mix, pricing model and how cards are accepted. Your own rate depends on your statement, so the best way to know is to divide total fees by total card volume for a recent month."
+    },
+    {
+      "q": "Can I keep my existing terminals when I switch processors?",
+      "a": "Often yes. Many EMV terminals can be re-programmed for a new processing platform, as long as they are not tied to a non-cancellable lease. MCCPS checks the hardware you already own during setup so you only buy what you actually need."
+    },
+    {
+      "q": "Can a restaurant add a fee for paying by card?",
+      "a": "In some places and under some conditions, yes, through surcharging, cash discount or dual pricing. Rules vary by state and by card network, and they require clear disclosure and signage. Confirm current requirements with your advisor before adding any fee to a guest's check."
+    },
+    {
+      "q": "Do I need PCI compliance as a restaurant?",
+      "a": "Yes. Any business that accepts cards is expected to follow the PCI standard, usually by completing a self-assessment questionnaire that matches how you take payments. Using encrypted, integrated readers can simplify the questionnaire. MCCPS provides PCI compliance help so you are not left to figure it out alone."
+    }
+  ],
+  "related": [
+    "restaurant-pos",
+    "accept-tips",
+    "quick-service-restaurants",
+    "restaurant-payment-tips",
+    "zero-processing-fees",
+    "free-statement-analysis"
+  ],
+  "icon": "utensils",
+  "read_minutes": 6
+}

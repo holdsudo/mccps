@@ -1,0 +1,122 @@
+{
+  "slug": "3d-secure-explained",
+  "category": "blog",
+  "title": "3-D Secure Explained",
+  "seo_title": "3-D Secure Explained: Online Card Authentication | MCCPS",
+  "meta_description": "3-D Secure adds an authentication step to online card payments and can shift fraud liability. Learn how 3DS 2 works, its tradeoffs, and when to use it.",
+  "primary_keyword": "3-D Secure",
+  "keywords": [
+    "3D Secure authentication",
+    "3DS2 for merchants",
+    "liability shift online",
+    "card not present fraud",
+    "Verified by Visa SecureCode",
+    "strong customer authentication",
+    "online checkout friction"
+  ],
+  "eyebrow": "Online fraud",
+  "dek": "What 3-D Secure asks of the customer, how it can move fraud liability off your books, and how to use it without wrecking your conversion rate.",
+  "intro": [
+    "Online card payments have a structural weakness: nobody is standing at the counter. A thief with a stolen card number and a billing address can place an order from anywhere. 3-D Secure, often shortened to 3DS, is the card networks' answer, a way for the issuing bank to confirm that the person paying really is the cardholder.",
+    "Old-style 3DS earned a poor reputation for clunky pop-up passwords that made customers abandon carts. The current version is much smoother, but it still requires judgment about when to use it."
+  ],
+  "sections": [
+    {
+      "h2": "How 3-D Secure works",
+      "paragraphs": [
+        "The three domains in the name are the merchant, the issuer and the network infrastructure connecting them. When a customer checks out, your gateway sends details about the purchase and device to the issuer through the network. The issuer evaluates risk and either approves the authentication silently or challenges the customer.",
+        "A challenge might be a one-time code texted to the phone, a prompt in the bank's app, or a biometric confirmation. When authentication succeeds, the transaction is submitted for authorization with proof of authentication attached.",
+        "Behind the scenes, the exchange has a few moving parts. A directory server routes the request to the right issuer, an access control server run for the issuer scores the risk, and your gateway or a plug-in on your checkout page presents any challenge. You rarely have to touch these pieces directly, because modern gateways handle them, but understanding the flow helps you read the error messages when an authentication fails or times out."
+      ]
+    },
+    {
+      "h2": "3DS 1 versus 3DS 2",
+      "paragraphs": [
+        "The first version redirected the customer to a bank page and often asked for a static password. It was slow, easy to forget, and many shoppers gave up. The newer version, usually called 3DS2, passes far more data to the issuer, such as device information, transaction history and shipping details, so the issuer can approve low-risk purchases without any challenge. This is sometimes called frictionless flow.",
+        "In practice, many customers are never asked anything. Only those whose transactions look unusual are challenged, which keeps the experience closer to a normal checkout."
+      ],
+      "bullets": [
+        "3DS1: redirect and static password, high friction",
+        "3DS2: data-rich risk assessment, many frictionless approvals",
+        "Challenges happen mainly for higher-risk transactions",
+        "Mobile app and browser flows are both supported"
+      ]
+    },
+    {
+      "h2": "Liability shift for online fraud",
+      "paragraphs": [
+        "The main business benefit is liability. For card-not-present transactions that are fully authenticated, fraud chargebacks of the type covered by the shift are generally the issuer's responsibility, not yours. That can be meaningful if you sell high-value goods that thieves favor.",
+        "The details depend on network rules, the authentication result and the dispute type. The shift generally covers unauthorized-use fraud claims, not disputes about product quality or delivery. Confirm current rules with your gateway or processor rather than assuming protection.",
+        "To illustrate, suppose a customer buys a $900 item with a stolen card and the order is fully authenticated by the issuer. When the real cardholder later files an unauthorized-transaction claim, the chargeback is typically directed to the issuer instead of you. If the same order had gone through without authentication, you would likely absorb the loss, the product and a fee. The benefit grows with ticket size, which is why many merchants authenticate high-value orders only."
+      ]
+    },
+    {
+      "h2": "The conversion tradeoff",
+      "paragraphs": [
+        "Every added step reduces completions. Say you have 1,000 checkouts a month and a challenge flow causes 3% of challenged shoppers to leave. If you challenge everyone, you may lose 30 orders. If you challenge only the riskiest 10%, the loss is closer to 3. These figures are purely illustrative, but the logic holds: targeted use usually beats blanket use.",
+        "Some regions legally require strong customer authentication on most online payments, and international cards may be subject to those rules when you sell abroad. Check requirements for markets you serve."
+      ]
+    },
+    {
+      "h2": "When to use it",
+      "paragraphs": [
+        "A good approach is risk-based 3DS. Trigger authentication for high-value orders, first-time customers shipping to a new address, mismatched billing and shipping, or when your fraud screening flags something. Skip it for returning customers with a clean history and for low-risk, low-value orders, if your rules allow.",
+        "Recurring payments are a special case. The first payment may be authenticated, and later ones are typically merchant-initiated and exempt from further challenges, provided you have stored the credentials correctly and flagged them as recurring.",
+        "Do not forget the technical side of the rollout. Test on slow connections and older phones, because challenge screens that fail to load create abandoned carts you will never see in a report. Make sure your checkout handles a timeout gracefully, tell the customer clearly what is happening, and offer a way to retry or choose another payment method. A small amount of polish here protects the conversion you were trying to defend."
+      ],
+      "steps": [
+        "Confirm your gateway supports 3DS2 and how to enable it.",
+        "Set rules by order value, country and customer history.",
+        "Test challenge and frictionless flows on mobile and desktop.",
+        "Track approval rate, abandonment and fraud chargebacks before and after.",
+        "Adjust thresholds based on the data."
+      ]
+    },
+    {
+      "h2": "Pairing 3DS with other defenses",
+      "paragraphs": [
+        "3DS works best as one layer. Address verification and CVV checks catch cheap attempts, velocity rules stop card testing, and clear descriptors reduce friendly fraud. It does not protect you from a customer who authenticates and later disputes the delivery.",
+        "MCCPS supports multiple gateways and can help you work out which authentication and fraud tools fit your sales channel. A free statement analysis also reveals how many chargebacks you currently see, which is the number that tells you whether stricter authentication is worth the friction."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "3-D Secure has the issuer verify the cardholder during online checkout.",
+    "3DS2 approves many low-risk purchases silently and challenges only the riskier ones.",
+    "Authenticated transactions can shift certain fraud liability to the issuer.",
+    "Blanket challenges hurt conversion, so risk-based rules usually work better.",
+    "It does not stop disputes about delivery or quality."
+  ],
+  "faq": [
+    {
+      "q": "What is 3-D Secure?",
+      "a": "It is an authentication protocol that lets the card issuer verify the cardholder during an online purchase, using device and transaction data plus a challenge when needed, such as a one-time code or biometric."
+    },
+    {
+      "q": "Does 3DS shift chargeback liability?",
+      "a": "For fully authenticated transactions, certain fraud chargebacks are generally the issuer's responsibility. The shift is limited to specific dispute types and depends on network rules, so confirm with your processor."
+    },
+    {
+      "q": "Will 3-D Secure reduce my sales?",
+      "a": "Challenges can cause some abandonment. Version 2 reduces this by approving low-risk transactions without a challenge, and risk-based rules help you challenge only where it counts."
+    },
+    {
+      "q": "Is 3DS required?",
+      "a": "Some regions require strong customer authentication for many online payments. In other markets it is optional. Check the rules for where your customers are located."
+    },
+    {
+      "q": "Does 3DS stop friendly fraud?",
+      "a": "Not really. If the customer authenticated and later disputes the order, 3DS does not prevent that. Good descriptors, clear policies and delivery records are what help."
+    }
+  ],
+  "related": [
+    "fraud-prevention",
+    "avs-and-cvv",
+    "card-testing-attacks",
+    "friendly-fraud",
+    "card-present-vs-card-not-present",
+    "accept-payments-online"
+  ],
+  "icon": "shield",
+  "read_minutes": 6
+}

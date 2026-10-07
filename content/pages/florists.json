@@ -1,0 +1,83 @@
+{
+  "slug": "florists",
+  "category": "industries",
+  "title": "Florist Payment Processing",
+  "seo_title": "Florist Payment Processing | MCCPS",
+  "meta_description": "Phone orders, wire-service sales, delivery and holiday rushes: how florists can take card payments securely and keep up when Valentine's week hits.",
+  "primary_keyword": "florist payment processing",
+  "keywords": ["flower shop credit card processing", "phone order card payments", "florist POS", "wedding flowers deposit", "holiday rush payments", "flower delivery payment", "florist merchant account"],
+  "eyebrow": "Flower shops",
+  "dek": "Most flower orders are placed by someone who is not standing in your shop. That shapes everything about how a florist should take payment.",
+  "intro": [
+    "A flower shop is one of the clearest examples of a card-not-present business that happens to have a storefront. The person buying the arrangement is often not the person receiving it, and they are often ordering by phone, through your website or via a wire service while at work or traveling.",
+    "Add the swings of the calendar, with Valentine's Day, Mother's Day and the December holidays producing more orders in a few days than some weeks produce in total, and you have a business where payment systems must be easy for staff to use and strong enough to resist fraud.",
+    "The following sections walk through each channel and offer practical advice for getting through the busy weeks without errors."
+  ],
+  "sections": [
+    {
+      "h2": "Phone orders done safely",
+      "paragraphs": [
+        "Phone orders are the heart of many shops. Staff take the order, the recipient's address, the card message and the payment details, often in a single call. Writing down a card number on a sticky note is the habit that creates risk. A virtual terminal lets staff key the card into a secure screen while the customer is on the line, so the number is never written.",
+        "Collect the billing ZIP code and the security code, and use address verification so the system can confirm that the details match the card. For high-value orders or orders going to a different state, a quick callback to the cardholder can stop fraud before the flowers are delivered. See our guide on accepting payments by phone for more."
+      ],
+      "bullets": [
+        "Key cards into a virtual terminal, not onto paper",
+        "Always collect billing ZIP and CVV",
+        "Be cautious with rush orders to unfamiliar addresses",
+        "Email or text a receipt as soon as the order is paid"
+      ]
+    },
+    {
+      "h2": "Online orders and wire-service sales",
+      "paragraphs": [
+        "Your own website takes orders around the clock, and customers expect a clean checkout with wallet options. Orders that come through a wire or relay service are different: the service typically collects payment from the customer and later settles with your shop, usually net of a fee. Keep these revenue streams separate in your books.",
+        "Because online orders are card-not-present, they are priced higher in interchange and are more prone to disputes. A descriptor on the customer's statement that includes your shop name, and an order confirmation that spells out the delivery date and arrangement, reduce the number of customers who do not recognize the charge."
+      ]
+    },
+    {
+      "h2": "Delivery and the proof you will need",
+      "paragraphs": [
+        "A common dispute in the floral trade is, 'the flowers never arrived' or 'they arrived late and wilted.' The best defense is documentation: the delivery window promised, the time the driver delivered, the name of the person who received it, and a photo where practical. Many shops now use delivery apps that capture these automatically.",
+        "Your refund policy needs to be clear and consistent. Perishable goods are tricky: the customer cannot return them, so a remake or a partial credit is often the practical remedy. Offering it quickly is usually cheaper than losing a dispute."
+      ]
+    },
+    {
+      "h2": "Holiday peaks and capacity",
+      "paragraphs": [
+        "Say a shop normally processes $25,000 a month but handles $18,000 in the week around Valentine's Day. Employees are working long shifts, seasonal helpers are on the phones, and a mistake is easy. Prepare weeks ahead: check that all terminals and the virtual terminal are working, train temporary staff, and confirm daily limits with your processor so a large batch is not held up.",
+        "Ask your processor whether any increase in volume could trigger a review. Telling them about a seasonal spike in advance is usually better than having a payment delayed in your busiest week. Our guide on holiday-season payments prep goes deeper."
+      ]
+    },
+    {
+      "h2": "Weddings, events and deposits",
+      "paragraphs": [
+        "Wedding and event work is a different business from the walk-in trade. Orders are large, planned months ahead, and involve deposits and final payments. Use a written contract that states the deposit, the due dates for balances and the substitution policy, since flower availability changes. Take payments by secure link or virtual terminal and store the card with a token if installments are agreed.",
+        "For corporate accounts that order weekly arrangements for offices, a monthly invoice with card or ACH payment may be more convenient than a charge per delivery."
+      ]
+    },
+    {
+      "h2": "Controlling the cost of card sales",
+      "paragraphs": [
+        "Because so many floral sales are card-not-present, your effective rate may be higher than that of a walk-in retailer. Say a shop processes $40,000 a month at 3.1% effective: that is $1,240 in fees. A statement review can show whether you are being charged in categories that match your real mix and whether there are avoidable fees.",
+        "Some florists explore compliant dual-pricing or surcharge programs; rules vary by state and card network, and disclosure and signage are required, so confirm what applies before starting. MCCPS offers a free statement analysis, can often use terminals you already own, and provides free 24/7 technical support, which helps when the phones are ringing on a holiday morning."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Take phone orders in a virtual terminal rather than writing down card numbers.",
+    "Use AVS and CVV, and be careful with rush orders to unfamiliar addresses.",
+    "Delivery records are your best defense in a not-received dispute.",
+    "Prepare terminals, staff and volume expectations before the holiday peak.",
+    "Wedding work needs contracts, deposits and secure stored payments."
+  ],
+  "faq": [
+    {"q": "What is the safest way for a florist to take phone orders?", "a": "Use a virtual terminal so staff key the card directly into a secure screen. Collect the billing ZIP and security code, and avoid writing card numbers on paper. For large or unusual orders, verify the cardholder by callback."},
+    {"q": "How do I prevent chargebacks on flower deliveries?", "a": "Document the promised delivery window, the actual delivery time, who received the flowers, and a photo if possible. Send clear confirmations and respond quickly to complaints with a remake or credit. A recognizable statement descriptor also reduces unrecognized-charge disputes."},
+    {"q": "Should I accept payments for wedding flowers online?", "a": "Yes, a secure payment link or invoice works well for deposits and balances. Pair it with a written contract that covers substitutions, cancellation and due dates. Store the card with a token if the client agrees to installments."},
+    {"q": "Can my terminals handle the Valentine's Day rush?", "a": "Check them well before the peak: test all devices, confirm connectivity, and ask your processor about volume limits. Telling your processor in advance about a seasonal surge can help avoid payment holds."},
+    {"q": "Can a florist add a card fee on delivery orders?", "a": "Possibly, but surcharges and convenience fees are regulated by state and card network and require proper disclosure. A delivery fee for service is different from a card fee, so label each correctly. Confirm current rules with your attorney and processor."}
+  ],
+  "related": ["accept-payments-by-phone", "virtual-terminal", "holiday-season-payments-prep", "retail-stores", "take-deposits-and-prepayments", "card-present-vs-card-not-present"],
+  "icon": "heart",
+  "read_minutes": 6
+}

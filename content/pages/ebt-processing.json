@@ -1,0 +1,123 @@
+{
+  "slug": "ebt-processing",
+  "category": "solutions",
+  "title": "EBT and SNAP Acceptance Basics",
+  "seo_title": "EBT & SNAP Acceptance Basics for Merchants | MCCPS",
+  "meta_description": "An educational guide to accepting EBT and SNAP: authorization, eligible items, PIN entry and what to ask a specialist about availability for your setup.",
+  "primary_keyword": "EBT processing",
+  "keywords": [
+    "EBT acceptance",
+    "SNAP retailer",
+    "EBT card reader",
+    "food stamp acceptance",
+    "EBT FNS authorization",
+    "cash benefits",
+    "grocery payment processing"
+  ],
+  "eyebrow": "Benefits cards",
+  "dek": "An educational overview of how EBT works at the register. Availability depends on your setup, so ask a specialist about your situation.",
+  "intro": [
+    "For many grocery and convenience stores, EBT customers are a significant share of the people walking through the door. Accepting benefits cards opens your business to those shoppers, but it also comes with its own rules, its own authorization process and its own paperwork. It is worth understanding before you commit.",
+    "This page is educational. Whether EBT acceptance is available for your business depends on your eligibility, your equipment and your processing setup, so treat this as background and ask a specialist about your specific situation."
+  ],
+  "sections": [
+    {
+      "h2": "What EBT is",
+      "paragraphs": [
+        "Electronic benefits transfer is the system states use to deliver government benefits to recipients on a card that works like a debit card. Benefits are generally divided into food benefits, commonly called SNAP, and cash benefits. Each balance is tracked separately, and the rules for what each can buy differ.",
+        "The customer swipes or inserts the card, enters a PIN on a PIN pad, and the terminal sends the request through a dedicated network to the state's benefit system. If the balance is sufficient and the items are eligible, the sale is approved."
+      ]
+    },
+    {
+      "h2": "Authorization to accept SNAP",
+      "paragraphs": [
+        "To accept SNAP benefits, a retailer generally must be authorized by the federal agency that administers the program. The process involves an application, documentation about your business and the foods you stock, and review. Meeting the stocking requirements is a typical part of qualifying.",
+        "Authorization comes from the program administrator, not from your processor. Your processor then helps configure your equipment to run EBT transactions once you hold the authorization. Check the program's current requirements directly, since they change.",
+        "Expect the review to take some time, and expect questions about your inventory, your floor plan and your sales mix. Keep documentation handy, and be ready to explain how your store meets the stocking criteria. Applying before you buy equipment avoids paying for hardware you cannot yet use."
+      ]
+    },
+    {
+      "h2": "How it differs from a regular card sale",
+      "paragraphs": [
+        "EBT transactions require PIN entry every time. There is no signature option and no contactless shortcut for these balances. Your terminal or POS must support PIN debit and be configured for EBT, and the transaction usually runs on a separate path from your credit card processing.",
+        "There is also a split at the register. Eligible food items may be paid with SNAP, while ineligible items such as alcohol, tobacco, hot prepared foods and household goods need another form of payment. Your POS has to separate the eligible subtotal correctly.",
+        "Cashier training matters more than most owners expect. Staff should know which items are eligible, how to split a mixed basket, what to do if the customer forgets a PIN and why a balance inquiry is not the same as a sale. A laminated cheat sheet at each lane prevents errors and awkward moments."
+      ],
+      "bullets": [
+        "PIN entry is required on every EBT sale",
+        "Food and cash balances are tracked separately",
+        "Eligible and ineligible items must be separated",
+        "Tax is generally not charged on SNAP purchases",
+        "Cash benefit withdrawals follow separate rules"
+      ]
+    },
+    {
+      "h2": "Voucher and offline considerations",
+      "paragraphs": [
+        "If the terminal cannot reach the network, the process for completing an EBT sale differs from normal cards. Manual voucher procedures exist for some situations, and they have strict requirements about when and how they may be used. Staff need clear instructions for outages rather than improvising.",
+        "Ask about system downtime procedures before going live, because a store that cannot process EBT during an outage has to decide how to handle benefit customers fairly and compliantly."
+      ]
+    },
+    {
+      "h2": "Equipment and integration",
+      "paragraphs": [
+        "A POS that supports EBT needs an integrated PIN pad and software that tracks eligible subtotals. Standalone terminals can handle EBT too, though a cashier then has to calculate the eligible amount manually, which is error-prone at busy times.",
+        "Grocery operations often favor integrated lanes so that item eligibility flows automatically into payment. Smaller shops may start with a standalone terminal and upgrade as volume grows. MCCPS integrates with almost any POS, smartphone or terminal, and can often keep re-programmable terminals you own, but EBT capability depends on the specific equipment."
+      ]
+    },
+    {
+      "h2": "Costs and funding",
+      "paragraphs": [
+        "EBT transactions are generally priced differently than credit cards, and the fee structure may be a small per-transaction charge rather than a percentage. Funding timing may also follow different rules. A specialist can describe how it would apply to your account.",
+        "Do not assume your current processor's pricing carries over. Review the line items on your statement so you can see exactly what you pay for each transaction type.",
+        "Make a habit of reconciling EBT activity separately from credit and debit in your reports. Because it flows through a different network with different settlement, mixing it into the general total can hide a discrepancy. Matching it to its own deposits keeps your books cleaner and makes problems easier to trace."
+      ]
+    },
+    {
+      "h2": "Next steps",
+      "paragraphs": [
+        "If you run a grocery, convenience store, market or other food retailer, the first step is to confirm your eligibility with the program administrator. Then talk to a specialist about equipment and setup. Availability depends on your setup and underwriting, so ask rather than assume.",
+        "MCCPS offers personal customer service, free 24/7 technical support and a free, no-obligation statement analysis. Call 844.826.6227 to talk through what your store would need.",
+        "If you already take cards, bring a recent statement to the conversation so the team can see your current volume, ticket sizes and equipment, and explain which parts of your setup could carry over to benefits acceptance and which would need to change."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "EBT sales require PIN entry and are tracked by benefit type.",
+    "Retailers need program authorization before accepting SNAP.",
+    "Eligible and ineligible items must be separated at the register.",
+    "Availability depends on your setup, so ask a specialist."
+  ],
+  "faq": [
+    {
+      "q": "Can any merchant accept EBT?",
+      "a": "No. SNAP acceptance requires authorization from the program administrator, and eligibility depends on what you sell. Availability through a processor also depends on your equipment and setup. Ask a specialist about your situation."
+    },
+    {
+      "q": "Do EBT customers need to enter a PIN?",
+      "a": "Yes. EBT transactions require PIN entry on every sale. Your terminal or POS needs an integrated or compatible PIN pad configured for EBT."
+    },
+    {
+      "q": "Can SNAP buy any item in my store?",
+      "a": "No. SNAP generally covers eligible food items, not alcohol, tobacco, hot prepared foods or household goods. Your POS must separate eligible and ineligible items, and customers cover the rest with another payment method."
+    },
+    {
+      "q": "What if my terminal is offline?",
+      "a": "Standard card approvals will not work. Manual voucher processes exist but have strict rules. Ask your processor and the program administrator what is permitted before you need it."
+    },
+    {
+      "q": "Is EBT priced like a credit card?",
+      "a": "Usually not. Fees often differ and may be per transaction. Ask a specialist how EBT would be priced on your account and review statement lines carefully."
+    }
+  ],
+  "related": [
+    "ebt-snap-acceptance",
+    "grocery-stores",
+    "convenience-stores",
+    "retail-pos",
+    "pos-systems",
+    "hsa-fsa-card-acceptance"
+  ],
+  "icon": "cart",
+  "read_minutes": 6
+}

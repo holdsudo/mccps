@@ -1,0 +1,124 @@
+{
+  "slug": "professional-services",
+  "category": "industries",
+  "title": "Professional Services Payment Processing",
+  "seo_title": "Professional Services Payment Processing | MCCPS",
+  "meta_description": "Professional services payment processing for consultants and agencies: invoices, retainers and the choice between ACH and cards. Free fee review from MCCPS.",
+  "primary_keyword": "professional services payment processing",
+  "keywords": [
+    "consultant invoice payments",
+    "retainer billing",
+    "ACH vs card for invoices",
+    "agency payment processing",
+    "pay by link invoice",
+    "service firm merchant account",
+    "recurring retainer payments"
+  ],
+  "eyebrow": "Industry payments",
+  "dek": "Consultants, agencies and advisors bill in large, infrequent amounts: here is how to choose between cards, ACH and links without giving away margin.",
+  "intro": [
+    "If you sell expertise, your invoices are probably larger and rarer than a retailer's receipts. A consulting retainer, a design project or a quarterly advisory fee might run into the thousands, and your clients are often businesses that pay through an accounts payable process rather than a card tap.",
+    "That changes what good payment processing looks like. Speed of collection matters more than checkout speed, the method you offer decides how much of each invoice you keep, and a slow-paying client can strain the whole month. The sections below cover how to approach each of those."
+  ],
+  "sections": [
+    {
+      "h2": "Invoices that get paid",
+      "paragraphs": [
+        "The most common reason an invoice sits unpaid is friction. If the client must find a mailing address, write a check or log into a portal they have never used, payment waits for a free moment that may never arrive. A payment link embedded in the invoice removes that friction: one click, then a choice of card or bank account.",
+        "Clear invoice details also matter. Include a description of the work, the period covered, the due date, your payment terms and a reference number. If your client needs a purchase order number, ask for it before you start, not after the invoice is late. Reminders sent a few days before the due date, and shortly after, usually work better than a single message weeks later."
+      ],
+      "bullets": [
+        "Put a payment link on every invoice and every reminder.",
+        "State terms and the due date in plain language.",
+        "Ask early whether the client needs a PO or specific billing details.",
+        "Offer both card and bank payment so the client can choose."
+      ]
+    },
+    {
+      "h2": "ACH versus card: a cost and timing comparison",
+      "paragraphs": [
+        "A card payment is quick and gives the client rewards or float, but costs you a percentage. An ACH payment is slower, typically taking a few business days to clear, and carries a small flat fee in many arrangements. On a $6,000 invoice, a card at a 2.9 percent effective rate costs about $174, whereas ACH may cost a small fraction of that. Hypothetical figures, but they show why method matters at this size.",
+        "Neither is universally better. Some clients insist on cards because it fits their expense process, and some prefer ACH because it fits their payables workflow. Offering both lets you steer larger invoices toward ACH while remaining flexible. Know that ACH can be returned, for example for insufficient funds, so you should not treat funds as final until they have cleared."
+      ]
+    },
+    {
+      "h2": "Retainers and recurring engagements",
+      "paragraphs": [
+        "A monthly retainer is a natural fit for automatic billing. With a signed agreement and the client's authorization, you store a payment method and charge it on the same day each month. That protects your cash flow and spares both sides the monthly invoicing ritual.",
+        "Write the terms carefully: the amount, the scope covered, how changes in scope are billed, the notice required to cancel and what happens if a payment fails. If you take cards for retainers, a card account updater helps avoid failures from expired cards. MCCPS supports recurring payments and can discuss updater options."
+      ],
+      "steps": [
+        "Agree the scope and fee in a signed engagement letter.",
+        "Obtain written authorization to charge the stored method.",
+        "Charge on the agreed date and send a receipt.",
+        "Follow up the same day if a payment fails.",
+        "Review the scope and fee at each renewal."
+      ]
+    },
+    {
+      "h2": "Deposits and milestone billing",
+      "paragraphs": [
+        "For project work, a deposit on signing is standard, with balances at milestones or on delivery. Deposits reduce the risk of doing work for a client who disappears, and they signal that both sides are committed. Keep deliverables and approvals in writing so that a payment tied to a milestone is easy to justify.",
+        "If a client disputes a charge with their bank, your engagement letter, delivery records and communications are your evidence. Resolve genuine disagreements directly and promptly, since refunding or adjusting a fee is typically cheaper than a chargeback with its fees and time."
+      ]
+    },
+    {
+      "h2": "International clients and currency",
+      "paragraphs": [
+        "If you serve clients abroad, cards from other countries can carry higher fees, and currency conversion adds another layer. Decide whether you invoice in your own currency, and be clear about who bears conversion costs. Cross-border payments may have additional compliance steps, so check with your accountant or advisor if international billing is a growing share of your work."
+      ]
+    },
+    {
+      "h2": "Scope creep and billing for extra work",
+      "paragraphs": [
+        "The most frequent billing conflict in professional services is scope creep: the client asks for one more thing and then another. Protect the relationship and your margin by defining the scope in the engagement letter and deciding in advance how extra work is billed. When a request falls outside scope, send a short note with the estimated time or fee and wait for written approval before proceeding. Charge for approved extras on the next invoice with a clear line item. Clients rarely dispute fees they agreed to in writing, and the habit of asking first keeps payments flowing and chargebacks very rare."
+      ]
+    },
+    {
+      "h2": "Looking at your fees",
+      "paragraphs": [
+        "Say your firm processes $30,000 a month by card at a 3.2 percent effective rate, or $960. If half of that were invoices over $5,000 that could instead move to ACH, the difference would show up quickly. Your statement shows how keyed or online payments are priced and what extra fees sit on top.",
+        "Some firms consider a cash discount or dual pricing program, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and professional services may have additional rules, so confirm what applies. Start with the free statement analysis, in which MCCPS reviews two months of statements line by line. Savings depend on what is found. Next-day funding and free 24/7 support are also available."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Payment links on invoices remove the friction that delays payment.",
+    "ACH usually costs less than cards on large invoices but takes longer to clear.",
+    "Retainers fit automatic billing when the terms and authorization are clear.",
+    "Tie deposits and milestone payments to written deliverables.",
+    "Check how keyed and online payments are priced on your statement."
+  ],
+  "faq": [
+    {
+      "q": "Should I accept credit cards for large consulting invoices?",
+      "a": "Many firms do because clients like the convenience, but the fee is a percentage of the invoice. Offering ACH as an alternative lets you steer larger invoices toward a lower-cost method."
+    },
+    {
+      "q": "How do I bill a monthly retainer automatically?",
+      "a": "Get a signed engagement letter and the client's written authorization, store the payment method securely and charge on a fixed date. Send receipts and follow up on any failed payment promptly."
+    },
+    {
+      "q": "How fast does ACH settle?",
+      "a": "Typically a few business days, depending on timing and the processing arrangement. ACH can be returned for reasons such as insufficient funds, so consider funds final only after they have cleared."
+    },
+    {
+      "q": "What do I do if a client disputes a payment?",
+      "a": "Gather your engagement letter, deliverables, approvals and communications, and respond within the deadline. Where the complaint is legitimate, a prompt refund or adjustment is usually cheaper than a chargeback."
+    },
+    {
+      "q": "Can I add a fee for card payments?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require clear disclosure. Check any professional rules that apply to you and confirm current requirements."
+    }
+  ],
+  "related": [
+    "invoicing-and-payment-links",
+    "ach-vs-credit-card",
+    "law-firms",
+    "accounting-firms",
+    "recurring-billing",
+    "get-paid-faster"
+  ],
+  "icon": "briefcase",
+  "read_minutes": 6
+}

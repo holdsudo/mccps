@@ -1,0 +1,113 @@
+{
+ "slug": "tipping-on-card-terminals",
+ "category": "blog",
+ "title": "Tipping on Card Terminals: Setup & Etiquette",
+ "seo_title": "Tipping on Card Terminals: Setup & Etiquette | MCCPS",
+ "meta_description": "Compare ways to collect tips on card terminals: on-screen prompts, paper slips, tip adjust and pre-auth, plus etiquette tips that keep customers comfortable.",
+ "primary_keyword": "tipping on card terminals",
+ "keywords": [
+  "tip prompt on terminal",
+  "tip adjust",
+  "pre-authorization tips",
+  "on-screen tipping",
+  "tip settings",
+  "tip pooling card payments",
+  "tipping etiquette"
+ ],
+ "eyebrow": "Tips and terminals",
+ "dek": "How the main tipping flows work on a card terminal, which fits which business, and how to keep the prompt from making customers wince.",
+ "intro": [
+  "Tipping used to be simple: the customer wrote a number on a slip and you keyed it in later. Today the prompt on a screen shows up in front of customers at coffee counters, nail salons and food trucks, and the way you set it up shapes both how much staff earn and how customers feel about your business.",
+  "Behind that prompt are several different mechanisms with real consequences for authorization amounts, batch timing and chargeback risk. Choosing a pay-at-the-table flow, a sale-then-adjust flow or an on-screen prompt at the counter changes what gets authorized, when the tip posts and what you owe in processing fees on the tip itself.",
+  "This guide walks through the options in operational detail, then covers the etiquette side: defaults, wording and staff behavior that keep the experience pleasant."
+ ],
+ "sections": [
+  {
+   "h2": "The three basic tip flows",
+   "paragraphs": [
+    "Most terminals support some version of three flows. In the pre-tip flow, the customer sees the prompt before the card is read, and the final amount including the tip is authorized once. In the post-sale adjust flow, the card is authorized for the bill, a slip is signed, and the tip is added before the batch closes. In the pre-authorization flow, a hold is placed on the card, often for the bill plus a cushion, and the final amount is captured later.",
+    "Each has trade-offs. Pre-tip is cleanest for counter service because there is one authorization and no adjustment. Adjust suits table service because the server returns with the receipt before the customer decides. Pre-auth suits tabs, where the final amount is unknown when the card is first presented."
+   ]
+  },
+  {
+   "h2": "Setting the prompt: percentages, dollars and defaults",
+   "paragraphs": [
+    "Most terminals let you choose whether suggested tips are percentages or fixed amounts, and which three values to show. Percentages scale with the ticket; fixed dollar amounts tend to look more reasonable on very small tickets. A common approach is to switch to dollar amounts below a certain subtotal so a four-dollar coffee does not show a tip of sixty cents next to a custom option.",
+    "Also decide whether the prompt applies before or after tax. Calculating on the pre-tax subtotal is common, but customers may be doing the math in their heads, so consistency matters more than any one choice."
+   ],
+   "bullets": [
+    "Pick three suggested options plus a clear custom or no-tip button.",
+    "Use dollar amounts for small tickets and percentages for larger ones.",
+    "Decide whether suggestions are on subtotal or total and stay consistent.",
+    "Make sure the no-tip button is easy to find."
+   ]
+  },
+  {
+   "h2": "Tip adjust, batching and timing",
+   "paragraphs": [
+    "With adjust flows, the tip is not final until you adjust the original transaction. Batches should not close until all adjustments are in; once a batch settles, late tips usually require a new transaction or cannot be added. Set a routine, such as adjusting at the end of each shift, so nothing is missed.",
+    "Networks limit how far the final amount may exceed the original authorization for certain merchant categories. The exact percentage tolerance depends on the category and the network, so ask your processor for the current guidance. Missing it does not usually break things, but it can bring declines or higher dispute risk on larger adjustments."
+   ]
+  },
+  {
+   "h2": "Fees on tips, and what the money costs you",
+   "paragraphs": [
+    "The tip is part of the card transaction, so it is processed and priced as part of the total. Say a customer pays a $50 bill and adds a $10 tip on a card, and your effective rate is 3 percent. Your fee is $1.80 on $60, and $0.30 of that is the cost of the tip you pass through to staff. This is hypothetical, but the principle holds: card tips carry a processing cost.",
+    "How you deal with that cost is a business and legal choice. Some owners absorb it, some deduct it from tip distributions where law permits, and some use a pricing program that changes the equation. Laws on tip handling vary by jurisdiction and are not something to improvise, so check with your payroll provider or attorney."
+   ]
+  },
+  {
+   "h2": "Tip pooling, reporting and payroll",
+   "paragraphs": [
+    "Card tips are recorded in your system and often feed into payroll as reported income. A good POS lets you run tip reports by server, by shift and by day, and export them to payroll. If you pool tips, document the formula and apply it consistently.",
+    "The reporting dashboard in PayPilot by MCCPS and most modern POS tools can show these numbers directly, which saves a spreadsheet. Whatever tool you use, reconcile card tips to deposits so you can see tips paid out against tips funded."
+   ]
+  },
+  {
+   "h2": "Etiquette: keeping the prompt from feeling pushy",
+   "paragraphs": [
+    "Customers complain less about being asked to tip than about being surprised or rushed. Place the screen so the customer can see it comfortably, avoid hovering, and never comment on the choice. Where a service charge is included, say so clearly on the receipt and screen to avoid double tipping.",
+    "If you run a quick-service counter, consider whether you need the prompt at all. A simple, quiet option, for example a tip jar on the card screen that appears only after the sale, can feel more natural than a full-screen ask. If you would like help choosing settings for the terminals you already own, MCCPS can review them as part of a free no-obligation analysis."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Choose the tip flow that matches how your service actually works.",
+  "Set suggestion values to fit your typical ticket size.",
+  "Close batches only after all tip adjustments are entered.",
+  "Card tips carry processing cost, so decide how you handle it and confirm local rules.",
+  "Clear signage and wording prevent double tipping and complaints."
+ ],
+ "faq": [
+  {
+   "q": "Can I add a tip after the card is run?",
+   "a": "Yes, with an adjust flow. The original sale is authorized, then you adjust it to include the tip before the batch closes. After the batch settles, adding a tip generally is not possible and may need a new transaction."
+  },
+  {
+   "q": "Why does the terminal pre-authorize more than the bill?",
+   "a": "For tabs and table service, the final amount is not known yet, so the pre-authorization places a hold that includes a cushion for the tip. The hold is released or replaced when you capture the final amount, but customers may see it temporarily on their statement."
+  },
+  {
+   "q": "Do I pay processing fees on tips?",
+   "a": "Yes, because the tip is part of the card transaction total and is priced along with it. The cost is usually small per transaction but adds up. How you treat that cost with staff depends on local employment rules, so check with your payroll provider."
+  },
+  {
+   "q": "Can I turn the tip prompt off?",
+   "a": "Most terminals allow it to be disabled by profile or by transaction type. If you only want tips for certain services, set separate profiles or let your POS decide when to show it so the prompt only appears where it makes sense."
+  },
+  {
+   "q": "What if a customer disputes a tip?",
+   "a": "Keep the signed slip or electronic record of the final amount. If the final amount was within network tolerances and the customer approved it, you can usually respond with that evidence. Clear receipts and staff who explain the process prevent most disputes."
+  }
+ ],
+ "related": [
+  "restaurant-payment-tips",
+  "accept-tips",
+  "restaurant-pos",
+  "coffee-shops",
+  "salons-and-spas",
+  "contactless-payments-guide"
+ ],
+ "icon": "cash",
+ "read_minutes": 6
+}

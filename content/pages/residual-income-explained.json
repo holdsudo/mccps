@@ -1,0 +1,127 @@
+{
+ "slug": "residual-income-explained",
+ "category": "blog",
+ "title": "Merchant Services Residuals Explained",
+ "seo_title": "Merchant Services Residuals Explained | MCCPS",
+ "meta_description": "How do merchant services agents earn residuals? Learn where the revenue comes from, what affects it, and the risks and questions to weigh before joining.",
+ "primary_keyword": "merchant services residuals",
+ "keywords": [
+  "residual income",
+  "residuals payment processing",
+  "agent commission",
+  "revenue share",
+  "residual buyout",
+  "portfolio attrition",
+  "agent compensation"
+ ],
+ "eyebrow": "Agent income",
+ "dek": "Residuals are the heart of how merchant services agents are paid. Understanding where they come from shows you both the appeal and the risks.",
+ "intro": [
+  "Residual income is a phrase that gets thrown around loosely in the payments industry, sometimes with more enthusiasm than clarity. At its simplest, a residual is a recurring payment to an agent based on the ongoing processing of the merchants they signed. As long as the merchant keeps processing and the account stays open, the agent may keep receiving a share.",
+  "That structure is attractive because work done once can pay over time. It also carries risks that glossy recruiting pages tend to skip. This article explains the mechanics in plain English, with hypothetical numbers, and avoids any suggestion of what you might earn. Individual results vary and are never guaranteed."
+ ],
+ "sections": [
+  {
+   "h2": "Where the money in a processing account comes from",
+   "paragraphs": [
+    "Every card sale creates fees that flow to different parties. Interchange goes to the card-issuing bank, assessments go to the card networks and the remainder, the processor's markup and fees, is the revenue pool that is shared among the processor, the sponsoring parties and the agent.",
+    "A merchant paying a total of 2.9 percent on a sale might send most of that to interchange and assessments, leaving a smaller slice as gross revenue to the processing side. Our articles on interchange, assessments and processor markup show each layer. Agents are paid from the margin, not from the whole fee."
+   ]
+  },
+  {
+   "h2": "How a residual is calculated",
+   "paragraphs": [
+    "The details differ by program, but the pattern is similar. Take the monthly gross revenue from a merchant, subtract the costs the processor passes through, and share what remains according to an agreed split. Revenue can include percentage markup on volume, per-transaction fees and monthly fees.",
+    "Here is a simple hypothetical. Suppose a merchant processes $50,000 in a month and the net margin after costs is 0.4 percent, or $200. If the agent's share is 50 percent, the agent receives $100 for that merchant that month. That illustrates the mechanics only; real margins, splits and merchants differ, and this is not a typical result or a promise."
+   ],
+   "bullets": [
+    "Gross revenue minus pass-through costs gives the net margin",
+    "The agent's split applies to the net margin",
+    "Different pricing models create different margins",
+    "Fees such as monthly or per-item charges may be included"
+   ]
+  },
+  {
+   "h2": "What makes residuals rise or fall",
+   "paragraphs": [
+    "Residuals follow the merchant's activity. Seasonal swings, a busy quarter, a slow month, a price change or a merchant moving some sales to another channel all affect the figure. If a merchant processes less or leaves, the residual shrinks or ends.",
+    "Attrition is a normal feature of this business. Merchants close, sell, switch providers or get acquired. An agent who ignores service may see more accounts leave. Over time, the quality of your relationships and the quality of the underlying service affect how much of your portfolio remains."
+   ]
+  },
+  {
+   "h2": "The role of pricing and merchant benefit",
+   "paragraphs": [
+    "Residuals depend on margin, but merchants judge their provider by total cost. If an agent prices too high, the merchant may eventually find out and leave. If the price is too low, the revenue may not justify the effort. The healthiest approach is a transparent price that is competitive and a service that keeps the merchant satisfied.",
+    "Cost-saving programs add another wrinkle. Under dual pricing or cash discount programs, such as the Zero Processing Fees program MCCPS offers, the merchant's card cost can be eliminated, which changes how revenue is structured. Rules vary by state and card network and require proper disclosure, so ask a program to explain exactly how compensation works under each pricing model."
+   ]
+  },
+  {
+   "h2": "Questions to ask before you join a program",
+   "paragraphs": [
+    "Compensation plans can look similar and behave very differently. Ask the questions below and get answers in writing before signing."
+   ],
+   "steps": [
+    "What is my split, and is it calculated on gross revenue or net margin?",
+    "Which fees are included in the calculation, and which are excluded?",
+    "Are there chargebacks of my compensation, minimum volume requirements or clawbacks?",
+    "Who owns the merchant relationship if I leave or the program ends?",
+    "Can residuals be bought out or sold, and on what terms?",
+    "How and when are residuals reported and paid, and can I verify them?"
+   ]
+  },
+  {
+   "h2": "Residual buyouts and ownership",
+   "paragraphs": [
+    "Some programs offer to buy a portion of an agent's residual stream in exchange for a lump sum. That can provide cash up front but trades away future income, and the price depends on the portfolio's value and risk. Evaluate carefully, ideally with a financial advisor and attorney.",
+    "Ownership language in the agent agreement matters. Some contracts state that the sponsor owns the merchant, and you hold only the right to be paid while the agreement lasts. Others give agents stronger claims. Understand which applies to you before you build a portfolio.",
+    "Also consider concentration. If a handful of merchants produce most of your residuals, the loss of one can matter a great deal. A broader base of smaller, stable accounts is usually more resilient than a few large ones, and servicing them well is the cheapest way to keep them."
+   ]
+  },
+  {
+   "h2": "Be realistic about income and taxes",
+   "paragraphs": [
+    "Residual income builds gradually, usually after a stretch of effort that is not directly paid. It is not passive in the sense of requiring no work, because relationships need maintenance. Treat any claim of easy or guaranteed income as a warning sign.",
+    "Agents are usually independent contractors responsible for their own taxes and expenses. Consult a CPA about estimated payments, deductions and record keeping. If you want to learn more about the MCCPS agent program, call 844.826.6227 and ask how compensation is structured."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "A residual is a recurring share of the processor's margin on merchants you sign.",
+  "Interchange and assessments are pass-through costs, not part of agent revenue.",
+  "Residuals rise and fall with merchant volume and attrition.",
+  "Ask whether splits are based on gross or net revenue, and who owns the merchant.",
+  "Income is never guaranteed, so evaluate programs critically."
+ ],
+ "faq": [
+  {
+   "q": "What are residuals in merchant services?",
+   "a": "Residuals are recurring payments to an agent, based on the ongoing processing revenue of merchants they referred or signed. The amount comes from a share of the processor's margin, not the total fee. It typically continues while the merchant remains active and the agreement is in force."
+  },
+  {
+   "q": "Are residuals guaranteed income?",
+   "a": "No. They depend on the merchant's processing volume, pricing, card mix and continued use of the service. If the merchant closes, processes less or switches providers, the residual falls or stops. Treat claims of guaranteed or passive income with caution. Your own statements and records are the best guide, so review them before you decide."
+  },
+  {
+   "q": "Can I sell my residuals?",
+   "a": "Some programs offer buyouts in which they purchase part of an agent's residual stream for a lump sum. This gives up future income, so read the terms closely and consult an advisor. Availability and pricing depend on the program and the portfolio."
+  },
+  {
+   "q": "What affects how much an agent earns per merchant?",
+   "a": "Factors include the merchant's monthly volume, the margin built into their pricing, the agent's split, fees included in the calculation and any costs deducted. Seasonality, churn and chargebacks also play a role. Ask how each element works in writing. Check the details against your own agreement, since terms differ between providers."
+  },
+  {
+   "q": "Do agents own the merchants they sign?",
+   "a": "It depends on the agreement. Some programs reserve ownership to the sponsor, leaving the agent with a right to be paid under the contract, while others give agents stronger rights. Review the language with an attorney before building a portfolio. A quick call to your processor can confirm how this works on your specific account."
+  }
+ ],
+ "related": [
+  "independent-sales-agent-guide",
+  "earn-residual-income",
+  "independent-sales-agent-program",
+  "processor-markup-explained",
+  "interchange-explained",
+  "iso-vs-agent"
+ ],
+ "icon": "dollar",
+ "read_minutes": 7
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "accept-payments-on-the-go",
+  "category": "use-cases",
+  "title": "Accepting Payments on the Go",
+  "seo_title": "Accept Card Payments on the Go | MCCPS",
+  "meta_description": "Take cards in the field with a mobile reader, tap-to-phone or wireless terminal. Compare setups, connectivity, receipts and costs for mobile businesses.",
+  "primary_keyword": "accept payments on the go",
+  "keywords": ["mobile card reader", "accept credit cards on phone", "wireless terminal", "mobile payment processing", "field service payments", "tap to phone", "portable card terminal"],
+  "eyebrow": "Mobile payments",
+  "dek": "Whether you work from a truck, a client's driveway or a market stall, there is a mobile setup that fits how you really get paid.",
+  "intro": [
+    "Plenty of businesses never meet a customer at a counter. You finish the repair in a kitchen, deliver an order to a doorstep or sell from a van, and the job is not done until the money is in hand. If your only option is to go back to the office and send an invoice, the delay costs you cash flow and sometimes the payment itself.",
+    "Mobile card acceptance closes that gap. Modern readers and wireless terminals are small, inexpensive compared with years ago and capable of chip, tap and wallet payments. The real questions are which type suits your work, how it stays connected and what happens to the cost per sale when you take cards in the field."
+  ],
+  "sections": [
+    {
+      "h2": "Three ways to take cards while moving",
+      "paragraphs": [
+        "Most mobile setups fall into one of three categories. A Bluetooth reader pairs with a smartphone or tablet and handles chip and contactless payments through an app. A wireless countertop-style terminal has its own screen and connects by cellular data or Wi-Fi, so it works without a phone at all. And tap-to-phone software uses the NFC antenna in a modern smartphone to accept contactless cards and wallets with no extra hardware.",
+        "Each has trade-offs. Readers are cheap and light, standalone wireless terminals are sturdier and print receipts, and tap-to-phone costs nothing in hardware but is limited to contactless. Many field businesses keep two, a reader for routine jobs and a backup in case a battery dies."
+      ]
+    },
+    {
+      "h2": "Connectivity is the real constraint",
+      "paragraphs": [
+        "A payment needs a connection to reach the issuing bank. In a basement, a rural stretch or a crowded venue, a phone with one bar may time out. Choose a device with a cellular option so it is not tied to a customer's Wi-Fi, and test it in your usual worst locations before you rely on it. Some systems support limited offline capture, storing transactions and sending them when the signal returns, but that carries risk: the card is not approved until it is submitted, so a declined card discovered later means chasing the customer.",
+        "Keep devices charged, carry a power bank and keep software updated on a schedule that avoids busy hours."
+      ]
+    },
+    {
+      "h2": "Matching the setup to your trade",
+      "paragraphs": [
+        "A few examples show how different the needs are."
+      ],
+      "bullets": [
+        "Service technicians and contractors often pair a reader with invoicing so the customer can pay on completion or by link later.",
+        "Delivery drivers and food trucks benefit from fast contactless acceptance and receipts sent by text or email.",
+        "Mobile groomers, trainers and tutors may combine a reader with card-on-file for repeat visits.",
+        "Salespeople who visit clients may prefer a phone-based virtual terminal for larger keyed transactions."
+      ]
+    },
+    {
+      "h2": "Receipts, tips and records",
+      "paragraphs": [
+        "Customers expect proof of payment. Offer an emailed or texted receipt that carries your business name, the amount, the date and your contact details, which also reduces disputes by making the charge recognizable. If tips are part of your trade, set the terminal to prompt for one before the card is presented so the total is correct from the start.",
+        "Keep your records tidy by matching each day's mobile sales to the deposit that follows. A reporting dashboard that separates mobile sales from others makes bookkeeping easier and helps your accountant at tax time."
+      ]
+    },
+    {
+      "h2": "Cost and security considerations",
+      "paragraphs": [
+        "Mobile sales that use chip or tap generally qualify for card-present pricing, which is typically lower than keyed or online sales. Keying a card number into a phone because a chip failed will usually move the sale to a higher category, so teach staff to retry the chip or tap before keying.",
+        "Security matters more on devices that leave the building. Use screen locks, keep software current, avoid public Wi-Fi for payment apps and have a lost-device procedure that disables the reader or account quickly. Encrypted readers keep card data from ever being exposed to the phone itself."
+      ]
+    },
+    {
+      "h2": "Getting started",
+      "paragraphs": [
+        "Begin by listing where you get paid, how big your typical ticket is and whether you need receipts printed. Then choose a device that suits the answers. MCCPS works with smartphones, terminals and many existing devices, can often reprogram a compatible terminal you already own and provides free 24/7 technical support so a stuck reader on a job site gets answered. A free analysis of your current statements will show what mobile sales actually cost you today."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Readers, wireless terminals and tap-to-phone each fit different mobile work.",
+    "Cellular connectivity and a backup device prevent lost sales in weak-signal areas.",
+    "Chip and tap sales usually cost less than keyed ones, so avoid keying when possible.",
+    "Send digital receipts and prompt for tips before payment to keep totals accurate.",
+    "Lock devices, update software and have a plan for a lost reader."
+  ],
+  "faq": [
+    {"q": "Can I accept credit cards with just my smartphone?", "a": "Yes, in two ways. Tap-to-phone software lets a compatible phone accept contactless cards and wallets with no extra hardware, and a small Bluetooth reader adds chip acceptance. You still need a merchant account and a payment app, and availability depends on your device and provider."},
+    {"q": "Do mobile payments cost more than a countertop terminal?", "a": "Not necessarily. Interchange depends on how the card is read, so a chip or tap sale on a mobile reader is generally priced as card-present, like a countertop terminal. Costs go up when you key in a number. Monthly fees and per-transaction fees vary by provider, so compare statements."},
+    {"q": "What happens if I lose signal during a sale?", "a": "The payment cannot be authorized without a connection. Some devices store the transaction and submit it later, but that leaves you exposed to declines after the customer has left. A cellular-capable device or a second connection source is the safer approach for areas with weak coverage."},
+    {"q": "Is it safe to take cards on a phone?", "a": "It can be, with the right setup. Use an encrypted reader or certified tap software, lock the phone, avoid unsecured Wi-Fi and keep apps updated. Never write card numbers down. Complete your PCI self-assessment so you know which controls apply to your setup."},
+    {"q": "Can I use a terminal I already own?", "a": "Often. Many terminals can be reprogrammed to work with a different processor, which avoids buying or leasing new hardware. Compatibility depends on the model and its encryption keys, so ask for a check before you assume you need a new device."}
+  ],
+  "related": ["mobile-payments", "tap-to-pay", "food-trucks", "home-services", "accept-payments-at-events", "credit-card-terminals"],
+  "icon": "phone",
+  "read_minutes": 6
+}

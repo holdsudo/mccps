@@ -1,0 +1,120 @@
+{
+ "slug": "payment-links-guide",
+ "category": "blog",
+ "title": "Payment Links: A Small Business Guide",
+ "seo_title": "Payment Links: A Small Business Guide | MCCPS",
+ "meta_description": "How payment links work, when to use them for invoices, deposits, phone orders and social sales, plus security tips and what to check with your processor.",
+ "primary_keyword": "payment links",
+ "keywords": [
+  "payment link for invoices",
+  "send a payment link",
+  "text to pay",
+  "pay by link",
+  "online invoice payment",
+  "payment link security",
+  "hosted payment page"
+ ],
+ "eyebrow": "Get paid remotely",
+ "dek": "A simple way to take a card payment without a website, a terminal or a visit: send a link, the customer pays, you are paid.",
+ "intro": [
+  "Not every sale happens at a counter or a shopping cart. A contractor finishes a job and the customer has left. A photographer needs a deposit before a shoot. A salon owner wants to collect a no-show fee. A shop owner takes an order on the phone. In each case, the question is how to collect a card payment without an in-person terminal.",
+  "A payment link is one of the simplest answers. It is a secure web address that opens a hosted payment page for a specific amount. The customer taps it, enters or selects a card, and pays. The link can be sent by text, email or chat, and it works on any phone.",
+  "This guide explains how they work, the best uses, the security points and the questions to ask your processor."
+ ],
+ "sections": [
+  {
+   "h2": "How a payment link works",
+   "paragraphs": [
+    "You create a link in your payment platform, entering an amount, description and sometimes an invoice number. The link opens a page hosted by your gateway, so card details go straight to a secure environment and not through your email or phone. Once the customer pays, the transaction is authorized, recorded and settled to your account like any other card-not-present sale.",
+    "Because the payment page is hosted, you generally avoid handling card data directly. That reduces your PCI compliance scope compared with writing card numbers on paper or typing them from a phone call.",
+    "There is also the speed advantage. A payment link can turn a verbal agreement into money in minutes, while a mailed invoice might sit for weeks. Shortening the time between work done and payment received is one of the most reliable ways to improve small-business cash flow."
+   ]
+  },
+  {
+   "h2": "Best uses for small businesses",
+   "paragraphs": [
+    "Links suit situations where the amount is known and the customer is somewhere else. They also help when you want to avoid the awkwardness of asking for card numbers aloud. Many businesses keep a few standard links for common services, such as deposits or consultation fees.",
+    "Consider a hypothetical dog groomer who texts a link at pickup for a no-show fee or a tip, or an electrician who sends one before leaving the driveway. In both cases the customer pays on a phone they are already holding, and the business gets a clean record without a card number being spoken aloud."
+   ],
+   "bullets": [
+    "Invoices for completed work.",
+    "Deposits on custom orders and bookings.",
+    "Phone and message orders.",
+    "Social media and messaging sales.",
+    "Event tickets, donations and one-off fees."
+   ]
+  },
+  {
+   "h2": "Links versus invoices versus virtual terminal",
+   "paragraphs": [
+    "A link sends the customer to pay on their own device. An invoice is a formal request with line items, due dates and reminders, often with a pay button. A virtual terminal lets you type in card details yourself while talking to the customer. Each has a role.",
+    "Links and invoices put the customer in charge of entering the card, which generally lowers fraud risk to you and keeps card data off your screen. A virtual terminal suits phone orders where the customer is on the line. Choose the lowest-touch option that fits the situation.",
+    "Set a policy for who may create links and for what maximum amount. Without limits, an employee's mistake or misuse can create a large charge. Role-based permissions in your platform let owners approve higher amounts."
+   ]
+  },
+  {
+   "h2": "Cost and pricing",
+   "paragraphs": [
+    "Payment links are card-not-present transactions, so they usually price higher than in-person ones. Say you collect a $1,200 payment at a hypothetical 3 percent effective rate; the fee is $36. Compare that with the cost of checks, collections or lost time chasing payment.",
+    "Ask whether your pricing model treats link payments differently, and whether per-link or gateway fees apply. If you use a compliant cash-discount or fee program, rules vary by state and card network and disclosure is required.",
+    "After sending a link, follow up politely if unpaid after a day or two. Many platforms send automatic reminders. Make the message short, clear and in your voice, with your business name, the amount and what it is for.",
+    "Partial payments and tips are worth thinking about. Some platforms let customers choose an amount for deposits or add a tip, while others fix the amount. Choose the setting that matches your use so you do not end up manually adjusting charges later."
+   ]
+  },
+  {
+   "h2": "Security habits that matter",
+   "paragraphs": [
+    "Send links only to the intended customer, preferably through the channel they used with you. Keep amounts and descriptions accurate, set expirations and use single-use links where available. Be wary of customers asking you to resend links to a different number or email, which is a classic scam pattern.",
+    "Teach customers to recognize your link. A consistent business name on the payment page and a matching statement descriptor reduce confusion and disputes. Keep records of the request and the customer's confirmation.",
+    "Review reports monthly. See how many links were paid, how many expired, the average time to pay and the average amount. Those numbers show whether links are saving time or just creating another unpaid list."
+   ]
+  },
+  {
+   "h2": "Getting started and tracking results",
+   "paragraphs": [
+    "Ask your processor whether payment links are available on your account and whether they connect to your accounting or POS reports. Test with a small payment to yourself and refund it. Then write simple instructions for staff about when to send links and when to use another method.",
+    "MCCPS supports one-time and recurring payments and multiple gateways, and the free statement analysis can show how card-not-present payments are priced on your current account. Free 24/7 support is available when you need it.",
+    "Consider branding too. Many platforms let you add a logo, a short description and a thank-you message to the payment page. A page that looks like your business builds trust, and customers are more willing to enter card details on a page they recognize than on an anonymous one."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Links let customers pay on their own device without a terminal or a website.",
+  "They keep card data off your systems and reduce PCI scope.",
+  "Ideal for invoices, deposits, phone orders and social sales.",
+  "They are card-not-present, so compare pricing.",
+  "Send to verified customers only and use expirations."
+ ],
+ "faq": [
+  {
+   "q": "Do I need a website to use payment links?",
+   "a": "No. The link opens a hosted payment page, so you only need a merchant account and a gateway or platform that supports links. You can send it by text, email or message."
+  },
+  {
+   "q": "Are payment links secure?",
+   "a": "They are secure when hosted by a PCI-compliant gateway, because card details go straight to that environment. Protect yourself by sending links only to verified customers and using expiration or single-use options."
+  },
+  {
+   "q": "Can customers pay with mobile wallets?",
+   "a": "Often yes, depending on your gateway and the customer's device. Ask your processor which wallets and card types the hosted page supports before promoting it."
+  },
+  {
+   "q": "Do links cost more than in-person payments?",
+   "a": "Usually they are priced as card-not-present, which tends to be higher than card-present. Check your statement and ask your processor whether any gateway or per-link fees apply."
+  },
+  {
+   "q": "Can I use a link for recurring payments?",
+   "a": "Some systems let customers save a card for future charges with their consent, which supports recurring billing. Ask your provider how stored cards and consent are handled before using it."
+  }
+ ],
+ "related": [
+  "invoicing-and-payment-links",
+  "accept-payments-by-phone",
+  "virtual-terminal",
+  "take-deposits-and-prepayments",
+  "collect-overdue-invoices",
+  "qr-code-payments"
+ ],
+ "icon": "bolt",
+ "read_minutes": 6
+}

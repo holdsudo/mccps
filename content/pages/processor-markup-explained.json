@@ -1,0 +1,115 @@
+{
+  "slug": "processor-markup-explained",
+  "category": "blog",
+  "title": "Processor Markup: What You're Really Paying For",
+  "seo_title": "Processor Markup Explained: What You Pay For | MCCPS",
+  "meta_description": "Processor markup is the one part of your card fees that is actually negotiable. Learn how it is built, how to spot it, and what to ask before you sign.",
+  "primary_keyword": "processor markup",
+  "keywords": [
+    "merchant processor markup",
+    "processing margin",
+    "basis points markup",
+    "interchange plus markup",
+    "per-transaction fee",
+    "negotiate processing fees",
+    "processor fees explained"
+  ],
+  "eyebrow": "Fee basics",
+  "dek": "Interchange and assessments are fixed by others. Markup is what your provider adds, and it is where most of the negotiating room lives.",
+  "intro": [
+    "If you strip a card processing bill down to its parts, two layers belong to other people: interchange to the issuing banks and assessments to the networks. The remaining layer is the markup, the amount your processor and its partners keep for providing the service.",
+    "Markup is not a villain. Processors have real costs for support, underwriting, risk monitoring and technology, and they deserve to be paid for them. What matters is whether the markup is visible, reasonable for the service you actually receive, and stable over the life of your contract."
+  ],
+  "sections": [
+    {
+      "h2": "How markup is built",
+      "paragraphs": [
+        "Markup normally has three moving pieces. First is a percentage added to the volume, usually quoted in basis points, where one basis point is one hundredth of a percent. Second is a per-transaction charge, a number of cents applied to every sale. Third is a set of recurring and occasional fees: monthly account fees, gateway fees, statement fees, PCI program fees and annual charges.",
+        "A provider might advertise just the first piece, such as a low percentage over cost. The per-item and monthly pieces can matter just as much, particularly for businesses with many small tickets or low volume."
+      ]
+    },
+    {
+      "h2": "Doing the math on a quote",
+      "paragraphs": [
+        "To compare proposals fairly, convert everything into one number. Say a business processes $50,000 a month across 1,250 transactions. A quote of 0.40% over cost plus 10 cents per item and a $25 monthly fee works out like this: the percentage part is $200, the per-item part is $125 and the monthly fee is $25, for $350 total markup, or 0.70% of volume.",
+        "Now compare an alternative quote with 0.25% over cost, 20 cents per item and a $35 monthly fee. That produces $125 plus $250 plus $35, or $410. The lower percentage lost, because the business has an average ticket of only $40. These figures are hypothetical, but the lesson is real: the lowest headline number is not always the lowest cost."
+      ]
+    },
+    {
+      "h2": "Where markup hides",
+      "paragraphs": [
+        "Markup is easiest to see under interchange-plus pricing, where the provider's margin is stated separately from pass-through costs. In other structures it is blended into the rate, and you must infer it by subtracting the pass-through costs from the total.",
+        "Regardless of the model, certain charges are really markup under a different name. They deserve the same scrutiny as the headline rate."
+      ],
+      "bullets": [
+        "Network or brand fees that are higher than the published pass-through amounts.",
+        "Batch headers and per-batch fees charged every time you close out.",
+        "Gateway fees for access to your own payment page.",
+        "Statement, regulatory or compliance fees that do not map to any outside cost.",
+        "Annual fees and minimum monthly charges that apply even when volume is low.",
+        "Terminal rentals and software subscriptions bundled into your account."
+      ]
+    },
+    {
+      "h2": "Fixed versus variable markup",
+      "paragraphs": [
+        "Some markup scales with your sales, while some does not. A fixed monthly fee is a larger share of a small business's costs, and a high percentage markup is more painful for a business with big tickets. Matching the structure to your volume and average ticket is the heart of picking a good deal.",
+        "Contracts also differ in whether markup can change. Some agreements allow the provider to adjust fees with notice, and others lock the margin for a term. Read the section on fee changes, and ask what the process is for increases."
+      ]
+    },
+    {
+      "h2": "How to know whether your markup is fair",
+      "paragraphs": [
+        "Start with your effective rate, which is total fees divided by total card volume. Then subtract interchange and assessments, which can be identified from an itemized statement, and what remains is your all-in markup. Dividing that by volume gives a percentage you can compare to quotes from other providers.",
+        "There is no single correct number, because fair markup depends on volume, ticket size, risk profile, and the services included. A high-risk or very low-volume account naturally carries more than a stable, high-volume one. What you are looking for is a margin that you can see, understand and compare.",
+        "One more way to size up markup is to ask what you receive for it. Some providers include 24/7 support, fast funding, free reprogramming of existing terminals, reporting dashboards and help with compliance. Others include a login and a phone number that goes to a queue. Two identical markups are not equal if one comes with real service and the other does not.",
+        "Finally, remember that markup is only a problem when it is hidden, inflated for the service or locked into a long contract with penalties for leaving. A visible, fair and flexible markup is simply the cost of having a partner who answers the phone when a terminal goes down on a Saturday afternoon."
+      ]
+    },
+    {
+      "h2": "Questions to ask your provider",
+      "paragraphs": [
+        "Ask for the markup as three numbers: a percentage, a per-item fee and a total of fixed monthly charges. Ask whether any of these can change during the term and how you will be notified. Ask which statement lines are pass-through at cost and which are provider fees.",
+        "If you would rather have someone else do the arithmetic, MCCPS offers a free, no-obligation savings analysis that reviews two months of your statements line by line and separates cost layers. Whether switching saves money depends entirely on what that review finds, and you are free to walk away with the numbers."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Markup is the processor's portion of your fees and the main part you can negotiate.",
+    "It usually combines basis points, a per-item fee and recurring monthly or annual charges.",
+    "A lower percentage can still cost more if the per-item or monthly fees are higher.",
+    "Convert every quote to a single dollar figure at your own volume and ticket size."
+  ],
+  "faq": [
+    {
+      "q": "What is a normal processor markup?",
+      "a": "There is no universal number. Fair markup depends on your volume, average ticket, risk profile and included services. A larger, steady business usually earns a lower margin than a small or high-risk one. The practical test is whether you can see it itemized and compare it to alternatives."
+    },
+    {
+      "q": "How do I find my markup on a statement?",
+      "a": "On an interchange-plus statement, look for the processor's percentage and per-item charges listed separately from interchange and assessments. On a bundled statement, subtract interchange and assessments from total fees. Dividing the remainder by volume gives your effective markup."
+    },
+    {
+      "q": "Is markup negotiable after I sign?",
+      "a": "Sometimes. Providers may adjust rates for a customer who has grown, or to retain a good account, but the contract controls. Check for term length and early termination language before assuming you can renegotiate, and get any change in writing."
+    },
+    {
+      "q": "What is a basis point?",
+      "a": "A basis point equals one hundredth of one percent. So a markup of 25 basis points is 0.25%, which on $10,000 of sales is $25. Providers quote margins this way because small differences matter at volume, and the term helps avoid confusion between percentage points and percent."
+    },
+    {
+      "q": "Can the processor raise my markup later?",
+      "a": "Only if the agreement allows it. Many contracts permit changes with notice, and some tie changes to pass-through updates. Review the fee-change clause carefully and ask how notice is delivered, so that a statement update does not become a surprise."
+    }
+  ],
+  "related": [
+    "interchange-explained",
+    "assessment-fees-explained",
+    "effective-rate-explained",
+    "negotiate-processing-rates",
+    "interchange-plus-pricing",
+    "processor-contract-red-flags"
+  ],
+  "icon": "trend",
+  "read_minutes": 6
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "flat-rate-vs-interchange-plus",
+  "category": "blog",
+  "title": "Flat-Rate vs. Interchange-Plus Pricing",
+  "seo_title": "Flat-Rate vs. Interchange-Plus Pricing Compared | MCCPS",
+  "meta_description": "Flat-rate is simple and interchange-plus is transparent. Compare the two pricing models with worked math, and learn which fits your volume and ticket size.",
+  "primary_keyword": "flat-rate vs interchange-plus",
+  "keywords": [
+    "flat rate processing",
+    "interchange plus pricing",
+    "flat rate vs interchange plus",
+    "which pricing model is cheaper",
+    "blended rate processing",
+    "processing pricing models",
+    "break-even volume"
+  ],
+  "eyebrow": "Pricing models",
+  "dek": "One model sells you simplicity and the other shows you the cost. Which wins depends on your volume, average ticket and card mix.",
+  "intro": [
+    "Pricing model is the single biggest decision after you choose to accept cards at all. Two structures dominate the conversation: a flat rate that charges the same percentage on everything, and interchange-plus, which passes through the real wholesale costs and adds a stated margin.",
+    "Neither is universally better. A new, low-volume business can reasonably prefer predictability. A busy shop with steady volume will often find that paying a blended rate means paying more than the underlying costs justify. The only way to know is to run the numbers."
+  ],
+  "sections": [
+    {
+      "h2": "How flat-rate pricing works",
+      "paragraphs": [
+        "With a flat rate, you pay one percentage, often with a small fixed amount, on every transaction, no matter the card type or how it was accepted. The provider absorbs the variation between cheap and expensive interchange categories and keeps the difference.",
+        "That arrangement is attractive for several reasons: it is easy to understand, it has few surprises, and it usually comes with fast onboarding and minimal monthly fees. It is a fair trade when your volume is low enough that negotiating something more precise would not be worth the effort."
+      ]
+    },
+    {
+      "h2": "How interchange-plus works",
+      "paragraphs": [
+        "Under interchange-plus, each transaction is charged the actual interchange for its category, plus network assessments, plus a fixed markup the processor discloses. The markup is typically stated as a small percentage plus a per-item fee, so the formula reads as interchange plus something.",
+        "Because the pass-through varies with each sale, your total changes from month to month with your card mix. In exchange you can see every layer, verify it against published tables and compare markup between providers like for like."
+      ]
+    },
+    {
+      "h2": "A side-by-side example",
+      "paragraphs": [
+        "Take a hypothetical business with $20,000 in monthly sales across 500 transactions, an average ticket of $40. Suppose a flat rate of 2.9% plus 30 cents per transaction. The monthly cost would be $580 plus $150, or $730, which is 3.65% of volume.",
+        "Now suppose the same sales under interchange-plus, where the blended interchange and assessments come to about 1.9% of volume, or $380, and the processor adds 0.30% plus 10 cents per item plus a $15 monthly fee. Markup is $60 plus $50 plus $15, so total cost is $505, or 2.5%. The difference is $225 a month in this made-up case.",
+        "Change the assumptions and the picture changes. With a very small volume, a heavier mix of premium cards or a lot of keyed-in sales, the gap narrows. That is why quotes need to be built from your own statements rather than from averages.",
+        "It is worth checking what else comes with each quote. Flat-rate providers often include a gateway, basic reporting and equipment financing in the headline, while some interchange-plus providers charge separately for each of those. A fair comparison puts every recurring and one-time cost on the table for both options, including terminal leases, gateway fees, PCI charges and any early termination provisions.",
+        "If a provider will only show you the percentage and not the monthly and per-item pieces, request a written fee schedule. Quotes that cannot be written down cannot be compared, and a provider unwilling to commit to numbers is giving you information of its own."
+      ]
+    },
+    {
+      "h2": "Strengths and weaknesses",
+      "paragraphs": [
+        "Each model trades one kind of certainty for another. Flat rate gives predictable percentages but not necessarily low totals. Interchange-plus gives visibility but requires you to read a longer statement.",
+        "Use the comparison below as a starting point, then test it against your actual sales."
+      ],
+      "bullets": [
+        "Flat rate favors very low volume, seasonal or brand-new businesses and anyone who values simplicity.",
+        "Flat rate costs more as volume and share of low-cost debit sales grow.",
+        "Interchange-plus favors steady or growing volume, larger tickets and mostly card-present sales.",
+        "Interchange-plus rewards good practices: clean data, daily batching and Level 2/3 details.",
+        "Flat rate offers little room to negotiate, while interchange-plus lets you negotiate only the markup.",
+        "Both models can have add-on fees, so check monthly, gateway and PCI charges either way."
+      ]
+    },
+    {
+      "h2": "Finding your break-even point",
+      "paragraphs": [
+        "The break-even is the volume at which interchange-plus starts to cost less than the flat rate once its fixed monthly fees are included. Compute the gap between the flat percentage and your true pass-through plus markup, and divide the fixed monthly cost by that gap.",
+        "If the gap is 1.1 percentage points and fixed fees are $15 a month, break-even is about $1,364 of monthly sales. Real accounts have quirks, so treat the result as a rough guide. For most established businesses with consistent volume, break-even was passed long ago."
+      ]
+    },
+    {
+      "h2": "Making the decision",
+      "paragraphs": [
+        "Gather two months of statements and calculate your effective rate under your current model. Ask for a written quote under the alternative for the same period. If you are on a flat rate and the quote shows a lower total, the answer is clear. If it does not, stay where you are and revisit when your volume changes.",
+        "MCCPS will run that comparison for free. The savings analysis reviews two months of your statements line by line, and the result shows what each model would have cost you with no obligation. You can also keep your existing re-programmable terminals in many cases, which keeps the switch inexpensive."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Flat rate charges one blended percentage; interchange-plus passes through real costs plus a stated markup.",
+    "Flat rate suits very low or unpredictable volume, and interchange-plus usually wins as volume grows.",
+    "Quotes should be compared in total dollars using your real statements, not as headline percentages.",
+    "A break-even calculation shows when the more detailed model starts paying off."
+  ],
+  "faq": [
+    {
+      "q": "Is interchange-plus always cheaper than flat rate?",
+      "a": "No. At very low volumes, fixed monthly fees can outweigh the savings, and a heavy mix of premium or keyed-in cards narrows the gap. For most established businesses with steady card sales, interchange-plus tends to cost less, but you should verify with a real quote."
+    },
+    {
+      "q": "Why do flat-rate providers cost more on debit?",
+      "a": "Because the rate is the same for every card, debit sales, which usually carry lower interchange, subsidize the cost of premium credit cards. The provider keeps the spread. If most of your sales are debit or standard credit, the blended rate may overstate your true cost."
+    },
+    {
+      "q": "Can I switch from flat rate to interchange-plus?",
+      "a": "Usually yes, subject to your contract. Check the term, cancellation language and any early termination fees before moving. Many merchants can also keep their existing terminals if they are re-programmable, which keeps switching costs down."
+    },
+    {
+      "q": "What markup should I expect on interchange-plus?",
+      "a": "It depends on volume, ticket size and risk profile, so no single number applies. Ask for it as a percentage, a per-item fee and a list of fixed charges, then convert to dollars at your volume to compare providers fairly."
+    },
+    {
+      "q": "Does a dual-pricing program replace these models?",
+      "a": "It can change who bears the cost. A compliant dual-pricing or cash-discount program may reduce or remove the processing cost to the merchant, but rules vary by state and card network and require proper disclosure. Confirm current requirements before adopting one."
+    }
+  ],
+  "related": [
+    "tiered-pricing-explained",
+    "effective-rate-explained",
+    "interchange-plus-pricing",
+    "move-off-flat-rate-processing",
+    "zero-processing-fees",
+    "membership-and-subscription-pricing"
+  ],
+  "icon": "scale",
+  "read_minutes": 6
+}

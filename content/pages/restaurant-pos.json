@@ -1,0 +1,122 @@
+{
+  "slug": "restaurant-pos",
+  "category": "solutions",
+  "title": "Restaurant POS Systems",
+  "seo_title": "Restaurant POS Systems & Payments | MCCPS",
+  "meta_description": "What to look for in a restaurant POS: table management, kitchen display, tips, split checks, online orders and payments that work with your terminals.",
+  "primary_keyword": "restaurant POS",
+  "keywords": [
+    "restaurant point of sale",
+    "kitchen display system",
+    "table management",
+    "tip adjustment",
+    "split checks",
+    "tableside payments",
+    "restaurant POS integration"
+  ],
+  "eyebrow": "Food service",
+  "dek": "A restaurant POS has to survive Friday at 7 p.m. Here is what separates a system that helps from one that slows the line.",
+  "intro": [
+    "In a restaurant, the point of sale is not a cash register. It is the nervous system connecting the host stand, the servers, the kitchen, the bar and the manager's office. When an order is entered, it has to reach the right station, the check has to split five ways without drama, and tips have to end up with the right person.",
+    "Choosing a restaurant POS is therefore as much about operations as technology. This guide walks through the features that matter and how payments fit in."
+  ],
+  "sections": [
+    {
+      "h2": "Table management and the floor plan",
+      "paragraphs": [
+        "A digital floor plan shows which tables are open, seated, ordered, served or waiting for a check. Hosts can see turn times, and servers can transfer tables during a shift change without losing the tab. For a busy room, that visibility is worth more than any other feature.",
+        "If you do table service and counter service both, make sure the system handles each style. Switching between modes in the middle of a shift should not require a restart or a manager override.",
+        "Reservations and waitlists can live inside the same system or alongside it. Ask whether guests can be texted when a table is ready, and whether deposits for large parties can be collected by card on file. These small features reduce no-shows and free the host from the phone."
+      ]
+    },
+    {
+      "h2": "Orders, modifiers and the kitchen display",
+      "paragraphs": [
+        "Menu items need modifiers: no onions, sauce on the side, medium rare, add bacon. The system should show them clearly on the ticket and, ideally, route them to the right station. A kitchen display system replaces printed tickets with screens that show timing, color-code late orders and let cooks bump tickets when done.",
+        "Course firing, order holds and allergy flags reduce errors. Ask how items can be 86'd, meaning taken off the menu when you run out, and how quickly that propagates to servers and online ordering."
+      ],
+      "bullets": [
+        "Modifiers and special instructions",
+        "Routing to kitchen, bar and expo stations",
+        "Course firing and holds",
+        "86 lists that update instantly",
+        "Printed or screen tickets, or both"
+      ]
+    },
+    {
+      "h2": "Tips, split checks and tableside payment",
+      "paragraphs": [
+        "Card tips are added after the initial authorization, then adjusted before the batch closes. Your system should let servers adjust tips quickly, report tips by employee and handle pooling rules you use. Handheld devices let servers take payment at the table, so the card never leaves the customer's sight, which both speeds service and reduces fraud risk.",
+        "Split checks are the stress test. Ask to see a demo with an eight-top splitting by seat, by item and evenly, with different cards. If the system makes this clumsy, servers will complain loudly.",
+        "Tip transparency matters for morale. Servers want to see what they earned the same night, and managers want reports that match payroll. If your restaurant pools tips or shares with the kitchen, confirm the system can apply your formula, rather than tallying by hand on a calculator at midnight."
+      ]
+    },
+    {
+      "h2": "Integrated payments",
+      "paragraphs": [
+        "With integrated payments, the check total goes straight to the terminal, so servers never retype amounts. This eliminates a classic mistake in which the card is charged $48 for an $84 check. Tips flow back into the POS automatically, which simplifies end-of-day reconciliation.",
+        "Because processing is separate from POS software, you may be able to use your preferred processor with the POS you like. MCCPS integrates with almost any POS, smartphone or terminal and often keeps re-programmable terminals you already own."
+      ]
+    },
+    {
+      "h2": "Online ordering, delivery and takeout",
+      "paragraphs": [
+        "Many restaurants take orders through their own site or through delivery partners. The best setups route those orders into the same POS so the kitchen sees one queue. Otherwise staff juggle several tablets, which is a recipe for missed tickets.",
+        "Check how online payments are handled and which fees apply, since card-not-present orders cost more than in-person ones. Consider how menu changes and prices stay in sync, and whether your gateway works with your ordering platform.",
+        "Delivery adds another wrinkle: third-party platforms often take a commission, so many owners steer repeat customers to their own ordering link. A QR code on the receipt or table tent can do that gently. Compare the all-in cost of a direct order, including card processing, against the platform fee to see what each channel really earns."
+      ]
+    },
+    {
+      "h2": "Reports and cost control",
+      "paragraphs": [
+        "Good reporting shows sales by item, category, hour and server, plus voids, comps and discounts. Those numbers expose theft, waste and menu items that cost more than they earn. Inventory features that track ingredient usage against sales help with ordering.",
+        "Hypothetically, a restaurant with $80,000 in monthly card sales feels every tenth of a percentage point of processing cost, about $80 a month. The reporting and analytics dashboard in PayPilot by MCCPS helps you see your actual effective rate. Request the free statement analysis to review two months of your fees line by line."
+      ]
+    },
+    {
+      "h2": "Resilience, support and next steps",
+      "paragraphs": [
+        "Ask what happens if the internet drops during dinner service. Offline mode should keep taking orders and queue card payments safely. Confirm the support hours, because the busiest times are nights and weekends. MCCPS offers free 24/7 technical support and personal customer service.",
+        "Before you commit, test the system on your busiest scenario with your own staff. Then compare the processing separately so the POS decision does not lock your costs in."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Table management, modifiers and kitchen routing drive service speed.",
+    "Integrated payments prevent keying errors and simplify tips.",
+    "Test split checks and offline mode in a real demo.",
+    "Evaluate POS and processing separately to avoid lock-in."
+  ],
+  "faq": [
+    {
+      "q": "Can I take payment at the table?",
+      "a": "Yes, with wireless handheld terminals or a mobile POS. The card stays in the customer's sight, which speeds service and lowers fraud risk. Wi-Fi or cellular coverage in the dining area needs to be reliable."
+    },
+    {
+      "q": "How do card tips work?",
+      "a": "The initial authorization covers the check amount, then the tip is added and adjusted before the batch closes. Your POS should report tips by employee and support any pooling you use. Confirm the closing routine."
+    },
+    {
+      "q": "Do I need a kitchen display system?",
+      "a": "Not necessarily. Printed tickets work for many restaurants. Screens add timing visibility and fewer paper jams, which helps busier kitchens. Weigh cost against volume and complexity."
+    },
+    {
+      "q": "Can I keep my current card terminals?",
+      "a": "Often yes, if they are re-programmable and compatible with your POS. MCCPS can check your equipment during the free statement analysis and explain what can stay."
+    },
+    {
+      "q": "What if the internet goes down?",
+      "a": "Look for offline mode that keeps taking orders and stores card payments for later. Ask how declines are handled afterward. Plan a backup, such as cellular connectivity."
+    }
+  ],
+  "related": [
+    "restaurants",
+    "pos-systems",
+    "restaurant-payment-tips",
+    "accept-tips",
+    "tipping-on-card-terminals",
+    "offline-payments"
+  ],
+  "icon": "utensils",
+  "read_minutes": 7
+}

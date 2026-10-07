@@ -1,0 +1,126 @@
+{
+  "slug": "payment-analytics-dashboard",
+  "category": "solutions",
+  "title": "Payment Analytics and Reporting Dashboard",
+  "seo_title": "Payment Analytics & Reporting Dashboard | MCCPS",
+  "meta_description": "See sales, fees, batches, chargebacks and trends in one place. A guide to what a payment reporting dashboard shows and how owners use it to decide.",
+  "primary_keyword": "payment analytics dashboard",
+  "keywords": [
+    "merchant reporting dashboard",
+    "payment reports",
+    "processing analytics",
+    "sales reporting",
+    "batch reports",
+    "chargeback reports",
+    "multi-location reporting"
+  ],
+  "eyebrow": "Reporting",
+  "dek": "Your processing statement arrives once a month. A dashboard shows the same story every day, while there is still time to act on it.",
+  "intro": [
+    "Most owners learn how their payments are doing from a PDF that arrives weeks after the month ends. By then the slow Tuesday has been forgotten, the chargeback has aged past its response window and the fee that crept up has been charged four times. Waiting for the statement is a lot like reading yesterday's weather.",
+    "A reporting and analytics dashboard puts payment data in front of you continuously. Done well, it replaces guesswork with a handful of numbers you can check in a minute. Here is what is worth tracking and how to use it."
+  ],
+  "sections": [
+    {
+      "h2": "What a dashboard should show",
+      "paragraphs": [
+        "At the core are sales volume, transaction counts, average ticket, refunds and fees, filterable by date, location, card type and payment channel. A good dashboard also shows batches and deposits, so you can match your bank account to your sales.",
+        "Beyond the basics, look for views of declines, chargebacks and disputes, and a way to export data to a spreadsheet or accounting software. The reporting and analytics dashboard in PayPilot by MCCPS is built to cover these, so you do not need separate tools."
+      ]
+    },
+    {
+      "h2": "Numbers that earn their screen space",
+      "paragraphs": [
+        "Resist the urge to track everything. Pick a few measures and check them regularly. Effective rate, the total fees divided by total card volume, tells you what you really pay. Average ticket shows the impact of promotions and upselling. Decline rate points to terminal or fraud rule problems. Chargeback ratio signals dispute risk.",
+        "Say your fees were $1,240 on $40,000 of card sales, for a 3.1% effective rate. If next month's number jumps to 3.4% without a change in your business, something in your mix or pricing moved, and the dashboard gives you the thread to pull.",
+        "Pair the numbers with context. A drop in average ticket after a promotion is not a problem if transaction count rose enough to offset it. Looking at several measures together prevents reacting to a single figure that tells only part of the story."
+      ],
+      "bullets": [
+        "Effective rate over time",
+        "Average ticket and transaction count",
+        "Decline rate and top decline reasons",
+        "Card-present versus keyed share",
+        "Refund and chargeback trends",
+        "Deposits versus batches"
+      ]
+    },
+    {
+      "h2": "Reading the daily rhythm of your business",
+      "paragraphs": [
+        "Hourly and daily patterns show when you are busiest, which informs staffing and hours. A shop that sees a stable 11 a.m. to 1 p.m. spike but nothing after 7 p.m. might reconsider evening staffing. A salon with Monday gaps might launch a midweek special.",
+        "Seasonality shows up as well. Comparing the same month across years, or this week against last, reveals trends that individual days hide. Tie these to your marketing calendar so you can see what actually moved the needle.",
+        "Compare weekdays with weekends, and compare tender types too: if debit grows while credit shrinks, your cost per sale shifts even when revenue holds steady."
+      ]
+    },
+    {
+      "h2": "Catching problems early",
+      "paragraphs": [
+        "Anomalies are the dashboard's most practical gift. A sudden cluster of small declines may mean card testing. A spike in keyed transactions may mean a terminal is failing and staff are typing cards by hand, which costs more. A growing refund rate could signal a product problem.",
+        "Set a routine: a one-minute daily glance and a deeper weekly review. Checking before payroll and before month end catches most issues while they are small.",
+        "Write down what normal looks like for your business. Once you know your typical decline rate, refund rate and weekday volume, deviations stand out immediately, and you can act on them rather than wondering whether a number is high or low."
+      ]
+    },
+    {
+      "h2": "Multi-location and multi-channel views",
+      "paragraphs": [
+        "If you run several locations or sell in store, online and by phone, consolidated reporting is the difference between a clear picture and five separate ones. You can compare locations, identify the strongest performers and see which channel grows fastest.",
+        "One merchant relationship covering every channel also simplifies reconciliation. Instead of piecing together statements from different providers, your accountant works from one set of exports.",
+        "Franchise owners and managers of several stores can also use the reports to coach staff, comparing average ticket, refund counts and tip rates between locations to find practices worth copying."
+      ]
+    },
+    {
+      "h2": "Making reports useful for your accountant",
+      "paragraphs": [
+        "Ask your bookkeeper what they need each month, then set up exports to match: gross sales, refunds, fees, net deposits and tax collected. A consistent export saves hours and reduces mistakes.",
+        "Reconcile deposits against batches regularly. When the numbers match, you can trust the rest. When they do not, the dashboard shows which batch or adjustment explains the difference.",
+        "Keep monthly exports archived with your statements. When tax season or a lender asks for sales history, a clean set of reports saves a scramble, and trends across years become easy to see."
+      ]
+    },
+    {
+      "h2": "Seeing it for yourself",
+      "paragraphs": [
+        "MCCPS provides a reporting and analytics dashboard with its processing, along with free 24/7 technical support and personal customer service. A specialist can walk you through the reports most relevant to your business.",
+        "To see how your current costs compare, request the free statement analysis, which reviews two months of statements line by line. Savings depend on that review, and no result is promised in advance.",
+        "If you sell through several channels, ask to see how card-present, online and keyed sales appear in reports, and whether you can save favorite views. A dashboard you can read in under a minute is one you will actually use week after week, which is where the real value comes from."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A dashboard shows payment performance daily instead of monthly.",
+    "Track effective rate, average ticket, declines and disputes.",
+    "Unusual patterns often reveal failing terminals or fraud early.",
+    "Consolidated reports simplify multi-location and multi-channel businesses."
+  ],
+  "faq": [
+    {
+      "q": "What is effective rate?",
+      "a": "It is your total processing fees divided by your total card sales for a period. It shows the real percentage you pay, regardless of how pricing is described. Compare it month to month to spot changes."
+    },
+    {
+      "q": "Can I export reports to my accounting software?",
+      "a": "Usually reports can be exported to a spreadsheet format that bookkeepers can import. Ask a specialist about the formats available and what your accountant needs."
+    },
+    {
+      "q": "How often should I check my dashboard?",
+      "a": "A quick daily look and a deeper weekly review are enough for most owners. Check before payroll and month end as well. The goal is to notice problems while they are small."
+    },
+    {
+      "q": "Does it work for multiple locations?",
+      "a": "Consolidated reporting across locations and channels is a common use. You can compare performance and reconcile deposits in one place. Details depend on your account setup."
+    },
+    {
+      "q": "Will a dashboard lower my fees?",
+      "a": "Not by itself, but it makes high costs visible. Combined with a statement review, it helps you find and fix them. Savings depend on your volume, card mix and pricing."
+    }
+  ],
+  "related": [
+    "effective-rate-explained",
+    "payment-data-analytics",
+    "multi-location-payments",
+    "how-to-read-a-merchant-statement",
+    "audit-your-merchant-statement",
+    "free-statement-analysis"
+  ],
+  "icon": "trend",
+  "read_minutes": 6
+}

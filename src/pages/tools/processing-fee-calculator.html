@@ -1,0 +1,23 @@
+<!--{"title":"Effective Rate Calculator — What Cards Really Cost | MCCPS","desc":"Calculate your effective credit card processing rate and annual fees in seconds. Then get a free line-by-line statement analysis from MCCPS.","nav":"tools","scripts":["tools.js"]}-->
+<section class="page-hero" style="padding-bottom:clamp(48px,7vw,80px)">
+  <div class="hero__bg" aria-hidden="true"><div class="aurora"><i></i><i></i><i></i><i></i></div><div class="hero__grid"></div></div>
+  <div class="container"><nav class="crumbs fade-up" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/tools/">Tools</a><span>/</span><span>Processing fee check</span></nav>
+  <h1 class="h1 fade-up d1">What are you really paying to accept cards?</h1><p class="lead fade-up d2">Grab last month’s merchant statement. Two numbers tell you your effective rate — the only processing number that matters.</p></div></section>
+<section class="section section--tight"><div class="container">
+<div class="tool-wrap" id="procfee">
+  <div class="tool-panel">
+    <h2>From your statement</h2>
+    <div class="field"><label for="p-vol">Total card sales last month</label><div class="input-wrap"><span class="prefix">$</span><input class="input" id="p-vol" inputmode="numeric" value="60,000"></div></div>
+    <div class="field" style="margin-top:16px"><label for="p-fees">Total processing fees last month</label><div class="input-wrap"><span class="prefix">$</span><input class="input" id="p-fees" inputmode="numeric" value="1,950"></div><span class="field__hint">Add up every fee line — discount, transaction, monthly, PCI, statement, batch.</span></div>
+    <div class="slider-field"><div class="top"><label for="p-cut">What if your rate were lower by…</label><output>0.5%</output></div><input id="p-cut" type="range" min="0.1" max="1.5" step="0.05" value="0.5" data-fmt="pct"></div>
+  </div>
+  <div class="tool-out" aria-live="polite">
+    <div class="big" id="o-eff">—</div><div class="lbl">Your effective rate · <b id="o-lvl">—</b></div>
+    <div class="kv"><div><b id="o-annual">—</b><span>Fees per year at this rate</span></div><div><b id="o-save">—</b><span id="o-save-lbl">per year</span></div></div>
+    <a class="btn btn--white btn--lg" href="/free-analysis/">Get my free analysis {{i:arrow}}</a>
+    <p class="tool-note">Effective rate = total fees ÷ total card volume. Ranges labelled here are general rules of thumb; what’s competitive depends on your card mix, ticket size and how you accept payments. Savings shown are hypothetical.</p>
+  </div>
+</div>
+<div class="prose" style="margin:72px auto 0"><h2>Why effective rate beats the advertised rate</h2><p>Processors quote rates many ways — flat, tiered, interchange-plus — and add monthly, PCI, batch and statement fees on top. Dividing total fees by total volume cuts through all of it. If your number looks high, MCCPS will <a href="/free-analysis/">review your statement for free</a>. Learn more in <a href="/blog/effective-rate-explained/">effective rate explained</a> and <a href="/blog/how-to-read-a-merchant-statement/">how to read a merchant statement</a>.</p></div>
+</div></section>
+{{cta-band}}

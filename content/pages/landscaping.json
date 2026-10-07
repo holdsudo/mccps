@@ -1,0 +1,125 @@
+{
+  "slug": "landscaping",
+  "category": "industries",
+  "title": "Landscaping Payment Processing",
+  "seo_title": "Landscaping Payment Processing | MCCPS",
+  "meta_description": "Landscaping payment processing for recurring service plans, invoicing and seasonal cash flow. Automate billing and review your fees with MCCPS.",
+  "primary_keyword": "landscaping payment processing",
+  "keywords": [
+    "lawn care billing",
+    "recurring service plans",
+    "landscaper credit card processing",
+    "seasonal business payments",
+    "invoice payment links",
+    "card on file lawn service",
+    "landscaping autopay"
+  ],
+  "eyebrow": "Field service",
+  "dek": "Weekly mowing routes, spring cleanups and a slow winter: how landscapers can bill regularly and keep cash flowing year-round.",
+  "intro": [
+    "Landscaping is a business of routes and seasons. A crew might serve 80 properties on a weekly mowing schedule, with extra income from spring cleanups, mulch installs and fall leaf removal. Then winter arrives and the work thins out. Payments need to follow the same rhythm.",
+    "Landscaping payment processing is about collecting from many small recurring customers without chasing each one, keeping cash flowing across the lean months and making sure the cost of processing does not erode a business with tight margins and high fuel and labor costs."
+  ],
+  "sections": [
+    {
+      "h2": "Autopay for recurring service plans",
+      "paragraphs": [
+        "Weekly or biweekly service lends itself to automatic billing. The customer authorizes a card on file, and the company charges a monthly or per-visit amount on a regular schedule. This removes the monthly dance of mailing invoices, waiting for checks and sending reminders, and it makes revenue far more predictable.",
+        "Be clear in the service agreement about what is covered, the price, the billing date and how to cancel. Some landscapers bill the same amount monthly across the season to smooth out weather-driven variations in the number of visits. State rules on automatic renewals vary, so ask your attorney how they apply to your contracts."
+      ],
+      "bullets": [
+        "Store cards as tokens with the customer's written or recorded consent.",
+        "State the price, billing date and cancellation steps in the agreement.",
+        "Send a receipt after every charge.",
+        "Use account updater so replaced cards do not cause failures."
+      ]
+    },
+    {
+      "h2": "Invoicing for one-off jobs",
+      "paragraphs": [
+        "Spring cleanups, tree work, hardscaping and installations are better handled by invoice. A payment link on the invoice lets the customer pay by card or bank transfer from their phone. Sending the invoice from the truck, with photos of the finished job, shortens the time to payment.",
+        "For larger projects, take a deposit when the customer signs, because plants and materials are costly and returns are rarely possible. Keep a clear estimate, with a signed approval for any changes. Deposits and change orders are the usual sources of disputes in this trade."
+      ]
+    },
+    {
+      "h2": "Taking payments in the field",
+      "paragraphs": [
+        "A crew leader with a mobile reader can accept a card at the end of the visit, which is useful for new customers or one-time jobs. A phone-based tap-to-pay option keeps the equipment light. Test the reader in the places you actually work, since signals can be patchy in large properties and rural areas.",
+        "For customers who prefer to pay later, a text with a payment link is quick. Avoid writing card numbers on paper forms; a paper form in a truck is a security risk. MCCPS offers PCI compliance help, and free 24/7 technical support if a reader fails."
+      ],
+      "steps": [
+        "Finish the job and photograph the work.",
+        "Send an invoice with a payment link, or present the reader.",
+        "Collect the payment and send a receipt.",
+        "Record the payment in your scheduling software.",
+        "Reconcile weekly against deposits."
+      ]
+    },
+    {
+      "h2": "Managing the seasonal swing",
+      "paragraphs": [
+        "Landscaping income peaks in spring and summer, and costs such as equipment maintenance and insurance continue through the winter. Some companies spread annual contracts across 12 monthly payments to smooth cash flow, while others add snow removal or holiday lighting to keep crews busy.",
+        "Watch for fees that hit hardest in slow months, such as monthly minimums or statement fees that are charged whether or not you process much. Ask how your processor handles seasonal pauses. For short-term funding needs, MCCPS refers merchants to Fidelity Funding; MCCPS is not a lender."
+      ]
+    },
+    {
+      "h2": "Handling failed payments and disputes",
+      "paragraphs": [
+        "A recurring charge can fail for ordinary reasons: an expired card, a new number after a lost card or a temporary shortage of funds. A prompt text or email with a link to update the card usually fixes it, and a reasonable retry schedule catches most of the rest.",
+        "Disputes often come from customers who forgot they signed up or believed they had cancelled. Honor cancellation requests promptly, confirm them in writing and stop billing on time. A refund for a genuine mistake costs less than a chargeback."
+      ]
+    },
+    {
+      "h2": "Weather delays and pricing your route",
+      "paragraphs": [
+        "Weather disrupts landscaping schedules, and billing needs a policy for it. If a week of rain pushes a mowing visit, do you charge per visit, skip the charge or bill a flat monthly rate regardless? Decide before the season, put it in the service agreement and communicate it clearly. Flat monthly pricing tends to cause fewer disputes, because the customer pays the same whether the season brings a wet spring or a dry one. For add-on work like mulch or storm cleanup, send an estimate and take approval by text before the crew begins, so the invoice never surprises anyone."
+      ]
+    },
+    {
+      "h2": "Costs and a good first step",
+      "paragraphs": [
+        "Say your company bills 120 customers at $180 a month, or $21,600, with a 3.0 percent effective rate. That is $648 in fees. Recurring charges are card-not-present, so they may price differently than in-person sales. Review how your statement treats them, plus any gateway or recurring-billing fees.",
+        "Some landscapers use a cash discount or dual pricing program, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and current requirements should be confirmed first. The free statement analysis reviews two months of statements line by line, with savings depending on what is found. ACH is also an option for customers who prefer to pay from a bank account."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Autopay with a card on file makes recurring routes predictable.",
+    "Use invoices with payment links for one-off jobs and deposits for large installs.",
+    "A mobile reader or tap-to-phone lets crews collect at the property.",
+    "Watch monthly minimums and fixed fees in the slow season.",
+    "Prompt cancellations and clear terms prevent chargebacks."
+  ],
+  "faq": [
+    {
+      "q": "How do I set up automatic billing for lawn care?",
+      "a": "Get the customer's consent, store the card as a token, and charge on a set schedule using recurring billing. Put price, schedule and cancellation steps in the agreement and send receipts."
+    },
+    {
+      "q": "Should I take a deposit for a landscaping project?",
+      "a": "Often yes, particularly for materials and plants that cannot be returned. Put the amount and timing in a signed estimate, and check state rules on deposits for home improvement."
+    },
+    {
+      "q": "What if a customer's card fails on autopay?",
+      "a": "Send a quick message with a payment link to update the card and retry on a sensible schedule. Card account updater can prevent many failures from expired or replaced cards."
+    },
+    {
+      "q": "Can I accept payments from my truck?",
+      "a": "Yes, with a mobile card reader, tap-to-phone or a payment link sent by text. Test your connectivity at typical job sites and keep a backup option."
+    },
+    {
+      "q": "Can a landscaper add a card fee?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure. Confirm requirements before adding a fee to service agreements or invoices."
+    }
+  ],
+  "related": [
+    "recurring-billing",
+    "cleaning-services",
+    "seasonal-business-payments",
+    "set-up-recurring-payments",
+    "invoicing-and-payment-links",
+    "home-services"
+  ],
+  "icon": "hammer",
+  "read_minutes": 6
+}

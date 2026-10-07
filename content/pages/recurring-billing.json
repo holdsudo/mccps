@@ -1,0 +1,120 @@
+{
+  "slug": "recurring-billing",
+  "category": "solutions",
+  "title": "Recurring Billing for Memberships and Subscriptions",
+  "seo_title": "Recurring Billing & Autopay Processing | MCCPS",
+  "meta_description": "Set up recurring billing for memberships, subscriptions and service plans with card on file, autopay and fewer failed payments. Learn the essentials.",
+  "primary_keyword": "recurring billing",
+  "keywords": [
+    "recurring payments",
+    "subscription billing",
+    "membership billing",
+    "autopay processing",
+    "card on file",
+    "failed payment recovery",
+    "account updater"
+  ],
+  "eyebrow": "Autopay",
+  "dek": "Charge customers on a schedule, keep revenue predictable, and spend less time chasing the same invoice every month.",
+  "intro": [
+    "If you bill the same customers every month, sending invoices by hand is a tax on your time. Gyms, cleaning crews, software tools, clubs and service plans all run on repetition, and the businesses that handle it well collect on the first of the month without a single reminder email. Recurring billing makes that possible.",
+    "It is not just a scheduler. Behind it sit card storage, customer consent rules, handling of expired cards and a plan for what to do when a payment fails. Here is how the pieces fit together."
+  ],
+  "sections": [
+    {
+      "h2": "How recurring billing works",
+      "paragraphs": [
+        "The customer authorizes you to charge their card or bank account on a schedule. Your payment system stores the credential securely as a token, then submits a charge each cycle: weekly, monthly, annual, or on a custom timetable. Each charge is a normal authorization, so approvals, declines and settlement follow the usual path.",
+        "You can usually vary amounts, add one-time fees, prorate partial months, and pause or cancel plans. MCCPS supports both one-time and recurring payments, so a customer can pay a setup fee today and a monthly fee afterward from the same record."
+      ]
+    },
+    {
+      "h2": "Getting consent right",
+      "paragraphs": [
+        "Charging a card repeatedly requires clear permission. Spell out the amount, the schedule, how to cancel, and what happens with trial periods or price changes. Capture that agreement in writing or electronically and keep it.",
+        "Unclear terms are one of the most common triggers of disputes. A customer who forgot they signed up for a trial, or who did not know a price rose, may call their bank rather than you. Clear confirmation emails and an easy cancellation path prevent most of those problems. Consult your attorney about rules that apply to your type of subscription."
+      ],
+      "bullets": [
+        "State the amount and billing frequency up front",
+        "Explain trial terms and when the first charge occurs",
+        "Provide a simple way to cancel or pause",
+        "Send a receipt after every charge",
+        "Notify customers before price changes"
+      ]
+    },
+    {
+      "h2": "Why recurring payments fail",
+      "paragraphs": [
+        "Failed payments are not usually fraud. Cards expire, accounts get replaced after a loss, limits are hit, and banks decline unfamiliar-looking charges. Left alone, these failures quietly shrink revenue.",
+        "Say you have 300 members at $50 a month, and 4% of charges fail each cycle. That is 12 failed payments, or $600 a month, and if none are recovered you lose $7,200 a year. Even partial recovery is material, which is why failure handling is part of the setup, not an afterthought.",
+        "Declines also carry different meanings. A soft decline, such as insufficient funds, often succeeds on a later retry, while a hard decline, such as a closed account, will not and needs a new payment method from the customer. Sorting the two saves you from retrying charges that will never work."
+      ]
+    },
+    {
+      "h2": "Recovery tools: retries, updater and reminders",
+      "paragraphs": [
+        "A sensible retry schedule resubmits a declined charge a few days later rather than hammering the card the same hour. Card account updater services can refresh expired or reissued card details automatically where the issuer participates, preventing many failures before they occur.",
+        "Pair these with a friendly notification: a short email or text saying the payment did not go through and linking to a secure page to update the card. Avoid threatening tone. Most customers fix it within a day when asked politely and given an easy path."
+      ]
+    },
+    {
+      "h2": "ACH as an alternative",
+      "paragraphs": [
+        "For fixed monthly amounts, bank-account debits through ACH often cost less than cards and do not expire the way cards do. They take a few business days to settle and can be returned for insufficient funds, so the right mix depends on your customers.",
+        "Some businesses offer both: card for convenience, bank debit for a lower price. Rules for authorizing debits differ from card rules, so make sure your sign-up forms capture the correct consent."
+      ]
+    },
+    {
+      "h2": "Measuring the health of your billing base",
+      "paragraphs": [
+        "Once recurring revenue is flowing, a few numbers tell you whether it is healthy. Track how many charges succeed on the first attempt, how many are recovered after a retry, how many customers cancel each month and how many cards are about to expire. Watching these month to month shows whether a change, like a price increase or a new sign-up flow, helped or hurt.",
+        "Review the reporting regularly rather than only when something looks wrong. A rising share of declines may point to a billing descriptor customers do not recognize, while a spike in cancellations after a failed charge suggests your communication needs work. Because the reporting and analytics dashboard in PayPilot by MCCPS shows volume and trends in one place, you can spot these patterns early and fix them while the cost is still small."
+      ]
+    },
+    {
+      "h2": "Setting it up with MCCPS",
+      "paragraphs": [
+        "Recurring billing runs through your gateway and merchant account, with tokenized card storage so you hold no raw numbers. The reporting and analytics dashboard helps you track active plans, failures and revenue by month. Next-day funding is available depending on your account setup, which smooths cash flow when charges cluster at the start of the month.",
+        "Free 24/7 technical support and personal customer service are included. Request the free statement analysis and a specialist will review how your current recurring charges are priced and whether the setup can be improved."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Recurring billing charges a stored token on a schedule with customer consent.",
+    "Most failures come from expired or replaced cards, not fraud.",
+    "Retries, account updater and polite reminders recover revenue.",
+    "ACH can lower cost for fixed monthly amounts."
+  ],
+  "faq": [
+    {
+      "q": "Is it safe to store customer cards?",
+      "a": "It is when done through tokenization, where your system keeps a placeholder instead of the real number. The gateway holds the card data securely. Avoid storing raw numbers yourself, and follow PCI requirements to keep your risk low."
+    },
+    {
+      "q": "What is an account updater?",
+      "a": "A service that checks stored cards against issuer updates and refreshes expired or reissued numbers automatically. It does not cover every card or issuer, but it can prevent many failed recurring charges. Ask whether it is available on your setup."
+    },
+    {
+      "q": "How do I reduce chargebacks on subscriptions?",
+      "a": "Be clear about terms, send receipts and renewal reminders, and make cancellation easy. Most subscription disputes start with a customer who did not recognize or remember a charge. A recognizable billing descriptor helps too."
+    },
+    {
+      "q": "Can customers update their own card?",
+      "a": "Often yes, through a secure update link or customer portal. It saves your staff time and lets customers fix problems on their own schedule. Confirm what your platform offers."
+    },
+    {
+      "q": "Can I bill at different amounts each month?",
+      "a": "Usually. Many systems support variable amounts, proration and one-time add-ons alongside a plan. Make sure the customer's authorization covers variable charges so there are no surprises."
+    }
+  ],
+  "related": [
+    "set-up-recurring-payments",
+    "recurring-billing-best-practices",
+    "account-updater",
+    "gyms-and-fitness",
+    "subscription-businesses",
+    "ach-processing"
+  ],
+  "icon": "refresh",
+  "read_minutes": 6
+}

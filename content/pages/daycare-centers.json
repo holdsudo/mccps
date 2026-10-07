@@ -1,0 +1,84 @@
+{
+  "slug": "daycare-centers",
+  "category": "industries",
+  "title": "Daycare Payment Processing",
+  "seo_title": "Daycare Payment Processing & Tuition Autopay | MCCPS",
+  "meta_description": "Set up weekly tuition autopay, late pickup fees and registration payments for your daycare. Practical guide to card and ACH processing for childcare centers.",
+  "primary_keyword": "daycare payment processing",
+  "keywords": ["childcare payment processing", "daycare tuition autopay", "daycare credit card processing", "preschool payment software", "late pickup fee collection", "daycare merchant account", "weekly tuition billing"],
+  "eyebrow": "Childcare payments",
+  "dek": "Weekly tuition, registration fees and late pickup charges: how childcare centers can get paid on time without chasing parents at the door.",
+  "intro": [
+    "Running a daycare means you are paid in advance by people who are, understandably, exhausted. Tuition comes due every Monday or on the first of the month, and nearly everything about your cash flow depends on it landing on time. Payroll for teachers, food, insurance and rent do not wait for a parent to remember a check.",
+    "That is why payment processing at a childcare center is less about checkout speed and more about reliability and trust. Families want a simple, predictable charge that they can see coming, and directors want to stop hand-writing receipts and reconciling envelopes at the front desk.",
+    "Below is a plain-English look at how card and bank payments work for daycares and preschools, where costs hide, and how to set things up so billing runs quietly in the background."
+  ],
+  "sections": [
+    {
+      "h2": "Weekly tuition on autopay",
+      "paragraphs": [
+        "The backbone of most daycare billing is a recurring charge. A parent agrees to a schedule, such as every Monday morning or the first and fifteenth of the month, and the center stores a tokenized payment method. On each date the system submits a normal card or ACH transaction for the agreed amount, then posts a receipt to the family.",
+        "This approach moves the work from your front desk to software. It also changes the conversation with parents: instead of a reminder that tuition is late, you send a courtesy notice that a payment will run on Monday. Most centers find that clear communication around the schedule prevents more problems than any late fee does.",
+        "Keep a signed enrollment agreement that authorizes the recurring charge, explains how to change the method, and spells out what happens when a payment fails. If the amount ever varies with attendance or extra care, say so in writing."
+      ]
+    },
+    {
+      "h2": "Cards, ACH and childcare subsidies",
+      "paragraphs": [
+        "Many families pay by debit or credit card because it is easy, while others prefer a direct bank debit. Tuition amounts in childcare are meaningful, often several hundred dollars a week, so the choice between card and ACH has a real cost effect. Say a family pays $350 a week by card at a 3% effective rate: that is $10.50 per payment, or $546 over a year, from a single child. ACH transfers usually cost less per transaction, which is why some centers gently encourage them for recurring tuition.",
+        "Subsidized care adds a wrinkle. A county or state agency may pay part of the tuition directly, leaving the parent with a copay. Those agency payments often arrive by check or electronic deposit outside the card network, so your billing software should let you split a bill between payers and track each portion separately."
+      ],
+      "bullets": [
+        "Offer card and ACH, and explain the difference in plain terms",
+        "Track parent copays separately from agency payments",
+        "Record each payment against the child and the billing period",
+        "Provide year-end statements parents can use for their own records"
+      ]
+    },
+    {
+      "h2": "Registration, deposits and one-time fees",
+      "paragraphs": [
+        "Registration fees, supply fees and waitlist deposits are usually collected before a child ever starts. A payment link sent by email or text, or a form embedded on your website, lets a parent pay from their phone at midnight, which is when many of them actually fill out paperwork. Because the customer is not present, these are card-not-present transactions, and your processor will ask for the billing ZIP and security code to cut down on fraud.",
+        "Decide up front whether deposits are refundable and say so on the form. A deposit that is described clearly is rarely disputed; one that is vague is a common source of chargebacks when plans change."
+      ]
+    },
+    {
+      "h2": "Late pickup fees and add-on charges",
+      "paragraphs": [
+        "Late pickup fees are a fact of life in childcare, and they can be uncomfortable to collect in person. Charging a stored card for a documented late pickup, with a notification sent immediately, removes the awkward moment. The key is that the policy was agreed to in advance and the family receives a clear itemized explanation of the charge, including the time stamp.",
+        "The same method works for field trips, extra days or picture-day packages. Each add-on should appear as its own line on the receipt so the parent can see exactly what was billed. Itemized receipts are one of the cheapest forms of dispute prevention available."
+      ]
+    },
+    {
+      "h2": "What to look for in a processor",
+      "paragraphs": [
+        "Childcare is not a high-risk industry in the usual sense, but it does depend on a few features. Look for recurring billing with automatic retries, a way to refresh expiring cards, a parent portal or at least automated receipts, and clean reports that tie deposits to specific billing periods. If you already use childcare management software, ask whether it integrates with your gateway; MCCPS works with a wide range of POS and software platforms and can often keep compatible equipment you already own.",
+        "Ask about the full fee picture rather than a single headline rate. Monthly minimums, PCI fees and statement fees can matter as much as the percentage when your volume is steady and predictable. A free statement analysis from MCCPS reviews two months of statements line by line and shows how your current charges compare with how your payments actually flow."
+      ]
+    },
+    {
+      "h2": "Security and peace of mind",
+      "paragraphs": [
+        "A daycare holds sensitive information about children and families. Keep paper card numbers out of files and binders entirely; tokenization means the number is replaced with a meaningless reference your staff can use for billing without ever seeing the card. PCI compliance help is part of what MCCPS provides, and the questionnaire for a center that uses hosted, tokenized payment pages is typically shorter than for one that stores data itself.",
+        "If you ever want to explore programs that reduce or share card costs, such as a compliant dual-pricing approach, remember that rules vary by state and card network and require clear disclosure. Our team can walk through what applies to you, and support is available any hour if a Monday-morning batch does not behave."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Recurring tuition on a stored token removes most manual collection work.",
+    "Written authorization and itemized receipts prevent the majority of billing disputes.",
+    "Weekly tuition amounts make the card versus ACH decision worth real money.",
+    "Track agency subsidies separately from parent copays.",
+    "Ask about retries, card updates and reporting, not just the rate."
+  ],
+  "faq": [
+    {"q": "What is the best way to collect daycare tuition?", "a": "Most centers use recurring autopay with a stored card or bank account, backed by a signed authorization. It gives families a predictable charge and gives you a predictable deposit. Offer both card and ACH, send reminders before each run, and use automatic retries for declined payments so staff are not chasing them by hand."},
+    {"q": "Can I charge a parent's card for a late pickup?", "a": "Generally yes if the parent agreed in writing to the late fee and to charging the card on file, and if you send an itemized notice with the time recorded. Check your state's childcare licensing rules and talk with your attorney about how fees must be disclosed."},
+    {"q": "Should daycare tuition be paid by card or ACH?", "a": "Both work. Cards are convenient and fund quickly, but cost more on large recurring amounts. ACH usually costs less per payment but can take longer to reveal a failure. Many centers offer both and let families choose, explaining the tradeoff."},
+    {"q": "How do I handle subsidized childcare payments?", "a": "Bill the agency portion and the parent copay as separate items against the same child. Agency payments often arrive outside the card network, so your software should track them independently. Reconcile each payer against the correct period to avoid confusion at year end."},
+    {"q": "Do I need a separate merchant account for my daycare?", "a": "If you accept cards, you need a merchant account that is set up for your business. A new account usually requires basic business and bank information. MCCPS can help you get set up and, if you already have an account, review your statements to see whether it still fits."}
+  ],
+  "related": ["schools-and-education", "recurring-billing", "ach-processing", "take-deposits-and-prepayments", "pci-compliance", "gyms-and-fitness"],
+  "icon": "heart",
+  "read_minutes": 6
+}

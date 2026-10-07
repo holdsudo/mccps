@@ -1,0 +1,119 @@
+{
+  "slug": "credit-card-terminals",
+  "category": "solutions",
+  "title": "Credit Card Terminals for Every Counter",
+  "seo_title": "Credit Card Terminals: EMV, NFC & Wireless | MCCPS",
+  "meta_description": "Compare countertop, wireless and mobile credit card terminals with EMV and NFC, and find out when your existing terminal can be reprogrammed.",
+  "primary_keyword": "credit card terminals",
+  "keywords": [
+    "credit card machine",
+    "EMV terminal",
+    "wireless card terminal",
+    "countertop card reader",
+    "reprogram credit card terminal",
+    "NFC terminal",
+    "card terminal for small business"
+  ],
+  "eyebrow": "Hardware",
+  "dek": "The right card terminal is the one that fits your counter, your connection and your customers, and does not trap you in a lease.",
+  "intro": [
+    "A credit card terminal is a small device with a big job. It reads the card, encrypts the data, asks for a PIN or a signature when needed, and sends the request on its way. It also sits on your counter every single day, so a poor choice irritates you and your customers over and over.",
+    "Terminal shopping is confusing because you are often sold hardware and processing in one package. This page explains the main types, what features matter, and what to ask before you buy or lease a machine."
+  ],
+  "sections": [
+    {
+      "h2": "Countertop, wireless and mobile: the main types",
+      "paragraphs": [
+        "Countertop terminals are fixed units connected by Ethernet, and sometimes Wi-Fi, to the internet. They are dependable and well suited to a checkout lane or front desk where the customer comes to the device.",
+        "Wireless terminals use Wi-Fi or cellular data so you can bring the device to the customer, which is how restaurants handle tableside payments and how service businesses collect on location. Mobile readers pair with a phone or tablet and suit field work and pop-up sales. Many businesses use more than one: a countertop unit inside and a wireless one for outdoor seating or deliveries."
+      ]
+    },
+    {
+      "h2": "What EMV, NFC and PIN pads actually do",
+      "paragraphs": [
+        "EMV refers to the chip standard. A chip card generates a one-time cryptogram for each transaction, which makes cloned magnetic-stripe copies far less useful to criminals. If a chip card is swiped instead of dipped, the liability for counterfeit fraud can shift toward the merchant, so a chip reader matters.",
+        "NFC enables contactless payments: a tap of a card, phone or watch. It speeds up lines and is the backbone of Apple Pay and Google Pay acceptance. A PIN pad is needed for debit cards that require a PIN. Any terminal bought today should handle chip, tap and PIN together."
+      ],
+      "bullets": [
+        "Chip (EMV) for card-present security",
+        "Contactless (NFC) for cards and mobile wallets",
+        "PIN entry for PIN debit",
+        "Encryption of card data at the point of capture",
+        "Receipt printing, or email and text receipts"
+      ]
+    },
+    {
+      "h2": "Connectivity and what happens when it fails",
+      "paragraphs": [
+        "A terminal is only as reliable as its connection. Ethernet is the steadiest. Wi-Fi works when coverage is strong. Cellular is a good fallback for events, mobile work or an unreliable building network.",
+        "Ask what the device does with no connection. Some terminals can store transactions and forward them later, with the risk that a card declined at that point is the merchant's loss. Others simply stop. Knowing the answer before a storm or an outage beats discovering it mid-rush."
+      ]
+    },
+    {
+      "h2": "Buying, leasing and the reprogramming option",
+      "paragraphs": [
+        "The most expensive terminal mistake is a non-cancellable lease. Hypothetically, a $50-a-month lease over 48 months comes to $2,400 for equipment that may retail for a few hundred dollars. The contract may keep running even if you close the account or switch processors.",
+        "Many terminals you already own can be reprogrammed, meaning loaded with new settings so they send transactions to a different processor. MCCPS often keeps re-programmable terminals merchants already own, which removes hardware cost from the switching decision. Whether a specific model qualifies depends on make, model and whether it is locked to its current provider."
+      ]
+    },
+    {
+      "h2": "Matching a terminal to your business",
+      "paragraphs": [
+        "A coffee counter needs fast tap acceptance and tip prompts. A salon needs a device that goes with the stylist to the chair. A mobile technician needs cellular connectivity and a long battery. A retailer might need a terminal that integrates with the POS so totals are not retyped.",
+        "Whichever you choose, check that the terminal supports tip adjustment if you take tips, supports refunds and voids with manager approval, and can run settlement or batch close in a way that suits your closing routine. Multiple gateways and one-time and recurring payments can sit alongside terminal sales on the same account."
+      ]
+    },
+    {
+      "h2": "Everyday habits that keep a terminal running well",
+      "paragraphs": [
+        "Most terminal problems are small and preventable. Keep the chip slot free of dust and lint, wipe the screen with a soft cloth rather than a spray cleaner, and never leave a card reader in direct sun or beside a fryer. Update software when your provider releases patches, because updates often carry security fixes and new card-network requirements. Keep spare receipt paper where staff can reach it quickly, since a printer that runs dry at the wrong moment slows every customer behind the first.",
+        "Close the batch on a consistent schedule, even if the terminal does it automatically, and glance at the total against your sales record. A habit of checking the daily total catches duplicate charges and forgotten tip adjustments while they are still easy to fix. If a terminal starts declining cards that should work, note the error message before calling support, because the wording usually points straight at the cause."
+      ]
+    },
+    {
+      "h2": "Support and next steps",
+      "paragraphs": [
+        "Hardware fails, paper jams and screens freeze. Choose a provider who picks up the phone. MCCPS offers free 24/7 technical support and personal customer service, so a terminal question at 9 p.m. does not wait until Monday.",
+        "If you are not sure whether your current device can be kept, send a statement and a photo of the model for the free analysis. A specialist will confirm what can be reprogrammed and what is worth replacing."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Choose countertop, wireless or mobile based on where payments happen.",
+    "Any terminal should support chip, contactless and PIN.",
+    "Avoid long non-cancellable leases; ask about reprogramming first.",
+    "MCCPS often keeps terminals you own and offers 24/7 support."
+  ],
+  "faq": [
+    {
+      "q": "Can my current terminal work with a new processor?",
+      "a": "Often it can, if the model is re-programmable and not locked to the current provider. Some devices cannot be reloaded. MCCPS can check your make and model during the free analysis and tell you whether you can keep it."
+    },
+    {
+      "q": "Do I need a terminal that accepts contactless?",
+      "a": "In practice, yes. Customers increasingly tap cards and phones, and contactless is faster than inserting a chip. A terminal without NFC may also limit mobile wallet acceptance. Most current models include it."
+    },
+    {
+      "q": "What does EMV have to do with liability?",
+      "a": "When a chip card is used at a merchant without a chip reader, liability for counterfeit card fraud can shift to the merchant under card network rules. A chip-enabled terminal helps protect you from that exposure."
+    },
+    {
+      "q": "Which is better, Wi-Fi or cellular?",
+      "a": "Wi-Fi is fine where coverage is strong and the network is stable. Cellular is better for mobile work, events or places with unreliable internet. Some terminals support both, with a backup if the primary connection drops."
+    },
+    {
+      "q": "Are terminal leases a bad idea?",
+      "a": "Not always, but many are costly and hard to cancel. Compare total payments over the lease term against buying or reprogramming, and read the cancellation terms carefully before signing."
+    }
+  ],
+  "related": [
+    "emv-chip-processing",
+    "terminal-lease-traps",
+    "terminal-leasing-vs-buying",
+    "tap-to-pay",
+    "pos-systems",
+    "payment-terminal-troubleshooting"
+  ],
+  "icon": "card",
+  "read_minutes": 6
+}

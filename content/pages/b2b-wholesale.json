@@ -1,0 +1,83 @@
+{
+  "slug": "b2b-wholesale",
+  "category": "industries",
+  "title": "B2B & Wholesale Payment Processing",
+  "seo_title": "B2B & Wholesale Payment Processing | MCCPS",
+  "meta_description": "Wholesalers and distributors can lower card costs with Level 2 and 3 data, invoicing and ACH. See how B2B payment processing works and what to watch for.",
+  "primary_keyword": "B2B payment processing",
+  "keywords": ["wholesale payment processing", "Level 2 Level 3 processing", "distributor merchant account", "invoice payment links", "ACH for wholesalers", "purchasing card acceptance", "net 30 invoice card payments"],
+  "eyebrow": "B2B payments",
+  "dek": "Large invoices, purchasing cards and net terms: how wholesalers and distributors can get paid faster without giving away margin.",
+  "intro": [
+    "When a wholesaler sends an invoice for $12,000, the question is not only whether the customer will pay, but how and when. A check can take two weeks to arrive and another few days to clear. A bank transfer is cheaper but needs account details and sometimes a day or two. A corporate card is instant, but it can cost three percent of the invoice, which on that amount is $360.",
+    "That tension between getting paid fast and keeping margin is the central issue in business-to-business processing. Fortunately, the card networks reward merchants who supply more detailed information on commercial card transactions, and bank transfers are widely accepted among business customers.",
+    "This page explains the options and how to combine them so your cash conversion is quick and your costs are reasonable."
+  ],
+  "sections": [
+    {
+      "h2": "Level 2 and Level 3 data",
+      "paragraphs": [
+        "Business customers often pay with commercial cards, including purchasing, corporate and fleet cards. When a merchant passes additional data with such a transaction, the card networks may assign a lower interchange category. Level 2 data usually includes items like sales tax amount and a customer reference or purchase order number. Level 3 adds line-item detail such as product codes, quantities, unit prices and shipping information.",
+        "Whether this saves money depends on the card, the ticket size and the program in force, so the benefit is not uniform. But for a wholesaler with a high proportion of large commercial card invoices, supplying the data can lower costs. It requires a POS, gateway and processor that can transmit the fields. Our guides on Level 2 and Level 3 processing explain eligibility and setup."
+      ],
+      "bullets": [
+        "Capture PO numbers and tax amounts on every invoice",
+        "Send line-item detail for Level 3 where your software allows",
+        "Confirm that your gateway passes the fields to the processor",
+        "Check which customer cards are commercial cards by reviewing reports"
+      ]
+    },
+    {
+      "h2": "Invoices, payment links and net terms",
+      "paragraphs": [
+        "Many wholesalers sell on terms, such as net thirty. An invoice that includes a payment link lets the buyer pay by card or ACH with a click and shortens the time between shipment and cash. Offering a small early-payment discount, where it suits your margins, can encourage faster payment without relying on penalties.",
+        "Remember that a link or an emailed invoice should never ask the customer to send card numbers by reply. Use a hosted page so details go directly to a secure system. For existing accounts, saving a payment method with the customer's permission lets reorders be charged quickly."
+      ]
+    },
+    {
+      "h2": "ACH for large invoices",
+      "paragraphs": [
+        "For large invoices, ACH is often the sensible choice. Say a distributor collects $400,000 a month from business customers. If 40% of that were paid by card at 2.8%, fees would be $4,480; moving that volume to bank transfer could cut the cost drastically, though customers must be willing and the transfers carry their own timing and return risk.",
+        "Offering both methods and letting customers choose is common. Some wholesalers share card costs through a surcharge on credit cards. Surcharging is restricted by card network rules and varies by state, and disclosure is mandatory, so verify what is allowed. Business customers are often accustomed to it, but written terms are essential."
+      ]
+    },
+    {
+      "h2": "Credit approval, deposits and risk",
+      "paragraphs": [
+        "Extending terms is extending credit, and it has its own risk management: credit applications, references, limits and follow-up. Cards can serve as a risk control, because a card payment is guaranteed funds subject to chargeback rules, while an invoice depends on the customer's willingness to pay.",
+        "For custom or made-to-order goods, requiring a deposit at order time protects you. Write terms that state deposit, balance timing and cancellation, and collect the deposit by link or virtual terminal. For disputes, retain purchase orders, signed delivery receipts and correspondence."
+      ]
+    },
+    {
+      "h2": "Phone orders, sales reps and field payments",
+      "paragraphs": [
+        "Many wholesalers take orders by phone, email or through reps visiting customers. A virtual terminal and payment link let inside sales staff take payment during the call without handling card numbers insecurely. Reps in the field can use a mobile device to collect payment at delivery.",
+        "Connect payments to your inventory or ERP system if possible, so that an invoice marked paid updates records automatically. Manual re-entry creates errors and delays reconciliation. MCCPS integrates with almost any POS or software; ask for an integration review before changing your setup."
+      ]
+    },
+    {
+      "h2": "What to ask a processor",
+      "paragraphs": [
+        "Ask about Level 2 and Level 3 support, ACH availability, how large transactions are handled, whether there are per-transaction limits, and how funding is timed. Ask for pricing on commercial cards separately from consumer cards. Make sure you understand any limits on single-ticket amounts, since large invoices may trigger reviews.",
+        "MCCPS offers B2B Level 2/3 processing, ACH, virtual terminals, invoicing links, next-day funding where available, a reporting dashboard and a free, no-obligation analysis of two months of statements. If you need working capital to finance inventory, we can refer you to Fidelity Funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Commercial card transactions with Level 2 and 3 data may qualify for lower interchange.",
+    "Invoices with payment links shorten the gap between shipment and cash.",
+    "ACH can be much cheaper than cards on large invoices.",
+    "Surcharging is limited by card network rules and state law; disclose in writing.",
+    "Integrate payments with your ERP or invoicing system to avoid manual reconciliation."
+  ],
+  "faq": [
+    {"q": "What is Level 3 processing?", "a": "Level 3 means sending line-item detail, such as product codes, quantities and shipping data, along with a commercial card transaction. It can qualify some transactions for lower interchange categories, depending on the card and network rules. Your gateway and software must support the extra fields."},
+    {"q": "Can wholesalers pass card fees to customers?", "a": "Some do through surcharges, but surcharging is regulated by card network rules and state law, requires disclosure, and may be restricted. Confirm what is currently allowed with your attorney and processor, and state it in your terms."},
+    {"q": "Is ACH or card better for B2B invoices?", "a": "ACH is generally less expensive on large invoices, while cards are faster and offer instant confirmation. Many wholesalers offer both and nudge large invoices toward ACH."},
+    {"q": "How can I get paid faster on net 30 terms?", "a": "Send invoices with built-in payment links, offer card and ACH options, consider an early-payment discount where margins allow, and follow up consistently. Saving payment methods on file also speeds up reorders."},
+    {"q": "Do I need a different merchant account for B2B?", "a": "Not necessarily a separate account, but you need a setup that supports commercial card data, large tickets and ACH. Check with your processor about limits and reviews on high-value transactions."}
+  ],
+  "related": ["level-2-and-level-3-processing", "level-2-3-data-explained", "process-b2b-payments", "ach-processing", "manufacturing", "collect-overdue-invoices"],
+  "icon": "briefcase",
+  "read_minutes": 6
+}

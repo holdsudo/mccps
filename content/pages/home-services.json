@@ -1,0 +1,114 @@
+{
+  "slug": "home-services",
+  "category": "industries",
+  "title": "Home Services Payment Processing",
+  "seo_title": "Home Services Payment Processing | MCCPS",
+  "meta_description": "Handymen, electricians, movers, pest control and other home pros: collect deposits, invoices and on-site payments by card with field service tools.",
+  "primary_keyword": "home services payment processing",
+  "keywords": [
+    "field service payment processing",
+    "handyman credit card processing",
+    "invoice by text payment link",
+    "on-site card payments",
+    "home repair deposits",
+    "mobile card reader contractor",
+    "service call payment"
+  ],
+  "eyebrow": "Home services",
+  "dek": "You finish the job in the customer's kitchen. Here is how to collect payment there, and keep the paperwork tidy for the office.",
+  "intro": [
+    "Home service work is done in someone else's space, and the moment of payment can feel awkward. The job is finished, the tools are packed, and the customer is looking for a pen and a checkbook that may not exist. Every day a payment waits is a day your cash is tied up.",
+    "The businesses in this category, including handymen, electricians, appliance repair, pest control, carpet cleaning, movers, pool services and many more, share a few traits: mobile work, variable job size, a mix of residential and commercial customers, and a reliance on trust and reviews.",
+    "The following sections cover how to take payment efficiently, from the first deposit to the final invoice, and how to avoid the disputes that come from unclear scope."
+  ],
+  "sections": [
+    {
+      "h2": "Payment at the job site",
+      "paragraphs": [
+        "The best time to collect is when the customer is happiest, right after the job is done. A mobile reader that works with chip, tap and wallets, paired to your phone or tablet, lets a technician close out the job on the spot. Provide a receipt by text or email, and the customer has a record before you leave the driveway.",
+        "If the customer prefers not to pay at the door, a text-to-pay link works equally well. It sends a secure payment page to their phone, where they can pay with a card or digital wallet. Because you never touch the card number, your PCI exposure is lower. See our guides on accepting payments on the go and payment links."
+      ],
+      "bullets": [
+        "Carry a reader and a backup power bank in the vehicle",
+        "Send a payment link as a fallback if a customer wants to pay later",
+        "Attach a receipt that lists labor, parts and tax separately",
+        "Close out every job in the app before leaving the site"
+      ]
+    },
+    {
+      "h2": "Estimates, deposits and scope",
+      "paragraphs": [
+        "Larger jobs, such as a bathroom remodel, a roof repair or a whole-house paint, need a deposit to cover materials and secure the schedule. A written estimate that lists scope, price and payment schedule should be accepted by the customer before work begins. A deposit paid through a link time-stamps the agreement.",
+        "Say a contractor quotes $6,500 and takes a 30% deposit of $1,950. If the customer later claims they did not authorize the project, the signed estimate and the deposit record are your protection. Some states regulate deposits for home improvement work, including limits on the amount and required contract language, so check your local requirements.",
+        "Change orders deserve the same treatment as the original estimate. If a technician discovers rotted wood behind the wall, send the added scope and price to the customer's phone for approval before continuing. A tap to accept takes seconds and saves arguments at final payment."
+      ]
+    },
+    {
+      "h2": "Invoicing and field service software",
+      "paragraphs": [
+        "Many home service businesses use scheduling and invoicing apps that dispatch jobs and generate quotes. The important question is whether the payment processing connects to the app, so that a paid job updates the invoice automatically. Manual entry creates errors and slows the books.",
+        "MCCPS integrates with almost any POS, smartphone or terminal, and can often keep re-programmable devices you already own. Ask your software vendor which gateways it supports before changing your processor, and ask for a test transaction before you roll out to all of your technicians."
+      ]
+    },
+    {
+      "h2": "Recurring service plans",
+      "paragraphs": [
+        "Pest control, pool service, lawn care, HVAC maintenance and cleaning are often sold as recurring plans. Storing a card on file, with the customer's agreement, and charging monthly or quarterly smooths your cash flow and reduces the time you spend billing. The agreement should state the amount, frequency and how to cancel.",
+        "Card updater services and reminders help prevent failed charges from expired cards. Automated receipts reduce the 'what is this charge' phone calls. Our guide on recurring billing best practices covers the details."
+      ]
+    },
+    {
+      "h2": "Disputes, refunds and reviews",
+      "paragraphs": [
+        "Home service disputes usually concern quality or scope: the customer says the work was not done properly, or that additional charges were not agreed. Photos before and after, signed change orders and time-stamped notes are your best evidence. When a customer is unhappy, a quick return visit to fix the issue is almost always cheaper than losing a chargeback and a review.",
+        "Keep a clear refund and warranty policy and provide it in writing. Refunding promptly when appropriate prevents the dispute from escalating to the card issuer, where fees and your dispute ratio come into play."
+      ]
+    },
+    {
+      "h2": "What it costs, and how to review it",
+      "paragraphs": [
+        "Because home service tickets are often in the hundreds or thousands of dollars, the percentage matters more than the fixed fee. Say a company processes $60,000 a month at a 3% effective rate: that is $1,800 in fees. A review may show where you can reduce costs, such as unused monthly fees or a mismatch between how you accept cards and how you are priced.",
+        "Some contractors explore compliant surcharge or dual-pricing programs; rules vary by state and card network, and disclosure and signage are required, and some states regulate home-improvement contracts, so confirm before adding one. MCCPS offers a free, no-obligation analysis of two months of statements, and free 24/7 technical support. For equipment or a new truck, we can refer you to Fidelity Funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Collect at the job site with a mobile reader or a text-to-pay link.",
+    "Get signed estimates before work and record deposits with a time stamp.",
+    "Connect payments to your field service app to keep the books clean.",
+    "Recurring plans on a stored card smooth cash flow.",
+    "Photos, change orders and clear warranties prevent costly disputes."
+  ],
+  "faq": [
+    {
+      "q": "How can a handyman accept credit cards?",
+      "a": "Use a smartphone or tablet with a card reader that supports chip, tap and wallets, or send a text-to-pay link to the customer. Both options let you get paid at the job and issue a receipt right away."
+    },
+    {
+      "q": "Can I take a deposit before starting a home project?",
+      "a": "Yes, with a written estimate and acceptance. Some states regulate deposits for home improvement work, including maximum amounts and required contract language, so check local rules and consult your attorney."
+    },
+    {
+      "q": "How do I handle customers who dispute a repair charge?",
+      "a": "Offer to fix legitimate issues quickly. If a chargeback arrives, respond with the signed estimate, change orders, photos, notes and receipt. Documentation at the time of the job is what wins."
+    },
+    {
+      "q": "Does my payment processor need to work with my scheduling app?",
+      "a": "It is strongly recommended. Integrated payments update invoices automatically and prevent double entry. Check which gateways your app supports before switching, and test before rolling out to all technicians."
+    },
+    {
+      "q": "Can I set up monthly billing for service plans?",
+      "a": "Yes. Store the card with consent and charge on schedule, with receipts and easy cancellation. Card updater tools and reminders help reduce failed payments."
+    }
+  ],
+  "related": [
+    "hvac-and-plumbing",
+    "contractors",
+    "landscaping",
+    "cleaning-services",
+    "accept-payments-on-the-go",
+    "invoicing-and-payment-links"
+  ],
+  "icon": "hammer",
+  "read_minutes": 6
+}

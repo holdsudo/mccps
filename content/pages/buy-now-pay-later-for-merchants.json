@@ -1,0 +1,120 @@
+{
+ "slug": "buy-now-pay-later-for-merchants",
+ "category": "blog",
+ "title": "Buy Now, Pay Later for Merchants",
+ "seo_title": "Buy Now, Pay Later for Merchants: Pros and Cons | MCCPS",
+ "meta_description": "Should your business offer buy now, pay later? Compare merchant fees, ticket-size effects, returns, customer experience and when installments make sense.",
+ "primary_keyword": "buy now pay later for merchants",
+ "keywords": [
+  "BNPL merchant fees",
+  "pay in installments",
+  "offer installment payments",
+  "BNPL pros and cons",
+  "BNPL returns",
+  "installment financing for customers",
+  "buy now pay later checkout"
+ ],
+ "eyebrow": "Installments",
+ "dek": "What offering installment payments means for your fees, your sales and your customer relationships before you add a button to your checkout.",
+ "intro": [
+  "Buy now, pay later options let a customer split a purchase into several smaller payments, often with the provider paying you up front. For merchants, the appeal is clear: shoppers who hesitate at a large price may check out when the first payment looks small.",
+  "But the arrangement comes with its own costs and operational details. The fee structure differs from regular card processing, returns work differently and the customer's relationship with the provider can leak into your service experience. Whether it makes sense depends on what you sell and who buys it.",
+  "This guide covers the mechanics, trade-offs and the questions to ask before enabling installments."
+ ],
+ "sections": [
+  {
+   "h2": "How BNPL works for the merchant",
+   "paragraphs": [
+    "At checkout, the customer picks the installment option and is approved or declined by the provider using its own criteria. If approved, the provider typically pays the merchant the purchase amount, less a fee, on a schedule similar to card settlement. The provider then collects installments from the customer and takes the credit and collection risk.",
+    "This means you are generally not chasing the customer. It also means you are dealing with a separate company with its own agreement, dashboard, dispute process and policies.",
+    "Integration matters as much as price. Some providers offer a plug-in for popular carts and POS systems; others require custom work. A poor integration creates manual reconciliation, and that cost never appears on a fee schedule."
+   ]
+  },
+  {
+   "h2": "The cost to you",
+   "paragraphs": [
+    "Fees for these services are typically a percentage of the transaction plus a fixed amount, and they are often higher than a standard card rate. A hypothetical comparison: a $400 sale at a 3 percent card rate costs $12; at a 6 percent installment fee it costs $24. The actual numbers vary by provider and your agreement.",
+    "Because costs are higher, the question becomes whether the extra sales justify them. Track whether installment buyers spend more, or whether they simply substitute for card customers at a higher fee.",
+    "Remember that not every shopper will qualify. If a customer is declined by the provider at the last step, you may lose the sale unless you make another option easy to reach. Keep standard card and wallet buttons visible so a decline does not end the visit.",
+    "Be aware that some providers also charge for promotional or extended-term offers, and that fees can differ by product line or by customer approval tier. Ask whether the rate you were quoted is a flat figure or a range, and what drives where you land in it."
+   ],
+   "bullets": [
+    "Percentage plus fixed fee per transaction.",
+    "Possible integration or monthly charges.",
+    "Different rules on refunds and reversals.",
+    "Separate reporting to reconcile."
+   ]
+  },
+  {
+   "h2": "Possible benefits",
+   "paragraphs": [
+    "Offering installments can raise conversion on higher-priced items and may increase average order value. For products where customers compare and wait, such as furniture, equipment, repairs or electronics, a smaller up-front amount can speed the decision.",
+    "Whether that holds for your shop is testable. Enable it for a period, compare conversion and ticket size, and look at refunds and complaints. Do not rely on general claims from provider marketing.",
+    "A hypothetical furniture seller who sells a $1,500 sofa might find installments help close the sale, while a coffee shop with a $6 average ticket would see only cost. The difference between the two is the price point and how long a customer deliberates."
+   ]
+  },
+  {
+   "h2": "Risks and trade-offs",
+   "paragraphs": [
+    "Returns and exchanges require extra steps because the refund goes through the provider, not your card terminal. Customers who miss payments may blame the merchant, and some regard installment offers as a nudge to overspend. Reputational issues are real.",
+    "Check the regulatory landscape, as consumer-credit rules for installment products can change, and the provider generally handles compliance on its side. Ask which responsibilities fall on you in your state.",
+    "Keep your own records of orders paid this way, including order numbers, provider references and refund status. When a customer calls about a return months later, you will need to match your record to the provider's and explain what happens next."
+   ]
+  },
+  {
+   "h2": "How to evaluate a provider",
+   "paragraphs": [
+    "Ask for the complete fee schedule, settlement timing, refund handling, dispute process and integration options with your POS or cart. Ask what you must say or display at checkout and which customer-service duties you carry.",
+    "Compare the total cost against your regular card cost for the same ticket sizes, and decide whether to offer it on all products or only on higher-priced items. Start small.",
+    "Be careful with advertising. Claims about approval, interest or 'no cost' financing are governed by consumer-protection rules and the provider's own terms. Use the provider's approved wording and consult your attorney if you plan to advertise installment offers widely."
+   ]
+  },
+  {
+   "h2": "Alternatives to consider",
+   "paragraphs": [
+    "Merchants can also offer deposits, payment plans through recurring billing, layaway or store financing through partners. For business customers, net terms with invoicing work similarly. Each has different risk. A recurring card plan keeps you in control but exposes you to declines and disputes.",
+    "MCCPS can review your current processing in a free, no-obligation analysis and help you see how installment fees would compare. For merchants seeking their own working capital, we refer to Fidelity Funding; MCCPS is not a lender.",
+    "Finally, set a review date. After a quarter, compare installment orders with similar card orders: average ticket, return rate, support contacts and total fees. If the numbers justify the cost, keep going; if not, turn it off. The ability to switch it off quickly is itself a good thing to confirm in the agreement."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "BNPL fees are usually higher than standard card processing.",
+  "Providers typically pay you up front and take credit risk.",
+  "Test the effect on conversion and ticket size before committing.",
+  "Returns and disputes run through the provider's process.",
+  "Compare alternatives such as deposits and recurring plans."
+ ],
+ "faq": [
+  {
+   "q": "Do I get paid right away with BNPL?",
+   "a": "Often the provider pays the merchant on a schedule similar to card settlement, less its fee, while the customer pays in installments. Confirm timing and any reserve terms in your agreement."
+  },
+  {
+   "q": "Is BNPL more expensive than cards?",
+   "a": "Typically yes, since fees are higher than standard card rates, though structures vary. Compare the total cost on your average ticket and see whether extra sales cover the difference."
+  },
+  {
+   "q": "Who takes the risk if the customer does not pay?",
+   "a": "Generally the provider takes the credit and collection risk, not you, but read your agreement carefully. Chargebacks, returns, fraudulent orders and delivery disputes can still involve you, often through the provider's process rather than the card network's, so ask how each is handled."
+  },
+  {
+   "q": "Does BNPL work for every business?",
+   "a": "No. It tends to suit higher-priced discretionary purchases. For small tickets or services with low prices, the extra fee often outweighs the benefit. Test before expanding."
+  },
+  {
+   "q": "What are alternatives to BNPL?",
+   "a": "Merchants also offer deposits, recurring billing payment plans, layaway, net terms for business customers or financing through partners. Each has different cash-flow and risk profiles, with recurring plans keeping you in control but exposing you to declines and disputes, so compare before choosing."
+  }
+ ],
+ "related": [
+  "payment-facilitator-vs-merchant-account",
+  "set-up-recurring-payments",
+  "take-deposits-and-prepayments",
+  "working-capital-for-merchants",
+  "ecommerce-checkout-optimization",
+  "handle-refunds-and-returns"
+ ],
+ "icon": "scale",
+ "read_minutes": 6
+}

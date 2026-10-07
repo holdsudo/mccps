@@ -1,0 +1,123 @@
+{
+  "slug": "chargeback-reason-codes",
+  "category": "blog",
+  "title": "Chargeback Reason Codes Explained",
+  "seo_title": "Chargeback Reason Codes Explained | MCCPS",
+  "meta_description": "Chargeback reason codes tell you why a bank reversed a sale. Learn the main categories, what evidence answers each one, and how to prevent repeat disputes.",
+  "primary_keyword": "chargeback reason codes",
+  "keywords": [
+    "chargeback reason code categories",
+    "fraud chargeback codes",
+    "merchandise not received dispute",
+    "processing error chargeback",
+    "authorization chargeback",
+    "chargeback evidence",
+    "dispute reason categories"
+  ],
+  "eyebrow": "Disputes",
+  "dek": "A plain-English tour of the main chargeback categories, what each one claims, and the proof that answers it.",
+  "intro": [
+    "A chargeback notice arrives with a number or a short code, and for many merchants that is where the confusion starts. The code is not a punishment or a technicality. It is the issuer's stated reason for reversing the sale, and it dictates what evidence you need, how long you have to respond and whether fighting is even worthwhile.",
+    "Each card network has its own numbering scheme, and the numbers change over time, so memorizing codes is less useful than understanding the categories. Once you know the five or six families of disputes, you can read almost any notice and know what to do next."
+  ],
+  "sections": [
+    {
+      "h2": "Why reason codes matter",
+      "paragraphs": [
+        "A chargeback begins when a cardholder tells their bank they dispute a charge. The issuer picks a reason code from the network's list that best fits the complaint, and the funds are pulled back from your account along with a fee. The code defines the rules of the contest: which documents count, what deadline applies, and who bears the burden of proof.",
+        "That is why two chargebacks for the same dollar amount can require completely different responses. A fraud claim calls for proof the cardholder participated. A not-received claim calls for proof of delivery. Sending the wrong evidence is one of the most common ways merchants lose disputes they could have won."
+      ]
+    },
+    {
+      "h2": "The main families of disputes",
+      "paragraphs": [
+        "Although networks name them differently, nearly all reason codes fall into a handful of families. Knowing the family is more useful than recalling the exact number, which you can look up in your processor's dispute portal or the network's published guides.",
+        "Fraud disputes claim the cardholder did not make or authorize the purchase. Authorization disputes say the transaction was processed without a valid approval or after a decline. Processing errors involve duplicate charges, wrong amounts or incorrect currency. Consumer disputes cover goods or services not received, not as described, defective, or a cancelled subscription or returned item whose credit never arrived.",
+        "Networks also group disputes by who can be held responsible. In some categories the merchant has a realistic path to win with evidence, while in others the issuer's decision is close to final unless a rule was misapplied. Ask your processor for the current dispute guide covering the networks you accept, because it spells out the evidence each code allows and the time limits that apply. A one-page cheat sheet built from that guide, kept next to your dispute portal login, saves time on every notice."
+      ],
+      "bullets": [
+        "Fraud: cardholder says they did not authorize the sale",
+        "Authorization: approval missing, expired or declined",
+        "Processing errors: duplicate, incorrect amount, late presentment",
+        "Consumer disputes: not received, not as described, cancelled, credit not issued",
+        "Cancelled recurring: customer says they stopped the subscription"
+      ]
+    },
+    {
+      "h2": "Fraud-coded disputes",
+      "paragraphs": [
+        "These are usually the highest-stakes category. Counterfeit card claims come from card-present sales and tie to EMV rules. Card-absent fraud claims come from online or phone orders. Evidence that helps includes chip read data, signed receipts, matching AVS and CVV responses, IP address, device history, delivery confirmation and prior undisputed orders from the same customer.",
+        "If the claim is real fraud, you may not win and may not be able to. In that case the lesson is prevention, such as 3-D Secure for risky online orders. If the claim is actually friendly fraud, where the real customer made the purchase and forgot or regrets it, strong evidence of the customer's involvement can reverse the dispute."
+      ]
+    },
+    {
+      "h2": "Consumer and service disputes",
+      "paragraphs": [
+        "Not received and not as described disputes turn on documentation. A tracking number with delivery signature, a service completion record, photos, correspondence and your posted policies are the heart of your response. For services, a signed work order or a customer-acknowledged completion can be decisive.",
+        "Credit-not-processed claims are the easiest to avoid. If you promised a refund, issue it promptly and keep the confirmation. Merchants often receive these chargebacks for refunds that were agreed but never completed, or processed through a different channel and not linked to the card."
+      ]
+    },
+    {
+      "h2": "Processing and authorization errors",
+      "paragraphs": [
+        "Duplicate processing disputes are common when a clerk presses the button twice or a network glitch resubmits a sale. Show that the two transactions are for separate items or reverse the extra one before the cardholder notices. Incorrect amount disputes can come from tip adjustment or price mismatches, so make sure receipts show the final total clearly.",
+        "Authorization disputes tend to follow problems like settling a transaction after the approval expired, or forcing a sale through after a decline. These are largely preventable with proper terminal procedures and by never overriding declines with voice authorization codes you cannot document.",
+        "Consider a hypothetical month with twelve chargebacks. Five are credit-not-processed, four are not-received, two are fraud and one is a duplicate. Without looking at codes you might conclude you have a fraud problem. With codes, you see that nine of twelve are about refunds and delivery, which are process problems you can fix with a refund checklist and shipment tracking. The code turns a vague headache into a short to-do list."
+      ],
+      "steps": [
+        "Read the reason code and identify the family.",
+        "Check the response deadline in your dispute portal.",
+        "Gather evidence matching that family only.",
+        "Write a concise cover letter that cites the facts and attaches documents.",
+        "Submit before the deadline and keep proof of submission."
+      ]
+    },
+    {
+      "h2": "Using codes to reduce future chargebacks",
+      "paragraphs": [
+        "Treat your chargeback list as data. Sort by reason family for the last six months and look for patterns. A cluster of not-received disputes points at shipping and delivery proof. A run of credit-not-processed disputes points at refund workflow. Many duplicates point at staff or system issues.",
+        "MCCPS offers help with chargeback management and can review your statements to see how often disputes occur and what they cost. Since card network rules and codes change, confirm the current specifics with your processor before relying on any list, including this one.",
+        "Finally, remember that issuers sometimes choose a code that does not perfectly match the cardholder's story. If the code seems wrong, you can still respond with evidence that addresses the real situation, while making sure you also answer the stated reason. Reviewers decide on the documents in front of them, so make the connection between your proof and the claim explicit in your cover letter."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "The reason code tells you what evidence the issuer will accept.",
+    "Most codes fall into fraud, authorization, processing error and consumer dispute families.",
+    "Credit-not-processed chargebacks are usually avoidable with prompt refunds.",
+    "Delivery and service records answer not-received claims.",
+    "Track reason families over time to find the weak point in your process."
+  ],
+  "faq": [
+    {
+      "q": "What is a chargeback reason code?",
+      "a": "It is a number or label that the issuer assigns to a dispute to explain why the sale was reversed. The code determines the evidence, deadline and rules that apply to your response."
+    },
+    {
+      "q": "Are reason codes the same across card networks?",
+      "a": "No. Each network uses its own numbering and wording, and the lists change over time. The underlying categories, such as fraud and consumer disputes, are similar across networks."
+    },
+    {
+      "q": "Which chargeback reasons are easiest to win?",
+      "a": "Disputes where you hold clear proof, such as documented delivery, a valid refund already issued, or evidence the customer participated. Genuine fraud claims on unprotected sales are harder to win."
+    },
+    {
+      "q": "How long do I have to respond?",
+      "a": "Deadlines vary by network and reason, often in the range of a couple of weeks from notification. Check your dispute portal for the exact date, and do not wait until the last day."
+    },
+    {
+      "q": "Can I stop chargebacks entirely?",
+      "a": "No, but you can reduce them with clear descriptors, prompt refunds, fraud checks and good records. Some disputes will still arrive, so build a repeatable response process."
+    }
+  ],
+  "related": [
+    "chargeback-management",
+    "how-to-win-a-chargeback",
+    "friendly-fraud",
+    "refund-vs-chargeback",
+    "reduce-chargebacks",
+    "prevent-card-fraud"
+  ],
+  "icon": "scale",
+  "read_minutes": 7
+}

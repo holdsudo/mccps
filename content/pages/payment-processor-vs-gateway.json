@@ -1,0 +1,118 @@
+{
+  "slug": "payment-processor-vs-gateway",
+  "category": "blog",
+  "title": "Payment Processor vs. Payment Gateway",
+  "seo_title": "Payment Processor vs. Payment Gateway: Differences | MCCPS",
+  "meta_description": "Processors and gateways are often confused. See what each does, how they work together, and why knowing the difference helps you avoid paying twice.",
+  "primary_keyword": "payment processor vs payment gateway",
+  "keywords": [
+    "processor vs gateway",
+    "difference between gateway and processor",
+    "payment processing components",
+    "front-end back-end processor",
+    "gateway fees",
+    "all-in-one payment provider",
+    "terminal vs gateway"
+  ],
+  "eyebrow": "Payments 101",
+  "dek": "One carries the data and the other moves the money. Providers often sell them as a single product, which is where the confusion starts.",
+  "intro": [
+    "Ask three people in the payments business to define a gateway and a processor and you may get three slightly different answers. The reason is not that the concepts are mysterious. It is that modern providers bundle them, so what looks like one service is often two working in sequence.",
+    "Separating them in your mind is worth the effort. It helps you read quotes, understand fee lines and recognize when you are being asked to pay for the same function twice."
+  ],
+  "sections": [
+    {
+      "h2": "The gateway in one paragraph",
+      "paragraphs": [
+        "A payment gateway is the secure front door for card data. It captures the number on a website, payment link, mobile app or virtual terminal, encrypts or tokenizes it and passes it to the processor. It reports the result to your checkout and often stores tokens, runs fraud checks and connects to your software."
+      ]
+    },
+    {
+      "h2": "The processor in one paragraph",
+      "paragraphs": [
+        "A payment processor is the company that handles the transaction itself once it has the data. It routes the authorization request across the card network to the issuer, receives the response, manages batching and clearing, and arranges for funds to be settled to your bank. It also produces the statements that show what you were charged."
+      ]
+    },
+    {
+      "h2": "How they work together",
+      "paragraphs": [
+        "Think of an online sale as a relay. The customer's browser hands card details to the gateway. The gateway hands a secured request to the processor. The processor passes it on to the network and issuer, and the answer travels back the same way. Settlement happens later, when the processor submits your batch and the acquiring bank deposits the money.",
+        "In a store with a standalone terminal, the terminal itself plays the gateway role, because it reads the card, encrypts it and sends it onward. That is why in-person merchants may never see a separate gateway fee."
+      ],
+      "bullets": [
+        "Gateway: captures and secures data, returns approvals to the site, supports tokens and fraud tools.",
+        "Processor: authorizes through the networks, clears, settles and bills fees.",
+        "Merchant account: the contract that allows you to receive funds.",
+        "Terminal or POS: the device or software where the sale is entered.",
+        "Acquiring bank: the institution that deposits the money and sponsors the processing."
+      ]
+    },
+    {
+      "h2": "Why the terms get blurred",
+      "paragraphs": [
+        "Many companies offer both functions as one package, so a single invoice and a single login cover everything. Some gateways are tied to a specific processor, while others connect to many. Some processors provide their own gateway, and others rely on partners.",
+        "Marketing adds to the confusion by using terms like payment provider, payment solution or payment platform for all of it. When evaluating a quote, ask which part of the service each line item pays for.",
+        "A terminal-based business that adds an online store is a classic case. The countertop terminal keeps working through the existing processor relationship, but the new website needs a gateway. If the processor supports one natively, you may be able to use it with one set of statements. If not, you may end up with two companies, two sets of fees and two places to look when a payment fails.",
+        "Planning for that growth before you sign can save a migration later. Ask whether the gateway can handle card-present, online and recurring payments under one login, and whether reporting is consolidated so you can see all your sales in one place."
+      ]
+    },
+    {
+      "h2": "Where you can end up paying twice",
+      "paragraphs": [
+        "The most common issue is stacking. A merchant signs with a processor that bundles a gateway, then adds a separate third-party gateway for the website, and pays monthly and per-transaction fees to both. Another version: a POS vendor charges a software fee that already includes gateway functions, while the processor charges a separate gateway fee on the same account.",
+        "Say a business pays $15 a month and 5 cents per transaction to one gateway, and $20 and 10 cents to another for the same sales. At 400 transactions that is $35 plus $60, or $95, when one of them could do the whole job. The numbers are hypothetical, but the pattern is common enough that every cost review should check for it."
+      ]
+    },
+    {
+      "h2": "How to decide what you need",
+      "paragraphs": [
+        "Begin with how you take payments. In-person only, with a terminal or POS, often needs just a processor relationship, with the gateway function built in. Online, phone, invoice or recurring payments need a gateway that works with your software and processor. Combined setups need both, and you should confirm they are compatible.",
+        "MCCPS can sort this out. It offers multiple gateways and works with many POS systems, terminals and phones, often keeping equipment you already own. Its free 24/7 technical support covers both pieces, and a free statement analysis will show whether you are paying gateway fees in more than one place."
+      ]
+    },
+    {
+      "h2": "A quick checklist",
+      "paragraphs": [
+        "Before signing or renewing, ask whether your quote includes a gateway, whether it is compatible with your cart or POS, what monthly and per-item fees apply, and whether you can move to another processor without replacing the gateway. Ask who handles support if a payment fails: the gateway company, the processor or both. Clear answers at the start save a lot of finger-pointing later."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "The gateway secures and transmits card data, and the processor authorizes, clears and settles the transaction.",
+    "Standalone terminals perform the gateway function themselves, so you may not see a separate gateway.",
+    "Bundled offerings blur the terms, so ask what each line item pays for.",
+    "Paying for two gateways, or a gateway and a software fee that covers the same function, is a common avoidable cost."
+  ],
+  "faq": [
+    {
+      "q": "Do I need both a processor and a gateway?",
+      "a": "For online, phone, invoice or recurring payments, yes: the gateway handles data capture and the processor handles authorization and settlement, though one company may supply both. For in-person payments on a standalone terminal, the device performs the gateway role."
+    },
+    {
+      "q": "Is a gateway the same as a payment processor?",
+      "a": "No. A gateway captures and secures card data and passes it to the processor, while the processor routes it through the card networks and handles settlement. Many providers bundle them, which is why the two terms are often used interchangeably."
+    },
+    {
+      "q": "Can I use any gateway with any processor?",
+      "a": "Not always. Some gateways support many processors and some work with only one. Check compatibility before choosing, because a mismatch can mean extra fees or a forced change. A provider that supports multiple gateways gives you more flexibility."
+    },
+    {
+      "q": "Why is there a separate gateway fee on my statement?",
+      "a": "Gateways typically charge a monthly fee, a per-transaction fee or both for secure transmission and related tools. It may be billed by the processor or by a third party. Review your statement to confirm you are not paying for the same function twice."
+    },
+    {
+      "q": "Which one handles refunds and chargebacks?",
+      "a": "Refunds are typically initiated through your gateway, terminal or POS and processed by your processor. Chargebacks are communicated by the processor, though some gateways provide dispute dashboards. Check how your providers divide the work so you know where to respond."
+    }
+  ],
+  "related": [
+    "what-is-a-payment-gateway",
+    "payment-gateway",
+    "what-is-a-merchant-account",
+    "how-credit-card-processing-works",
+    "credit-card-terminals",
+    "pos-systems"
+  ],
+  "icon": "gear",
+  "read_minutes": 6
+}

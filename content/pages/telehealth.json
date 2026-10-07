@@ -1,0 +1,114 @@
+{
+  "slug": "telehealth",
+  "category": "industries",
+  "title": "Telehealth Payment Processing",
+  "seo_title": "Telehealth Payment Processing | MCCPS",
+  "meta_description": "Virtual care practices need secure card-not-present payments, memberships and clear billing. See how telehealth providers can set up compliant payments.",
+  "primary_keyword": "telehealth payment processing",
+  "keywords": [
+    "telemedicine payment processing",
+    "virtual visit card payments",
+    "direct primary care membership billing",
+    "card on file telehealth",
+    "HIPAA and payment data",
+    "telehealth merchant account",
+    "patient payment portal"
+  ],
+  "eyebrow": "Virtual care",
+  "dek": "No front desk, no card reader, no waiting room. Telehealth practices take every payment card-not-present and need a setup built for it.",
+  "intro": [
+    "In a virtual care practice, the patient is at home, the clinician is somewhere else and the only 'counter' is a web page or an app. That changes the payment experience in a few ways. Every card payment is card-not-present, which carries higher interchange and more fraud scrutiny. There is no chance to swipe a card or hand over a receipt. And the patient usually expects to pay from their phone in a minute or two.",
+    "Telehealth also straddles two regulatory worlds: health privacy and payment security. They are separate sets of rules with different requirements, but both apply to the same patient relationship. A good setup keeps payment data in a payment-compliant environment and keeps clinical information in a health-compliant one.",
+    "This guide covers the payment side, from the upfront charge to memberships and refunds."
+  ],
+  "sections": [
+    {
+      "h2": "Card-not-present from end to end",
+      "paragraphs": [
+        "Because the patient is not in the room, every transaction is keyed or entered online. Processors apply address verification and security code checks, and issuers watch card-not-present traffic closely. Collecting the billing ZIP and CVV and verifying them is basic hygiene.",
+        "Where possible, collect payment through a hosted payment page or a gateway integrated into your platform, so card numbers are entered into a secure form rather than passing through your own servers or staff. That can shrink your PCI scope considerably. Our guide on card-present versus card-not-present explains why the cost differs."
+      ]
+    },
+    {
+      "h2": "When to charge: booking, visit or after",
+      "paragraphs": [
+        "Practices choose different moments. Some charge at booking, which reduces no-shows. Some pre-authorize the card at booking and capture after the visit, when the final amount, say after a longer-than-expected consultation, is known. Others bill after the visit, which is convenient but means chasing unpaid balances.",
+        "Say a practice schedules 200 virtual visits a month at $90 and 8% are no-shows. That is 16 missed visits or $1,440 of lost time. Requiring a card at booking, with a clear cancellation policy that patients accept, can recover much of it. Check state rules and professional guidance on cancellation fees for clinical services.",
+        "Be consistent about what happens when a session runs long or a follow-up is added. If the fee can change, say so at booking, capture the extra amount only after the patient agrees, and send an updated receipt so the final charge never comes as a surprise."
+      ],
+      "bullets": [
+        "Collect a card at booking and state the cancellation window",
+        "Use pre-authorization when the final fee may change",
+        "Send a receipt after every payment",
+        "Keep the patient's consent to store the card on file"
+      ]
+    },
+    {
+      "h2": "Memberships and direct care models",
+      "paragraphs": [
+        "Many virtual practices use monthly memberships, such as direct primary care plans, mental health subscriptions or weight-management programs. These are recurring card payments, with the failure patterns of any subscription: expired cards, insufficient funds and bank fraud holds. Use stored credentials with consent, retries, account updater where available and clear reminders.",
+        "Make cancellation straightforward and the terms plain. Auto-renewal and consumer protection laws vary by state, and healthcare services may carry extra rules, so consult your attorney. See our pages on recurring billing and subscription businesses for the mechanics."
+      ]
+    },
+    {
+      "h2": "Insurance, HSA and FSA",
+      "paragraphs": [
+        "If you bill insurance, the patient's share, such as a copay or deductible, is collected separately from the insurer's payment. Cards on file can simplify collecting patient balances after a claim is processed, provided the patient has agreed in writing.",
+        "Many patients will want to pay with an HSA or FSA card. Acceptance of those cards has specific requirements for eligibility verification at retail locations; healthcare providers have their own considerations. Talk to your processor about how your service type is classified and what is needed to accept these cards."
+      ]
+    },
+    {
+      "h2": "Privacy, security and descriptors",
+      "paragraphs": [
+        "A payment statement descriptor appears on the patient's card statement, and for sensitive services some patients prefer a neutral name. Consider a descriptor that identifies the practice clearly enough to avoid unrecognized-charge disputes but does not reveal more than necessary about the care. Discuss options with your processor.",
+        "Do not store full card numbers in your clinical records, and keep payment data separate from health information. Tokenization lets your staff reference a stored card without seeing it. PCI compliance help is part of what MCCPS provides, and your own compliance advisor can guide the health privacy requirements."
+      ]
+    },
+    {
+      "h2": "Costs, risk and setting up",
+      "paragraphs": [
+        "Card-not-present healthcare payments typically cost more than in-person ones. Say a practice processes $50,000 a month at a 3.2% effective rate: that is $1,600 in fees. A statement review can show whether the pricing structure suits your mix of one-time visits and recurring memberships.",
+        "Some practices ask whether they can pass fees to patients. Surcharges, convenience fees and dual pricing are regulated by state and card network, require disclosure, and may raise professional or payer-contract issues in healthcare, so verify first. MCCPS offers a free, no-obligation analysis of two months of statements, one-time and recurring payment tools, multiple gateways and free 24/7 technical support. For funding to start or expand a practice, we can refer you to Fidelity Funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Telehealth payments are card-not-present, so use AVS, CVV and hosted payment pages.",
+    "Collect a card at booking to reduce no-shows, with clear cancellation terms.",
+    "Memberships need consent, retries and easy cancellation.",
+    "Keep payment data separate from clinical records.",
+    "Check rules before adding any patient-facing card fee."
+  ],
+  "faq": [
+    {
+      "q": "How do telehealth practices collect payment?",
+      "a": "Usually through a hosted payment page or a gateway integrated into their scheduling or patient platform. Patients enter card details securely at booking or after the visit, and the practice stores the card as a token for later balances with the patient's consent."
+    },
+    {
+      "q": "Can I charge a no-show fee for virtual visits?",
+      "a": "Often yes if the patient accepts a clear cancellation policy when booking, though professional guidance and state rules may apply to clinical services. Consult your attorney or professional association."
+    },
+    {
+      "q": "Can telehealth patients pay with an HSA or FSA card?",
+      "a": "Many can, but acceptance depends on how your service is classified and what verification your processor requires. Ask your processor what is needed for your type of practice."
+    },
+    {
+      "q": "Is it safe to keep a patient's card on file?",
+      "a": "It can be, if the patient consents and the card is stored as a token in a secure vault rather than in your records. Limit who can charge it and send a receipt each time."
+    },
+    {
+      "q": "Why are my telehealth card fees higher than a clinic's?",
+      "a": "Card-not-present transactions generally carry higher interchange than card-present ones, and fraud risk is higher. Review your statement for avoidable fees and make sure your pricing structure fits your mix."
+    }
+  ],
+  "related": [
+    "medical-practices",
+    "recurring-billing",
+    "card-present-vs-card-not-present",
+    "hsa-fsa-card-acceptance",
+    "accept-payments-online",
+    "pci-compliance"
+  ],
+  "icon": "heart",
+  "read_minutes": 6
+}

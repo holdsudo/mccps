@@ -1,0 +1,123 @@
+{
+  "slug": "recurring-billing-best-practices",
+  "category": "blog",
+  "title": "Recurring Billing Best Practices",
+  "seo_title": "Recurring Billing Best Practices for Merchants | MCCPS",
+  "meta_description": "Cut failed payments and cancellations with recurring billing best practices: clear consent, dunning, card updates, retries and good communication.",
+  "primary_keyword": "recurring billing best practices",
+  "keywords": [
+    "subscription billing best practices",
+    "dunning management",
+    "failed recurring payments",
+    "card on file consent",
+    "payment retry schedule",
+    "reduce involuntary churn",
+    "billing reminders"
+  ],
+  "eyebrow": "Subscriptions",
+  "dek": "How to collect repeat payments without surprising customers, losing revenue to expired cards, or inviting chargebacks.",
+  "intro": [
+    "Recurring billing looks simple: store a card, charge it every month. In practice, a share of those charges will fail for ordinary reasons, expired cards, tight balances, replaced numbers, and each failure is either a recovered payment or a quietly lost customer, depending on what you do next.",
+    "A well-run recurring program has four parts working together: clear consent at signup, a payment setup that stays current, a sensible plan for failed payments, and communication that keeps customers informed. Here is how to build each."
+  ],
+  "sections": [
+    {
+      "h2": "Start with clear, recorded consent",
+      "paragraphs": [
+        "The most reliable way to avoid disputes is to make sure the customer knows exactly what they agreed to. State the amount, billing frequency, start date, any trial period and how to cancel. Have the customer actively accept it, with a checkbox or signature, and save a copy of the terms and the time and date they agreed.",
+        "Card networks have rules for stored credentials and merchant-initiated transactions, including marking the first payment as the initial one and later payments as recurring. Your gateway typically handles the flags, but you are responsible for the consent. Consumer protection rules about subscriptions and negative-option billing vary by location, so check requirements with your attorney.",
+        "Write the consent language in plain words rather than legal shorthand. A sentence such as 'You will be charged $29 on the first of each month until you cancel, and you can cancel any time from your account page' is easy to understand and easy to defend if a dispute ever arises. Save the exact text that was shown, since terms change over time and you want proof of what this customer saw on this date."
+      ]
+    },
+    {
+      "h2": "Store credentials safely",
+      "paragraphs": [
+        "Never keep raw card numbers in your own spreadsheets or databases. Use your gateway's tokenization or card vault so that you hold only a token and the last four digits. Do not store the CVV after the first authorization. Doing this protects customers and reduces your PCI burden.",
+        "Confirm the card on the first charge, ideally with an AVS and CVV check, so you do not discover a bad card a month later. If the first payment is at a later date, such as after a free trial, consider a small authorization at signup to validate the card."
+      ],
+      "bullets": [
+        "Use tokens instead of storing card numbers",
+        "Run AVS and CVV on the first transaction",
+        "Mark the first payment and later payments with the proper flags",
+        "Keep a record of consent, terms and timestamps"
+      ]
+    },
+    {
+      "h2": "Remind before you bill",
+      "paragraphs": [
+        "A short email before a renewal, especially an annual one, prevents many unrecognized charge disputes. Include the amount, the date and a link to update payment details or cancel. After each charge, send a receipt that uses the same name customers see on their statement.",
+        "Trials need extra care. A reminder two to three days before the trial ends gives customers a fair chance to decide. This feels generous, but it reduces refunds, chargebacks and angry reviews, which cost more than the lost renewal ever would."
+      ]
+    },
+    {
+      "h2": "Plan for failed payments with dunning",
+      "paragraphs": [
+        "Dunning is the process of recovering failed payments. A decline is not always a no. Reasons range from insufficient funds, which may resolve in a few days, to expired cards, which will not resolve until the customer updates. Retrying smartly can recover a meaningful share of failures.",
+        "A sample schedule might retry on day 3, day 7 and day 14, adjusted for paydays, such as the first and fifteenth of the month, while emailing the customer on each failure. Say you have 500 subscribers at $30 and 6% fail in a month. That is 30 failures, or $900 of revenue at stake. Recovering even half of them is worth more than most marketing you could buy for the same money. These numbers are hypothetical.",
+        "Segment the reasons when you can. A decline for insufficient funds on the third of the month may succeed on the fifteenth, after a paycheck. A decline for a closed account never will. Treating them the same wastes retries and annoys customers. Many gateways return a reason or category with each decline, so build your rules from those codes instead of guessing."
+      ],
+      "steps": [
+        "Identify the decline reason code and separate soft from hard declines.",
+        "Retry soft declines on a spaced schedule rather than repeatedly in one day.",
+        "Email the customer on the first failure with a link to update their card.",
+        "Offer a grace period before suspending service.",
+        "Stop retrying hard declines and request new payment details.",
+        "Cancel politely if the schedule ends without success."
+      ]
+    },
+    {
+      "h2": "Keep cards current",
+      "paragraphs": [
+        "Expired and reissued cards cause much of the involuntary churn in recurring programs. Card account updater services, offered through networks and gateways, automatically refresh stored credentials when the issuer reports a new number or expiry. If your provider offers it, turn it on.",
+        "Combine this with a customer-facing portal where people can update their card, and with pre-expiration emails a month before a card expires. These small steps are cheaper than losing customers."
+      ]
+    },
+    {
+      "h2": "Make cancelling easy and watch your numbers",
+      "paragraphs": [
+        "It sounds backward, but an easy cancellation process reduces chargebacks. A customer who can cancel in two clicks does not call their bank. Offer pause and downgrade options in the same flow, which saves some customers who would have left entirely.",
+        "Track the share of payments that fail, the share recovered, the share of customers lost to payment failure and your chargeback rate. MCCPS supports one-time and recurring payments, multiple gateways and a reporting dashboard, and a free statement analysis can show how recurring transactions are priced. Your results will depend on your customers and your communication.",
+        "Finally, review the whole experience as a customer would. Sign up with a test card, wait for the reminder, let a payment fail on purpose and see what the emails say. Awkward wording, broken links and confusing amounts are easy to find when you walk the path yourself, and fixing them tends to improve both retention and the tone of your customer relationships."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Record clear customer consent that states the amount, frequency and cancellation method.",
+    "Use tokens, not stored card numbers, for repeat charges.",
+    "Send reminders before renewals and trials end.",
+    "Build a dunning schedule that separates soft declines from hard ones.",
+    "Use account updater and easy cancellation to cut involuntary churn and disputes."
+  ],
+  "faq": [
+    {
+      "q": "What is dunning?",
+      "a": "Dunning is the process of recovering failed recurring payments through retries and customer notices. A good schedule distinguishes temporary declines, which may succeed on retry, from permanent ones that need updated card details."
+    },
+    {
+      "q": "How many times should I retry a failed payment?",
+      "a": "There is no single rule, but a few spaced retries over one to two weeks is common. Avoid repeated attempts in one day, and stop on hard declines, since excessive retries can hurt approval rates."
+    },
+    {
+      "q": "Do I need permission to store a customer's card?",
+      "a": "Yes. You need the customer's clear consent to store the card and to charge it on a schedule, and you should keep a record of it. Consumer protection rules vary, so confirm with your attorney."
+    },
+    {
+      "q": "Why do recurring payments decline?",
+      "a": "Common reasons include insufficient funds, expired cards, replaced card numbers, fraud blocks and issuer limits. Some can be solved by retrying, while others require the customer to update their card."
+    },
+    {
+      "q": "Can recurring billing cause chargebacks?",
+      "a": "It can if customers do not recognize charges or cannot cancel easily. Clear descriptors, reminders and a simple cancellation path reduce these disputes significantly."
+    }
+  ],
+  "related": [
+    "recurring-billing",
+    "set-up-recurring-payments",
+    "account-updater",
+    "subscription-businesses",
+    "friendly-fraud",
+    "tokenization-explained"
+  ],
+  "icon": "refresh",
+  "read_minutes": 7
+}

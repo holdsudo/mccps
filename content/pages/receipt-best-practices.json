@@ -1,0 +1,127 @@
+{
+ "slug": "receipt-best-practices",
+ "category": "blog",
+ "title": "Receipt Best Practices: Paper, Email and SMS",
+ "seo_title": "Receipt Best Practices: Paper, Email and SMS | MCCPS",
+ "meta_description": "Paper, email or text? Learn what belongs on a card receipt, how to offer digital options, protect customer data and use receipts to reduce disputes.",
+ "primary_keyword": "card receipt best practices",
+ "keywords": [
+  "digital receipts",
+  "email receipts",
+  "text message receipts",
+  "receipt requirements",
+  "receipt customer data",
+  "paper receipts",
+  "receipt chargebacks"
+ ],
+ "eyebrow": "Receipts",
+ "dek": "A receipt is more than a courtesy. It is proof of purchase, a dispute-prevention tool and a small chance to make a good impression.",
+ "intro": [
+  "It is easy to treat the receipt as an afterthought, the little slip that spools out of the printer while you are thinking about the next customer. But a clear receipt answers questions before they become calls, protects you when a charge is disputed and sets the tone for how customers remember the visit.",
+  "Today you have choices: paper, email, text message or all three. Each has its own costs and privacy considerations. This guide covers what a good card receipt contains, how to run digital options responsibly, and how receipts help you with refunds and chargebacks."
+ ],
+ "sections": [
+  {
+   "h2": "What belongs on a card receipt",
+   "paragraphs": [
+    "Card brand rules and many state laws dictate parts of a receipt, so confirm the requirements that apply to you. In general, a card receipt should show the business name and contact details, the date and time, the amount charged, any tip, the last four digits of the card number, the authorization or approval code and the transaction type, such as sale or refund.",
+    "Receipts should never show the full card number or the expiration date on the customer copy. Truncated numbers are standard for a reason. Include your return policy, either in a short line or in a link, because customers who know the rules are less likely to dispute a charge."
+   ],
+   "bullets": [
+    "Business name, address or phone, date and time",
+    "Amount, tax, tip and total",
+    "Last four digits only of the card number",
+    "Authorization code and transaction type",
+    "Short return and refund policy"
+   ]
+  },
+  {
+   "h2": "Paper receipts: still useful, but not ideal",
+   "paragraphs": [
+    "Paper has strengths. It is immediate, requires no contact details and works for customers who prefer it. A signed or confirmed paper receipt can also serve as evidence in a dispute. But it costs money for rolls and printers, adds waste and can pile up in car cup holders and bins with card data on it.",
+    "If you keep merchant copies, store them in a locked place and shred them after your retention period. Ask your accountant and processor how long to keep records; keeping them for the period required by law and your processor agreement, then disposing of them securely, is a sound practice."
+   ]
+  },
+  {
+   "h2": "Email receipts",
+   "paragraphs": [
+    "Email receipts are cheap, searchable and easy to resend. They allow a richer layout, such as itemized lists, return instructions and a link to your site. They also serve as a record for customers who want to track expenses.",
+    "Treat email addresses as personal information. Ask permission, use the address for the receipt, and add marketing messages only when the customer has agreed. Typos in addresses are common, so show the address back to the customer before sending. A receipt delivered to the wrong person is a privacy problem."
+   ]
+  },
+  {
+   "h2": "Text message receipts",
+   "paragraphs": [
+    "SMS receipts are quick and ideal for mobile or counter-free sales, such as food trucks, deliveries and field service. The customer enters a phone number, and a link or short summary arrives immediately. Many people prefer this method because they do not need to share an email address.",
+    "Keep messages short and clear, identify your business by name and respect consent rules for text messaging. Message and data rates may apply to customers, and regulations govern marketing texts differently from transactional ones. If you are unsure, talk to an attorney familiar with messaging rules."
+   ],
+   "bullets": [
+    "Confirm the phone number aloud or on screen",
+    "Identify your business in the message",
+    "Do not add marketing without opt-in",
+    "Offer a way to opt out"
+   ]
+  },
+  {
+   "h2": "Use receipts to reduce disputes",
+   "paragraphs": [
+    "Many chargebacks start because the customer does not recognize the charge. Make sure your business name on the receipt matches the name that appears on a statement, and that a phone number is on the receipt so people can call you instead of the bank. Resolving things directly is much cheaper than a dispute.",
+    "For refunds, send a receipt too, so the customer sees that the credit is on its way. Our guide on the difference between refunds and chargebacks explains why a prompt refund is nearly always better. For recurring charges, send a receipt for each billing so no one is surprised."
+   ]
+  },
+  {
+   "h2": "Handling tips, signatures and special cases",
+   "paragraphs": [
+    "Tipping businesses should print or send a receipt that clearly shows the tip line and final total, particularly when the tip is added after authorization. For card-not-present sales, such as invoices and payment links, the emailed receipt doubles as confirmation and a record of what the customer agreed to.",
+    "Signatures are no longer required for most card-present transactions, but keeping them for high-value sales can still be a useful practice. Follow your processor's guidance on when signatures or identification are needed."
+   ]
+  },
+  {
+   "h2": "Set a simple receipt policy",
+   "paragraphs": [
+    "Decide on your defaults. Many businesses ask, \"Would you like a receipt, and if so, paper, email or text?\" The question takes two seconds and prevents waste. Make sure staff know how to reprint or resend a receipt, and keep copies accessible in your system so you can find a transaction quickly.",
+    "MCCPS can set up receipts and digital delivery on a wide range of terminals and POS systems, and its team is available around the clock at 844.826.6227 if your device needs adjusting. While you are reviewing the details of your payment process, a free statement analysis can show you what you actually pay to accept cards.",
+    "Finally, remember accessibility. Some customers have trouble reading small thermal print, so larger, high-contrast digital receipts can be a real service. Make sure the key facts, the total and the date, are easy to find, and that digital receipts display well on a phone screen without requiring pinching and scrolling."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Show truncated card numbers, authorization codes and a clear business name.",
+  "Paper is immediate but costly, and discarded copies can expose data.",
+  "Treat email addresses and phone numbers as personal data and get consent.",
+  "A recognizable descriptor and phone number on receipts prevents disputes.",
+  "Send receipts for refunds and recurring charges too."
+ ],
+ "faq": [
+  {
+   "q": "What information must be on a credit card receipt?",
+   "a": "Requirements vary, but generally include the business name, date, amount, last four digits of the card, approval code and transaction type. Full card numbers and expiration dates must not appear on the customer copy. Check card brand rules and state law. Check the details against your own agreement, since terms differ between providers."
+  },
+  {
+   "q": "Should I offer email or text receipts instead of paper?",
+   "a": "Offering all options is ideal. Digital receipts cost less, are searchable and reduce waste, while some customers still want paper. Always ask permission before using contact details, confirm them on screen and avoid adding marketing without consent. A quick call to your processor can confirm how this works on your specific account."
+  },
+  {
+   "q": "How long should I keep card receipts?",
+   "a": "Retention depends on tax law, your processor agreement and industry rules. Many businesses keep records for several years. Ask your accountant and read your merchant agreement, then store receipts securely and shred paper copies when the period ends. Write the answer down so every manager and employee gives customers the same explanation."
+  },
+  {
+   "q": "Do receipts help in chargeback disputes?",
+   "a": "Yes. A receipt showing the amount, date, authorization code and your contact details helps prove the sale occurred. Signed receipts, delivery confirmations and customer communications strengthen your response. Clear descriptors also prevent customers from disputing charges they simply do not recognize. Revisit the question at least once a year, because equipment, rules and pricing change."
+  },
+  {
+   "q": "Is it safe to text a receipt to a customer?",
+   "a": "It is generally safe if the message contains no sensitive data, such as the full card number, and you have the customer's consent. Use a clear business name, offer opt-out and follow messaging rules for any marketing content. When in doubt, ask for the answer in writing before you commit to anything."
+  }
+ ],
+ "related": [
+  "how-to-win-a-chargeback",
+  "refund-vs-chargeback",
+  "handle-refunds-and-returns",
+  "reduce-chargebacks",
+  "accept-tips",
+  "payment-terminal-troubleshooting"
+ ],
+ "icon": "file",
+ "read_minutes": 6
+}

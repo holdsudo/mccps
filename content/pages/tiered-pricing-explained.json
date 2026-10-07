@@ -1,0 +1,116 @@
+{
+  "slug": "tiered-pricing-explained",
+  "category": "blog",
+  "title": "Tiered Pricing: Qualified vs. Non-Qualified",
+  "seo_title": "Tiered Pricing Explained: Qualified vs. Non-Qualified | MCCPS",
+  "meta_description": "Tiered pricing sorts card sales into qualified, mid-qualified and non-qualified buckets. See how it works, why it hides costs, and what to ask instead.",
+  "primary_keyword": "tiered pricing credit card processing",
+  "keywords": [
+    "qualified mid-qualified non-qualified",
+    "tiered pricing merchant",
+    "downgrade fees",
+    "tiered vs interchange plus",
+    "processing rate tiers",
+    "non-qualified surcharge",
+    "merchant statement tiers"
+  ],
+  "eyebrow": "Pricing models",
+  "dek": "Three buckets and three prices sound simple. The catch is that the processor decides which bucket each sale falls into.",
+  "intro": [
+    "Tiered pricing has been around for decades and is still common, partly because it is easy to explain in a sales pitch. You hear a low qualified rate, you agree, and only later notice that a good share of your sales are being billed at something else.",
+    "The model is not illegal and not always a bad deal, but it works by bundling many different cost categories into three or so labels. That bundling is exactly what makes it hard to judge from the outside."
+  ],
+  "sections": [
+    {
+      "h2": "How the buckets work",
+      "paragraphs": [
+        "Under tiered pricing, the processor groups the many interchange categories into a small number of tiers and assigns each tier a rate. The typical setup uses three: qualified, mid-qualified and non-qualified. Some providers add more, or rename them with labels like standard, enhanced and basic.",
+        "The qualified rate is the one in the brochure and covers sales the processor considers the cheapest to handle. Mid-qualified and non-qualified are higher, and they apply to everything else. The processor, not the card network, defines what belongs in each bucket, and the definitions can be found only in your agreement, if at all."
+      ]
+    },
+    {
+      "h2": "What usually lands outside the cheapest tier",
+      "paragraphs": [
+        "While every contract differs, certain kinds of transactions are routinely pushed into the more expensive buckets. These are often the sales that carry higher real interchange, but the markup applied on top can be disproportionate to the actual extra cost.",
+        "Knowing the pattern makes it easier to read your own statement and spot where your volume is actually landing.",
+        "Another hallmark of tiered statements is a lack of detail. You may see a line for qualified volume, a line for mid-qualified, a line for non-qualified and a total, with no explanation of why a particular sale landed where it did. If you ask for a breakdown by transaction type and the provider cannot supply one, that tells you something about how the buckets are being applied.",
+        "Some providers also use more than three tiers, or label them with names that sound friendly, such as standard, enhanced or preferred. The structure is the same: a few processor-defined groups standing in for dozens of true interchange categories."
+      ],
+      "bullets": [
+        "Keyed-in or online transactions, since they lack chip or contactless data.",
+        "Rewards, premium and corporate cards, which carry higher interchange.",
+        "Sales settled late because the batch was not closed on time.",
+        "Transactions missing address or security code data.",
+        "Business and purchasing cards, unless Level 2 or 3 data is supplied.",
+        "Cards from outside the country."
+      ]
+    },
+    {
+      "h2": "A hypothetical month",
+      "paragraphs": [
+        "Imagine a quote of 1.79% for qualified, 2.69% for mid-qualified and 3.59% for non-qualified, each plus a per-item fee. A business processes $30,000 and expects the qualified rate. In practice, $18,000 qualifies, $7,000 is mid-qualified and $5,000 is non-qualified.",
+        "The fees would be $322 for the first bucket, $188 for the second and $180 for the third, a total of about $690 before per-item and monthly charges, or roughly 2.3% of volume. That is higher than the headline 1.79% by a wide margin, and nothing on the first page of the statement explains why. The numbers are invented for illustration, but the pattern is how tiered pricing commonly feels in practice."
+      ]
+    },
+    {
+      "h2": "Why it hides cost",
+      "paragraphs": [
+        "The core issue is that tiers do not map one-to-one with the card networks' categories. A single mid-qualified bucket may contain cheap transactions and expensive ones alike, all billed at one price. When the real cost of a sale is lower than the tier rate, the processor keeps the difference. When it is higher, the processor absorbs the loss, which is why providers set tier rates high enough to cover the worst case.",
+        "Because the processor controls the definitions, it can also change them. Some agreements allow the provider to reclassify transaction types with notice, which can shift volume into pricier tiers without any change to the stated rates.",
+        "None of that means every tiered account is a bad deal. For a business with a simple, stable mix and a clear agreement, it can be workable. The risk is that you cannot verify it."
+      ]
+    },
+    {
+      "h2": "How to test your own account",
+      "paragraphs": [
+        "Find the tier summary on your statement and calculate the share of volume in each bucket. If a large portion is in the upper tiers, ask the provider to explain which transaction types caused it. Then calculate your effective rate for the month. If it is much higher than the qualified rate you were quoted, the headline number has lost its meaning.",
+        "Next, ask for a quote under itemized interchange-plus pricing using the same volume. Comparing total dollars rather than rates keeps the conversation honest. MCCPS offers a free statement analysis that does exactly this comparison, and it comes without obligation or an advance promise of savings."
+      ]
+    },
+    {
+      "h2": "Alternatives worth considering",
+      "paragraphs": [
+        "Interchange-plus pricing lists the real interchange and assessments, then adds a stated markup. Flat-rate pricing offers one blended percentage, with predictable cost at the price of paying more on cheap transactions. Subscription pricing charges a monthly fee and passes interchange through at a thin margin. And a compliant dual-pricing or cash-discount program can remove the processing cost from the merchant entirely, subject to state and network rules and proper disclosure.",
+        "Each model suits a different business. The right question is not which has the lowest rate but which produces the lowest total cost, transparently, for your actual sales."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Tiered pricing sorts sales into qualified, mid-qualified and non-qualified buckets the processor defines.",
+    "Keyed-in, rewards, commercial and late-settled sales commonly fall into the costlier tiers.",
+    "The qualified rate in the pitch often covers only part of your actual volume.",
+    "Compare total dollars on a real statement, not rates, when evaluating any alternative."
+  ],
+  "faq": [
+    {
+      "q": "What does non-qualified mean on a merchant statement?",
+      "a": "It is the processor's label for transactions that did not meet its criteria for the cheapest tier, so they are billed at a higher rate. The reasons vary: keyed entry, rewards cards, missing data or late settlement. Your agreement should define the criteria, though many do so vaguely."
+    },
+    {
+      "q": "Is tiered pricing illegal?",
+      "a": "No. It is a legitimate pricing structure when disclosed in the contract. The concern is transparency, since bundled tiers make it hard to confirm what you are being charged against the underlying costs. Read your agreement and statement carefully and ask questions before accepting it."
+    },
+    {
+      "q": "Can I get my transactions to qualify for the lowest tier?",
+      "a": "Often partly. Reading cards by chip or contactless, providing address and security code data, closing batches daily and sending proper commercial data can help. But some categories, such as premium cards, usually stay in higher tiers regardless of what you do."
+    },
+    {
+      "q": "How is tiered pricing different from interchange-plus?",
+      "a": "Interchange-plus shows the true interchange and assessments for each transaction and adds a fixed markup. Tiered pricing replaces those categories with a few processor-defined buckets. The first is itemized and verifiable; the second is bundled and depends on how the processor classifies your sales."
+    },
+    {
+      "q": "How can I tell if I am on tiered pricing?",
+      "a": "Look at your statement for sections labeled qualified, mid-qualified and non-qualified, or similar names such as standard or enhanced. If you see only a handful of rates covering all of your card volume, that is a sign of tiers. A free statement review can confirm your model."
+    }
+  ],
+  "related": [
+    "flat-rate-vs-interchange-plus",
+    "effective-rate-explained",
+    "interchange-plus-pricing",
+    "move-off-flat-rate-processing",
+    "hidden-fees-on-merchant-statements",
+    "questions-to-ask-a-processor"
+  ],
+  "icon": "scale",
+  "read_minutes": 6
+}

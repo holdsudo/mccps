@@ -1,0 +1,132 @@
+{
+ "slug": "gift-card-programs",
+ "category": "blog",
+ "title": "Running a Gift Card Program",
+ "seo_title": "How to Run a Gift Card Program | MCCPS",
+ "meta_description": "Planning a gift card program? Compare physical, digital and closed-loop options, learn the setup steps, and avoid common mistakes with balances and fraud.",
+ "primary_keyword": "gift card program",
+ "keywords": [
+  "gift cards for small business",
+  "closed loop gift cards",
+  "digital gift cards",
+  "stored value",
+  "gift card setup",
+  "gift card fraud",
+  "unclaimed property gift cards"
+ ],
+ "eyebrow": "Gift cards",
+ "dek": "Gift cards bring in cash today and customers tomorrow, but only if the program is set up with clear terms and tight controls.",
+ "intro": [
+  "Gift cards are among the most useful tools a retailer, restaurant or service business can offer. A customer buys one, you collect the money immediately, and the recipient arrives later, often spending more than the card's face value. For many businesses the busiest gift card weeks are also the weeks they most need cash.",
+  "A good program needs more than a stack of plastic cards. You have to decide between physical and digital, how balances are tracked, what happens at the register, how to prevent misuse, and which legal rules apply to your cards. This guide walks through each decision in the order you will face it."
+ ],
+ "sections": [
+  {
+   "h2": "Closed loop, open loop and digital options",
+   "paragraphs": [
+    "A closed-loop gift card works only at your business or your own group of locations. It is the usual choice for independent shops, restaurants and salons because you control the balance and you keep the full value of the sale. An open-loop card carries a card network logo and can be used almost anywhere; these usually come with purchase fees and are less common for small merchants.",
+    "Digital gift cards, delivered by email or text with a code or QR, remove the cost of printing and make last-minute gifting possible. Many businesses offer both: a nicely designed plastic card for in-store purchases and a digital version for online buyers. Ask any provider you evaluate whether a single balance can be redeemed in both channels."
+   ]
+  },
+  {
+   "h2": "What your payment system needs to do",
+   "paragraphs": [
+    "Your point of sale must be able to sell a card, load a value, check a balance, redeem all or part of a balance and handle a split tender when the card does not cover the full purchase. That last case matters more than it seems: a customer with a $25 balance and a $40 bill needs the remaining $15 to go to a credit card without a clumsy workaround.",
+    "Check that your reports separate gift card sales from regular revenue. A gift card sale is a liability until it is redeemed, not income, and your accountant will want to see activity and outstanding balances clearly. MCCPS integrates with almost any point-of-sale system, so it is usually a matter of confirming that your existing system supports stored value."
+   ],
+   "bullets": [
+    "Sell, reload, redeem and check balance at the register",
+    "Handle split tender between a card balance and a payment card",
+    "Report outstanding balances and activity by date",
+    "Support online redemption if you sell online"
+   ]
+  },
+  {
+   "h2": "Set up the program step by step",
+   "paragraphs": [
+    "Planning ahead keeps the launch simple and the books clean. Work through the steps below in order, and write down your decisions so every employee gives the same answers to customers."
+   ],
+   "steps": [
+    "Decide on card types, denominations and whether to allow custom amounts",
+    "Write plain-language terms covering expiration, fees, lost cards and refunds",
+    "Confirm the legal requirements for your state with your attorney or accountant",
+    "Order cards or configure digital delivery and test a full sale and redemption",
+    "Train staff on activation, redemption and fraud warning signs",
+    "Announce the program and place it at checkout and on your website"
+   ]
+  },
+  {
+   "h2": "Consider the legal and accounting rules",
+   "paragraphs": [
+    "Gift card rules are set by federal and state law and vary widely. Expiration dates, inactivity fees, cash-back requirements for small remaining balances and unclaimed property reporting can all apply. Some states require unused balances to be reported to the state after a set period of dormancy.",
+    "This is general information, not legal or tax advice. Before you print a single card, speak with your attorney or CPA about how to treat outstanding balances, when revenue is recognized and what you must report. Documenting your answers now prevents painful clean-up later."
+   ]
+  },
+  {
+   "h2": "Guard against gift card fraud",
+   "paragraphs": [
+    "Gift cards are attractive to criminals because they behave like cash. Common tricks include buying cards with stolen payment cards, draining a card balance by guessing numbers, and tampering with cards on a display rack to capture the code. Cards sold in a customer-accessible rack should be inactive until activated at the register.",
+    "Use activation limits, monitor unusually large or repeated purchases, and require identification or manager approval for bulk orders. For online sales, apply the same fraud tools you use for any card-not-present transaction, including address and security-code checks. Our guides on card testing and AVS and CVV explain how those checks work."
+   ],
+   "bullets": [
+    "Keep unactivated cards behind the counter or inactive until sold",
+    "Flag multiple high-value purchases by one buyer",
+    "Require manager approval for bulk or reload-heavy orders",
+    "Hide or protect card numbers and PINs until activation"
+   ]
+  },
+  {
+   "h2": "Price in processing costs and plan promotions",
+   "paragraphs": [
+    "When a customer buys a gift card with a credit or debit card, you pay processing fees on that sale. Say a customer buys a $100 card and your effective rate is 3 percent; you pay $3 now. When the recipient redeems the balance with no card involved, you do not pay again, so the fee is incurred once rather than twice. Be aware of how your pricing method treats these sales.",
+    "Bonus-card promotions, such as an extra $10 with each $50 card, are popular in the holiday season. Treat the bonus as marketing spend, set an expiration on the bonus portion where the law allows it, and consider limiting it so it does not cannibalize full-price sales. If you want a clearer picture of what you pay to accept cards across all your sales, MCCPS provides a free, no-obligation statement analysis."
+   ]
+  },
+  {
+   "h2": "Measure and refine",
+   "paragraphs": [
+    "After a quarter, review how many cards were sold, how much remains outstanding, how fast balances are redeemed and what the average spend is on redemption day. Redemptions that exceed the card value tell you the program brings in extra revenue.",
+    "Review your terms and fraud controls at least once a year, and when you add new locations or online sales. A program that works at one register may need new rules once it spans several."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Closed-loop cards are usually best for independent businesses.",
+  "Your POS must support split tender and balance checks.",
+  "A sold card is a liability until redeemed; talk to your CPA about the books.",
+  "Gift card laws vary by state, so get legal advice before you launch.",
+  "Control fraud by keeping cards inactive until activated and watching bulk purchases."
+ ],
+ "faq": [
+  {
+   "q": "Should a small business use physical or digital gift cards?",
+   "a": "Offering both is common. Physical cards work well for in-store gifting and impulse purchases, while digital cards suit online buyers and last-minute gifts. The key is a single system that tracks one balance regardless of format, so redemption works wherever the customer shops."
+  },
+  {
+   "q": "Do gift cards expire?",
+   "a": "It depends on federal and state law, and on how the card is structured. Many jurisdictions restrict expiration dates and inactivity fees. Because rules vary, confirm the requirements for your state with your attorney or accountant before printing terms on a card."
+  },
+  {
+   "q": "Are gift card sales taxable income right away?",
+   "a": "Generally a gift card sale is treated as a liability until redemption, but accounting and tax treatment can vary. This is general information, not tax advice. Ask your CPA how to record sales, outstanding balances and breakage in your books. Check the details against your own agreement, since terms differ between providers."
+  },
+  {
+   "q": "How do I prevent gift card fraud?",
+   "a": "Keep cards inactive until activated at the register, limit large or repeated purchases, require manager approval for bulk orders and use address and security-code checks online. Train employees to recognize scams where a caller pressures a customer to read card numbers aloud."
+  },
+  {
+   "q": "Do I pay processing fees on gift cards?",
+   "a": "You pay processing fees when a customer buys a gift card with a payment card, as with any card sale. Redeeming a balance generally does not create a new card fee, though a split tender payment does for the portion paid by card."
+  }
+ ],
+ "related": [
+  "customer-loyalty-with-payments",
+  "gift-cards-and-loyalty",
+  "holiday-season-payments-prep",
+  "prevent-card-fraud",
+  "avs-and-cvv",
+  "card-testing-attacks"
+ ],
+ "icon": "card",
+ "read_minutes": 7
+}

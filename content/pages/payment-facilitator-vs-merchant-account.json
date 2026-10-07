@@ -1,0 +1,117 @@
+{
+  "slug": "payment-facilitator-vs-merchant-account",
+  "category": "blog",
+  "title": "Payment Facilitator vs. Dedicated Merchant Account",
+  "seo_title": "Payment Facilitator vs. Dedicated Merchant Account | MCCPS",
+  "meta_description": "A payment facilitator pools merchants under one account; a dedicated merchant account is yours alone. Compare cost, speed, holds, and control side by side.",
+  "primary_keyword": "payment facilitator vs merchant account",
+  "keywords": [
+    "payment facilitator",
+    "PayFac vs dedicated merchant account",
+    "aggregated merchant account",
+    "sub-merchant",
+    "account holds and freezes",
+    "merchant of record",
+    "dedicated MID"
+  ],
+  "eyebrow": "Account types",
+  "dek": "Two ways to get paid by card: share an account with thousands of businesses, or hold your own. The choice affects cost, stability and control.",
+  "intro": [
+    "When you set up a way to take cards, you will run into two structures. In one, you sign up quickly under a larger company's umbrella. In the other, you apply for an account in your own name. Both let you get paid. They behave very differently when your volume grows, your risk changes or something goes wrong.",
+    "The labels are payment facilitator, sometimes shortened to PayFac, and dedicated merchant account. Understanding the difference helps you pick the right one for your stage of business, and know when it is time to move."
+  ],
+  "sections": [
+    {
+      "h2": "How a payment facilitator works",
+      "paragraphs": [
+        "A payment facilitator holds a master merchant account and enrolls many smaller businesses beneath it as sub-merchants. The facilitator is the merchant of record for the underlying processing relationship, takes responsibility for the risk and handles onboarding, funding and compliance for the group.",
+        "Because the facilitator has already been underwritten, it can approve a new sub-merchant in minutes, often with light paperwork. The trade-off is that your processing sits inside someone else's account and risk profile."
+      ]
+    },
+    {
+      "h2": "How a dedicated merchant account works",
+      "paragraphs": [
+        "A dedicated merchant account is issued in your business's name, with its own merchant ID. The acquirer underwrites you individually, reviews your business model and volume, and sets terms for your account. Your funds, reserves and chargeback history are tied to you rather than to a shared pool.",
+        "The application takes more effort than a quick signup, but it usually brings more transparent pricing, more predictable service and a direct relationship with the provider."
+      ]
+    },
+    {
+      "h2": "Side-by-side differences",
+      "paragraphs": [
+        "No model is better for everyone. The list below summarizes general patterns, though individual providers differ, so verify details in each contract.",
+        "A useful way to read it: facilitators optimize for speed and simplicity, dedicated accounts for stability and negotiability.",
+        "Another practical difference is how disputes and reviews are handled. With a dedicated account, there is usually a defined contact and a written process for chargebacks and risk questions. With a facilitator, you may deal with a support queue that applies policies designed for thousands of small accounts. Neither is automatically better or worse, but they feel different when a problem arises.",
+        "Branding also varies. With some facilitators, the customer's statement shows the facilitator's name followed by yours, which can confuse buyers and increase disputes. Dedicated accounts typically show your business name alone, which can help customers recognize the charge."
+      ],
+      "bullets": [
+        "Speed to start: facilitators are usually faster, since underwriting is lighter.",
+        "Pricing: facilitators typically offer blended rates, while dedicated accounts often offer interchange-plus or other itemized pricing.",
+        "Account holds: facilitators may hold or freeze funds more readily, because sub-merchant risk affects the group.",
+        "Control: a dedicated account gives you a direct contract, your own reporting and more room to negotiate.",
+        "Transfer and portability: a dedicated account is easier to move or keep as you scale.",
+        "Chargeback handling: both involve fees, but terms and flexibility differ by provider."
+      ]
+    },
+    {
+      "h2": "Cost over time",
+      "paragraphs": [
+        "Cost differences show up as volume grows. Suppose a business processes $15,000 a month. A blended rate of 2.9% plus 30 cents on 300 transactions comes to $525. A dedicated interchange-plus account might total around $400 after a monthly fee, saving roughly $125 in this hypothetical.",
+        "Scale that to $100,000 a month and the gap widens in dollars while the percentage gap may persist. For a business with very little volume or an unpredictable one, the dedicated account's fixed fees and effort might not be worth it. The numbers are made up, but the shape of the comparison is real."
+      ]
+    },
+    {
+      "h2": "Risk, holds and stability",
+      "paragraphs": [
+        "One of the most discussed differences is what happens when volume spikes or a dispute arises. Because sub-merchants operate under the facilitator's umbrella, their risk controls may be applied broadly and quickly. Merchants have reported sudden holds on funds or account reviews triggered by a large sale or a rise in disputes.",
+        "A dedicated account can experience holds too, since acquirers also manage risk. The difference is usually in the clarity of the agreement and the relationship: you have a defined contact, defined terms and, often, notice. Read the sections on reserves, holds and termination before you sign either type."
+      ]
+    },
+    {
+      "h2": "Choosing, and when to switch",
+      "paragraphs": [
+        "A facilitator suits a brand-new business testing demand, a very small seller or an occasional event. A dedicated account suits a business with steady volume, larger tickets, multiple locations or a need for predictable funding. The switch point is usually when your fees at the blended rate exceed what a dedicated arrangement would cost, or when you have been burned by a hold.",
+        "MCCPS helps merchants move to a dedicated arrangement with interchange-plus style transparency, next-day funding where available, support for most POS systems and free 24/7 technical support. A free, no-obligation statement analysis shows what the comparison looks like for your volume.",
+        "Whichever route you choose, read the clauses on reserves, termination and fund holds first, because they decide how the relationship behaves under stress. A low rate matters little if your deposits can be paused for weeks. Ask directly how long a typical review takes, what documentation is requested and whether you will be given a reason in writing.",
+        "It also helps to keep your own records tidy. Orders, delivery confirmations, customer messages and refund logs make it much easier to resolve a review quickly, regardless of which structure you are on. Merchants who can show evidence promptly tend to see problems cleared faster than those who cannot."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A payment facilitator onboards you as a sub-merchant under its master account, and a dedicated merchant account is issued in your business's name.",
+    "Facilitators are quick to start, while dedicated accounts tend to offer more pricing transparency and control.",
+    "Holds and reviews can affect both, but clarity of terms and direct contact differ.",
+    "The right switch point depends on volume, ticket size and tolerance for risk of interruption."
+  ],
+  "faq": [
+    {
+      "q": "What is a payment facilitator?",
+      "a": "It is a company that holds a master merchant account and enrolls many businesses beneath it as sub-merchants. It handles onboarding, risk and funding for the group. This allows quick setup but means your processing depends on the facilitator's account and policies."
+    },
+    {
+      "q": "Is a dedicated merchant account cheaper?",
+      "a": "Often, at steady or growing volume, because pricing is more likely to be itemized and negotiable. At very low volume, fixed monthly fees can offset savings. Compare quotes against your own statements instead of relying on general rules."
+    },
+    {
+      "q": "Why do facilitators sometimes freeze funds?",
+      "a": "They manage risk across a pool of merchants, so unusual activity such as a sudden spike or rise in disputes may trigger a hold while they review. Contract terms vary, so read the hold and reserve provisions of any agreement before signing."
+    },
+    {
+      "q": "Can I move from a facilitator to a dedicated account?",
+      "a": "Yes. It involves a new application and underwriting, then reconfiguring your terminal, gateway or checkout. Check any contract terms with your current provider first. A processor that can reuse your existing equipment makes the change simpler."
+    },
+    {
+      "q": "Does MCCPS offer dedicated merchant accounts?",
+      "a": "MCCPS sets up processing for in-store, online, phone and mobile sales and starts with a free review of your statements. Terms depend on your business and underwriting. Call 844.826.6227 or request the analysis to see what would apply to you."
+    }
+  ],
+  "related": [
+    "what-is-a-merchant-account",
+    "merchant-account-approval",
+    "merchant-account-holds-and-reserves",
+    "what-is-an-iso",
+    "switch-payment-processors",
+    "high-risk-merchant-accounts"
+  ],
+  "icon": "building",
+  "read_minutes": 6
+}

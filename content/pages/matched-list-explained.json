@@ -1,0 +1,119 @@
+{
+ "slug": "matched-list-explained",
+ "category": "blog",
+ "title": "The MATCH List Explained",
+ "seo_title": "The MATCH List Explained: Terminated Merchant File | MCCPS",
+ "meta_description": "What the MATCH list is, why merchants end up on it, how long listings last, and what you can do to prevent or address a listing before applying elsewhere.",
+ "primary_keyword": "MATCH list",
+ "keywords": [
+  "terminated merchant file",
+  "MATCH list removal",
+  "reason codes MATCH",
+  "merchant blacklist",
+  "Mastercard MATCH",
+  "processor termination",
+  "merchant account after termination"
+ ],
+ "eyebrow": "Termination file",
+ "dek": "A plain-English look at the industry database that follows merchants from one processor to the next, and how to avoid or address a listing.",
+ "intro": [
+  "Every merchant fears the call that says the account is being closed. Fewer realize that, depending on the reason, the closure can be reported to an industry database that other processors check when you apply. That database is commonly called the MATCH list, and being on it can make getting a new account much harder.",
+  "The topic is surrounded by myths. Some say it is a permanent blacklist; others say it is easy to remove. The truth sits between those extremes and depends on the reason code and the facts behind the termination.",
+  "This guide explains what the list is, who can add to it, how long a listing lasts and what to do if you are on it or worried about ending up there."
+ ],
+ "sections": [
+  {
+   "h2": "What the list is",
+   "paragraphs": [
+    "MATCH stands for Member Alert to Control High-risk merchants. It is a database operated by a card network, used by acquiring banks and processors to share information about merchants whose accounts were terminated for certain reasons. When you apply for an account, the underwriter checks the owners and the business against the file.",
+    "Being listed is not a legal finding and not a criminal record. It is a record that a processor ended a relationship for a specified reason. Even so, because many processors treat a listing as a serious red flag, it can limit your options.",
+    "You may also hear the term in the context of 'terminated merchant file' or simply the 'blacklist'. They all refer to the same idea: a shared record that lets one processor learn that another ended a relationship for cause. The sharing exists to protect banks from repeat losses, which is why it is taken seriously."
+   ]
+  },
+  {
+   "h2": "Reasons that lead to a listing",
+   "paragraphs": [
+    "Reasons are tracked by codes. Some relate to risk behavior; some to processing practices. Examples in general terms include excessive chargebacks, excessive fraud, processing transactions that do not belong to the merchant, violations of network rules, identity problems, illegal transactions and the failure to meet data security requirements after a breach.",
+    "Not every termination is reported. A processor that closes an account for business reasons, such as dropping a whole category or because volume was too low, would usually not report it. Whether a particular closure was reported is something you can find out by asking.",
+    "A hypothetical example: a merchant's chargeback ratio climbs for several months, the processor sends warnings, the merchant does not respond and the account is closed with an unpaid balance. That path, warnings ignored and money owed, is far more likely to end in a listing than a single bad month that was addressed quickly."
+   ]
+  },
+  {
+   "h2": "How long it lasts",
+   "paragraphs": [
+    "Listings are generally retained for a period measured in years, and the exact term can depend on the reason code. Some entries are shorter than others. Because rules are set by the network and can change, check the current retention policy instead of relying on a number from a blog post.",
+    "During the listing period, some processors will decline outright, while others, specializing in higher-risk accounts, may approve with conditions such as reserves, higher pricing or volume caps.",
+    "If you are comparing providers, ask how they handle accounts they close. Do they give notice? Do they explain the reason code? Some provide a written explanation and a chance to cure the issue first. That behavior is worth knowing before you sign, and it is a fair question to put on your checklist."
+   ]
+  },
+  {
+   "h2": "Can you check, and can you remove one?",
+   "paragraphs": [
+    "Merchants cannot normally query the database themselves; it is accessed by acquirers. If you are told you were listed, ask the terminating processor for the date, the reason code and the contact for disputes. A processor may be able to correct an entry that was made in error, or one for which the circumstances have changed, depending on the rules and the reason.",
+    "Do not pay anyone who guarantees removal. No outside party can overrule the network's rules. Legitimate steps involve documentation and, when warranted, a request to the listing processor, possibly with legal counsel for contested cases.",
+    "Keep in mind that a new business entity does not erase a listing tied to its owners. Underwriters check principals, addresses, phone numbers and sometimes websites. Setting up a new company to hide a termination tends to be discovered and can lead to a second termination for misrepresentation, which is worse."
+   ],
+   "bullets": [
+    "Ask for the listing date and reason code in writing.",
+    "Gather evidence if the reason was inaccurate.",
+    "Request correction from the processor that listed you.",
+    "Consult an attorney in disputed cases."
+   ]
+  },
+  {
+   "h2": "Preventing a termination in the first place",
+   "paragraphs": [
+    "Most listings begin with a chargeback or fraud problem that grew unnoticed. Track your chargeback ratio monthly, respond to every dispute by its deadline, use fraud tools such as AVS and 3D Secure online and keep clear refund policies. Refunding a dissatisfied customer is almost always cheaper than losing a dispute.",
+    "Stay inside what you were approved to do. Processing for a different business or running other people's sales through your account is a classic path to termination and a listing.",
+    "Preventive habits are boring but effective: monitor disputes weekly, keep delivery records, keep a written refund policy and make sure your descriptor matches what customers see on their statements. Clear descriptors alone reduce disputes from customers who simply do not recognize a charge."
+   ]
+  },
+  {
+   "h2": "What to do if you are on the list",
+   "paragraphs": [
+    "Be upfront on applications. Hiding a prior termination usually fails because the underwriter will find it, and a false answer can itself be disqualifying. Explain what happened, what changed and what controls you now have in place.",
+    "Some processors work with merchants in this position, usually with reserves and tighter limits. MCCPS can discuss your situation in a free, no-obligation conversation, but we cannot promise outcomes. Call 844.826.6227 to talk it through.",
+    "If a listing exists and you believe it is wrong, move quickly. The longer an inaccurate entry stands, the more applications it can affect. Write to the processor, attach evidence and keep copies of every exchange."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "The MATCH list records certain merchant terminations for years.",
+  "Listings come from specific reasons such as fraud or excessive chargebacks.",
+  "Not every account closure is reported.",
+  "No one can guarantee removal; be wary of paid promises.",
+  "Honesty and documentation matter on every new application."
+ ],
+ "faq": [
+  {
+   "q": "Is the MATCH list the same as a credit report?",
+   "a": "No. It is a network database used by acquirers, not a credit bureau. Your credit is separate, though owners' credit is often reviewed during underwriting along with the MATCH check."
+  },
+  {
+   "q": "Will my personal name be listed too?",
+   "a": "Listings can include principal owners as well as the business, which is why a new company with the same owners can still be found. Ask the processor what was reported so you know what to expect."
+  },
+  {
+   "q": "Can I get a merchant account while listed?",
+   "a": "Sometimes, with specialized providers, usually under tighter terms such as reserves. Some processors will decline outright. Honesty about the listing and a clear explanation of what has changed improve your chances."
+  },
+  {
+   "q": "How can I avoid being listed?",
+   "a": "Keep chargebacks and fraud under control, process only what was approved, respond to disputes on time and communicate with your processor. If you must close an account, ask whether any reporting will occur."
+  },
+  {
+   "q": "Does closing my account voluntarily put me on the list?",
+   "a": "Not by itself. Listings come from terminations for specific reasons, not ordinary cancellations. Check your agreement and ask your processor how it handles reporting, especially if there are unresolved disputes."
+  }
+ ],
+ "related": [
+  "merchant-account-approval",
+  "high-risk-industries-explained",
+  "merchant-account-holds-and-reserves",
+  "reduce-chargebacks",
+  "chargeback-reason-codes",
+  "cancel-processor-contract"
+ ],
+ "icon": "scale",
+ "read_minutes": 6
+}

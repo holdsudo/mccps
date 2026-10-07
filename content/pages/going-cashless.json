@@ -1,0 +1,120 @@
+{
+ "slug": "going-cashless",
+ "category": "blog",
+ "title": "Should Your Business Go Cashless?",
+ "seo_title": "Should Your Business Go Cashless? Pros, Cons, Rules | MCCPS",
+ "meta_description": "Weigh the pros and cons of going cashless: speed, safety, accessibility, local laws, outage planning and customer reaction before you refuse cash.",
+ "primary_keyword": "going cashless",
+ "keywords": [
+  "cashless business",
+  "card-only policy",
+  "cashless law",
+  "refuse cash",
+  "cashless checkout",
+  "accessibility cashless",
+  "payment outage plan"
+ ],
+ "eyebrow": "Policy decision",
+ "dek": "A balanced look at card-only operation: what you gain, what you risk and what to check before you take the cash register out of the equation.",
+ "intro": [
+  "Cashless sounds modern and tidy: no drawers to count, no bank runs and nobody carrying a bag of bills at closing. Some businesses make the move and never look back. Others try it, hear from frustrated customers and quietly bring cash back.",
+  "The decision is not purely about technology. It touches local law, customer access, your payment fees and what happens when the network goes down. In some places, refusing cash is restricted or prohibited, and rules change, so you need to check before you post a sign.",
+  "This guide lays out the main considerations so you can decide with open eyes."
+ ],
+ "sections": [
+  {
+   "h2": "Check the law first",
+   "paragraphs": [
+    "Some cities and states have adopted rules that require businesses to accept cash, with exceptions for certain kinds of operations; others have no such rule. Laws differ by jurisdiction and change over time, so confirm requirements with your local authorities or attorney before declaring yourself cashless.",
+    "Even where legal, think about federal and local fairness considerations. Consumers without bank accounts or cards rely on cash, and refusing it can exclude them. For some businesses that is acceptable, for others it is not.",
+    "Think about who your customers are. A downtown coffee shop with commuters and office workers faces a different situation than a laundromat, a flea market or a rural feed store. The mix of ages, incomes and habits in your neighborhood should decide the policy, not what a competitor down the street did."
+   ]
+  },
+  {
+   "h2": "What you gain",
+   "paragraphs": [
+    "Going cashless removes counting, depositing and change-making, shortens transactions and cuts the cash available to steal. Every sale is recorded, which makes bookkeeping and reconciliation simpler and gives you clean reports by employee and hour.",
+    "It also shifts attention to payment speed. Contactless and wallet payments are fast, and queues can move more quickly. Mobile ordering, payment links and pay-at-the-table flows fit naturally into a card-only environment.",
+    "One practical test: track the share of your sales made in cash for a full month, then look at which hours and which customers account for it. If cash is a small share concentrated in a few product lines, you may be able to serve those customers a different way.",
+    "A final practical gain is cleaner cash-flow forecasting. When every sale lands in a batch and then a deposit, you can predict next week's bank balance with more confidence than when part of the day's take sits in a drawer until someone has time to count it."
+   ],
+   "bullets": [
+    "No cash drawers, change funds or counting.",
+    "Lower robbery and internal theft exposure.",
+    "Complete electronic records for every sale.",
+    "Faster lines with tap and wallet payments."
+   ]
+  },
+  {
+   "h2": "What you risk",
+   "paragraphs": [
+    "You depend on your network, your terminals and your processor. A router failure or an outage at the payment provider can stop sales entirely. Cash is the original offline mode. Without it, you need a plan: a backup connection, a second reader or an approved offline procedure.",
+    "You also lose customers who only use cash, including some younger customers, visitors and people without bank access. Whether that matters depends on your market.",
+    "Staff morale also changes. Employees who used to handle cash tips will see them move to payroll or card tips, which affects take-home pay and timing. Talk through tip handling in advance and check payroll and wage rules in your area."
+   ]
+  },
+  {
+   "h2": "The cost side",
+   "paragraphs": [
+    "With all sales on cards, your processing fees apply to 100 percent of volume. If you process $50,000 a month at a hypothetical 3 percent, that is $1,500. You no longer have cash handling costs, but you should not ignore the fee line. This is the moment to review your pricing model and equipment.",
+    "A compliant cash-discount or dual-pricing program may help some merchants, but if you refuse cash entirely, a cash-discount program no longer fits. Surcharging has its own rules that vary by state and card network. Confirm what applies before you decide.",
+    "Think about refunds and change too. Without cash, refunds go to the original card, which is safer but slower for the customer. Explain the timing in your policy so it does not become a complaint later."
+   ]
+  },
+  {
+   "h2": "Designing a cashless policy well",
+   "paragraphs": [
+    "Post clear signage at entrances and online so no customer is surprised at the counter. Offer more than one payment method: cards, mobile wallets and perhaps prepaid or reloadable options. Train staff to explain the policy kindly and consistently.",
+    "Consider a middle path: card-preferred but cash accepted at a service desk, a cash-to-card kiosk or a hybrid at events. Another path is simply accepting cash only in certain situations, with clear rules.",
+    "A trial can reduce regret. Try cashless on a quiet weekday or at one location first, track complaints and sales, and compare with your normal days. Real data from your own counter beats speculation, and it lets you reverse course cheaply.",
+    "If you do go cashless, say so in your hiring and training too. New employees should know why the policy exists and what to say when someone asks to pay with bills. A consistent, friendly answer prevents arguments, and a manager escalation path handles the rare tough case."
+   ]
+  },
+  {
+   "h2": "Be ready for outages",
+   "paragraphs": [
+    "Plan for network failure with a cellular backup, a spare reader and a written procedure. Some terminals can store transactions offline and forward them when the connection returns, which carries risk, since approvals are not confirmed. Understand your processor's offline rules before relying on it.",
+    "MCCPS can review your equipment and statements in a free, no-obligation analysis, and free 24/7 technical support helps when something fails. Call 844.826.6227 to talk through your plan."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Verify local rules before refusing cash; they vary and change.",
+  "Cashless cuts handling, theft exposure and reconciliation work.",
+  "You depend on connectivity and your processor, so plan for outages.",
+  "Some customers rely on cash; decide whether you can serve them.",
+  "Post clear signage and review pricing, since all sales carry fees."
+ ],
+ "faq": [
+  {
+   "q": "Is it legal to refuse cash?",
+   "a": "It depends on where you operate. Some jurisdictions require businesses to accept cash with exceptions, while others do not. Rules change, so confirm with local authorities or an attorney."
+  },
+  {
+   "q": "What do I do if the internet goes down?",
+   "a": "Have a backup connection such as cellular, a spare reader and a written procedure. Some terminals support offline mode, but approvals are not guaranteed, so understand the risk and your processor's rules."
+  },
+  {
+   "q": "Will going cashless raise my costs?",
+   "a": "Your card fees will apply to all sales, but you eliminate cash-handling costs. Compare both on your own numbers and review your pricing structure and equipment."
+  },
+  {
+   "q": "Can I still offer a cash discount if I am cashless?",
+   "a": "No, because a cash discount assumes cash is accepted. Pricing programs vary by state and card network, so ask your processor what options fit a card-only model."
+  },
+  {
+   "q": "How do I tell customers about the policy?",
+   "a": "Use clear signs at the entrance, on your website and at the register, and train staff to explain it politely. Surprises at the counter are what upset customers most."
+  }
+ ],
+ "related": [
+  "cash-vs-card-small-business",
+  "offline-payments",
+  "contactless-payments-guide",
+  "mobile-wallets-explained",
+  "accept-payments-on-the-go",
+  "payment-terminal-troubleshooting"
+ ],
+ "icon": "card",
+ "read_minutes": 6
+}

@@ -1,0 +1,117 @@
+{
+ "slug": "large-ticket-transactions",
+ "category": "blog",
+ "title": "Large-Ticket Transactions: Limits and Risk",
+ "seo_title": "Large-Ticket Transactions: Limits, Fees and Risk | MCCPS",
+ "meta_description": "How large card payments work: ticket limits, authorization holds, Level 2/3 data, ACH alternatives, fraud and chargeback risk for high-dollar sales.",
+ "primary_keyword": "large ticket transactions",
+ "keywords": [
+  "high ticket card payments",
+  "maximum transaction limit",
+  "large purchase processing",
+  "level 3 data",
+  "high dollar chargeback risk",
+  "ACH for large payments",
+  "card limit exceeded"
+ ],
+ "eyebrow": "High-dollar sales",
+ "dek": "What changes when a single card payment is large: limits, holds, review triggers, fees and the safer ways to get paid.",
+ "intro": [
+  "Taking a card for a thirty-dollar lunch is routine. Taking one for a twelve-thousand-dollar repair, a deposit on a boat or a wholesale order is a different matter. Larger payments hit three different ceilings at once: the customer's card limit, your own account's per-ticket and monthly limits, and your appetite for risk if the payment is later disputed.",
+  "Processors set ticket limits at approval based on what you told them to expect. Go far above them and you may see declines, delays or a review hold. Go far above them without warning and the account may be flagged. None of this is unreasonable, but it catches many merchants unprepared.",
+  "This guide explains how the limits work, what drives cost and risk on big payments and the alternatives to a single large card charge."
+ ],
+ "sections": [
+  {
+   "h2": "Three limits, three owners",
+   "paragraphs": [
+    "The customer's issuer sets credit or debit limits, and a card may decline a high amount even when the balance looks adequate, because of daily purchase caps or security rules. Your processor sets a maximum ticket and a monthly volume cap based on your application. The card networks set rules around authorization and settlement.",
+    "If a large sale declines, check which limit it hit. The terminal response usually gives a code. Sometimes a call from the cardholder to their bank lifts the cap in minutes.",
+    "Seasonal or event-driven businesses see this most. A wedding venue taking a final payment, a contractor collecting a project deposit or a dealer accepting a large down payment may all create a ticket ten times larger than the account's normal average. Planning ahead turns an anxious afternoon into a routine call."
+   ]
+  },
+  {
+   "h2": "Tell your processor before the big one",
+   "paragraphs": [
+    "If you expect a single sale well above your usual ticket, notify your processor and ask for a temporary increase. Provide an invoice or contract. A pre-announced large payment is routine; a surprise can trigger a hold while the risk team verifies it.",
+    "Be honest in the application about your highest expected ticket. Understating it to look conservative creates problems later, and overstating without cause can raise your pricing or reserve.",
+    "It also helps to share context. A copy of the signed contract or invoice, the customer's name and the delivery date lets the risk team compare the payment to a real obligation. Merchants who communicate this way tend to get quicker approvals and fewer follow-up questions."
+   ]
+  },
+  {
+   "h2": "Cost: interchange and the effect of data",
+   "paragraphs": [
+    "Percentage-based fees mean a large card payment costs a large number of dollars. A 2.9 percent effective rate on $10,000 is $290, a hypothetical figure. For business and corporate cards, supplying Level 2 and Level 3 data, such as tax amount, purchase order number and line-item detail, can qualify the transaction for lower interchange categories.",
+    "Not all card types qualify and eligibility rules are set by the networks, so ask your processor which of your transactions can benefit. Capturing the extra data usually requires a gateway and software that support it.",
+    "A hypothetical example: a $25,000 equipment order paid by corporate card at a 2.8 percent effective rate costs $700. If eligible Level 3 data brings the interchange portion down meaningfully, the saving on that single ticket can be real money, but the actual outcome depends on card type, network rules and your pricing. Ask for a statement review to see whether it applies."
+   ],
+   "bullets": [
+    "Collect purchase order numbers and tax amounts at the time of sale.",
+    "Pass line-item data when your system supports it.",
+    "Confirm with your processor which card types qualify."
+   ]
+  },
+  {
+   "h2": "Risk: fraud and chargebacks on big payments",
+   "paragraphs": [
+    "The bigger the payment, the more attractive it is to fraudsters, and the more damaging a dispute can be. Verify the buyer, use AVS and security code checks, and for card-not-present sales consider extra steps such as a callback to a known number or 3D Secure.",
+    "Keep strong documentation: signed agreements, delivery confirmations and correspondence. A single lost dispute on a large ticket can erase the margin on many ordinary sales. For deposits on custom orders, put refund terms in writing.",
+    "Consider delivery timing too. If you collect the full amount months before delivery, the customer has a long window to dispute. Staged payments tied to milestones keep the exposure aligned with the work done."
+   ]
+  },
+  {
+   "h2": "Alternatives and ways to split",
+   "paragraphs": [
+    "For very large amounts, ACH or bank transfer is often cheaper because fees are small and flat. You can combine methods: take a deposit by card to secure the order and collect the balance by ACH. This reduces both cost and dispute exposure.",
+    "Splitting a purchase across multiple card charges to avoid a limit is not a good idea. It can look like structuring, and it may violate your agreement. Ask for a legitimate limit increase instead.",
+    "Compare the total cost of each path in dollars before choosing. Card payments bring speed and customer convenience; ACH brings low cost. Offering both and letting the customer choose, with clear terms, often yields the best result."
+   ]
+  },
+  {
+   "h2": "Making it routine",
+   "paragraphs": [
+    "Write a short procedure for staff: verify identity, collect data, confirm limits and call the processor for amounts above a set threshold. A routine reduces mistakes and gives customers a smooth experience.",
+    "MCCPS can discuss ticket limits, Level 2/3 processing and ACH options in a free, no-obligation analysis, and free 24/7 support is available if a large payment runs into a snag. Call 844.826.6227."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Large payments face customer, processor and network limits.",
+  "Pre-announce unusual tickets to your processor.",
+  "Level 2/3 data may lower interchange for eligible business cards.",
+  "Strong verification and documentation protect against costly disputes.",
+  "ACH or a card deposit plus ACH balance can cut cost and risk."
+ ],
+ "faq": [
+  {
+   "q": "Why was my large card sale declined?",
+   "a": "It may have hit the cardholder's limit, your account's ticket limit or a fraud rule. The decline code and a call to the issuer or your processor usually reveal which. A temporary limit increase can help if planned."
+  },
+  {
+   "q": "Can I split a big sale into two card charges?",
+   "a": "Doing it to bypass limits is risky and may violate your agreement. Ask for a legitimate limit increase, or split by method, for example a card deposit and a bank transfer for the balance."
+  },
+  {
+   "q": "What is Level 3 data?",
+   "a": "Extra line-item detail, such as product codes, quantities and tax, sent with a transaction on eligible commercial cards. It can qualify for lower interchange. Your gateway and software must support it."
+  },
+  {
+   "q": "Are large payments more likely to be disputed?",
+   "a": "The dollar impact is larger, and fraudsters target them. Good verification, written terms and records of delivery make disputes less likely and easier to win."
+  },
+  {
+   "q": "Is ACH cheaper than a card for big payments?",
+   "a": "Often yes, since ACH fees are generally small and flat compared with a percentage. ACH has its own return risk and timelines, so weigh both. Many merchants combine card deposits with ACH balances."
+  }
+ ],
+ "related": [
+  "level-2-and-level-3-processing",
+  "ach-vs-credit-card",
+  "process-b2b-payments",
+  "take-deposits-and-prepayments",
+  "level-2-3-data-explained",
+  "b2b-wholesale"
+ ],
+ "icon": "building",
+ "read_minutes": 6
+}

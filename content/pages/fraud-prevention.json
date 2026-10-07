@@ -1,0 +1,121 @@
+{
+  "slug": "fraud-prevention",
+  "category": "solutions",
+  "title": "Payment Fraud Prevention for Merchants",
+  "seo_title": "Payment Fraud Prevention Tools | MCCPS",
+  "meta_description": "Reduce card fraud with AVS, CVV, 3-D Secure, velocity limits and staff training. A practical merchant guide to spotting and stopping suspicious payments.",
+  "primary_keyword": "fraud prevention",
+  "keywords": [
+    "payment fraud prevention",
+    "card fraud protection",
+    "AVS CVV checks",
+    "3D Secure",
+    "velocity checks",
+    "card not present fraud",
+    "merchant fraud tools"
+  ],
+  "eyebrow": "Risk control",
+  "dek": "You cannot make fraud impossible, but a handful of inexpensive controls stops most of what actually reaches small merchants.",
+  "intro": [
+    "Fraud does not announce itself. It arrives as a large online order from a first-time customer, a chip card that will not read, a gift card buying spree or a refund request that looks routine. By the time the chargeback arrives, the goods are gone and so is the money, plus a dispute fee on top.",
+    "Merchants carry much of the liability for card-not-present fraud, so prevention is partly a financial decision. This page lays out the common fraud patterns, the tools that counter them, and the habits that tie everything together."
+  ],
+  "sections": [
+    {
+      "h2": "Know the main types of fraud",
+      "paragraphs": [
+        "Counterfeit and lost-or-stolen card fraud shows up in person. Card-not-present fraud, using stolen numbers online or by phone, is the larger problem for e-commerce and phone-order merchants. Card testing is a variant where criminals run many small charges to find which numbers work. Friendly fraud is when a real cardholder disputes a legitimate purchase.",
+        "Each type calls for a slightly different defense. A restaurant worries most about stolen cards and employee skimming, an online store about stolen numbers and card testing, and a subscription seller about friendly fraud. Start with the type that matches your channel."
+      ]
+    },
+    {
+      "h2": "AVS and CVV: your first filter",
+      "paragraphs": [
+        "Address verification service compares the billing address a customer types to what the card issuer has on file. The card verification value, the three or four-digit code on the card, proves the person has the physical card or at least its details.",
+        "Neither is perfect. A thief with a full set of stolen data can supply both correctly. Still, setting your gateway to decline mismatches on high-risk orders eliminates a large share of casual attempts. Choose rules that match your risk tolerance: stricter for high-ticket goods, looser for low-value, repeat customers.",
+        "A useful habit is to keep a short note of every confirmed fraud case: how the order arrived, which checks passed, which failed and what finally gave it away. After a few entries, patterns emerge, such as a particular shipping destination or product that attracts abuse, and you can write rules targeted at them instead of guessing."
+      ],
+      "bullets": [
+        "Require CVV on all card-not-present orders",
+        "Compare billing ZIP code or address through AVS",
+        "Flag mismatches for manual review rather than rejecting everything",
+        "Log the results so patterns become visible"
+      ]
+    },
+    {
+      "h2": "3-D Secure and extra authentication",
+      "paragraphs": [
+        "3-D Secure adds an extra step in which the cardholder authenticates with their bank, using a code, an app prompt or biometrics. On successful authentication, liability for fraud-related chargebacks commonly shifts to the issuer, which is a strong incentive for higher-risk online sales.",
+        "The trade-off is friction: some customers abandon the purchase. Many merchants use it selectively, triggering it for large orders, new customers or unusual shipping patterns, and leaving low-risk repeat buyers alone."
+      ]
+    },
+    {
+      "h2": "Velocity limits and pattern checks",
+      "paragraphs": [
+        "Velocity rules cap how many transactions can come from the same card, IP address, device or email within a time window. They are especially effective against card testing, where a bot hammers your checkout with small charges. Add CAPTCHA or similar challenges to the checkout form and limit failed attempts per session.",
+        "Watch for orders where shipping and billing addresses sit far apart, many orders share one phone number or the same card appears under different names. A short list of automated flags plus a human glance often catches what software misses.",
+        "Remember that fraud tools need tuning. Review declines and manual reviews monthly to see whether good customers are being blocked, and loosen rules that cost more in lost sales than they save in prevented fraud. The goal is a balance that fits your products and margins, not the strictest possible setting."
+      ]
+    },
+    {
+      "h2": "In-person safeguards",
+      "paragraphs": [
+        "Use EMV chip and contactless acceptance so counterfeit cards are harder to use. Check the card matches the signature or ID when your policy requires it, and never process a card that someone else presents without the cardholder. Keep terminals in view to prevent tampering or skimmer swaps.",
+        "Train staff on refund controls. Refunds to a card other than the original, or large refunds without a manager, are a classic internal fraud route. Require approval over a set amount and review voids and refunds by employee regularly.",
+        "Gift cards and high-resale items deserve special attention, because criminals favor goods that convert quickly to cash. Consider purchase limits, delayed fulfillment for first-time buyers or a quick identity check on large orders."
+      ]
+    },
+    {
+      "h2": "Order review and customer communication",
+      "paragraphs": [
+        "A suspicious order is worth a quick phone call or email before shipping. Legitimate customers rarely mind confirming details, and criminals often vanish. Hypothetically, if a $1,200 order is held for a day while you verify, the delay costs you little compared with the loss and fees from a chargeback.",
+        "Keep records: IP address, delivery confirmation, signed receipts and communication logs. They are your evidence if a dispute arrives, and our chargeback guidance explains how to use them."
+      ]
+    },
+    {
+      "h2": "Layering protection with MCCPS",
+      "paragraphs": [
+        "MCCPS supports EMV and contactless acceptance, multiple gateways with configurable fraud settings, tokenization, PCI compliance help and a reporting and analytics dashboard that helps you spot unusual patterns. Free 24/7 technical support and personal customer service mean a specialist is available when something looks wrong.",
+        "No tool guarantees zero fraud, so the aim is to make your business a harder target than the next one. Start with the free statement analysis and ask the team to review your chargeback and decline patterns along with your fees."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Match your defenses to your channel: in person, online or by phone.",
+    "AVS and CVV filter many casual attempts at little cost.",
+    "3-D Secure can shift liability but adds customer friction.",
+    "Velocity limits and staff controls stop card testing and internal fraud."
+  ],
+  "faq": [
+    {
+      "q": "Which fraud tool should I turn on first?",
+      "a": "Start with CVV and AVS checks on card-not-present orders, then add velocity limits. They are inexpensive and block many casual attempts. After that, consider 3-D Secure for high-risk or high-value orders."
+    },
+    {
+      "q": "Does 3-D Secure stop all chargebacks?",
+      "a": "No. It can shift liability for fraud-coded disputes to the issuer when authentication succeeds, but it does not cover every dispute reason, such as claims that goods were not received. Keep good delivery and service records."
+    },
+    {
+      "q": "What is card testing?",
+      "a": "Criminals use automated scripts to run small charges on stolen card numbers to see which ones are valid. Symptoms include many tiny declined transactions in a short time. Velocity limits and CAPTCHA at checkout help prevent it."
+    },
+    {
+      "q": "How can I protect against employee fraud?",
+      "a": "Use individual logins, require manager approval for refunds and voids over a set amount, and review activity by employee. Reconcile daily so unusual patterns are noticed quickly."
+    },
+    {
+      "q": "Will fraud tools block good customers?",
+      "a": "Sometimes, if rules are too strict. Start with flags for manual review rather than automatic rejection, then tighten based on the results. Balance the cost of fraud against lost sales."
+    }
+  ],
+  "related": [
+    "prevent-card-fraud",
+    "avs-and-cvv",
+    "3d-secure-explained",
+    "card-testing-attacks",
+    "chargeback-management",
+    "employee-theft-pos"
+  ],
+  "icon": "shield",
+  "read_minutes": 7
+}

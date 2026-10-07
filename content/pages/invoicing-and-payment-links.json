@@ -1,0 +1,121 @@
+{
+  "slug": "invoicing-and-payment-links",
+  "category": "solutions",
+  "title": "Invoicing and Payment Links",
+  "seo_title": "Invoicing & Payment Links to Get Paid Faster | MCCPS",
+  "meta_description": "Send invoices and pay-by-link requests by email or text so customers can pay by card or bank transfer in seconds. See how it speeds up collections.",
+  "primary_keyword": "payment links",
+  "keywords": [
+    "pay by link",
+    "online invoicing",
+    "invoice payments",
+    "accounts receivable",
+    "text to pay",
+    "send payment request",
+    "get paid faster"
+  ],
+  "eyebrow": "Get paid",
+  "dek": "Turn an invoice into a one-tap payment page, and shorten the distance between work done and money received.",
+  "intro": [
+    "An invoice that says 'mail a check' competes with a stack of other mail. An invoice with a button that says 'pay now' competes with nothing. The difference between those two experiences is often the difference between being paid in three days and being paid in thirty.",
+    "Invoicing and payment links put a secure checkout page behind a URL, a button or a QR code. This page covers how they work, where they help most, and how to use them without creating security or recordkeeping headaches."
+  ],
+  "sections": [
+    {
+      "h2": "What a payment link is",
+      "paragraphs": [
+        "A payment link is a web address that opens a hosted payment page for a specific amount or invoice. The customer clicks it from an email, text or message, enters card or bank details, and submits. The page runs through your gateway, so the result is an ordinary authorization, settled into your merchant account.",
+        "Because the customer types their own details, you never handle the card number. That removes the transcription errors that come with phone payments and keeps sensitive data out of your office."
+      ]
+    },
+    {
+      "h2": "From invoice to payment in one step",
+      "paragraphs": [
+        "A full invoice adds structure: line items, taxes, due dates, notes and an invoice number, with the payment link built in. Customers see exactly what they owe, pay with the method they prefer, and receive an automatic receipt. You get an automatic status update, which beats checking a spreadsheet.",
+        "Invoice numbers and purchase order references can also be captured for business customers, which feeds Level 2 and Level 3 data on eligible transactions. That can lower interchange cost for B2B payments, as explained in our enhanced data material.",
+        "Recurring clients can be set up with a saved payment method, so future invoices can be paid with a single confirmation. That convenience only works with the customer's permission and a clear explanation of how charges will appear."
+      ],
+      "bullets": [
+        "Itemized invoices with tax and due date",
+        "Reusable links for standard fees or deposits",
+        "Email, text or QR code delivery",
+        "Automatic receipts and payment status",
+        "Reminders before and after the due date"
+      ]
+    },
+    {
+      "h2": "Where payment links fit best",
+      "paragraphs": [
+        "Service businesses use them after a job is finished, before the technician has left the driveway. Photographers and consultants send them with final deliverables. Shops use them for custom orders, deposits and layaway. Sellers on social platforms use them to turn a direct message into an order, without handing out card details in a chat.",
+        "They also solve the problem of the customer who is not present. A deposit for an event, a retainer for a project, or a balance owed from last month can be paid in under a minute from a phone."
+      ]
+    },
+    {
+      "h2": "Speeding up collections",
+      "paragraphs": [
+        "The pattern with unpaid invoices is simple: friction delays payment, and delay breeds forgetfulness. Make payment as easy as opening a message. Send the invoice the same day the work is done, include the link in the first line, and schedule a reminder before the due date.",
+        "Hypothetically, if you carry $25,000 in receivables on average and reduce the typical wait by ten days, you free up a meaningful chunk of working capital. You do not need an outside lender to benefit from that. For a late invoice, a polite reminder with the link attached tends to work better than a phone call.",
+        "Keep a simple habit: review the aging list every week. Anything past due gets a reminder with the link attached, and anything long overdue gets a personal call. Small, regular follow-ups beat occasional big collection pushes, and they keep the relationship friendly with customers who simply lost track."
+      ]
+    },
+    {
+      "h2": "Card or bank transfer: let the customer choose",
+      "paragraphs": [
+        "Cards are fast and familiar but carry processing cost. ACH bank transfers usually cost less and suit large invoices, though they settle slower. Offering both on one page lets customers pick, and some businesses share the cost savings through a compliant pricing program.",
+        "If you pass any cost to customers through a surcharge, cash discount or convenience fee on invoices, rules vary by state and card network and require clear disclosure. Confirm current requirements before adding fees to a payment page."
+      ]
+    },
+    {
+      "h2": "Writing invoices customers actually pay",
+      "paragraphs": [
+        "The best payment link in the world cannot rescue a confusing invoice. Use a clear subject line, your business name as customers know it, an itemized breakdown and a due date that is easy to find. State the accepted payment methods and put the pay button where the eye lands first, not buried under terms. Plain wording like 'Invoice 1042 for gutter repair, $380, due on the 15th' is more effective than a paragraph of formalities.",
+        "Consider the follow-up as part of the design. A gentle reminder a few days before the due date, another on the day, and a firmer note a week later covers most customers without damaging the relationship. Keep a record of each message sent. If a payment is ever disputed, a clear invoice, a clear link and a dated trail of communication together make a strong case that the customer knew exactly what they owed."
+      ]
+    },
+    {
+      "h2": "Keeping it secure and organized",
+      "paragraphs": [
+        "Use links generated by your payment system rather than links you copy from random sources, and send them only to the intended customer. Expiring links, single-use links and amounts that cannot be changed by the payer all reduce abuse. Train staff to recognize imitation requests asking customers to pay somewhere else.",
+        "Reconcile regularly: invoices paid should match deposits received. The reporting dashboard in PayPilot by MCCPS shows payments by date and status. Request the free statement analysis to see how your current card processing is priced before you roll out invoicing, and call 844.826.6227 with questions."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Payment links turn an invoice into a one-tap secure checkout.",
+    "Customers type their own card details, keeping data off your desk.",
+    "Faster payment frees working capital without borrowing.",
+    "Any fee passed to customers needs disclosure and varies by state and network."
+  ],
+  "faq": [
+    {
+      "q": "Do payment links work by text message?",
+      "a": "Yes. A link can be sent by text, email or chat, and the customer completes payment from a phone. Make sure the message clearly identifies your business so customers recognize it as legitimate."
+    },
+    {
+      "q": "Can customers pay an invoice with a bank account?",
+      "a": "Often. ACH bank payments can be offered alongside cards on the same page, usually at lower cost but with slower settlement. Whether it is available depends on how your account is set up."
+    },
+    {
+      "q": "Are payment links safe?",
+      "a": "When generated by a secure gateway, yes. The page encrypts card entry and the customer types details directly. Use unique links, avoid posting reusable links publicly unless intended, and review activity regularly."
+    },
+    {
+      "q": "Can I take deposits with a link?",
+      "a": "Yes. Many businesses send a link for a fixed deposit or retainer and a second one for the balance. Document the refund policy up front to avoid disputes later."
+    },
+    {
+      "q": "How do I know when an invoice is paid?",
+      "a": "The system updates the status and sends a receipt when payment succeeds. You can see it in reporting and reconcile against your deposits, which helps your bookkeeper close each month faster."
+    }
+  ],
+  "related": [
+    "payment-links-guide",
+    "collect-overdue-invoices",
+    "get-paid-faster",
+    "sell-on-social-media",
+    "ach-processing",
+    "virtual-terminal"
+  ],
+  "icon": "file",
+  "read_minutes": 6
+}

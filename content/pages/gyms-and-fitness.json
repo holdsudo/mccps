@@ -1,0 +1,125 @@
+{
+  "slug": "gyms-and-fitness",
+  "category": "industries",
+  "title": "Gym & Fitness Studio Payment Processing",
+  "seo_title": "Gym & Fitness Studio Payment Processing | MCCPS",
+  "meta_description": "Gym and fitness studio payment processing for recurring memberships, failed payments and card account updater. Cut churn and fees with a free analysis.",
+  "primary_keyword": "gym payment processing",
+  "keywords": [
+    "fitness studio billing",
+    "recurring membership payments",
+    "failed payment recovery",
+    "card account updater",
+    "gym merchant account",
+    "membership autopay",
+    "studio class packs"
+  ],
+  "eyebrow": "Industry payments",
+  "dek": "Memberships live and die on billing: how gyms and studios collect monthly dues reliably and recover payments that fail.",
+  "intro": [
+    "A gym is a subscription business with weights. Most of your revenue comes from members whose cards are charged automatically each month, which means a billing hiccup does not just delay a payment; it can quietly end a membership. The members you lose to expired cards are often the ones who never meant to leave.",
+    "Gym and fitness payment processing therefore revolves around recurring billing: charging the right amount on the right day, catching failures early, and keeping the whole thing compliant and transparent. Walk-in passes, class packs and the juice bar are the smaller part of the picture."
+  ],
+  "sections": [
+    {
+      "h2": "How recurring billing works",
+      "paragraphs": [
+        "When a member signs up, they authorize you to charge their card repeatedly. Your system stores a token that represents the card and submits a charge on each billing date. This is a stored-credential transaction, and the card networks expect you to flag it properly, with the first charge identified as the start of a series and later ones as merchant-initiated.",
+        "Authorization matters. Your sign-up agreement should state the amount, the schedule, how to cancel and any fees clearly, and you should keep a copy of what the member agreed to. If a member disputes a charge, that agreement and your cancellation records are your evidence. Rules for automatic renewals and cancellation vary by state, so confirm them with your attorney."
+      ],
+      "bullets": [
+        "State the amount, billing date and cancellation method plainly.",
+        "Keep a dated record of the member's agreement.",
+        "Send a receipt each time a payment succeeds.",
+        "Provide an easy way to update the card on file."
+      ]
+    },
+    {
+      "h2": "Why payments fail and how to recover them",
+      "paragraphs": [
+        "Declines on recurring charges come from a handful of causes: an expired card, a replaced card number after fraud, insufficient funds near the end of the month, or a bank flagging the charge by mistake. Many of these are not the member's intention to cancel at all.",
+        "Retry logic helps. A sensible schedule retries a declined charge a few days later, perhaps after payday, and notifies the member by email or text with a link to update their card. Some declines are hard declines, such as a closed account, and retrying those only creates noise. A system that distinguishes soft from hard declines saves effort and reduces the risk of being flagged for excessive retries."
+      ],
+      "steps": [
+        "Attempt the charge on the billing date.",
+        "If declined, notify the member the same day with a payment link.",
+        "Retry after a few days for soft declines.",
+        "Escalate to a personal call or email before suspending access.",
+        "Document each attempt for your records."
+      ]
+    },
+    {
+      "h2": "Card account updater",
+      "paragraphs": [
+        "Card account updater is a service that checks stored cards with the networks and refreshes expired or reissued card details automatically. Instead of a member's card failing after replacement, the new number or expiry is quietly updated in your vault. For a membership business, this is one of the most effective ways to cut involuntary churn.",
+        "Not every issuer participates, and it is not a guarantee, but it removes a large share of the preventable failures. Ask your processor whether account updater is available for your account and how it is priced. MCCPS offers recurring payments and can discuss updater options during setup."
+      ]
+    },
+    {
+      "h2": "Class packs, drop-ins and front-desk sales",
+      "paragraphs": [
+        "Not everything is a membership. Class packs, day passes, personal training and retail drinks run through a standard point of sale. A tablet at the front desk with a card reader works for most studios, and a handheld lets trainers take payment on the floor.",
+        "Keep the sale types separate in your reporting. When you can see recurring revenue, one-time sales and retail on different lines, it is easier to judge the effect of a promotion or a price change. A reporting dashboard that breaks out revenue by product and by day helps with that."
+      ]
+    },
+    {
+      "h2": "Annual fees, freezes and cancellations",
+      "paragraphs": [
+        "Many gyms charge an annual fee, offer membership freezes or require notice to cancel. Each of these generates support questions and, if handled poorly, disputes. Write the terms in plain language, send a reminder before an annual fee is billed and honor cancellation requests promptly, because a delayed cancellation that leads to another charge is a reliable path to a chargeback.",
+        "A refund issued quickly costs less than a dispute, which usually carries a fee on top of the lost amount. For legal requirements around fees and cancellations, check with your attorney."
+      ]
+    },
+    {
+      "h2": "Handling joining fees and promotional pricing",
+      "paragraphs": [
+        "Joining fees, trial offers and promotional rates are common in the fitness world, and each has billing consequences. A seven-day free trial that turns into a paid membership needs clear disclosure of the date and amount of the first charge, and an easy way to cancel before it happens. Promotional pricing for the first month followed by a higher rate should be stated plainly, with a reminder message before the change. These are the situations that produce the angry call or the chargeback, usually because the member did not expect the charge. Rules about trials and automatic renewals vary by state, so review your terms with an attorney."
+      ]
+    },
+    {
+      "h2": "Checking cost and next steps",
+      "paragraphs": [
+        "Say your studio bills 600 members at $70 a month, or $42,000, with a 2.9 percent effective rate. That is $1,218 a month in fees. Recurring charges are card-not-present, so they can price differently from in-person sales, and you might also pay a gateway or recurring-billing fee. Check how those are listed.",
+        "MCCPS offers a free, no-obligation savings analysis that reviews two months of statements line by line, with savings depending on what is found. For members who pay by bank transfer, ACH can be a lower-cost option, and a compliant cash discount or dual pricing program, including the Zero Processing Fees program, may suit some studios. Rules vary by state and card network and require disclosure, so confirm them first. Free 24/7 support is part of the service."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Recurring billing is the core of gym payments, so failed charges directly affect revenue.",
+    "Retry soft declines on a sensible schedule and notify members promptly.",
+    "Card account updater reduces failures from expired or replaced cards.",
+    "Clear terms and prompt cancellations prevent chargebacks.",
+    "Review how recurring charges are priced on your statement."
+  ],
+  "faq": [
+    {
+      "q": "Why do gym membership payments fail?",
+      "a": "The usual causes are expired or replaced cards, insufficient funds, and bank fraud flags. Many are not a decision to quit. Quick notifications, a simple way to update a card and sensible retries recover a large portion."
+    },
+    {
+      "q": "What is a card account updater?",
+      "a": "It is a service that refreshes stored card details when a bank reissues or renews a card, so recurring charges keep working. Not every issuer takes part, but it reduces many avoidable declines. Ask your processor if it is available."
+    },
+    {
+      "q": "Can I take ACH payments for memberships?",
+      "a": "Yes, ACH debits from a bank account are common for recurring dues and can cost less than cards, though they settle more slowly and have their own return rules. MCCPS can discuss ACH alongside card options."
+    },
+    {
+      "q": "How do I avoid chargebacks on cancelled memberships?",
+      "a": "State cancellation terms clearly, process requests promptly, confirm the cancellation in writing and stop billing on time. Keep records of the agreement and your communications."
+    },
+    {
+      "q": "Can a gym pass card fees to members?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require clear disclosure. Confirm current requirements and check how it affects your membership agreements."
+    }
+  ],
+  "related": [
+    "recurring-billing",
+    "account-updater",
+    "recurring-billing-best-practices",
+    "set-up-recurring-payments",
+    "subscription-businesses",
+    "ach-processing"
+  ],
+  "icon": "refresh",
+  "read_minutes": 6
+}

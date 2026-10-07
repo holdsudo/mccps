@@ -1,0 +1,77 @@
+<header class="nav" id="nav">
+  <div class="container nav__inner">
+    <a class="nav__logo" href="/" aria-label="MCCPS — Merchant Credit Card Processing Services, home">
+      <img src="/assets/img/logo.webp" alt="MCCPS — Merchant Credit Card Processing Services" width="260" height="82">
+    </a>
+    <nav class="nav__links" aria-label="Primary">
+      <div class="mega-wrap">
+        <button class="mega-trigger" type="button" aria-expanded="false" aria-controls="mega">Solutions <svg class="icon" aria-hidden="true" style="width:14px;height:14px;transform:rotate(90deg)"><use href="#i-chev-r"/></svg></button>
+        <div class="mega" id="mega">
+          <div class="container mega__grid">
+            <div class="mega__col">
+              <h5>Get paid anywhere</h5>
+              <a href="/solutions/credit-card-terminals/">{{i:card}}<span><b>In store</b><small>EMV &amp; tap terminals, keep yours</small></span></a>
+              <a href="/solutions/payment-gateway/">{{i:cart}}<span><b>Online</b><small>Secure gateway &amp; cart plugins</small></span></a>
+              <a href="/solutions/mobile-payments/">{{i:phone}}<span><b>On the go</b><small>Mobile readers &amp; tap to phone</small></span></a>
+              <a href="/solutions/recurring-billing/">{{i:refresh}}<span><b>Recurring</b><small>Subscriptions &amp; memberships</small></span></a>
+              <a class="mega__all" href="/solutions/" data-nav="solutions">All {{count:solutions}} solutions →</a>
+            </div>
+            <div class="mega__col">
+              <h5>Industries</h5>
+              <div class="mega__links">
+                <a href="/industries/restaurants/">Restaurants</a><a href="/industries/retail-stores/">Retail</a><a href="/industries/ecommerce/">E-commerce</a><a href="/industries/salons-and-spas/">Salons</a><a href="/industries/medical-practices/">Medical</a><a href="/industries/bars-and-nightclubs/">Bars</a><a href="/industries/contractors/">Contractors</a><a href="/industries/gyms-and-fitness/">Gyms</a><a href="/industries/auto-repair-shops/">Auto repair</a><a href="/industries/b2b-wholesale/">B2B</a>
+              </div>
+              <a class="mega__all" href="/industries/" data-nav="industries">All {{count:industries}} industries →</a>
+            </div>
+            <div class="mega__col">
+              <h5>Tools</h5>
+              <a href="/tools/savings-calculator/">{{i:dollar}}<span><b>Savings calculator</b><small>What cards cost you today</small></span></a>
+              <a href="/tools/processing-fee-calculator/">{{i:calc}}<span><b>Effective rate check</b><small>From your last statement</small></span></a>
+              <a href="/tools/pricing-model-comparison/">{{i:scale}}<span><b>Pricing model compare</b><small>Flat vs tiered vs IC+</small></span></a>
+              <a href="/tools/terminal-finder/">{{i:target}}<span><b>Terminal finder</b><small>60-second hardware match</small></span></a>
+              <a class="mega__all" href="/tools/" data-nav="tools">All tools →</a>
+            </div>
+            <div class="mega__col mega__feature">
+              <a class="mega__pp" href="/solutions/zero-processing-fees/">
+                <span class="pp-badge">{{i:bolt}}</span>
+                <b>Zero Processing Fees</b>
+                <small>A compliant dual-pricing program that can take your processing cost to $0.</small>
+                <span class="link-arrow">How it works {{i:arrow}}</span>
+              </a>
+              <a class="mega__blog" href="/blog/" data-nav="blog">{{i:book}}<span><b>The Blog</b><small>{{count:blog}} payments guides</small></span></a>
+              <a class="mega__blog" href="/use-cases/" data-nav="use-cases">{{i:target}}<span><b>How-to guides</b><small>{{count:use-cases}} step-by-step guides</small></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a href="/industries/" data-nav="industries">Industries</a>
+      <a href="/solutions/zero-processing-fees/">Zero Fees</a>
+      <a href="/blog/" data-nav="blog">Blog</a>
+      <a href="/agents/" data-nav="agents">Agents</a>
+      <a href="/contact/" data-nav="contact">Contact</a>
+    </nav>
+    <div class="nav__actions">
+      <button class="nav__ai" type="button" data-cmdk aria-label="Search or ask MCCPS AI">{{i:search}} Search <kbd>⌘K</kbd></button>
+      <a class="nav__phone" href="tel:+18448266227">{{i:phone}}<span>844.826.6227</span></a>
+      <button class="theme-toggle" type="button" aria-label="Toggle dark mode" data-theme-toggle><svg class="icon i-moon" aria-hidden="true"><use href="#i-moon"/></svg><svg class="icon i-sun" aria-hidden="true"><use href="#i-sun"/></svg></button>
+      <a class="btn btn--green btn--sm" href="/free-analysis/" data-nav="analysis">Free Analysis</a>
+      <button class="nav__burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu"><span></span></button>
+    </div>
+  </div>
+  <div class="progress-bar" id="progress"></div>
+</header>
+<div class="mobile-menu" id="mobile-menu" aria-hidden="true">
+  <nav aria-label="Mobile">
+    <a class="mm-link" href="/">Home</a>
+    <a class="mm-link" href="/solutions/">Solutions</a>
+    <a class="mm-link" href="/industries/">Industries</a>
+    <a class="mm-link" href="/tools/">Tools</a>
+    <a class="mm-link" href="/blog/">Blog</a>
+    <a class="mm-link" href="/agents/">Agents</a>
+    <a class="mm-link" href="/contact/">Contact</a>
+  </nav>
+  <div class="mobile-menu__foot">
+    <a class="btn btn--white btn--lg" href="/free-analysis/">Get my free analysis {{i:arrow}}</a>
+    <a class="btn btn--ghost-dark btn--lg" href="tel:+18448266227">{{i:phone}} 844.826.6227</a>
+  </div>
+</div>

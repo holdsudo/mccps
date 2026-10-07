@@ -1,0 +1,114 @@
+{
+  "slug": "debit-vs-credit-processing-costs",
+  "category": "blog",
+  "title": "Debit vs. Credit: Why Costs Differ",
+  "seo_title": "Debit vs. Credit Processing Costs Explained | MCCPS",
+  "meta_description": "Debit and credit cards can cost a merchant very different amounts. See why regulated debit is cheaper, how rewards credit changes things, and what it means.",
+  "primary_keyword": "debit vs credit card processing costs",
+  "keywords": [
+    "debit card interchange",
+    "regulated debit",
+    "Durbin amendment",
+    "credit card processing cost",
+    "PIN debit vs signature debit",
+    "cost of accepting debit",
+    "card mix"
+  ],
+  "eyebrow": "Fee basics",
+  "dek": "Two cards that look identical in a customer's wallet can cost you very different amounts. The reasons are legal, economic and practical.",
+  "intro": [
+    "From the customer's side, debit and credit are two buttons on the terminal. From yours, they are two different cost structures. The same $50 sale can cost a fraction of a dollar on one card and more than a dollar on another, and nothing at the register tells you which you got.",
+    "Understanding the gap helps you read your statement, evaluate pricing models and predict how changes in your customer mix will move your effective rate."
+  ],
+  "sections": [
+    {
+      "h2": "What each card actually is",
+      "paragraphs": [
+        "A debit card draws directly from the cardholder's bank account, so a sale reduces their balance almost immediately. A credit card draws from a line of credit, which means the issuer fronts the money and bills the customer later, taking on both the credit risk and the cost of funds.",
+        "That difference shows up in what the issuer wants from the merchant. Credit issuers have more risk to cover, more fraud exposure and often a rewards program to fund, and they build all of that into their interchange. Debit issuers carry less of each."
+      ]
+    },
+    {
+      "h2": "The regulated debit rule",
+      "paragraphs": [
+        "In the United States, a federal law and its implementing rules limit the interchange that issuers above a certain asset size can charge on debit transactions. The result is that debit cards from the largest banks cost merchants noticeably less than comparable credit cards. Issuers below the size threshold are exempt, so cards from smaller banks and credit unions typically carry higher, unregulated debit interchange.",
+        "Because the regulation can be revised and the thresholds adjusted, confirm current figures with your processor rather than relying on a number you remember. What stays true is the structure: two tiers of debit, regulated and exempt, with credit in a separate and generally more expensive group."
+      ]
+    },
+    {
+      "h2": "Rewards, premium and commercial credit",
+      "paragraphs": [
+        "Credit cards are not uniform either. A basic consumer credit card sits at the low end of the credit range. Rewards cards carry more, because part of interchange funds points, miles and cash back. Premium and corporate cards cost more still, with richer benefits and different risk profiles.",
+        "That is why two customers can spend the same amount and cost you different totals. It is also why the share of rewards and premium cards in your customer base matters as much as your volume.",
+        "Prepaid and gift-style cards add another wrinkle. Some behave like regulated debit, some like exempt debit and some like credit, depending on the issuer and the program. Your statement may group them with debit or in a separate category. If the volume is meaningful, ask your processor how these are classified and priced.",
+        "Business debit cards can also differ from consumer ones. Depending on the issuer and the card product, commercial debit may be priced differently from personal debit, so a business-to-business seller may see a different spread between debit and credit than a retail shop does."
+      ],
+      "bullets": [
+        "Regulated debit from large issuers: typically the lowest cost.",
+        "Exempt debit from small issuers: higher than regulated debit, usually lower than credit.",
+        "Basic consumer credit: mid-range.",
+        "Rewards and premium credit: higher, reflecting the benefits funded by interchange.",
+        "Commercial and purchasing cards: often highest, unless Level 2 or 3 data is supplied."
+      ]
+    },
+    {
+      "h2": "PIN debit and signature debit",
+      "paragraphs": [
+        "Debit transactions can be routed in more than one way. PIN debit runs over debit-specific networks and usually has a different fee structure, often including a fixed amount per transaction with a small percentage. Signature debit, or debit run through the credit network without a PIN, follows card brand interchange tables.",
+        "Which is cheaper depends on ticket size and the issuer. Small tickets often favor PIN routing with capped or lower fees, while others favor signature. A good processor can configure routing sensibly, and your statement should show the split."
+      ]
+    },
+    {
+      "h2": "A worked comparison",
+      "paragraphs": [
+        "Take a hypothetical $60 sale. Suppose regulated debit interchange for the sale is about 0.05% plus 22 cents, making roughly 25 cents. A basic credit sale might cost around 1.7% plus 10 cents, about $1.12. A rewards credit sale at 2.3% plus 10 cents costs about $1.48. These figures are only illustrations, but the order is representative: regulated debit is cheapest, then basic credit, then rewards.",
+        "Now picture a month where your mix shifts from 60% debit to 40% debit. Your volume and your markup have not changed, but your effective rate has risen. That is mix, and it is invisible if you only watch your quoted rate."
+      ]
+    },
+    {
+      "h2": "What this means for pricing choices",
+      "paragraphs": [
+        "Pricing models treat the debit-credit spread differently. Interchange-plus passes the savings from cheap debit straight through. A flat rate averages everything, which means cheap debit sales help subsidize expensive credit ones, with the provider keeping the spread. Tiered models may bucket debit and credit together or separately, depending on the provider.",
+        "Some merchants respond by encouraging debit or cash through compliant dual-pricing or discount programs, subject to state and network rules and proper disclosure. MCCPS can show you your current debit and credit mix as part of a free statement analysis, so any decision rests on your numbers rather than assumptions."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Debit generally costs less than credit because issuers carry less credit risk and, for large issuers, interchange is capped by regulation.",
+    "Small-issuer debit is exempt from the cap and can cost more than regulated debit.",
+    "Rewards, premium and commercial credit cards sit at the expensive end of interchange.",
+    "A shift in card mix can change your effective rate even when your markup stays the same."
+  ],
+  "faq": [
+    {
+      "q": "Why is debit cheaper to accept than credit?",
+      "a": "Debit draws on funds the customer already has, so issuers take less credit risk, and interchange on cards from the largest banks is limited by regulation. Credit adds risk, funding costs and rewards, which are built into higher interchange rates."
+    },
+    {
+      "q": "What is the Durbin Amendment?",
+      "a": "It is a federal provision that directed limits on debit interchange fees charged by issuers above a certain asset size. It does not apply to smaller issuers or to credit cards. Details and thresholds can change, so confirm current figures with your processor."
+    },
+    {
+      "q": "Is PIN debit cheaper than signature debit?",
+      "a": "Often, but not always. PIN transactions route over debit networks with their own fee structures, which can favor small tickets, while signature debit follows card brand tables. Your processor's routing setup and the ticket size both matter, and your statement should show the split."
+    },
+    {
+      "q": "Can I tell whether a card is debit or credit at the counter?",
+      "a": "The terminal can usually identify the card type from the chip or card data, but the customer may select credit or debit on the screen. Pricing programs that treat them differently rely on that identification, so confirm how your equipment determines it."
+    },
+    {
+      "q": "Does my pricing model hide the debit-credit difference?",
+      "a": "Flat-rate and some bundled models average it out, so cheap debit sales offset costlier credit ones. Interchange-plus shows the difference. A free statement review from MCCPS can show how your mix looks under your current model."
+    }
+  ],
+  "related": [
+    "interchange-explained",
+    "rewards-cards-cost-more",
+    "effective-rate-explained",
+    "flat-rate-vs-interchange-plus",
+    "interchange-plus-pricing",
+    "level-2-and-level-3-processing"
+  ],
+  "icon": "card",
+  "read_minutes": 6
+}

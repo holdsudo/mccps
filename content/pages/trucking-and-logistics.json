@@ -1,0 +1,114 @@
+{
+  "slug": "trucking-and-logistics",
+  "category": "industries",
+  "title": "Trucking & Logistics Payment Processing",
+  "seo_title": "Trucking & Logistics Payment Processing | MCCPS",
+  "meta_description": "Freight carriers, brokers and delivery fleets need mobile payments, fast invoices and fleet card acceptance. See how to get paid sooner on the road.",
+  "primary_keyword": "trucking payment processing",
+  "keywords": [
+    "freight payment processing",
+    "trucking company merchant account",
+    "mobile payments for drivers",
+    "fleet card acceptance",
+    "logistics invoice payments",
+    "delivery COD card payments",
+    "freight broker payments"
+  ],
+  "eyebrow": "Freight & logistics",
+  "dek": "Trucking runs on thin margins and long payment cycles. Faster collection and the right payment tools can ease the squeeze.",
+  "intro": [
+    "In trucking, the diesel is paid for today and the freight invoice may be paid in thirty, forty-five or sixty days. Drivers, insurance, maintenance and fuel do not wait. Many small carriers and owner-operators feel that gap more acutely than any rate change.",
+    "Payment processing cannot repair a broken rate, but it can reduce the time between delivery and cash, and it can give drivers a way to collect payment at the dock or the curb when a customer pays on delivery. Logistics businesses of other kinds, such as local couriers, moving companies and last-mile delivery fleets, face similar issues.",
+    "Here is what to consider in your payment setup, from mobile devices in the cab to invoicing and fleet card acceptance."
+  ],
+  "sections": [
+    {
+      "h2": "Getting paid on delivery",
+      "paragraphs": [
+        "Some freight, particularly local, residential or small-parcel deliveries, is collected at the door. A driver with a rugged mobile reader can take a card, chip or tap, get an instant response and email a receipt. This removes the need for cash handling and the risk of a missed collection.",
+        "For deliveries where the customer is billed later, an invoice with a payment link, sent as soon as the proof of delivery is signed, can shorten the cycle. Getting the invoice out the same day, with the bill of lading and delivery receipt attached, often speeds payment more than any discount does."
+      ],
+      "bullets": [
+        "Send invoices the same day as delivery, with proof of delivery attached",
+        "Include a payment link so customers can pay by card or bank transfer",
+        "Equip drivers with a mobile reader for collect-on-delivery loads",
+        "Keep signed delivery receipts for dispute defense"
+      ]
+    },
+    {
+      "h2": "Mobile payments in the cab",
+      "paragraphs": [
+        "A driver's payment device needs to be durable, easy to charge in a truck and able to work on a patchy cellular network. Ask how the device handles being offline and how long it takes to sync. A phone-based reader works for many operations; some prefer a dedicated rugged terminal.",
+        "Control matters with multiple drivers: limit what each can do, assign devices to individual users, and review reports by driver. Refund and void permissions should sit with dispatch or the office, not with every device. For more, see our guide on accepting payments on the go.",
+        "For loads that involve a third-party payer, such as a consignee paying freight charges, confirm in advance who is responsible and how they will pay. Collecting on a payment method that the shipper agreed to at booking is far easier than tracking down a stranger's card after the truck has left."
+      ]
+    },
+    {
+      "h2": "Fleet cards and fuel",
+      "paragraphs": [
+        "Carriers are both payers and payees of fleet cards. On the spending side, fleet fuel cards bring controls and discounts at certain pumps. On the acceptance side, a company that provides services to other fleets, such as a repair shop, truck wash or yard, may need to accept fleet cards with their own data fields and processing rules.",
+        "If you are a station, travel plaza or service location that sells to truckers, look at our gas stations page for how fuel and fleet cards flow. If you are a carrier, check whether your processor can handle commercial card data on freight invoices."
+      ]
+    },
+    {
+      "h2": "Brokers, shippers and invoice payments",
+      "paragraphs": [
+        "Freight brokers sit between shippers and carriers, collecting from one and paying the other. Their payment flows involve larger amounts and tighter timing: a broker may be obliged to pay the carrier on a quick-pay program before the shipper has paid. Bank transfer is typical for such amounts, while cards are sometimes used for smaller loads or by shippers who want rewards.",
+        "Say a $3,500 load is paid by card at a 2.8% cost; that is $98. On a thin brokerage margin, that fee can be a meaningful share of the profit on the load. If you accept cards for freight, consider how you price it, and whether a surcharge is allowed. Surcharging is restricted by card network rules and state law, and disclosure is required."
+      ]
+    },
+    {
+      "h2": "Accessorials, detention and disputes",
+      "paragraphs": [
+        "Accessorial charges, such as detention, lumper fees, liftgate service, or re-delivery, are a common source of invoice disputes. Document them at the time with timestamps, photos and signed notes, and list each charge separately on the invoice. A customer who sees an unexplained line item is more likely to short-pay or dispute the entire invoice.",
+        "When a card payment is disputed, supply the rate confirmation, bill of lading, proof of delivery and any signed accessorial approvals. The more complete the file, the better your odds of a good outcome."
+      ]
+    },
+    {
+      "h2": "Cash flow, funding and support",
+      "paragraphs": [
+        "Next-day funding can be available, which helps when fuel and payroll are due. A reporting dashboard that shows daily deposits, by driver or by customer, makes it easier to reconcile with dispatch records. For longer gaps, some carriers use invoice factoring or other funding; MCCPS can refer you to Fidelity Funding for business funding needs, and MCCPS is not a lender.",
+        "MCCPS offers a free, no-obligation analysis of two months of statements, can often work with devices you already own, and provides free 24/7 technical support, which suits a business that never stops moving."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Send invoices with proof of delivery on the same day to shorten the cash cycle.",
+    "Rugged mobile readers let drivers collect on delivery securely.",
+    "Fleet cards carry extra data and their own processing rules.",
+    "Card fees can take a large share of a brokerage's thin margin.",
+    "Document accessorial charges at the time to avoid disputes."
+  ],
+  "faq": [
+    {
+      "q": "How can truckers get paid faster?",
+      "a": "Send invoices immediately after delivery with proof of delivery attached, include a payment link, and offer both card and bank transfer. For collect-on-delivery work, a mobile reader lets drivers take payment at the dock."
+    },
+    {
+      "q": "Can drivers take card payments from their phones?",
+      "a": "Yes, many operations use a smartphone with a reader that accepts chip, tap and wallets over cellular data. Assign each device to a driver and restrict refunds and voids to the office."
+    },
+    {
+      "q": "What is a fleet card?",
+      "a": "A fleet card is a payment card issued to businesses for vehicle-related expenses like fuel and maintenance, with controls on products and spending. Merchants who accept them may need to capture additional data such as odometer or driver ID."
+    },
+    {
+      "q": "Should freight brokers accept credit cards?",
+      "a": "It can help close deals with shippers who prefer cards, but on large loads the fees can eat into thin margins. Many brokers prefer bank transfers and use cards selectively, with rules on surcharging checked in advance."
+    },
+    {
+      "q": "How do I handle detention or lumper fee disputes?",
+      "a": "Document each charge at the time with timestamps, photos and signed notes, itemize it on the invoice, and keep the rate confirmation and proof of delivery. Clear documentation reduces short pays and chargebacks."
+    }
+  ],
+  "related": [
+    "gas-stations",
+    "accept-payments-on-the-go",
+    "mobile-payments",
+    "b2b-wholesale",
+    "towing-companies",
+    "get-paid-faster"
+  ],
+  "icon": "truck",
+  "read_minutes": 6
+}

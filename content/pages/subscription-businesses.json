@@ -1,0 +1,84 @@
+{
+  "slug": "subscription-businesses",
+  "category": "industries",
+  "title": "Subscription Business Payment Processing",
+  "seo_title": "Subscription Business Payment Processing | MCCPS",
+  "meta_description": "Recurring billing, dunning, card updates and churn: how subscription and membership businesses can collect predictable revenue and cut failed payments.",
+  "primary_keyword": "subscription billing payment processing",
+  "keywords": ["recurring billing processor", "dunning management", "involuntary churn", "membership billing", "card updater subscriptions", "failed payment retries", "subscription merchant account"],
+  "eyebrow": "Recurring revenue",
+  "dek": "Subscriptions turn a sale into a relationship, and failed payments are the quiet way that relationship ends.",
+  "intro": [
+    "A subscription business trades one big sale for many small ones. Revenue becomes predictable, customers stick around, and growth compounds. But every month brings a fresh chance for a payment to fail, and unlike a lost sale at a store counter, a failed renewal rarely generates a conversation. The customer simply stops paying, often without meaning to cancel.",
+    "That silent loss is called involuntary churn, and for many subscription companies it is one of the cheapest problems to fix. The causes are mundane: expired cards, replaced cards, insufficient funds, and fraud filters at the issuing bank that do not recognize a recurring charge.",
+    "This page explains how recurring payments work technically, what to look for in a processor, and how to build a billing process that recovers revenue without annoying customers."
+  ],
+  "sections": [
+    {
+      "h2": "How recurring charges actually work",
+      "paragraphs": [
+        "The first payment is a normal card-not-present transaction in which the customer enters their details and agrees to the terms. The card is then stored as a token in a secure vault. Later charges use that token and are flagged to the card networks as recurring or as merchant-initiated, which matters because issuers treat them differently from a fresh checkout.",
+        "A proper setup records the customer's consent to the schedule and amount, flags each subsequent transaction correctly, and sends a receipt each time. Getting the flags wrong can raise decline rates, since the issuer may ask for fresh authentication that a customer is not present to provide. Ask your gateway how it handles stored credentials and what indicators it sends."
+      ]
+    },
+    {
+      "h2": "Why payments fail, and what you can do",
+      "paragraphs": [
+        "Some declines are hard, such as a closed account or a lost card, and some are soft, such as a temporary lack of funds or a bank's fraud hold. Treat them differently. Soft declines are worth retrying; hard declines need the customer to update their payment method.",
+        "A card account updater service, offered through some networks and gateways, can refresh expired or reissued card numbers automatically, before the next charge fails. It is one of the highest-return features in recurring billing, and it is worth asking whether your processor supports it. Our guide to account updater explains the process."
+      ],
+      "bullets": [
+        "Retry soft declines on a sensible schedule rather than all at once",
+        "Alert customers before cards expire",
+        "Use an account updater service where available",
+        "Offer a one-click page to update a card",
+        "Offer ACH as an alternative when cards keep failing"
+      ]
+    },
+    {
+      "h2": "Dunning without damaging the relationship",
+      "paragraphs": [
+        "Dunning is the sequence of retries and messages you send after a failed payment. A good sequence is gentle at first, a plain notice that the payment did not go through with a link to update details, and escalates only gradually, ending in a clear notice of suspension. The tone matters; most failures are accidents, not refusals.",
+        "Say a service has 2,000 subscribers at $30 a month, and 4% of renewals fail each month on the first try. That is 80 failed charges, or $2,400. If a well-designed retry and reminder sequence recovers a good share of them, the gain compounds across months. The exact recovery depends on your customers; the point is that this is measurable revenue you can improve."
+      ]
+    },
+    {
+      "h2": "Trials, discounts and clear terms",
+      "paragraphs": [
+        "A free trial that converts to a paid subscription is one of the most common sources of disputes. Customers forget they signed up, then see a charge and call their bank. State the trial length, the price after the trial and the cancellation method clearly at sign-up, and send a reminder before the first charge.",
+        "Consumer protection laws on automatic renewal vary by state and by product type, and may require specific disclosures and easy cancellation. Talk to your attorney about what applies to you. Card network rules also require clear disclosure of recurring billing terms."
+      ]
+    },
+    {
+      "h2": "Chargebacks and cancellations",
+      "paragraphs": [
+        "If cancelling is hard, customers dispute instead. Make it as easy to stop a subscription as it was to start one, and confirm the cancellation by email. Refund recent unwanted charges quickly, since a refund costs less than a chargeback and its fee, and chargebacks count against your dispute ratio.",
+        "Descriptors matter as well. A statement descriptor the customer recognizes, along with your support phone number or website, helps prevent unrecognized-transaction disputes. See our guides on reducing chargebacks and friendly fraud for further tactics."
+      ]
+    },
+    {
+      "h2": "Pricing, funding and getting set up",
+      "paragraphs": [
+        "Recurring revenue is attractive to processors because it is predictable, but pricing still depends on card mix and the card-not-present nature of the sales. A statement review can show your effective rate and whether recurring fees, gateway charges or per-batch fees are inflating it. Programs that shift or share card costs, such as surcharging or convenience fees, are regulated by state and card network and need disclosure; confirm what applies before using one on a subscription.",
+        "MCCPS offers recurring and one-time payment tools, multiple gateways, a reporting dashboard and a free, no-obligation analysis of two months of statements, along with free 24/7 technical support. For funding to grow your subscriber base, we can refer you to Fidelity Funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Failed renewals are quiet losses that can often be reduced with retries and card updates.",
+    "Flag recurring transactions correctly so issuers treat them as merchant-initiated.",
+    "Separate soft declines (retry) from hard declines (ask the customer to update).",
+    "Make cancellation easy to reduce chargebacks and disputes.",
+    "Auto-renewal laws vary by state; consult your attorney on disclosures."
+  ],
+  "faq": [
+    {"q": "What is involuntary churn?", "a": "Involuntary churn is when a subscriber leaves because a payment failed rather than because they chose to cancel. Causes include expired cards, insufficient funds and bank fraud holds. Retries, card updater services and clear reminders can recover some of this revenue."},
+    {"q": "How many times should I retry a failed payment?", "a": "There is no universal number. Many businesses retry a few times over several days, spacing attempts to catch paydays, and stop when the decline is clearly permanent. Follow card network rules on retries and check what your processor recommends."},
+    {"q": "What is a card account updater?", "a": "It is a service that refreshes stored card details when a bank reissues a card or changes an expiration date, so the next recurring charge still works. Availability depends on your processor and the card networks."},
+    {"q": "Do I need customer consent for recurring charges?", "a": "Yes. You need clear agreement to the amount, schedule and cancellation terms, and you should keep a record of it. Auto-renewal laws vary by state, so consult your attorney."},
+    {"q": "Can I use ACH for subscriptions?", "a": "Yes, ACH debits work well for larger or longer-term recurring amounts and usually cost less than cards. They have different failure timing and require signed authorization. Many businesses offer both."}
+  ],
+  "related": ["recurring-billing", "set-up-recurring-payments", "account-updater", "recurring-billing-best-practices", "ecommerce-subscription-boxes", "gyms-and-fitness"],
+  "icon": "refresh",
+  "read_minutes": 6
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "free-statement-analysis",
+  "category": "solutions",
+  "title": "Free Merchant Statement Analysis",
+  "seo_title": "Free Merchant Statement Analysis | MCCPS",
+  "meta_description": "Send two months of processing statements and MCCPS reviews them line by line, free and with no obligation. See what we look for and what you receive.",
+  "primary_keyword": "free merchant statement analysis",
+  "keywords": [
+    "merchant statement review",
+    "processing statement analysis",
+    "free savings analysis",
+    "credit card fee audit",
+    "effective rate",
+    "hidden fees",
+    "processing cost review"
+  ],
+  "eyebrow": "Start here",
+  "dek": "Two months of statements, one careful line-by-line review, no obligation. It is the simplest way to learn what card acceptance really costs you.",
+  "intro": [
+    "A merchant statement is one of the least friendly documents a business receives. It is dense, filled with codes and abbreviations, and arranged to be filed rather than understood. Many owners glance at the bottom-line total and move on. That total, though, is built from dozens of separate charges, any of which might be higher than it needs to be.",
+    "MCCPS offers a free, no-obligation savings analysis for exactly this reason. You send two months of statements, and a specialist reviews them line by line. This page explains what is examined, what you receive and what happens afterward."
+  ],
+  "sections": [
+    {
+      "h2": "Why two months of statements",
+      "paragraphs": [
+        "One month can be misleading. A holiday spike, a refund wave or a one-time equipment charge can distort the picture. Two consecutive months show what is regular and what is not, and give the reviewer enough data to calculate a meaningful effective rate.",
+        "Send complete statements, including every page, since the important details are often in the back sections: fee summaries, interchange detail and notices about changes.",
+        "If you are a seasonal business, mention that, and consider sending a month from your peak and a month from your off season so the reviewer sees the range. The goal is an accurate picture of what you pay across a normal year, not a flattering or unflattering snapshot."
+      ]
+    },
+    {
+      "h2": "What we look at",
+      "paragraphs": [
+        "The review starts with the effective rate: total fees divided by total card volume. Say your statement shows $1,240 in fees on $40,000 in sales. That is 3.1%, regardless of what the proposal called the rate. Then we break the total into its components to see where the money goes.",
+        "Each line is classified as interchange, assessments, processor markup or other fees, and checked for reasonableness. Odd items get a question rather than an assumption, because some charges have legitimate explanations.",
+        "Where a charge looks unusual, the reviewer checks it against your agreement or asks you about it. A fee that appeared recently may follow a rate change notice you never saw, which is another reason to send any letters or inserts that came with the statement."
+      ],
+      "bullets": [
+        "Pricing model: flat, tiered or interchange-plus",
+        "Share of transactions downgraded to higher-cost categories",
+        "Monthly, statement, gateway and batch fees",
+        "PCI program or non-compliance charges",
+        "Equipment leases and terminal fees",
+        "Chargeback, retrieval and other penalty fees",
+        "Card-present versus keyed volume"
+      ]
+    },
+    {
+      "h2": "Common findings",
+      "paragraphs": [
+        "Reviews often turn up fees that the merchant never knowingly agreed to or that have crept up over time. Examples include a PCI fee charged even though the questionnaire is filed, duplicate gateway charges, equipment lease payments running past the useful life of the terminal, or sales downgraded because of a missing field.",
+        "Not every statement hides a problem. Sometimes the finding is that your current pricing is reasonable. An honest review reports what it finds, whichever way it goes.",
+        "Keep notes on questions to ask your current processor either way. A clear list of specific line items gives you something concrete to raise, rather than a vague complaint that fees seem high."
+      ]
+    },
+    {
+      "h2": "What you receive",
+      "paragraphs": [
+        "You get a plain-English walk-through of your current costs, an explanation of the pricing model and the charges that stand out, and a description of options that might apply, such as interchange-plus pricing, a compliant dual-pricing program like Zero Processing Fees, or equipment changes. Rules on dual pricing and cash discount programs vary by state and card network and require proper disclosure.",
+        "Savings depend on your statements and how you accept cards. MCCPS does not promise a result in advance, and there is no charge for the analysis.",
+        "Because the analysis is a review and not a sales contract, you are free to ask follow-up questions about anything on the report, from a single fee to the whole pricing structure."
+      ]
+    },
+    {
+      "h2": "What stays the same and what might change",
+      "paragraphs": [
+        "If a change makes sense, MCCPS can often keep terminals you already own, integrate with almost any POS or smartphone and set up next-day funding, subject to your account setup. Existing contracts matter, so the team asks about term dates, early termination terms and equipment leases before recommending a move.",
+        "You can also choose to do nothing. The review is yours to keep, and many merchants use it to negotiate with their current processor.",
+        "Timing is flexible. You can request the review at any point in your contract, and the information is useful for planning even if your term ends months from now. Many owners schedule it a quarter before renewal so they have time to compare and give any required notice."
+      ]
+    },
+    {
+      "h2": "How to prepare",
+      "paragraphs": [
+        "Gather two recent consecutive statements in PDF form, your merchant agreement if you have it and a list of how you take payments: in store, online, by phone or in the field. Note any problems you are aware of, such as slow deposits, surprise fees or a terminal that fails often.",
+        "Your statements contain account details, so send them through the channel the specialist gives you. Do not post them publicly. Never include full card numbers, which should not appear on statements anyway."
+      ],
+      "steps": [
+        "Download two consecutive full statements",
+        "Locate your processing agreement and any equipment lease",
+        "Write down how and where you take payments",
+        "Call 844.826.6227 or submit through the channel provided",
+        "Review the findings with a specialist and decide"
+      ]
+    },
+    {
+      "h2": "Privacy and no obligation",
+      "paragraphs": [
+        "The analysis is free and carries no obligation. Statements are used to review your processing and are handled with care. If you would like to proceed, a specialist explains each next step, including PCI compliance help and free 24/7 technical support, so there are no surprises.",
+        "If you only want the information, that is fine. Many owners learn something useful even when they stay where they are."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "The analysis reviews two months of statements line by line, at no cost.",
+    "Your effective rate shows what you actually pay.",
+    "Findings range from hidden fees to pricing-model mismatches.",
+    "No result is promised in advance, and there is no obligation."
+  ],
+  "faq": [
+    {
+      "q": "Is the analysis really free?",
+      "a": "Yes. MCCPS reviews two months of your processing statements at no charge and with no obligation. You receive the findings whether or not you decide to change anything."
+    },
+    {
+      "q": "What do I need to send?",
+      "a": "Two consecutive full processing statements, ideally with your agreement and any equipment lease. Include every page. A specialist will tell you the best way to send them securely."
+    },
+    {
+      "q": "Will you promise I will save money?",
+      "a": "No. Savings depend on your statements, volume and card mix. The review shows what you pay and what options may apply, but no outcome is guaranteed in advance."
+    },
+    {
+      "q": "What if I am under contract?",
+      "a": "The team asks about your term, early termination terms and equipment leases before suggesting any change. You may decide to wait, negotiate or move when the timing makes sense."
+    },
+    {
+      "q": "Can I use the findings to negotiate with my current processor?",
+      "a": "Yes. The review is yours. Many merchants use it to question specific fees or ask for better pricing from their existing provider."
+    }
+  ],
+  "related": [
+    "audit-your-merchant-statement",
+    "how-to-read-a-merchant-statement",
+    "hidden-fees-on-merchant-statements",
+    "effective-rate-explained",
+    "lower-processing-fees",
+    "switch-payment-processors"
+  ],
+  "icon": "file",
+  "read_minutes": 6
+}

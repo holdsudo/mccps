@@ -1,0 +1,125 @@
+{
+ "slug": "payment-terminal-troubleshooting",
+ "category": "blog",
+ "title": "Card Terminal Troubleshooting Guide",
+ "seo_title": "Card Terminal Troubleshooting Guide | MCCPS",
+ "meta_description": "Card machine not working? Fix common terminal problems such as connection errors, chip read failures, printer jams and declines with this practical guide.",
+ "primary_keyword": "card terminal troubleshooting",
+ "keywords": [
+  "card machine not working",
+  "terminal connection error",
+  "chip reader not reading",
+  "terminal printer jam",
+  "terminal declined",
+  "terminal batch error",
+  "terminal reboot"
+ ],
+ "eyebrow": "Troubleshooting",
+ "dek": "Most terminal problems have simple fixes. Work through the likely causes in order before you call for help.",
+ "intro": [
+  "A card terminal that misbehaves at the wrong moment feels like an emergency, but the cause is usually mundane: a loose cable, a weak signal, a stale software version or a card that simply will not read. The trick is to diagnose in a sensible order rather than pushing every button at once.",
+  "This guide groups the most common problems by symptom. Use it as a field manual, and keep your processor's support number handy for the issues that require an expert. The steps below are general; always follow your terminal manufacturer's instructions for your specific model."
+ ],
+ "sections": [
+  {
+   "h2": "Start with the basics: power and connection",
+   "paragraphs": [
+    "Before anything else, check that the terminal has power, that the cable is firmly seated and that any battery is charged. Many apparent failures are a flat battery or a loose plug. If the terminal is wireless, confirm that the base is powered and that the terminal sits properly in its cradle.",
+    "Then check the connection. For internet terminals, look for link lights on the router and cable, try another outlet or port and restart the router. For Wi-Fi models, confirm they are on the right network and have a strong signal. For cellular models, check signal strength and move the device if needed."
+   ],
+   "bullets": [
+    "Check power, battery and charging cradle",
+    "Reseat Ethernet and power cables",
+    "Restart the router and wait for it to reconnect",
+    "Confirm Wi-Fi network name and signal strength"
+   ]
+  },
+  {
+   "h2": "When the terminal shows a connection or host error",
+   "paragraphs": [
+    "Messages such as \"no connection,\" \"host unavailable\" or \"communication error\" mean the terminal cannot reach the processor. Restart the terminal, then run its network test if it has one. If other devices on the same network are working but the terminal is not, the problem may be a changed network setting, a blocked port or a router update.",
+    "If many devices are offline, the issue is probably your internet provider. Our guide on taking payments when the internet is down covers what to do while you wait. If the terminal cannot connect after a restart and a network check, call technical support and have your merchant ID and terminal serial number ready."
+   ]
+  },
+  {
+   "h2": "Chip, tap and swipe read failures",
+   "paragraphs": [
+    "If a chip card will not read, look at the card first. A scratched or dirty chip, a bent card or a damaged magnetic stripe is the usual culprit. Wipe the card, reinsert it fully and leave it in place until the terminal prompts you to remove it. Pulling the card early is the leading cause of chip read errors.",
+    "For contactless failures, make sure the card or phone is held near the reader's symbol and that cases or metal wallets are not interfering. Clean the reader slot with a soft, dry cloth or compressed air, never liquids. If one particular card fails everywhere, the customer should contact their bank. If every card fails, suspect the reader and call support."
+   ]
+  },
+  {
+   "h2": "Declines and error codes",
+   "paragraphs": [
+    "A decline comes from the customer's bank, not from the terminal. Common reasons include insufficient funds, a card reported lost, suspected fraud and incorrect security data. Ask the customer to try another card or contact the issuer. Do not repeatedly attempt the same card, as multiple tries can trigger fraud flags.",
+    "Distinguish declines from errors. A decline means the transaction reached the bank and was refused. An error such as a timeout or invalid terminal setup means it never completed. Write down the exact code and message, and compare them with your terminal's manual or your processor's help line before calling."
+   ],
+   "bullets": [
+    "Decline: the bank refused the sale; ask for another payment method",
+    "Timeout: check connectivity and avoid duplicate charges",
+    "Invalid merchant or terminal ID: configuration problem; call support",
+    "Batch error: settlement issue; see the next section"
+   ]
+  },
+  {
+   "h2": "Printer jams and receipt problems",
+   "paragraphs": [
+    "Printer trouble is usually paper. Make sure the roll is the correct size and installed the right way round, because thermal paper prints only on one side. Open the cover, remove any crumpled paper and close it firmly until it clicks. Clean the print head gently with isopropyl alcohol on a lint-free swab if prints are faint.",
+    "If printing remains unreliable, offer email or text receipts as a backup. Our article on receipt best practices covers how to provide digital receipts and what a compliant receipt should include."
+   ]
+  },
+  {
+   "h2": "Batch and settlement errors",
+   "paragraphs": [
+    "Terminals group approved sales into a batch which is closed and sent for settlement, either automatically at a set time or manually. If a batch fails to close, do not simply retry again and again. Check that the terminal is online, then try closing once more. Repeated attempts can create duplicate batches.",
+    "If a batch fails twice, call your processor before anything else. Late settlement can delay your deposit, and a correct fix may involve resubmitting transactions rather than re-entering them. Our guide on batch settlement explains the flow, including cut-off times that affect when you get paid."
+   ]
+  },
+  {
+   "h2": "Software updates, reboots and resets",
+   "paragraphs": [
+    "Terminals receive software and security updates, usually downloaded when idle. A frozen screen can often be fixed with a restart. Keep the device plugged in during updates and do not interrupt them. If the terminal has been showing odd behavior since an update, report that to support rather than attempting a factory reset, which can erase your configuration.",
+    "MCCPS can often reprogram terminals you already own, and its free 24/7 technical support can walk you through resets and reloads. If a terminal is old, failing frequently or cannot support chip and tap payments, replacement may cost less than the lost sales. Review your costs with a free statement analysis before committing to any lease."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Check power, cables and network connections before assuming a failure.",
+  "Distinguish a decline from the bank from an error in the terminal or connection.",
+  "Clean and reseat cards; leave chips inserted until prompted.",
+  "Do not retry a failed batch repeatedly; contact your processor.",
+  "Keep merchant ID, serial number and the support number handy."
+ ],
+ "faq": [
+  {
+   "q": "Why is my card machine not connecting?",
+   "a": "The most common causes are a loose cable, a router that needs restarting, a weak Wi-Fi or cellular signal, or an internet outage. Restart the terminal and router, run any network test and call technical support if it still can't connect. The right answer depends on your volume, ticket size and customer mix."
+  },
+  {
+   "q": "Why does my chip reader keep failing?",
+   "a": "Often the card is the issue: dirt, scratches or a damaged chip. Wipe the card, insert it fully and leave it in until prompted. If all cards fail, the reader may be dirty or damaged and need cleaning or replacement. Keep a note of what you decided and why, so the next review starts from facts."
+  },
+  {
+   "q": "What does it mean when a card is declined?",
+   "a": "A decline means the customer's bank refused the transaction, for reasons such as insufficient funds, suspected fraud or a restricted card. Ask the customer to try another card or call their bank. Avoid retrying the same card repeatedly. If you are unsure how this applies to your business, MCCPS support can talk it through at 844.826.6227."
+  },
+  {
+   "q": "How do I fix a receipt printer that won't print?",
+   "a": "Check that the paper is the correct size, loaded the right way with the thermal side facing the print head, and that the cover is closed firmly. Remove any jammed paper and gently clean the print head. Offer digital receipts while repairing it."
+  },
+  {
+   "q": "When should I replace my terminal?",
+   "a": "Consider replacing a terminal that fails often, cannot accept chip or contactless payments, no longer receives security updates or costs more to repair than to replace. MCCPS can often reprogram existing terminals, so ask before buying or leasing a new one. Your own statements and records are the best guide, so review them before you decide."
+  }
+ ],
+ "related": [
+  "offline-payments",
+  "receipt-best-practices",
+  "credit-card-terminals",
+  "terminal-leasing-vs-buying",
+  "batch-settlement-explained",
+  "upgrade-to-emv-and-contactless"
+ ],
+ "icon": "gear",
+ "read_minutes": 7
+}

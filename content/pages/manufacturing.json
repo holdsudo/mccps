@@ -1,0 +1,114 @@
+{
+  "slug": "manufacturing",
+  "category": "industries",
+  "title": "Manufacturing Payment Processing",
+  "seo_title": "Manufacturing Payment Processing | MCCPS",
+  "meta_description": "Manufacturers deal with large orders, progress billing and net terms. Learn how card, ACH and Level 3 data can speed up collections without hurting margin.",
+  "primary_keyword": "manufacturing payment processing",
+  "keywords": [
+    "manufacturer merchant account",
+    "progress billing card payments",
+    "Level 3 manufacturing",
+    "ACH for manufacturers",
+    "large ticket card processing",
+    "custom order deposits",
+    "purchase order payments"
+  ],
+  "eyebrow": "Manufacturing",
+  "dek": "Custom orders, long production cycles and big invoices: how manufacturers can collect sooner and keep card costs under control.",
+  "intro": [
+    "A manufacturer's cash cycle is a long one. Raw materials are bought up front, production takes days or weeks, shipping adds more time, and the customer's payment terms add another month. During all of that, payroll and suppliers still need paying.",
+    "Card and electronic payments will not change the physics of production, but they can shrink the part of the cycle that depends on the customer's accounts payable department. A deposit with the order, a milestone payment during production and a fast payment on delivery can bring cash in months earlier than a single invoice at net sixty.",
+    "The challenge is that the tickets are large, and a flat percentage on a $40,000 order is a lot of money. Smart structuring of payment methods matters as much as the headline rate."
+  ],
+  "sections": [
+    {
+      "h2": "Deposits and progress billing",
+      "paragraphs": [
+        "For made-to-order products, a deposit when the purchase order is accepted covers materials and signals commitment. Progress billing, where portions are invoiced at milestones such as tooling approval, production start and shipment, spreads the exposure for both parties. Contracts should state each milestone, the amount due and what happens if the order is changed or cancelled.",
+        "Say a fabricator takes a $30,000 order with 30% down, 40% at completion of production and 30% on delivery. That is three payments, each of which can be made by ACH or card. Deciding which method applies to which milestone is a cost question: the deposit by card for immediate cash, and the larger final payment by ACH, for example."
+      ],
+      "bullets": [
+        "Write milestone amounts and triggers into the purchase order",
+        "Collect the deposit before ordering materials",
+        "Use payment links so buyers can pay by card or bank transfer",
+        "Document change orders and revised amounts in writing"
+      ]
+    },
+    {
+      "h2": "Level 3 data on commercial cards",
+      "paragraphs": [
+        "Many manufacturing customers are other businesses that pay with purchasing cards. Supplying Level 2 and Level 3 data, which can include tax amounts, purchase order numbers, product codes, quantities and shipping details, may qualify those transactions for lower interchange categories. The savings vary by card and network program, and not every transaction will qualify.",
+        "To take advantage, your quoting or ERP system should capture the fields at invoice time, and your gateway must pass them through. If the data lives in your ERP but never reaches the processor, you are paying for a benefit you do not receive. Our guide on Level 2 and 3 data explains what each level requires.",
+        "It also helps to name a single contact on each side who can approve change orders. When a buyer revises quantities mid-production, a quick written confirmation with the revised total prevents the common argument over what the card or transfer was originally authorized to cover."
+      ]
+    },
+    {
+      "h2": "ACH, wires and checks",
+      "paragraphs": [
+        "Large manufacturing invoices are often paid by ACH or wire. ACH is inexpensive and automated, but a payment can be returned for insufficient funds after you have shipped. Wire transfers are final but cost more per transfer and require manual handling. Checks are slow and carry mail and clearing delays, plus the chance of a bounced payment.",
+        "Offering multiple methods and a clear preference, with cards for deposits and small orders and ACH for large balances, tends to work well. Surcharges on credit cards are restricted by network rules and state law and require disclosure, so confirm what is allowed before adding one to a price list."
+      ]
+    },
+    {
+      "h2": "Selling across the counter and online",
+      "paragraphs": [
+        "Some manufacturers also sell directly, through a showroom, a parts counter, trade shows or a website. Those are retail-style transactions with different economics than a commercial invoice. A countertop terminal handles walk-in sales, and an online store handles reorders of standard items.",
+        "Treat these channels as distinct in your reporting. A parts counter sale of $85 in person is priced differently than a $9,000 card payment keyed in by an inside sales rep. A statement review will show how the mix shapes your effective rate."
+      ]
+    },
+    {
+      "h2": "Risk, disputes and documentation",
+      "paragraphs": [
+        "Large orders increase the stakes of a dispute. The best protection is paperwork: a signed purchase order, written specifications, inspection and acceptance records, and a signed delivery receipt. For custom goods, a buyer who changes their mind may claim the product was not as described; documents showing they approved drawings and samples are decisive.",
+        "Be careful with unusually large first-time card orders from unfamiliar buyers, particularly with rush shipping to a different address. Verify the business and the cardholder before shipping. Our guide on preventing card fraud covers practical checks."
+      ]
+    },
+    {
+      "h2": "Setting up for the way you really sell",
+      "paragraphs": [
+        "A manufacturer needs a processor that can handle large transactions without repeated holds, support Level 2 and 3 data, offer ACH, and integrate with its quoting or ERP software. Ask about transaction limits, funding timing and how single large payments are reviewed.",
+        "MCCPS offers B2B Level 2/3 processing, virtual terminals, invoicing links, ACH, next-day funding where available, and a free, no-obligation analysis of two months of statements. We can often keep terminals you already own. For equipment financing or working capital, we can refer you to Fidelity Funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Deposits and milestone billing shorten the cash cycle on custom orders.",
+    "Level 2 and 3 data can lower interchange on eligible commercial cards.",
+    "Use card for deposits and ACH for large balances to balance speed and cost.",
+    "Paperwork, such as signed POs and acceptance records, wins disputes.",
+    "Choose a processor that handles large tickets without repeated holds."
+  ],
+  "faq": [
+    {
+      "q": "Should a manufacturer accept credit cards?",
+      "a": "Often yes, especially for deposits, smaller orders and customers who use purchasing cards. Because tickets can be large, many manufacturers steer big balances to ACH and use Level 2/3 data to reduce card costs on eligible commercial cards."
+    },
+    {
+      "q": "How does progress billing work with cards?",
+      "a": "Each milestone is invoiced separately and paid by card or bank transfer. With a stored card and written authorization, scheduled charges can run automatically. The contract should specify amounts, triggers and cancellation terms."
+    },
+    {
+      "q": "What data qualifies a transaction for Level 3?",
+      "a": "Typically line-item detail like product codes, descriptions, quantities, unit prices and shipping information, along with tax amounts and a purchase order number. Exact requirements depend on the card network and card type."
+    },
+    {
+      "q": "Can I add a surcharge to large card payments?",
+      "a": "Surcharges are regulated by card network rules and state law, and require disclosure and often have caps or restrictions. Verify current rules with your attorney and processor before adding one."
+    },
+    {
+      "q": "How do I protect myself from fraud on large orders?",
+      "a": "Verify new customers, use AVS and CVV, match billing and shipping details where possible, and be cautious about rush orders to unfamiliar addresses. For large first orders, consider ACH or a deposit before production."
+    }
+  ],
+  "related": [
+    "b2b-wholesale",
+    "level-2-and-level-3-processing",
+    "process-b2b-payments",
+    "large-ticket-transactions",
+    "take-deposits-and-prepayments",
+    "trucking-and-logistics"
+  ],
+  "icon": "factory",
+  "read_minutes": 6
+}

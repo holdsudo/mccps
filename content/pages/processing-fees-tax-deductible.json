@@ -1,0 +1,127 @@
+{
+ "slug": "processing-fees-tax-deductible",
+ "category": "blog",
+ "title": "Are Credit Card Processing Fees Tax Deductible?",
+ "seo_title": "Are Credit Card Processing Fees Tax Deductible? | MCCPS",
+ "meta_description": "Credit card processing fees are generally treated as a business expense, but details matter. Learn what to track, what to ask your CPA and what to avoid.",
+ "primary_keyword": "processing fees tax deductible",
+ "keywords": [
+  "credit card fees deduction",
+  "business expense processing fees",
+  "tax records for merchants",
+  "1099-K reporting",
+  "surcharge tax treatment",
+  "bookkeeping processing fees",
+  "ask your CPA"
+ ],
+ "eyebrow": "Tax basics",
+ "dek": "Processing fees are generally an ordinary cost of doing business, but the way you record them matters. This is general information, not tax advice.",
+ "intro": [
+  "Every month your processor takes a slice of your card sales, and by year end the total can be larger than owners expect. A natural question follows: can you write it off? In general, fees paid to accept card payments are the kind of ordinary and necessary expense that businesses deduct. The harder part is recording them correctly so that your books and your tax return tell the same story.",
+  "Tax rules depend on your entity type, accounting method, location and facts, and they change. This article gives general background and a framework for conversations with your professional. It is not tax or legal advice. Please consult your CPA or tax advisor about your own situation."
+ ],
+ "sections": [
+  {
+   "h2": "The general principle",
+   "paragraphs": [
+    "Businesses typically deduct expenses that are ordinary and necessary for operating the business. Card processing fees fit that description for most merchants, because accepting cards is a normal way to get paid and the fees are an unavoidable cost of doing so.",
+    "Which tax form or line they appear on depends on your entity and the forms you file. Your CPA will tell you where they belong. What matters for you is to capture the full amount accurately and consistently, and keep records that support it."
+   ]
+  },
+  {
+   "h2": "Gross versus net deposits: the mistake to avoid",
+   "paragraphs": [
+    "Many processors deposit your sales net of fees, meaning the bank deposit is smaller than your actual sales. If you record only the deposit as income, you understate revenue and you also miss the fee as an expense. The right approach is generally to record gross sales as income and the fees as a separate expense.",
+    "Say you made $40,000 in card sales and your processor deposited $38,760 after $1,240 in fees. Your books should show $40,000 of revenue and $1,240 of processing expense, not $38,760 of revenue. Your bookkeeper or software can set up the accounts so that this happens automatically."
+   ],
+   "bullets": [
+    "Record gross card sales as revenue",
+    "Record fees in their own expense category",
+    "Reconcile against the monthly statement, not just the bank deposit",
+    "Include chargebacks, refunds and adjustments separately"
+   ]
+  },
+  {
+   "h2": "Where to find the numbers",
+   "paragraphs": [
+    "Your monthly merchant statement is the main source. It lists total volume and breaks fees down into interchange, assessments, markup, monthly charges and others. Many processors also provide an annual summary. Download and save these, since statements can become harder to access over time.",
+    "You may also receive an information return reporting your gross card payments for the year, depending on the rules in force. Compare it with your records. Differences can arise from refunds, timing, tips or fees, so be ready to reconcile them with your accountant."
+   ]
+  },
+  {
+   "h2": "Which fees are included",
+   "paragraphs": [
+    "Percentage fees, per-transaction fees, monthly statement and gateway fees, PCI program fees, equipment rental, and chargeback fees are all costs of accepting cards. Treatment may differ for other items. For example, purchasing a terminal may be capitalized or deducted in a different way than leasing one, so ask your CPA about equipment.",
+    "Penalties paid for violations or fines can be treated differently from ordinary fees, and your advisor can tell you how to classify them. Do not assume every charge on the statement is handled identically.",
+    "Keep in mind that tax treatment can differ across years and jurisdictions, and that state and local rules may not mirror federal ones. If your business operates in more than one state, ask your advisor whether fee treatment or sales tax on separately stated charges changes anything. A short annual meeting with your CPA, with the statements in hand, is usually far cheaper than correcting a mistake after filing."
+   ],
+   "bullets": [
+    "Percentage and per-item fees",
+    "Monthly, statement and gateway fees",
+    "PCI program fees and non-compliance charges",
+    "Chargeback fees",
+    "Equipment leases or purchases, treated per your CPA's advice"
+   ]
+  },
+  {
+   "h2": "Surcharges, cash discounts and dual pricing",
+   "paragraphs": [
+    "If you pass card costs to customers through surcharges, dual pricing or a cash discount program, the accounting changes. The extra amount collected may be revenue, and the fees may remain an expense, or the price structure may reduce both. The correct treatment depends on how the program is set up, so involve your accountant before launching.",
+    "Rules for surcharging, cash discount and dual pricing vary by state and card network and require proper disclosure and signage. Confirm current requirements. MCCPS's Zero Processing Fees program is a compliant dual-pricing or cash-discount approach for eligible merchants, and your CPA can explain how it would show up in your books."
+   ]
+  },
+  {
+   "h2": "Reducing the fees you have to deduct",
+   "paragraphs": [
+    "A deduction is not a refund. Spending $1,240 on fees and deducting it does not give you back $1,240; it reduces your taxable income by that amount. Lowering your actual costs is almost always better than relying on the write-off.",
+    "A good starting point is your effective rate. MCCPS offers a free, no-obligation savings analysis in which the team reviews two months of statements line by line. Any savings depend on what the review finds, and nothing is promised in advance. You can call 844.826.6227 to ask about it."
+   ]
+  },
+  {
+   "h2": "Questions to bring to your CPA",
+   "paragraphs": [
+    "Before the year ends, ask how to record gross sales and fees in your accounting software, how to treat equipment, whether any fees are handled differently, and how to reconcile statements with year-end information returns. Share a copy of your statements and any agreement that includes unusual charges.",
+    "Keep records for the length of time your advisor recommends. Good documentation protects you if you are ever asked to support your numbers, and it makes tax time faster and less stressful."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Card processing fees are generally an ordinary business expense, but confirm with your CPA.",
+  "Record gross sales as revenue and fees as a separate expense, not net deposits.",
+  "Reconcile your books with monthly statements and year-end reports.",
+  "Surcharge and discount programs change the accounting, so involve your accountant first.",
+  "Lowering fees beats deducting them."
+ ],
+ "faq": [
+  {
+   "q": "Are credit card processing fees deductible?",
+   "a": "Generally yes, because they are an ordinary and necessary cost of accepting payments. The details depend on your entity type, accounting method and circumstances, so confirm treatment with your CPA or tax advisor. This is general information, not tax advice. Testing it once before you need it will save you stress later."
+  },
+  {
+   "q": "Should I record sales net or gross of processing fees?",
+   "a": "Typically gross. Record the full sale as revenue and the fees as a separate expense, rather than recording only the net deposit. This keeps your revenue accurate and ensures the expense is captured. Your accountant can set up the proper accounts. The right answer depends on your volume, ticket size and customer mix."
+  },
+  {
+   "q": "Where can I find my annual processing fee total?",
+   "a": "Add the fees from your twelve monthly statements, or look for an annual summary from your processor. Many dashboards let you export totals. Keep copies of the statements in case you need to support the figures later. Keep a note of what you decided and why, so the next review starts from facts."
+  },
+  {
+   "q": "How do surcharges or cash discounts affect taxes?",
+   "a": "They can change how revenue and fees appear in your books, depending on structure. Because accounting and legal treatment vary, talk to your accountant before launching one. Also remember that rules vary by state and card network and require disclosure and signage."
+  },
+  {
+   "q": "Can lowering my fees help more than the deduction?",
+   "a": "Yes. A deduction only reduces taxable income by the amount of the expense, while lowering the fee itself saves the full amount. A statement analysis can reveal where costs come from, and MCCPS offers one for free with no obligation. If you are unsure how this applies to your business, MCCPS support can talk it through at 844.826.6227."
+  }
+ ],
+ "related": [
+  "effective-rate-explained",
+  "audit-your-merchant-statement",
+  "how-to-read-a-merchant-statement",
+  "surcharging-programs",
+  "dual-pricing-explained",
+  "lower-processing-fees"
+ ],
+ "icon": "dollar",
+ "read_minutes": 7
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "what-is-an-iso",
+  "category": "blog",
+  "title": "What Is an ISO in Payments?",
+  "seo_title": "What Is an ISO in Payments? Roles Explained | MCCPS",
+  "meta_description": "An ISO, or independent sales organization, sells and supports card processing on behalf of banks. See what ISOs do, how they earn, and how agents fit in.",
+  "primary_keyword": "what is an ISO in payments",
+  "keywords": [
+    "independent sales organization",
+    "ISO merchant services",
+    "ISO vs processor",
+    "ISO vs acquirer",
+    "merchant services agent",
+    "residual income ISO",
+    "registered ISO"
+  ],
+  "eyebrow": "Payments 101",
+  "dek": "Many of the companies you talk to about card processing are not banks and not processors. They are ISOs, and the role is worth understanding.",
+  "intro": [
+    "If you have ever fielded a call from a merchant services rep, there is a good chance you were talking to an ISO, or to someone who sells on behalf of one. ISOs are everywhere in the small-business payments world, and yet most owners could not say what the letters stand for.",
+    "Knowing what an ISO is, what it does and how it is paid helps you ask better questions when you are choosing a provider, and helps if you are considering a career in merchant services yourself."
+  ],
+  "sections": [
+    {
+      "h2": "The short definition",
+      "paragraphs": [
+        "ISO stands for independent sales organization. It is a company that is registered with the card networks through an acquiring bank, and that markets and supports card processing services to merchants. The ISO is not the bank. It sits between the bank and the merchant, doing the sales, onboarding and service work that banks generally prefer not to do directly for small accounts.",
+        "In practice, an ISO signs up merchants under the sponsorship of a bank, working with a processor to handle the technical side. The merchant sees one company, but the services come from several."
+      ]
+    },
+    {
+      "h2": "Where an ISO sits in the chain",
+      "paragraphs": [
+        "Picture a ladder. At the top are the card networks that set the rules. Below them are acquiring banks that hold the settlement relationships. Processors provide the technology and move transaction data. ISOs bring merchants and manage the relationship.",
+        "Registration matters. Card networks require ISOs to be registered through a sponsoring bank, and the bank remains responsible for compliance. That is one reason a legitimate ISO can show you how it is connected to a bank and a processor, in plain language."
+      ],
+      "bullets": [
+        "Card networks: set the rules and move the messages.",
+        "Acquiring banks: sponsor the processing and fund merchants.",
+        "Processors: run authorization, clearing and settlement technology.",
+        "ISOs: recruit, onboard, price and support merchants.",
+        "Agents and sales reps: sell on behalf of an ISO, usually for residuals.",
+        "Merchants: accept the cards and pay the fees."
+      ]
+    },
+    {
+      "h2": "What an ISO actually does",
+      "paragraphs": [
+        "A good ISO handles more than selling. It reviews applications, prepares the paperwork for underwriting, configures terminals and gateways, supports integration with a POS and answers calls when something breaks. It may also provide reporting, PCI compliance programs and training.",
+        "Some ISOs specialize in particular industries or technology, such as restaurants, online stores or B2B payments, while others cover a wide range. What separates good ones from poor ones is usually the quality of service after the sale.",
+        "It is also worth knowing what an ISO cannot do. It cannot override card network rules, change interchange or waive a bank's underwriting requirements. If a sales pitch promises something that sounds like it would, ask how. The legitimate value an ISO adds is in pricing structure, service quality, setup and support, not in changing the wholesale costs that apply to everyone.",
+        "Because ISOs differ so much in quality, references from other merchants in your industry are valuable. Ask a provider whether you can speak with a customer who runs a similar business, and what happened the last time something went wrong for them."
+      ]
+    },
+    {
+      "h2": "How ISOs get paid",
+      "paragraphs": [
+        "ISOs generally earn through the markup in your pricing: a share of the percentage and per-transaction margins, plus some fees. That income continues as long as you process, which is why it is called residual income. Some ISOs also earn from equipment sales or leases, and from add-on services.",
+        "That is not inherently a problem. It is a business model, and it explains why the markup in your pricing matters. The question for a merchant is whether the margin is visible and fair for the service provided, which is something you can test by reading an itemized statement."
+      ]
+    },
+    {
+      "h2": "ISOs, agents and referral partners",
+      "paragraphs": [
+        "Many people who sell merchant services are independent agents who work under an ISO, sometimes called sales partners or resellers. They bring in merchants and are paid a portion of the ISO's residuals. The ISO handles underwriting, support and statements.",
+        "MCCPS has an agent program in this vein. Agents who earn residuals depend entirely on merchant volume and retention, and no income is guaranteed. Anyone considering that path should treat it as commission-based work and review the terms carefully."
+      ]
+    },
+    {
+      "h2": "Questions to ask any ISO",
+      "paragraphs": [
+        "Ask who the sponsoring bank and processor are, who will answer when something breaks, whether pricing is itemized and how the contract treats fee changes and early termination. Ask for a sample statement and a written quote with all fixed fees listed.",
+        "MCCPS works through registered ISOs of several banks. Its free, no-obligation savings analysis reviews two months of your current statements line by line, so you can see how your costs compare before committing to anything.",
+        "Another practical question is how the ISO handles changes over time. Your business will not stay the same: you may add a location, an online store or a mobile reader. A good ISO can add these under the same relationship without a new application each time, and without repricing everything. Ask how expansion works before you need it.",
+        "Also ask who owns the relationship if the sales representative you meet leaves the company. Reputable ISOs have a service team and documented accounts, so your support does not depend on one person. If everything runs through a single individual's cell phone, think about what happens when that person moves on."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "An ISO is an independent sales organization registered through an acquiring bank to sell and support card processing.",
+    "ISOs are not banks or card networks; they onboard, price and service merchants.",
+    "They are usually paid residuals from the markup in your pricing, which is why itemized statements matter.",
+    "Independent agents often sell under an ISO, with income that depends on merchant volume."
+  ],
+  "faq": [
+    {
+      "q": "Is an ISO the same as a processor?",
+      "a": "No. A processor provides the technology that routes and settles transactions, while an ISO sells, onboards and supports merchants. Many companies perform both roles, so the lines blur. Ask your provider to explain who does what in your specific arrangement."
+    },
+    {
+      "q": "Is working with an ISO safe?",
+      "a": "Registered ISOs operate under a sponsoring bank and card network rules. Safety depends on the specific company: look for transparent pricing, clear contract terms and responsive support. Read the agreement and ask for an itemized statement example before signing."
+    },
+    {
+      "q": "How does an ISO make money from my account?",
+      "a": "Typically through the markup built into your pricing, which can include a percentage, per-item fees and monthly fees, often shared with agents. Because that income recurs, it is called a residual. The key is that the margin should be visible and reasonable for the service."
+    },
+    {
+      "q": "Can I become an ISO agent?",
+      "a": "Many ISOs recruit independent agents who earn residuals on merchants they bring in. Earnings vary widely and are not guaranteed. MCCPS has an independent sales agent program; review the terms and treat it as commission-based work."
+    },
+    {
+      "q": "What should I ask an ISO before signing?",
+      "a": "Ask about the sponsoring bank and processor, pricing model, all fixed fees, contract length, early termination terms, equipment ownership and support hours. A reputable ISO can answer clearly and put key terms in writing."
+    }
+  ],
+  "related": [
+    "iso-vs-agent",
+    "independent-sales-agent-guide",
+    "residual-income-explained",
+    "independent-sales-agent-program",
+    "what-is-a-merchant-account",
+    "payment-processor-vs-gateway"
+  ],
+  "icon": "users",
+  "read_minutes": 6
+}

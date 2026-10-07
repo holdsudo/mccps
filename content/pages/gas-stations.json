@@ -1,0 +1,83 @@
+{
+  "slug": "gas-stations",
+  "category": "industries",
+  "title": "Gas Station Payment Processing",
+  "seo_title": "Gas Station Payment Processing | MCCPS",
+  "meta_description": "Pay-at-the-pump EMV, fuel pre-authorizations, fleet cards and c-store sales: how gas stations should think about card processing and fuel margins.",
+  "primary_keyword": "gas station payment processing",
+  "keywords": ["pay at the pump processing", "fuel pre-authorization", "fleet card acceptance", "EMV fuel dispenser", "gas station merchant account", "fuel margin card fees", "outdoor payment terminal"],
+  "eyebrow": "Fuel retail",
+  "dek": "Fuel margins are small and card fees are not. Here is how pump payments, fleet cards and the store inside all fit together.",
+  "intro": [
+    "Few retailers feel card fees as sharply as a gas station owner. Fuel is a high-dollar, low-margin product, and nearly all of it is paid for by card. When a fill-up costs sixty dollars and the retailer's margin on it is a few cents per gallon, a percentage-based fee can approach or exceed the profit on the sale.",
+    "That reality shapes how station owners think about everything from pump hardware to which pricing model they accept. It also explains why the convenience store inside, with its higher-margin snacks, drinks and tobacco, is often where the real money is made.",
+    "This page explains how fuel payments work, what has changed with chip card requirements at the pump, and what to look for in a processor."
+  ],
+  "sections": [
+    {
+      "h2": "How a pay-at-the-pump transaction works",
+      "paragraphs": [
+        "When a customer inserts or taps a card at the pump, the system does not know how much fuel will be dispensed. It sends an authorization for a preset amount, enough to cover a typical fill, and lets the pump start. When the customer finishes, the final amount is submitted for settlement, and the unused part of the authorization is released.",
+        "Debit cards add a step. A PIN debit transaction at the pump may be handled with a preset limit, and customers sometimes see a hold larger than the actual fill for a day or two. A short sign at the pump explaining that holds may appear on the customer's account can head off complaints."
+      ]
+    },
+    {
+      "h2": "EMV at the pump",
+      "paragraphs": [
+        "Outdoor payment terminals are expensive to upgrade, so the card networks gave fuel dispensers more time to adopt chip acceptance than other merchants. Once the liability shift applies, a station that still accepts swiped counterfeit cards at the pump can be responsible for the fraud, rather than the issuer. Check with your processor and equipment vendor about the status of your pumps and about their compliance with current requirements.",
+        "Upgrading means more than a chip reader; it can include new keypads, firmware, and certification with your processor. Getting a clear quote that covers the whole path, including who handles certification, avoids surprises. Our guide on the EMV liability shift explains the principle in more detail."
+      ],
+      "bullets": [
+        "Ask your equipment vendor for a written upgrade scope",
+        "Confirm certification with your processor before installing",
+        "Check that contactless wallets are supported at the pump",
+        "Plan installation outside peak fuel hours"
+      ]
+    },
+    {
+      "h2": "Fuel margins and the cost of acceptance",
+      "paragraphs": [
+        "Say a station sells 40,000 gallons a month at an average price of $3.50. That is $140,000 in fuel sales. At a 2.5% effective rate on card payments, if nearly all of it is paid by card, fees on fuel alone come to $3,500. Compare that with the gross profit on those gallons and you see why fuel pricing models matter.",
+        "Some processors offer fuel-specific pricing, including a fixed fee per transaction or interchange-based programs that reflect the way fuel interchange is structured. Ask for pricing on fuel and in-store sales separately, because the two have different economics. A free statement analysis from MCCPS can show how your fuel and store transactions are currently priced."
+      ]
+    },
+    {
+      "h2": "Dual pricing at the pump",
+      "paragraphs": [
+        "Some stations post a cash price and a credit price for fuel. Programs of this kind are allowed in many states but not all, and card network rules apply; signage must be clear and conspicuous at the pump and in the store. Rules vary by state and card network, so confirm what is permitted before changing prices.",
+        "Where permitted, compliant dual pricing can reduce card costs, and MCCPS offers a Zero Processing Fees program built on it. Customers are price-sensitive about fuel, so many owners test carefully and compare traffic before and after."
+      ]
+    },
+    {
+      "h2": "Fleet cards and commercial customers",
+      "paragraphs": [
+        "Fleet cards are used by businesses to buy fuel for company vehicles, and they come with controls such as per-vehicle limits and product restrictions. Acceptance often requires additional data at the pump, such as odometer or driver ID prompts, and the transactions are handled through specific networks.",
+        "Fleet accounts can mean steady, repeat volume, which is attractive for a station near highways or industrial areas. Check what your terminals and POS support, and how those transactions are priced. Commercial cards may also qualify for enhanced data programs on in-store sales."
+      ]
+    },
+    {
+      "h2": "The store inside, and who to call at 2 a.m.",
+      "paragraphs": [
+        "The c-store side has its own considerations: small tickets, EBT in some locations, lottery, tobacco and age checks. Review the principles on our convenience store page. The important point is that your pump system and your store POS should report into one view, so you can reconcile fuel and merchandise and see total daily deposits.",
+        "Because stations often run around the clock, support matters. MCCPS provides free 24/7 technical support and a reporting dashboard, and can often keep terminals that can be re-programmed. If you are considering a rebuild or new pumps, we can refer you to Fidelity Funding for business funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Pump payments start as pre-authorizations and settle for the actual amount.",
+    "EMV at the pump involves hardware, firmware and certification, not just a reader.",
+    "Fuel and store sales deserve separate pricing conversations.",
+    "Dual pricing at the pump needs conspicuous signage and varies by state.",
+    "Fleet cards add data prompts and their own processing rules."
+  ],
+  "faq": [
+    {"q": "Why does a pump put a hold bigger than my purchase?", "a": "The system authorizes a preset amount before fueling, since the final total is unknown. The unused portion is released after settlement, but the customer's bank may take a day or two to show it. A small notice at the pump can reduce confusion."},
+    {"q": "Do gas stations have to accept chip cards at the pump?", "a": "Card network rules set deadlines and liability shifts for chip acceptance at fuel dispensers. A station that does not upgrade may bear responsibility for certain counterfeit fraud. Ask your processor and equipment vendor about your current status."},
+    {"q": "Can I post different prices for cash and card?", "a": "In many states, yes, if done in compliance with card network rules and with clear signage, but rules vary by state and network. Confirm what applies to you before changing prices at the pump."},
+    {"q": "How are fleet cards processed?", "a": "Fleet cards are processed through specific networks and often require additional prompts, such as vehicle or driver ID and odometer readings. Your terminals and POS must support them, and pricing may differ from consumer cards."},
+    {"q": "How do I know what I pay on fuel sales?", "a": "Look at your merchant statement for fuel and store transactions separately. If your statement lumps them together, ask your processor for a breakdown. MCCPS offers a free line-by-line statement analysis to help you see it clearly."}
+  ],
+  "related": ["convenience-stores", "emv-liability-shift", "emv-chip-processing", "trucking-and-logistics", "offer-cash-discount", "next-day-funding"],
+  "icon": "bolt",
+  "read_minutes": 6
+}

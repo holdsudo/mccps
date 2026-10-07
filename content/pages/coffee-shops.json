@@ -1,0 +1,124 @@
+{
+  "slug": "coffee-shops",
+  "category": "industries",
+  "title": "Coffee Shop Payment Processing",
+  "seo_title": "Coffee Shop Payment Processing & POS | MCCPS",
+  "meta_description": "Coffee shop payment processing for small tickets, tap-to-pay speed and loyalty programs. See how per-transaction fees add up and request a free analysis.",
+  "primary_keyword": "coffee shop payment processing",
+  "keywords": [
+    "cafe credit card processing",
+    "small ticket processing fees",
+    "coffee shop POS",
+    "tap to pay cafe",
+    "loyalty program coffee",
+    "per-transaction fees",
+    "cafe merchant services"
+  ],
+  "eyebrow": "Industry payments",
+  "dek": "A $4.75 latte times four hundred a day: why small tickets make payment fees a bigger deal than they look.",
+  "intro": [
+    "Coffee is a business of habits. The regular who orders the same drink at 7:40 every morning is worth hundreds of dollars a year, but each visit is only a few dollars. That is great for loyalty and tricky for payments, because card fees are partly percentage and partly fixed per transaction, and fixed amounts bite hardest on small sales.",
+    "If you run a cafe, the right payment setup is quick enough for the morning line, cheap enough for a four-dollar ticket and flexible enough to support loyalty rewards. This page breaks down how to think about all three."
+  ],
+  "sections": [
+    {
+      "h2": "How small tickets change the math",
+      "paragraphs": [
+        "Processing fees combine a percentage of the sale with a fixed per-transaction amount. On a $60 dinner, a ten-cent fixed fee is barely visible. On a $4 coffee, it is 2.5 percent all by itself, before the percentage part is even counted.",
+        "Here is a hypothetical. A shop runs 12,000 card transactions a month at an average of $5.50, or $66,000 in volume. At 2.6 percent plus $0.10 per item, fees are $1,716 plus $1,200, for $2,916, which is an effective rate of about 4.4 percent. Cut the per-item amount in half and the shop saves $600 a month. This is why the per-item line on your statement deserves a close look."
+      ],
+      "bullets": [
+        "Ask for the per-item fee in writing, separate from the percentage.",
+        "Check for monthly minimums that penalize slow winter months.",
+        "Note how debit and credit are priced; debit-heavy shops can benefit from different structures.",
+        "Look for statement or gateway fees that bundle in unused features."
+      ]
+    },
+    {
+      "h2": "Tap-to-pay and the morning rush",
+      "paragraphs": [
+        "Contactless is the natural fit for coffee. A customer taps a card or phone, the reader sends a one-time token to the processor, and the sale clears in a second or two. That keeps the line moving and is more hygienic than handing over a card.",
+        "Hardware placement matters at a cafe counter. A reader mounted where the customer can reach it without leaning over the espresso machine saves time. If you use a handheld or tablet-based POS, consider a second reader at the pickup end for mobile order customers. MCCPS supports EMV and contactless acceptance and can often work with terminals you already own."
+      ]
+    },
+    {
+      "h2": "Tips at the counter",
+      "paragraphs": [
+        "Tip screens at the register are now common at coffee shops, though opinions on them vary. A few simple choices help: a preset of low-dollar options for small tickets, such as $1, $2 or no tip, usually feels more natural than percentages on a four-dollar order. Whatever you choose, make the no tip button easy to find.",
+        "On the back end, make sure card tips are tracked separately from sales so payroll or distribution is accurate. Check with your accountant on how tips are reported and how pooled tips should be handled."
+      ]
+    },
+    {
+      "h2": "Online ordering and mobile pickup",
+      "paragraphs": [
+        "Many coffee shops now take orders ahead through an app or website. These are card-not-present sales, which generally cost more than in-person taps, so it is worth comparing the cost against the extra volume they bring. They also demand a clean connection between the ordering system and your POS so tickets print at the bar on time.",
+        "A well-integrated setup sends the order straight to the screen at the espresso station, charges the card at pickup or checkout, and lands everything in one report. If your ordering system and POS are separate, ask whether they can be tied together, since double entry is the usual source of dropped orders."
+      ]
+    },
+    {
+      "h2": "Loyalty and gift cards",
+      "paragraphs": [
+        "A punch-card style program or points system is the natural next step for a shop with regulars. Integrated loyalty tracks visits by phone number or card token, so there is nothing for customers to carry. Gift cards help in the same way, bringing in cash up front and encouraging repeat visits, especially around holidays.",
+        "Keep rules simple and clearly stated. Gift card laws, including expiration and unused balances, vary by state, so check requirements with your advisor before launching a program."
+      ],
+      "steps": [
+        "Decide the reward, such as a free drink after a set number of visits.",
+        "Choose how customers identify themselves: phone number, card or app.",
+        "Train staff to ask at the start of the order, not the end.",
+        "Review redemption reports monthly to see what is working."
+      ]
+    },
+    {
+      "h2": "Handling the afternoon lull and the weekend line",
+      "paragraphs": [
+        "Coffee shops have two very different shapes of day. The morning is a sprint with a line to the door, while mid-afternoon may see a handful of customers lingering over laptops. A payment setup should be tuned for the sprint but not punish the lull. Ask whether your processor charges a monthly minimum that kicks in during slow weeks, and whether a quiet January costs you more per transaction than a busy June. On weekends, regulars bring friends and orders get larger, so tickets split across several cards become more common. Make sure your POS can split a tab cleanly and that staff know how to void a mistaken tap quickly before the batch closes."
+      ]
+    },
+    {
+      "h2": "Lowering costs and what to do next",
+      "paragraphs": [
+        "Cafes are natural candidates for cash discount or dual pricing programs because of their tight margins, and MCCPS offers a Zero Processing Fees program designed to bring card-processing cost to $0. Rules vary by state and card network, and they require proper signage and disclosure, so confirm current requirements before changing prices at the register.",
+        "The place to begin is the free statement analysis. MCCPS goes through two months of your statements line by line, with no obligation, and savings depend on what is found. With free 24/7 support and next-day funding available, the aim is a setup that works as hard as your morning crew does."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Fixed per-item fees weigh heavily on small coffee tickets.",
+    "Contactless acceptance speeds up the morning line.",
+    "Offer low-dollar tip presets that make sense for small orders.",
+    "Integrate online ordering with your POS to avoid double entry.",
+    "Request a free statement analysis to see your true per-item cost."
+  ],
+  "faq": [
+    {
+      "q": "Why are card fees such a problem for coffee shops?",
+      "a": "Because many fees include a fixed per-transaction amount, that amount takes a larger share of a small sale. A few cents on a four-dollar order is a bigger percentage than on a larger ticket. Reviewing your per-item fee is often the quickest win."
+    },
+    {
+      "q": "Should a coffee shop accept tap-to-pay?",
+      "a": "Yes, in most cases. Contactless is fast, convenient and uses tokenized data rather than the actual card number. Make sure your reader supports cards and mobile wallets and is placed where customers can reach it easily."
+    },
+    {
+      "q": "Can I set a minimum purchase for cards?",
+      "a": "Card network rules around minimums are specific and differ by card type and country. Check current requirements with your processor and advisor before posting a minimum, since breaking the rules can cause problems with your merchant agreement."
+    },
+    {
+      "q": "How do I run a loyalty program with my POS?",
+      "a": "Choose a POS that supports loyalty or add an integrated program that tracks customers by phone number or card token. Keep the rewards simple and train staff to ask at the beginning of the order. MCCPS can discuss integration options for your setup."
+    },
+    {
+      "q": "Can a cafe add a card fee or offer a cash discount?",
+      "a": "Possibly, via surcharging, cash discount or dual pricing, but rules vary by state and card network and require clear disclosure and signage. Confirm requirements first, then decide whether the change suits your customers."
+    }
+  ],
+  "related": [
+    "small-ticket-transactions",
+    "gift-cards-and-loyalty",
+    "tap-to-pay",
+    "quick-service-restaurants",
+    "customer-loyalty-with-payments",
+    "zero-processing-fees"
+  ],
+  "icon": "cash",
+  "read_minutes": 6
+}

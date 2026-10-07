@@ -1,0 +1,124 @@
+{
+  "slug": "how-to-win-a-chargeback",
+  "category": "blog",
+  "title": "How to Win a Chargeback Dispute",
+  "seo_title": "How to Win a Chargeback Dispute (Representment) | MCCPS",
+  "meta_description": "A step-by-step guide to chargeback representment: read the reason code, gather the right evidence, write a clear response and meet the deadline on time.",
+  "primary_keyword": "how to win a chargeback",
+  "keywords": [
+    "chargeback representment",
+    "fight a chargeback",
+    "chargeback evidence",
+    "dispute response letter",
+    "second presentment",
+    "chargeback deadline",
+    "win merchant dispute"
+  ],
+  "eyebrow": "Disputes",
+  "dek": "The practical mechanics of representment: what to collect, how to present it, and when it is smarter to let a chargeback go.",
+  "intro": [
+    "A chargeback hits your account and your first instinct is to be angry. The better instinct is to be organized. Chargeback disputes are decided largely on paper, by reviewers who spend a few minutes on each case, and the merchant who presents clean, relevant evidence in the right order wins far more often than the one who writes a long complaint.",
+    "This guide walks through the process, known as representment, from the moment the notice arrives to the final decision. It also covers an honest question: when fighting costs more than it is worth."
+  ],
+  "sections": [
+    {
+      "h2": "How the dispute process flows",
+      "paragraphs": [
+        "A chargeback begins when the cardholder contacts the issuer. The issuer reverses the funds and sends the dispute through the network to your processor, who notifies you. You then have a limited window to respond with evidence. That response is called representment, or a second presentment in some network terms.",
+        "The issuer reviews your evidence and may accept it, returning the funds, or reject it. In some cases the dispute can continue to a further stage such as pre-arbitration or arbitration, which is more costly and generally reserved for larger amounts. Specific stages and timelines differ by network and change, so rely on your processor's current guidance."
+      ]
+    },
+    {
+      "h2": "Step one: decide whether to fight",
+      "paragraphs": [
+        "Not every chargeback is worth contesting. Consider a hypothetical $60 order. If the chargeback fee is $25 and your time to prepare a response is worth something, the economics are thin, particularly if you have no strong evidence. On a $900 order with clear delivery proof, fighting is an easy call.",
+        "Also consider your ratio. Processors watch the share of transactions that become chargebacks, and a high ratio can trigger programs and fees. Winning a dispute may not remove it from some counts, so prevention matters as much as representment. If the claim is truthful, such as a genuine duplicate charge, refunding may be better than contesting.",
+        "A useful habit is to estimate your total cost per dispute, including the fee, the lost product, the time spent and the chance of winning. Multiply the win probability by the amount recovered and compare it with the effort. For a repeat pattern, such as the same customer disputing multiple orders, a stronger stance may be worth it because it protects you from further losses."
+      ],
+      "bullets": [
+        "Dollar amount compared to the chargeback fee",
+        "Strength of the evidence you can produce",
+        "Reason family and whether the rules favor merchants",
+        "Effect on your overall chargeback ratio",
+        "Customer relationship and whether a refund would settle it"
+      ]
+    },
+    {
+      "h2": "Step two: gather matching evidence",
+      "paragraphs": [
+        "Evidence should match the claim. For fraud claims, include AVS and CVV results, IP address and device details, chip read data for card-present sales, signed receipts, prior orders from the same customer, and delivery confirmation to the cardholder's address. For not-received claims, include carrier tracking, delivery signature, photographs and any message exchanges. For service disputes, include the contract, the work order, completion notes and customer acknowledgements.",
+        "Include your policies as the customer saw them: refund policy, terms accepted at checkout, cancellation terms and the descriptor on the statement. A screenshot of the checkout page showing the customer agreed to the terms can be persuasive. Avoid padding the file with irrelevant documents; reviewers skim, and clutter hides the key proof."
+      ]
+    },
+    {
+      "h2": "Step three: write a short cover letter",
+      "paragraphs": [
+        "The cover letter is your argument in miniature. Open with the transaction date, amount and the last four digits of the card. State the claim in one sentence. Then list three or four facts, each followed by a reference to the attached exhibit. Close by asking that the chargeback be reversed.",
+        "Keep a neutral, factual tone. Do not accuse the cardholder of lying; say what your records show. A letter like 'The customer ordered on March 3, the item shipped March 4 by tracked service and was delivered March 7 to the billing address, signed by R. Lee, as shown in Exhibit B' does more work than three paragraphs of frustration.",
+        "Format matters more than people expect. Reviewers may see dozens of cases in a sitting, so label each exhibit, number the pages, and keep screenshots legible at normal size. If a document is long, highlight or point to the relevant line. A reviewer who has to search for the proof may simply decide against you."
+      ],
+      "steps": [
+        "Confirm the deadline in the dispute portal and calendar it with a buffer.",
+        "Identify the reason code family and what evidence it requires.",
+        "Collect receipts, delivery proof, logs, communications and policies.",
+        "Write a one-page cover letter that cites each exhibit.",
+        "Combine the files in the format your portal requires, usually a single PDF.",
+        "Submit early and save the confirmation."
+      ]
+    },
+    {
+      "h2": "Common reasons merchants lose",
+      "paragraphs": [
+        "The most common reason is missing the deadline. The second is sending evidence that does not address the stated claim. Others include illegible documents, delivery proof that shows a different address, descriptors that customers do not recognize, and no record of the refund policy at the time of sale.",
+        "Some disputes are lost before they begin. If you do not keep records of AVS and CVV results, shipping confirmations or customer communications, you cannot produce them later. Build the habit of saving evidence at the time of sale rather than hunting for it after a notice arrives."
+      ]
+    },
+    {
+      "h2": "Setting up a repeatable process",
+      "paragraphs": [
+        "If chargebacks are more than rare events for you, assign one person to own them. Create a folder template, a cover letter template and a calendar routine for checking notifications. Log each dispute with the reason, amount, outcome and root cause, then review monthly.",
+        "MCCPS provides chargeback management support and a reporting dashboard, and a free statement analysis shows how many disputes appear and what they cost you. This article is general information; for disputes involving significant sums or legal claims, consult an attorney.",
+        "Over time, the real win is fewer disputes to fight. Look at the root cause behind each loss: unclear descriptors, slow shipping, vague policies or missing records. Fix the cause, and your future caseload shrinks along with your fees."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Match your evidence to the reason code, not to your frustration.",
+    "Decide whether the amount and evidence justify a fight before preparing a response.",
+    "A short, factual cover letter with labeled exhibits works best.",
+    "Missing the deadline is the most avoidable way to lose.",
+    "Save proof at the time of sale so you have it when disputes arrive."
+  ],
+  "faq": [
+    {
+      "q": "What is chargeback representment?",
+      "a": "It is the process of responding to a chargeback with evidence to show that the original sale was valid. The issuer reviews your response and either returns the funds to you or keeps the chargeback in place."
+    },
+    {
+      "q": "How long do I have to respond?",
+      "a": "The window varies by network and reason code, often a couple of weeks. Your dispute portal shows the exact due date, so submit well ahead of it."
+    },
+    {
+      "q": "Is it worth fighting small chargebacks?",
+      "a": "Sometimes not. If the chargeback fee and your time exceed the likely recovery, and your evidence is weak, it may be smarter to accept the loss and fix the root cause."
+    },
+    {
+      "q": "What evidence is most persuasive?",
+      "a": "Evidence tied directly to the stated claim: delivery confirmation for not received, a signed receipt or chip data for in-person fraud, and policies the customer agreed to at checkout."
+    },
+    {
+      "q": "Can winning a dispute lower my chargeback count?",
+      "a": "Not always. Monitoring programs may count disputes at the time they are received, regardless of the outcome. Check how your processor measures the ratio."
+    }
+  ],
+  "related": [
+    "chargeback-management",
+    "chargeback-reason-codes",
+    "friendly-fraud",
+    "reduce-chargebacks",
+    "refund-vs-chargeback",
+    "handle-refunds-and-returns"
+  ],
+  "icon": "scale",
+  "read_minutes": 7
+}

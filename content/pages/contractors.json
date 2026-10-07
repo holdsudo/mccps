@@ -1,0 +1,125 @@
+{
+  "slug": "contractors",
+  "category": "industries",
+  "title": "Contractor Payment Processing",
+  "seo_title": "Contractor Payment Processing | MCCPS",
+  "meta_description": "Contractor payment processing for deposits, progress billing, B2B Level 2/3 data and ACH. Compare costs and request a free statement analysis from MCCPS.",
+  "primary_keyword": "contractor payment processing",
+  "keywords": [
+    "construction payment processing",
+    "progress billing cards",
+    "contractor deposits",
+    "B2B card payments",
+    "ACH for contractors",
+    "subcontractor payments",
+    "job invoice payments"
+  ],
+  "eyebrow": "Construction",
+  "dek": "Deposits to start, progress payments along the way and a final check at completion: how contractors can collect each stage cleanly.",
+  "intro": [
+    "A contractor's cash flow is a staircase. Materials must be bought before the first wall goes up, crews are paid weekly, and the customer's final payment arrives at the end. The gap between spending and collecting is where many small contractors get squeezed.",
+    "Contractor payment processing is about shortening that gap in a way that keeps the customer comfortable and the paperwork clear. That means well-structured deposits, progress billing tied to milestones, and the right tool, card or ACH, for each size of payment."
+  ],
+  "sections": [
+    {
+      "h2": "Deposits that protect both sides",
+      "paragraphs": [
+        "A deposit confirms the customer's commitment and covers early materials. Its size and timing should be set by the contract, and in many states home-improvement laws limit how much can be collected up front or require specific cancellation notices. Ask your attorney or licensing board what applies to your trade and location.",
+        "Cards are convenient for smaller deposits, but a large deposit on a card costs a percentage of the amount. On a $15,000 deposit at a 2.9 percent effective rate, the fee is $435. ACH can cost much less for a large deposit, and many customers are comfortable with it. Offering both lets the customer choose."
+      ],
+      "bullets": [
+        "Define the deposit amount and timing in the signed contract.",
+        "Confirm state rules on maximum deposits and cancellation periods.",
+        "Offer ACH for large amounts and cards for smaller ones.",
+        "Issue a receipt that references the contract."
+      ]
+    },
+    {
+      "h2": "Progress billing by milestone",
+      "paragraphs": [
+        "On a long project, billing at milestones such as foundation, framing, rough-in and final completion matches cash coming in to work done. Each milestone should be defined in the contract in a way both parties can verify, such as an inspection passing, to avoid arguments about whether the stage is truly finished.",
+        "Send an invoice with a payment link at each milestone, along with photos or an inspection record if you have them. Customers pay faster when they can see the progress. Retainage, where a portion is held until completion, is common in commercial work; make sure your invoices state clearly what has been paid and what remains."
+      ]
+    },
+    {
+      "h2": "Cards or ACH for different jobs",
+      "paragraphs": [
+        "Smaller repair jobs and service calls fit card payments well, with a mobile reader or a payment link. Larger invoices, especially from commercial customers, often favor ACH because of cost and because accounts payable departments are used to it. ACH takes longer to clear and can be returned, so build that into your schedule and avoid releasing a major deliverable before the funds have settled.",
+        "A written authorization is needed for an ACH debit. MCCPS supports ACH and eCheck as well as card processing, so one platform can handle both. A reporting dashboard shows what has been paid and what is outstanding per customer."
+      ],
+      "steps": [
+        "Decide which payment method suits each milestone.",
+        "Send an invoice with a payment link.",
+        "Obtain written authorization for any ACH debit.",
+        "Confirm funds have cleared before releasing the next deliverable.",
+        "Record the payment against the job file."
+      ]
+    },
+    {
+      "h2": "B2B work and Level 2/3 data",
+      "paragraphs": [
+        "When your customer is a business, such as a property manager or a general contractor, they may pay with a corporate or purchasing card. Those cards can qualify for lower interchange if the transaction carries extra data, such as the tax amount and a PO or invoice number (Level 2), or line-item detail (Level 3).",
+        "Your payment platform must pass that data along. Without it, you can pay a higher rate on card types that could cost less. MCCPS supports B2B Level 2 and Level 3 processing, which is worth asking about if you have commercial clients who pay by card."
+      ]
+    },
+    {
+      "h2": "Disputes and documentation",
+      "paragraphs": [
+        "Construction disputes often start with unclear scope. A change order approved verbally and never written down is a typical source. Document changes in writing, with the price impact, and have the customer sign before the work proceeds. Photos at each stage, signed completion forms and inspection records are your evidence if a charge is challenged.",
+        "If a customer disputes a payment with their bank, respond promptly with the contract, change orders and proof of work. For legal questions such as mechanics' liens or contract terms, consult your attorney, as those rules vary widely."
+      ]
+    },
+    {
+      "h2": "Lien waivers and getting paid at closeout",
+      "paragraphs": [
+        "Closeout is where many contractors wait longest for the final payment. Agree in the contract on the conditions for final payment, such as a punch list completed, an inspection passed and any required lien waivers exchanged. Present the final invoice the day those conditions are met, with a payment link so the customer can pay immediately. Lien rights and waiver rules vary by state and are legal matters, so ask your attorney about the right documents for your area. A clear closeout checklist shared with the customer early reduces last-minute arguments and shortens the time between finishing the work and receiving the money."
+      ]
+    },
+    {
+      "h2": "Reviewing cost and starting points",
+      "paragraphs": [
+        "Say your firm processes $110,000 a month on cards, with a mix of small calls and a few large deposits, at a 2.7 percent effective rate. That is $2,970 in fees. Moving the largest payments to ACH or ensuring corporate cards carry Level 2 data could change that figure; the statement review shows by how much.",
+        "Some contractors explore a cash discount or dual pricing arrangement, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and construction contracts should be reviewed with an attorney first. If you need working capital between milestones, MCCPS refers merchants to Fidelity Funding; MCCPS is not a lender. Start with the free statement analysis, in which MCCPS reviews two months of statements line by line. Savings depend on what is found."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Tie deposits and progress payments to a signed contract and state rules.",
+    "Use ACH for large amounts and cards for smaller ones to manage fees.",
+    "Level 2 and Level 3 data can lower costs on corporate cards.",
+    "Put every change order in writing before work proceeds.",
+    "Keep photos and sign-offs as evidence for any dispute."
+  ],
+  "faq": [
+    {
+      "q": "How much deposit can a contractor take?",
+      "a": "It depends on state and local home-improvement rules, which sometimes cap deposits or require cancellation notices. Check with your attorney or licensing board before setting your terms."
+    },
+    {
+      "q": "Is ACH better than cards for large jobs?",
+      "a": "ACH usually costs less on large amounts, but it clears more slowly and can be returned. Many contractors offer both. Do not release major deliverables until ACH funds clear."
+    },
+    {
+      "q": "What is progress billing?",
+      "a": "It is invoicing at defined project milestones rather than all at the end. It keeps cash flow aligned with work completed. Define each milestone clearly in the contract."
+    },
+    {
+      "q": "How do I accept card payments from commercial clients?",
+      "a": "You can use a virtual terminal, a payment link or a mobile reader. Passing Level 2 and Level 3 data with corporate cards can reduce cost. MCCPS supports this type of processing."
+    },
+    {
+      "q": "Can contractors add a card fee to invoices?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure. Confirm requirements and contract language before adding any fee."
+    }
+  ],
+  "related": [
+    "hvac-and-plumbing",
+    "process-b2b-payments",
+    "ach-processing",
+    "level-2-and-level-3-processing",
+    "take-deposits-and-prepayments",
+    "working-capital-for-merchants"
+  ],
+  "icon": "hammer",
+  "read_minutes": 6
+}

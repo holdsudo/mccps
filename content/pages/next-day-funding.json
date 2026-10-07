@@ -1,0 +1,121 @@
+{
+  "slug": "next-day-funding",
+  "category": "solutions",
+  "title": "Next-Day Funding for Card Sales",
+  "seo_title": "Next-Day Funding for Card Sales | MCCPS",
+  "meta_description": "Get card sales deposited faster with next-day funding. Learn how batches, cutoff times and weekends affect settlement and why cash flow improves.",
+  "primary_keyword": "next-day funding",
+  "keywords": [
+    "next day funding merchant",
+    "faster card deposits",
+    "settlement timing",
+    "merchant cash flow",
+    "batch cutoff time",
+    "same day funding",
+    "card payment deposits"
+  ],
+  "eyebrow": "Cash flow",
+  "dek": "Shorten the gap between a card sale and money in your bank account so payroll, suppliers and rent are less of a juggling act.",
+  "intro": [
+    "You made the sale on Monday, the customer's card was approved, and yet your bank account still shows nothing on Wednesday. That gap is normal, and for plenty of businesses it is also frustrating. Rent, wages and supplier invoices do not wait for a settlement cycle.",
+    "Next-day funding shortens that wait so that card sales are typically deposited the next business day, depending on how your account is set up. Here is what happens in between and how to make the most of faster deposits."
+  ],
+  "sections": [
+    {
+      "h2": "Why money is not instant",
+      "paragraphs": [
+        "An approved card sale is only an authorization. The funds settle later, in a sequence: the terminal or POS closes a batch, the processor submits it for clearing, the networks route amounts to issuing banks, and funds travel back to the acquiring bank, which pays out to you.",
+        "Each hop has cutoff times, and banks work on business days. That is why a sale on Friday evening might not show up until Tuesday, even though the customer's card was charged immediately.",
+        "For a business with thin margins, even a day or two matters. A landscaper who buys fuel and materials every morning, or a restaurant that pays produce suppliers on delivery, feels the gap directly. Faster deposits turn yesterday's sales into today's purchasing power."
+      ]
+    },
+    {
+      "h2": "What next-day funding means",
+      "paragraphs": [
+        "With next-day funding, batches that close before the cutoff time are typically deposited the following business day, rather than after two or three days. Availability depends on your account, risk profile and bank, and MCCPS offers it where the setup allows.",
+        "Notice the word business. Weekends and bank holidays still pause the clock. A batch closed Saturday is usually treated as part of Monday's processing, and a holiday Monday pushes things to Tuesday. Next-day funding improves the pace, but it does not eliminate the calendar."
+      ],
+      "bullets": [
+        "Batch closes before the cutoff time",
+        "Funds typically deposited the next business day",
+        "Weekends and bank holidays still add time",
+        "Availability depends on underwriting and setup"
+      ]
+    },
+    {
+      "h2": "Batch timing and cutoff habits",
+      "paragraphs": [
+        "Many terminals auto-close at a set hour. If yours closes at 11 p.m. and the cutoff is earlier, sales rung after the cutoff slide into the next batch. Setting auto-close to a time that fits your hours can bring deposits forward a day without any other change.",
+        "Review your batch time with your closing routine in mind. Restaurants that take tips after close need to adjust before batching. Retailers who process returns late in the evening should confirm which batch they land in. A small adjustment can matter.",
+        "Finally, remember that your own bank also has posting rules. A deposit sent late in the day may only show as available the next morning, and some banks place short holds on incoming credits. Ask your bank how it treats processor deposits so you know when the money is truly spendable, and line up your payables accordingly. Small timing details like these decide whether next-day funding feels like relief or just a slightly shorter wait."
+      ]
+    },
+    {
+      "h2": "A cash-flow example",
+      "paragraphs": [
+        "Say your shop deposits about $3,000 a day in card sales. Under a three-day settlement, you are always carrying roughly $9,000 that has been earned but not yet received. With next-day funding the float shrinks to about $3,000. That is $6,000 of working cash that stays available to you, with no loan, interest or application.",
+        "This is a hypothetical illustration, but the logic holds. The faster your deposits arrive, the less you need to lean on a credit line or delay paying suppliers."
+      ]
+    },
+    {
+      "h2": "Reconciling deposits",
+      "paragraphs": [
+        "Deposits rarely equal a single day's gross sales. Fees may be deducted daily or billed monthly depending on your agreement, refunds net out, and chargebacks subtract later. Match deposits to batch reports rather than to your register totals.",
+        "Good reporting makes this painless. The reporting and analytics dashboard in PayPilot by MCCPS lets you see batches, adjustments and deposits side by side, so your bookkeeper can reconcile without guesswork.",
+        "Compare three numbers each month: the sum of your batch totals, the sum of your deposits, and the fees and adjustments between them. If the gap is larger than your fees explain, something is being held back or charged, and the statement will say what. Catching a discrepancy within the first month makes it easy to resolve; waiting a year makes it a project."
+      ]
+    },
+    {
+      "h2": "Holds, reserves and what can slow you down",
+      "paragraphs": [
+        "Faster funding is not guaranteed in every case. New accounts, unusually large tickets, sudden jumps in volume or high chargeback ratios can lead a processor to delay or reserve funds while it reviews risk. Knowing the reasons helps you avoid triggering them.",
+        "Give your processor a heads-up before a big seasonal event or a high-ticket sale, keep refund and dispute rates low, and answer information requests quickly. Our guide to holds and reserves goes deeper."
+      ]
+    },
+    {
+      "h2": "Getting faster deposits with MCCPS",
+      "paragraphs": [
+        "Next-day funding is available through MCCPS, subject to your account setup and underwriting. A specialist can explain your options and review your batch timing alongside the rest of your processing.",
+        "Start with the free, no-obligation statement analysis. It covers fees as well as funding, so you can see where your money goes and how fast it comes back. Call 844.826.6227 for a conversation with a person."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Settlement follows batching, clearing and bank cutoffs, not the moment of sale.",
+    "Next-day funding typically deposits closed batches the next business day.",
+    "Batch timing and weekends affect when money lands.",
+    "Faster deposits reduce the cash you carry as unreceived sales."
+  ],
+  "faq": [
+    {
+      "q": "Is next-day funding available to every merchant?",
+      "a": "Not necessarily. It depends on your account setup, industry, volume and underwriting. MCCPS offers next-day funding where the account allows, and a specialist can tell you whether your business qualifies."
+    },
+    {
+      "q": "Does next-day funding cost extra?",
+      "a": "Pricing depends on your agreement and account setup, so ask a specialist for specifics. It is worth comparing against the cost of the cash-flow gap it removes. MCCPS reviews your statements first, without obligation."
+    },
+    {
+      "q": "What if I run sales on weekends?",
+      "a": "Weekend sales are typically processed with the next business-day cycle, and bank holidays add delay. Funding speeds up weekdays, but the weekend gap remains. Plan cash needs around it."
+    },
+    {
+      "q": "Why is my deposit smaller than my sales?",
+      "a": "Deposits can be net of fees, refunds and adjustments. Tips, voids and chargebacks also change totals. Reconcile deposits against the batch report to see exactly how the amount was calculated."
+    },
+    {
+      "q": "Can I speed up deposits by closing my batch earlier?",
+      "a": "Closing before the cutoff time ensures the batch is in the right cycle. Check your auto-close time and align it with your closing routine. Make tip adjustments before the batch closes."
+    }
+  ],
+  "related": [
+    "next-day-funding-explained",
+    "batch-settlement-explained",
+    "get-paid-faster",
+    "merchant-account-holds-and-reserves",
+    "payment-analytics-dashboard",
+    "working-capital-for-merchants"
+  ],
+  "icon": "clock",
+  "read_minutes": 6
+}

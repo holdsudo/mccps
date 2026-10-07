@@ -1,0 +1,125 @@
+{
+  "slug": "dental-practices",
+  "category": "industries",
+  "title": "Dental Practice Payment Processing",
+  "seo_title": "Dental Practice Payment Processing | MCCPS",
+  "meta_description": "Dental practice payment processing for treatment plans, patient financing referrals and cards on file. See how fees work and get a free statement analysis.",
+  "primary_keyword": "dental practice payment processing",
+  "keywords": [
+    "dental office credit card processing",
+    "treatment plan payments",
+    "card on file dentist",
+    "dental patient payments",
+    "dental merchant account",
+    "HSA FSA dental",
+    "dental payment plans"
+  ],
+  "eyebrow": "Healthcare payments",
+  "dek": "Treatment plans that run into thousands, insurance that pays later and patients who want to spread the cost: how dental offices can get paid.",
+  "intro": [
+    "A dental office has an unusual cash-flow pattern. A cleaning might be a modest copay, but a crown, implant or orthodontic plan can run into thousands of dollars, and the portion insurance does not cover lands on the patient. How you collect that portion often decides whether the patient accepts the treatment in the first place.",
+    "Dental practice payment processing is about making that conversation easier. A practice that can take a card at the desk, store one securely for later installments and point patients to financing when needed gets paid faster and sees fewer treatment plans abandoned over cost."
+  ],
+  "sections": [
+    {
+      "h2": "Large tickets and card limits",
+      "paragraphs": [
+        "Most dental visits are small, but a handful of large tickets can account for a big share of revenue. Large-ticket card transactions raise two practical issues. First, the patient's card may have a limit lower than the bill, so a payment of $3,500 can decline even if the card is valid. Second, large transactions can trigger fraud checks at the issuing bank, leading to a decline that clears up after the patient calls the bank.",
+        "Plan for both. Tell patients the amount before the visit so they can raise a limit or bring a second card, and be ready to split a payment across two cards if both are present. Splitting a bill across cards is a normal practice, and your terminal or practice software should support multiple tenders against one account."
+      ]
+    },
+    {
+      "h2": "Treatment plans and installments",
+      "paragraphs": [
+        "A multi-visit plan raises a timing question: collect everything up front, collect per visit, or set installments? Many practices take a deposit at the first appointment, then charge the remainder at milestones such as when the lab case is ordered or when the final restoration is placed. Whatever schedule you choose, put it in writing and keep the patient's signature.",
+        "A card on file, stored as a token, allows the practice to charge agreed installments without asking the patient to hand over a card each time. The patient should authorize the amounts and dates, receive a receipt after each charge, and know how to stop or change the plan. State rules on payment plans and interest differ, so check with your attorney."
+      ],
+      "bullets": [
+        "Give the patient a written estimate and schedule before the first charge.",
+        "Obtain a signed authorization for card-on-file installments.",
+        "Send a receipt after every charge.",
+        "Note the terms in the patient account so staff apply them consistently."
+      ]
+    },
+    {
+      "h2": "Patient financing as a companion",
+      "paragraphs": [
+        "Some treatment is simply too large to put on a single card, and patients with limited credit may want a longer repayment period. Third-party patient financing exists for that purpose, and many practices offer it alongside card payments. It is a separate arrangement with its own approvals and terms, and it is not part of card processing.",
+        "For business needs, such as buying equipment or covering a slow quarter, MCCPS refers merchants to Fidelity Funding. MCCPS is not a lender. The point for a practice is to keep these options distinct: card processing moves payments for services, while financing, whether for patients or for the practice, is a different product."
+      ]
+    },
+    {
+      "h2": "Insurance, HSA and FSA cards",
+      "paragraphs": [
+        "Dental patients frequently pay with health savings or flexible spending cards, which process like debit cards and work for eligible dental services. Providing an itemized receipt helps the patient claim reimbursement where needed.",
+        "Insurance adds timing complexity. A practice may collect an estimated patient portion at the visit and adjust later when the claim is processed. If the patient overpaid, issue a refund to the original card promptly; if they underpaid, send a clear statement with an easy way to pay. Smooth communication here prevents the bill-shock disputes that sometimes end as chargebacks."
+      ],
+      "steps": [
+        "Verify benefits and estimate the patient portion before treatment.",
+        "Collect the estimated portion at the visit.",
+        "Wait for the insurance explanation of benefits.",
+        "Refund any overpayment to the original card.",
+        "Send a statement with a payment link for any remaining balance."
+      ]
+    },
+    {
+      "h2": "Security and patient privacy",
+      "paragraphs": [
+        "Dental offices hold both health records and payment data. Keep them apart: card numbers belong in a tokenized, encrypted payment system, not in patient charts or on sticky notes. Use encrypted readers and keep your payment software updated.",
+        "PCI compliance is required for any business that takes cards, and the questionnaire that applies depends on how you accept them. MCCPS provides PCI compliance help. For health privacy obligations, consult your compliance advisor or professional association."
+      ]
+    },
+    {
+      "h2": "Timing the ask for treatment payments",
+      "paragraphs": [
+        "When and how you ask for payment affects acceptance of a treatment plan. Presenting the cost after the clinical explanation, with the insurance estimate and the patient portion shown side by side, is easier for most people than a surprise at the desk. Offering clear choices, such as paying in full, splitting the payment across visits or applying for third-party financing, gives the patient some control. Train the team to present options consistently so that every patient receives the same information. Record what was explained and what was agreed. A calm, consistent conversation at the right moment often does more for collections than any piece of equipment."
+      ]
+    },
+    {
+      "h2": "Looking at what you pay",
+      "paragraphs": [
+        "Large tickets can make percentage-based fees significant. Say a practice processes $80,000 a month on cards at a 2.7 percent effective rate; that is $2,160 in fees. Interchange on some premium cards is higher, and a single $4,000 implant payment on such a card costs noticeably more than on a basic debit card.",
+        "Some offices consider a cash discount or dual pricing program for large balances, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, healthcare may involve further limits, disclosure is required, and you should confirm requirements first. MCCPS also offers a free statement analysis, reviewing two months of statements line by line. Savings depend on what is found, and technical support is free and available 24/7."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Large dental tickets can decline because of card limits or fraud checks, so plan ahead.",
+    "Written plans plus tokenized cards on file make installments smooth.",
+    "Patient financing is a separate product from card processing.",
+    "Refund insurance overpayments quickly to avoid disputes.",
+    "Keep card data out of patient charts."
+  ],
+  "faq": [
+    {
+      "q": "Can a patient split a dental bill across two cards?",
+      "a": "Yes. Most terminals and practice systems allow multiple payments against one balance. Record each payment against the patient account and give a receipt for each."
+    },
+    {
+      "q": "How do dentists charge installments on a card?",
+      "a": "With the patient's written authorization, the practice stores a tokenized card and charges the agreed amounts on set dates. The patient receives a receipt each time and a way to change or end the plan."
+    },
+    {
+      "q": "Why did a large dental payment decline?",
+      "a": "Common causes are the card's credit or daily limit, or a fraud flag on an unusual large charge. The patient can usually clear it by calling their bank. Telling patients the amount in advance reduces surprises."
+    },
+    {
+      "q": "Does MCCPS offer patient financing?",
+      "a": "No. MCCPS handles payment processing. MCCPS refers merchants who need business funding to Fidelity Funding, and MCCPS is not a lender. Patient financing is offered by separate third parties."
+    },
+    {
+      "q": "Can a dental office pass card fees to patients?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure. Healthcare practices should also check any payer contract limits before adding a fee."
+    }
+  ],
+  "related": [
+    "medical-practices",
+    "take-deposits-and-prepayments",
+    "hsa-fsa-card-acceptance",
+    "merchant-cash-advance-referrals",
+    "large-ticket-transactions",
+    "chiropractors"
+  ],
+  "icon": "heart",
+  "read_minutes": 6
+}

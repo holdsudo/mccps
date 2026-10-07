@@ -1,0 +1,123 @@
+{
+  "slug": "level-2-3-data-explained",
+  "category": "blog",
+  "title": "Level 2 and Level 3 Data Explained",
+  "seo_title": "Level 2 and Level 3 Data Explained | MCCPS",
+  "meta_description": "Level 2 and Level 3 card data can qualify business and government card sales for lower interchange. Learn the fields, who benefits and how to submit them.",
+  "primary_keyword": "Level 2 and Level 3 data",
+  "keywords": [
+    "Level 2 processing",
+    "Level 3 processing",
+    "purchasing card interchange",
+    "line item detail card",
+    "commercial card rates",
+    "B2B card processing savings",
+    "corporate card data fields"
+  ],
+  "eyebrow": "B2B",
+  "dek": "The extra data fields that can move commercial card sales into lower-cost interchange categories, and how to tell whether your business qualifies.",
+  "intro": [
+    "When a business pays another business with a corporate or purchasing card, the card networks expect more information than a simple retail swipe provides. Supply that extra detail, and the transaction can qualify for a lower interchange rate. Leave it out, and you may pay the standard, higher commercial rate.",
+    "This is the idea behind Level 2 and Level 3 processing. It is not a gimmick; it is a data submission requirement tied to specific card types. For the right kind of merchant, it can matter, and for others it will do nothing at all."
+  ],
+  "sections": [
+    {
+      "h2": "Three levels of data",
+      "paragraphs": [
+        "Level 1 is the basic data every card transaction carries: card number, amount, date and merchant information. Level 2 adds data useful to corporate buyers, such as sales tax amount, a customer reference or purchase order number, and sometimes a merchant tax ID and postal code. Level 3 adds line-item detail, such as product codes, descriptions, quantities, unit prices, discounts, shipping amounts and freight.",
+        "The goal is to give the buyer's company the information it needs to reconcile and audit its spending, similar to an invoice. Card issuers reward merchants who provide it with lower interchange on qualifying commercial cards.",
+        "The distinction between levels also affects how your software has to behave. Level 2 is fairly easy to add, often just a couple of extra fields in a virtual terminal or invoice. Level 3 usually requires system integration, because every line item on an invoice has to be passed through to the gateway in a specific format. Many small suppliers start with Level 2 and add Level 3 only when volume justifies it."
+      ]
+    },
+    {
+      "h2": "Which cards it applies to",
+      "paragraphs": [
+        "Level 2 and Level 3 programs apply to commercial card types: corporate cards, purchasing cards, business cards and government purchasing cards. They do not apply to ordinary consumer cards. If your customers are individuals paying with personal cards, the extra fields do nothing for you.",
+        "Commercial cards often carry higher base interchange than consumer cards, which is why the data programs exist. A merchant who sells to businesses and takes a lot of commercial card volume can see meaningful differences, whereas a retailer who rarely sees commercial cards will not."
+      ],
+      "bullets": [
+        "Applies to commercial, corporate, purchasing and government cards",
+        "Does not change the rate on ordinary consumer cards",
+        "Requires data submitted with each qualifying transaction",
+        "Qualification rules depend on the card network and card type"
+      ]
+    },
+    {
+      "h2": "What the fields look like",
+      "paragraphs": [
+        "Level 2 typically needs the tax amount, a tax indicator, a customer code or purchase order number and sometimes the destination or merchant postal code. Level 3 requires many more items, including a line-item description, product code, unit of measure, quantity, unit cost, line total, discount amount, freight and duty amounts, and the ship-from and ship-to postal codes.",
+        "Requirements and thresholds change over time and differ by network and card category, so ask your processor for the current spec before building anything. Your gateway may offer fields in its API or virtual terminal, or may populate some of them automatically from your invoice or POS.",
+        "Government purchasing cards deserve a mention. Sellers to public agencies often see a large share of their card volume on purchasing cards, with strict data expectations. If you sell to schools, municipalities or other public bodies, ask your processor whether your agreements meet the data requirements for those cards, because the lowest-cost categories typically require complete and accurate data."
+      ]
+    },
+    {
+      "h2": "A hypothetical savings example",
+      "paragraphs": [
+        "Suppose a supplier takes $60,000 a month on commercial cards. If the standard commercial rate on those sales is 2.9% and a qualifying Level 3 rate is lower by a hypothetical 0.5 percentage points, the difference would be $300 a month, or $3,600 a year. If only a fraction of the volume qualifies, the savings shrink proportionally.",
+        "Those rates are invented to demonstrate the arithmetic. Actual interchange rates change, and whether you gain depends on your pricing model. On a flat-rate or tiered plan, interchange savings may not reach you at all. On interchange-plus pricing, the lower interchange flows through. This is why the statement review matters before you spend time on integration."
+      ]
+    },
+    {
+      "h2": "How to submit the data",
+      "paragraphs": [
+        "There are a few ways. A virtual terminal can have optional fields for purchase order and tax. An invoicing or e-commerce platform can send line items through the gateway. A custom integration can pass them through the API. B2B-focused software often does this automatically once configured.",
+        "Whichever route, accuracy matters. Tax amounts should match the invoice. Line items should add up. Mismatched or invalid data can cause the transaction to fall back to the standard rate or, in some cases, fail validation. Test with a few transactions and check how they are categorized on your statement.",
+        "Keep an eye on downgrades. If a transaction is submitted with missing or inconsistent fields, it can fall into a more expensive category than you expected, and the cost shows up on your statement as a higher interchange line. Reviewing statements for these patterns is one of the quickest ways to find out whether your data submissions are working."
+      ],
+      "steps": [
+        "Review your statement to see how much commercial card volume you process.",
+        "Confirm your pricing model passes interchange differences through.",
+        "Ask your processor for current Level 2 and Level 3 field requirements.",
+        "Enable the fields in your gateway, terminal or invoicing tool.",
+        "Run test transactions and compare the interchange categories.",
+        "Monitor results monthly."
+      ]
+    },
+    {
+      "h2": "Is it worth it for you",
+      "paragraphs": [
+        "It tends to be worthwhile for suppliers, wholesalers, contractors who bill companies, and government vendors with sizable commercial card volume and invoice-style orders. It is rarely worthwhile for businesses that mostly serve consumers.",
+        "MCCPS offers B2B Level 2 and Level 3 processing and a free statement analysis that can show how much commercial card volume you take and what you pay on it. Savings, if any, depend on your own numbers and pricing structure."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Level 2 adds tax and reference data; Level 3 adds line-item detail.",
+    "The programs apply only to commercial, purchasing and government cards.",
+    "Savings depend on commercial card volume and on a pricing model that passes interchange through.",
+    "Accurate, matching data is required for qualification.",
+    "Check your statement before investing in integration."
+  ],
+  "faq": [
+    {
+      "q": "What is Level 3 processing?",
+      "a": "It is the submission of detailed line-item data with a commercial card transaction, such as product codes, quantities and unit prices. When properly submitted, it can qualify the sale for a lower interchange category."
+    },
+    {
+      "q": "Do Level 2 and 3 apply to consumer cards?",
+      "a": "No. These programs apply to commercial, corporate, purchasing and government cards. Consumer card sales are not affected by the extra data."
+    },
+    {
+      "q": "Will I automatically save money with Level 2 or 3?",
+      "a": "Not automatically. Savings depend on how many commercial cards you accept, whether the data qualifies, and whether your pricing model passes interchange reductions through to you."
+    },
+    {
+      "q": "What data does Level 2 require?",
+      "a": "Commonly the sales tax amount, a tax indicator and a customer reference or purchase order number, and sometimes postal codes. Requirements vary by network, so confirm current specifications with your processor."
+    },
+    {
+      "q": "How do I send Level 3 data?",
+      "a": "Through a gateway API, an invoicing or B2B platform, or a virtual terminal that supports line-item fields. Ask your provider which method fits your systems."
+    }
+  ],
+  "related": [
+    "level-2-and-level-3-processing",
+    "process-b2b-payments",
+    "b2b-payment-trends",
+    "interchange-plus-pricing",
+    "interchange-explained",
+    "b2b-wholesale"
+  ],
+  "icon": "briefcase",
+  "read_minutes": 7
+}

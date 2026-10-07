@@ -1,0 +1,125 @@
+{
+  "slug": "nonprofits",
+  "category": "industries",
+  "title": "Nonprofit Donation Processing",
+  "seo_title": "Nonprofit Donation Processing & Online Giving | MCCPS",
+  "meta_description": "Nonprofit donation processing for online giving pages, recurring gifts and fee coverage options. Keep more of each gift and review costs with MCCPS.",
+  "primary_keyword": "nonprofit donation processing",
+  "keywords": [
+    "online donation page",
+    "recurring donations",
+    "donor fee coverage",
+    "nonprofit merchant account",
+    "charity credit card processing",
+    "event fundraising payments",
+    "donation receipts"
+  ],
+  "eyebrow": "Nonprofit",
+  "dek": "Every dollar processed is a dollar not spent on mission: how nonprofits can accept gifts online and in person while keeping costs visible.",
+  "intro": [
+    "A nonprofit lives on trust. A donor who gives $50 online wants a smooth page, an immediate receipt and confidence that the money arrived. Meanwhile the organization wants to know how much of that $50 is left after processing, because fees on small gifts can add up faster than most boards expect.",
+    "Nonprofit donation processing covers the giving page, recurring monthly gifts, event and walk-up donations and the receipts and records that make year-end reporting less painful. The sections below take each in turn, with attention to cost."
+  ],
+  "sections": [
+    {
+      "h2": "The online giving page",
+      "paragraphs": [
+        "Most donations now start on a web page, and the design of that page affects how much you raise. Keep the form short, show suggested amounts that fit your donors, allow a custom amount and support mobile wallets so a donor can finish with a tap. Every extra field is a reason for someone to abandon the form.",
+        "Behind the page is a payment gateway that encrypts the card and passes it to the processor. Using a hosted or tokenized form keeps card numbers off your own website, which simplifies PCI compliance. MCCPS supports multiple gateways, so you can match one to your website or donor management system."
+      ],
+      "bullets": [
+        "Offer suggested amounts and a custom amount field.",
+        "Keep the form short and mobile-friendly.",
+        "Send an automatic receipt with the details donors need for their records.",
+        "Make the recurring option visible but not forced."
+      ]
+    },
+    {
+      "h2": "Recurring gifts",
+      "paragraphs": [
+        "A monthly donor is worth far more than the sum of one gift, because they tend to stay for years. Recurring giving is built on a stored token, charged on the same day each month with the donor's consent. Clear wording on the form, a confirmation email and an easy way to update or cancel keep the relationship healthy.",
+        "Failed recurring gifts are a quiet drain. An expired card ends a monthly donor without anyone deciding to stop. A card account updater refreshes stored cards when banks reissue them, and a friendly message with a link to update the card recovers many others."
+      ]
+    },
+    {
+      "h2": "Fee coverage and what donors see",
+      "paragraphs": [
+        "Many giving pages ask the donor whether they would like to cover the processing cost, adding a small amount to the gift. Used honestly, this lets more of the donation go to the cause. It must be presented clearly so the donor knows what they are agreeing to, and whether it appears on the receipt as part of the gift.",
+        "The rules on adding fees to card payments, including surcharging and convenience fees, vary by state and card network, require proper disclosure and may be treated differently for nonprofits and for donations. How the added amount is treated for tax receipts is a question for your accountant. Confirm current requirements before launching a fee-coverage option."
+      ],
+      "steps": [
+        "Decide whether to offer an optional fee-coverage checkbox.",
+        "Word it clearly so the donor knows the amount and purpose.",
+        "Confirm network and state requirements with your advisor.",
+        "Ask your accountant how to show it on receipts.",
+        "Review results after a few months."
+      ]
+    },
+    {
+      "h2": "Events, galas and walk-up giving",
+      "paragraphs": [
+        "At a fundraising event, you need to take tickets, auction payments and spontaneous gifts, often on a crowded night with uncertain Wi-Fi. Mobile readers and tap-to-phone options let volunteers collect anywhere in the room, and QR codes linked to a giving page let guests give from their own phones.",
+        "Plan for volunteers who are not payment experts. Keep the process to a few steps, test every device ahead of time and have a printed backup procedure. Save the donor's email so a receipt can be sent immediately, and reconcile totals the next morning."
+      ]
+    },
+    {
+      "h2": "Records and receipts",
+      "paragraphs": [
+        "Donors need a record for their taxes and your organization needs clean data for reporting. A receipt should state the organization name, the date and the amount. Whether and how to describe the tax-deductible portion depends on the nature of the gift and the donor's benefits, so ask your accountant or counsel for the exact wording your organization should use.",
+        "A reporting dashboard that breaks out gifts by date, campaign and card type makes reconciliation easier. Export the data into your donor database regularly so records match."
+      ]
+    },
+    {
+      "h2": "Thanking donors and building the relationship",
+      "paragraphs": [
+        "The payment moment is also a relationship moment. An automatic receipt that includes a warm thank-you and a sentence about what the gift will do lands better than a bare confirmation. Follow with a personal note for larger gifts, and a short update a few weeks later on how funds were used. Donors who feel appreciated give again. Keep the tone sincere and avoid pressure. For recurring donors, a periodic message that confirms their ongoing gift, with an easy link to update their card, keeps the connection strong and reduces silent lapses caused by expired cards."
+      ]
+    },
+    {
+      "h2": "Controlling cost",
+      "paragraphs": [
+        "Say your organization receives 1,500 gifts a month averaging $60, or $90,000, with a 3.0 percent effective rate and $2,700 in fees. Small gifts are especially sensitive to per-item fees, so review that line on your statement. Debit and credit cards price differently, and ACH can be a lower-cost choice for larger recurring gifts.",
+        "MCCPS offers a free statement analysis that reviews two months of statements line by line, with savings depending on what is found. The Zero Processing Fees program, a compliant approach designed to bring card-processing cost to $0, may not suit every nonprofit, since rules vary by state and card network and donor-facing disclosure is required. Confirm what is appropriate for your organization. Free 24/7 support is included."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A short, mobile-friendly giving page raises more than a long one.",
+    "Recurring donors need account updater and a friendly recovery process for failed gifts.",
+    "Fee coverage must be disclosed clearly and checked against state and network rules.",
+    "Use mobile readers and QR codes for events.",
+    "Per-item fees matter on small gifts; review your statement."
+  ],
+  "faq": [
+    {
+      "q": "How can a nonprofit accept online donations?",
+      "a": "Use a gateway-connected giving page that supports cards and mobile wallets, sends automatic receipts and offers a recurring option. A tokenized or hosted form keeps card numbers off your own site."
+    },
+    {
+      "q": "Can donors cover the processing fee?",
+      "a": "Many organizations offer an optional checkbox. It must be clearly disclosed, and rules vary by state and card network. Ask your accountant how to record it on receipts."
+    },
+    {
+      "q": "How do I reduce failed monthly gifts?",
+      "a": "Use card account updater, send a quick message with an update link when a charge fails and retry sensibly. Many failures come from expired cards rather than donors choosing to stop."
+    },
+    {
+      "q": "What should a donation receipt include?",
+      "a": "Typically the organization name, date and amount, with any language required for tax purposes. Ask your accountant or counsel for the exact wording."
+    },
+    {
+      "q": "Is ACH good for donations?",
+      "a": "It can be a lower-cost choice, especially for larger recurring gifts, though it settles more slowly and can be returned. Offering it alongside cards gives donors a choice."
+    }
+  ],
+  "related": [
+    "churches",
+    "recurring-billing",
+    "payment-links-guide",
+    "qr-code-payments",
+    "accept-payments-at-events",
+    "payment-gateway"
+  ],
+  "icon": "heart",
+  "read_minutes": 6
+}

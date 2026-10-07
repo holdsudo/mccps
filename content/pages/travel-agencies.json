@@ -1,0 +1,90 @@
+{
+  "slug": "travel-agencies",
+  "category": "industries",
+  "title": "Travel Agency Payment Processing",
+  "seo_title": "Travel Agency Payment Processing | MCCPS",
+  "meta_description": "Travel agencies face deposits, long lead times and chargeback risk. Learn how to structure card payments, protect yourself and stay in good standing.",
+  "primary_keyword": "travel agency payment processing",
+  "keywords": ["travel agency merchant account", "travel deposits card processing", "tour operator payment processing", "chargeback risk travel", "split payments travel", "travel agent credit card processing", "high-ticket card payments"],
+  "eyebrow": "Travel payments",
+  "dek": "Deposits months before departure, large tickets and delayed service make travel one of the trickiest industries to process. Here is how to stay protected.",
+  "intro": [
+    "A traveler pays you today for something they will not experience for six months. In between, flights get rescheduled, hotels close, a family emergency intervenes, or the customer simply forgets what they booked. For a card issuer, that gap between payment and delivery is exactly where disputes thrive.",
+    "That is why travel agencies, tour operators and cruise and vacation planners are watched closely by processors. The tickets are large, the service is delayed, and cancellations are common. None of that makes the business bad; it means the way you structure payments, document agreements and communicate matters more than in a business where the product is handed over at the counter.",
+    "The sections below explain the mechanics behind travel payments and the habits that keep an account healthy."
+  ],
+  "sections": [
+    {
+      "h2": "Why processors treat travel carefully",
+      "paragraphs": [
+        "When a customer disputes a charge, the card issuer can reverse it, and the merchant is responsible. In travel, a dispute may arrive many weeks after a deposit, sometimes after the trip has been taken. If the supplier, such as an airline or a cruise line, fails or changes terms, customers often turn to their bank rather than to the agency.",
+        "Because of that exposure, a processor may ask about your cancellation terms, how far in advance you take payment and how you deliver tickets or vouchers. Some may apply a reserve or delay funding on larger transactions. A clear, honest description of your business model at application usually prevents unpleasant surprises later, and MCCPS can help you present your operation accurately."
+      ]
+    },
+    {
+      "h2": "Deposits, installments and final payments",
+      "paragraphs": [
+        "Most agencies split a trip into a deposit and one or more installments before a final due date. Each installment is a new card transaction or a charge against stored credentials, and each should be backed by a signed authorization that spells out the schedule and amounts. Without that paper, a customer who regrets the trip may say they only authorized a single payment.",
+        "Say a family books a $7,200 vacation package with a $1,200 deposit, three monthly installments and a final balance. Four or five separate charges on a card means four or five opportunities for a decline or a dispute. Sending reminders before each charge and a receipt after it keeps the customer informed and the paper trail complete."
+      ],
+      "steps": [
+        "Present the full itinerary, total price, schedule and cancellation terms in writing.",
+        "Collect a signed or electronically accepted authorization for each charge.",
+        "Take the deposit and store the payment method with a secure token.",
+        "Send reminders a few days before each installment.",
+        "Run the final payment and deliver confirmations and documents promptly."
+      ]
+    },
+    {
+      "h2": "Phone sales and card-not-present basics",
+      "paragraphs": [
+        "A large share of agency revenue is booked by phone or email, which means card-not-present transactions. These carry higher interchange than a chip card dipped at a counter, and they rely on address verification and security code checks to confirm the buyer. Use both, and note the result in the booking record.",
+        "Never accept full card numbers by email or text. A virtual terminal lets an agent key the card securely while on the phone, and a payment link lets the traveler enter details on a secure hosted page so that your team never sees them. That reduces your PCI exposure and lowers the chance of an internal data mishap."
+      ],
+      "bullets": [
+        "Use AVS and CVV on every keyed or online booking",
+        "Prefer payment links over transcribing numbers from emails",
+        "Match the name on the card to the primary traveler when possible",
+        "Flag unusually urgent or high-value bookings for extra checking"
+      ]
+    },
+    {
+      "h2": "Chargeback prevention for travel",
+      "paragraphs": [
+        "The most common travel disputes are described as service not provided, not as described, or unrecognized transaction. Each has a defense, and each depends on records. For service-related claims, itineraries, confirmation numbers and supplier correspondence help. For unrecognized charges, a descriptor that includes your agency name, and a receipt sent at the time of payment, are your first line of defense.",
+        "When a dispute does arrive, respond within the deadline with a concise package: the signed agreement, the cancellation policy, proof of the customer's acceptance, and evidence the trip was booked or delivered. Agencies that treat chargebacks as a documentation exercise tend to do better than those that react after the fact. For a deeper look, see our guides on chargeback reason codes and how to win a chargeback."
+      ]
+    },
+    {
+      "h2": "Supplier payments and commissions",
+      "paragraphs": [
+        "Agencies sit in the middle of money flows. Customers pay you; you pay suppliers; and sometimes the supplier pays you a commission afterward. Reconciliation matters because a refund to a customer may not be matched by an immediate refund from the supplier. Keep a record that ties each customer payment to the corresponding supplier obligation.",
+        "For corporate travel arrangements, a business buyer may pay with a purchasing card or by ACH. Providing Level 2 or Level 3 data on eligible commercial card transactions can lower interchange cost, and ACH is often a sensible choice for large corporate invoices. Remember that any added convenience fee or surcharge must follow disclosure rules that vary by state and card network."
+      ]
+    },
+    {
+      "h2": "Getting your setup reviewed",
+      "paragraphs": [
+        "Because travel tickets are large, small differences in effective rate add up quickly. Say your agency processes $90,000 a month at a 3.0% effective rate: that is $2,700 in fees monthly. The free statement analysis from MCCPS reviews two months of statements line by line and shows where costs come from, including card mix, monthly fees and any reserves.",
+        "If funding gaps are a concern, for example between booking deposits and supplier due dates, MCCPS can refer you to Fidelity Funding for business funding; MCCPS is not a lender. Round-the-clock support also helps when travelers are booking across time zones."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "The gap between payment and travel date is what drives dispute risk.",
+    "Written authorization for every installment is your strongest protection.",
+    "Use AVS, CVV and secure payment links instead of emailed card numbers.",
+    "Document itineraries, policies and acceptance to win disputes.",
+    "Reconcile customer refunds against supplier refunds so nothing falls through."
+  ],
+  "faq": [
+    {"q": "Is travel considered a high-risk industry for processing?", "a": "Travel is often treated with extra caution because of large tickets, delayed delivery and cancellations. That does not mean you cannot get approved. Being transparent about your model, terms and volume, and keeping strong documentation, helps you obtain and keep an account in good standing."},
+    {"q": "Can I charge a customer's card in installments for a trip?", "a": "Yes, with proper written authorization showing each amount and date. Store the card securely with a token, notify the customer before each charge and send receipts. Keeping the authorization on file is important if a later charge is disputed."},
+    {"q": "How do I reduce chargebacks as a travel agency?", "a": "Use clear cancellation terms, obtain signed acceptance, verify cards with AVS and CVV, send confirmations immediately and keep supplier documents. When disputes occur, answer on time with a full evidence package. Good communication with travelers before they call their bank is also effective."},
+    {"q": "Should I take deposits by card or ACH?", "a": "Cards are convenient and fast but cost more and allow chargebacks. ACH usually costs less for large balances. Many agencies use cards for deposits and ACH for large final balances, particularly for corporate customers."},
+    {"q": "What happens if a supplier cancels a trip?", "a": "You will typically need to refund the customer promptly or rebook them, and then seek recovery from the supplier. Refunding quickly avoids chargebacks. Make sure your agreements describe who bears the cost in that situation."}
+  ],
+  "related": ["hotels-and-lodging", "high-risk-merchant-accounts", "chargeback-management", "take-deposits-and-prepayments", "how-to-win-a-chargeback", "accept-payments-by-phone"],
+  "icon": "pin",
+  "read_minutes": 6
+}

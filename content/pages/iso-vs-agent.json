@@ -1,0 +1,120 @@
+{
+ "slug": "iso-vs-agent",
+ "category": "blog",
+ "title": "ISO vs. Independent Sales Agent",
+ "seo_title": "ISO vs. Independent Sales Agent: Roles Explained | MCCPS",
+ "meta_description": "ISO or independent sales agent? Compare responsibilities, risks, compensation structures and how each role fits in the payments chain before you choose.",
+ "primary_keyword": "ISO vs independent sales agent",
+ "keywords": [
+  "ISO vs agent",
+  "independent sales organization",
+  "merchant services ISO",
+  "agent vs ISO differences",
+  "payments industry roles",
+  "sub-ISO",
+  "sponsor relationships"
+ ],
+ "eyebrow": "Industry roles",
+ "dek": "The payments chain has many names for similar-sounding roles. Here is how an ISO differs from an independent sales agent, and why the difference matters.",
+ "intro": [
+  "Anyone researching a career in merchant services runs into the acronym ISO almost immediately, usually alongside terms like agent, reseller, sub-ISO and partner. They are not interchangeable. Each role has different responsibilities, risks and obligations, and mixing them up can lead to bad decisions about contracts, compensation and liability.",
+  "This guide untangles the basics. It describes where each role sits in the payments chain, what they do and what they carry, so you can decide whether you want to be one, work with one or evaluate the company that is pitching you. Details vary by program, so always read the actual agreements."
+ ],
+ "sections": [
+  {
+   "h2": "Where ISOs sit in the payments chain",
+   "paragraphs": [
+    "A card payment travels through many hands: the cardholder, the merchant, the processor, the acquiring bank and the card networks and issuing bank. An independent sales organization, or ISO, is a company that sells merchant processing services under the sponsorship of acquiring banks and processors. It is typically registered with the card networks through its sponsor.",
+    "An ISO may handle underwriting support, merchant onboarding, customer service, technical help and risk monitoring, depending on the arrangement. Our article on what an ISO is covers the basics. Merchants often never realize they are dealing with one, since the ISO brand is what they see."
+   ]
+  },
+  {
+   "h2": "What an independent sales agent does",
+   "paragraphs": [
+    "An independent sales agent is usually an individual or small company that refers or signs merchants under an ISO's program. The agent finds prospects, explains pricing, collects documents and submits applications. The ISO takes it from there, performing underwriting, setting up the account and supporting the merchant.",
+    "Agents typically do not hold the registration with card networks, do not take on bank or network obligations and do not run the processing infrastructure. They are sales and relationship partners. That limits their responsibility, but it also limits their control."
+   ]
+  },
+  {
+   "h2": "Responsibilities and risk compared",
+   "paragraphs": [
+    "The chain of responsibility is the main difference. ISOs can be responsible to their sponsor banks for compliance, merchant monitoring and sometimes losses from merchant failures, depending on contract terms. They carry regulatory, operational and sometimes financial burdens that an agent does not.",
+    "Agents have lighter obligations, but they still face duties around honest sales practices, merchant data protection and following program rules. Mistakes by an agent can harm both the merchant and the ISO."
+   ],
+   "bullets": [
+    "ISO: registration, sponsor relationships, risk, compliance programs",
+    "ISO: support, technology and operations",
+    "Agent: prospecting, education and relationship management",
+    "Agent: following program rules and handling documents securely"
+   ]
+  },
+  {
+   "h2": "How compensation differs",
+   "paragraphs": [
+    "ISOs earn from the margin on the merchants in their portfolio, from which they cover costs such as support, risk and technology, and from which they pay their agents. Agents are usually paid a share of that margin, called residuals, and sometimes bonuses. Splits and structures vary widely and are never guaranteed.",
+    "An agent's share is smaller than the ISO's gross take because the ISO bears more costs and risk. Whether this trade is worthwhile depends on what you value: lower startup costs and simplicity as an agent, or control and larger potential margin with more responsibility as an ISO. Our guide on residual income explains the mechanics."
+   ]
+  },
+  {
+   "h2": "Sub-ISOs, resellers and referral partners",
+   "paragraphs": [
+    "The vocabulary gets muddier between the two poles. A sub-ISO or reseller may have its own brand and a larger portfolio but operates under another ISO's registration. A referral partner simply introduces businesses and may receive a fee without handling the sale.",
+    "When someone offers you a role, ask exactly where you would sit: who is registered, who underwrites, who is responsible for service and who owns the merchant relationship. The title matters less than the contract."
+   ]
+  },
+  {
+   "h2": "Which role fits you",
+   "paragraphs": [
+    "Most people entering the industry start as agents. It requires little capital, lets you learn the business and builds a client base. Moving to ISO status requires sponsorship, compliance infrastructure, support operations and often significant investment, which suits experienced operators with a larger book.",
+    "Consider your resources, appetite for risk and what you enjoy. If you love relationships and sales, being an agent may be fulfilling. If you want to build a company that provides service at scale, an ISO or sub-ISO arrangement might be a longer-term goal.",
+    "A useful rule of thumb is to follow the obligations. If a contract makes you answerable to a bank or card network for the behavior of merchants, you are functioning as an ISO or something close to it, regardless of the title on your business card. If your contract mostly asks you to introduce merchants and follow the program's sales rules, you are acting as an agent. Reading for responsibility, rather than for labels, will keep you out of arrangements you did not intend to enter."
+   ]
+  },
+  {
+   "h2": "Questions to ask any company before you sign",
+   "paragraphs": [
+    "Ask who the sponsor is and whether the company is properly registered. Ask who handles disputes and support, how pricing is set, how residuals are calculated and paid, and what happens to your accounts if you leave. Request the full agreement and consider legal review.",
+    "MCCPS recruits independent sales agents and ISOs and processes through registered ISOs of several banks, so it can talk through how its program works for each role. If you would like to know more, call 844.826.6227. Merchants who want a plain-English look at their own costs can also request a free statement analysis."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "An ISO is a registered company selling processing under a bank sponsorship; an agent sells under an ISO.",
+  "ISOs carry compliance and risk burdens that agents generally do not.",
+  "Compensation structures differ and are never guaranteed.",
+  "Titles like sub-ISO, reseller and referral partner vary by contract.",
+  "Read the agreement to know who owns the merchant and who provides service."
+ ],
+ "faq": [
+  {
+   "q": "What does ISO stand for in payments?",
+   "a": "ISO stands for independent sales organization. It is a company that markets and supports merchant processing services under the sponsorship of an acquiring bank or processor, and is typically registered with the card networks through that sponsor. Write the answer down so every manager and employee gives customers the same explanation."
+  },
+  {
+   "q": "Is an independent sales agent the same as an ISO?",
+   "a": "No. An agent usually sells under an ISO's program and relies on the ISO for underwriting, funding and support. An ISO holds the sponsorship relationships and carries compliance obligations. Contract language defines who does what in each case. Revisit the question at least once a year, because equipment, rules and pricing change."
+  },
+  {
+   "q": "Which role carries more risk?",
+   "a": "Generally the ISO, because it can be responsible to sponsor banks and card networks for compliance and merchant risk. Agents have fewer obligations but must still follow program rules and sell honestly. The specifics depend on the agreement you sign. When in doubt, ask for the answer in writing before you commit to anything."
+  },
+  {
+   "q": "Can an agent become an ISO later?",
+   "a": "Some do, once they have experience, a portfolio and the resources to meet sponsorship and compliance requirements. It involves legal, operational and sometimes financial commitments, so many agents stay in the role or work as sub-ISOs for years before deciding. Your accountant or attorney can confirm how this applies to your circumstances."
+  },
+  {
+   "q": "Does MCCPS work with both ISOs and agents?",
+   "a": "Yes. MCCPS recruits independent sales agents and ISOs and processes through registered ISOs of several banks. To learn how each role works in its program, call 844.826.6227 and ask for details on onboarding and support. Start small, measure what happens, and adjust from there."
+  }
+ ],
+ "related": [
+  "what-is-an-iso",
+  "independent-sales-agent-guide",
+  "residual-income-explained",
+  "independent-sales-agent-program",
+  "payment-facilitator-vs-merchant-account",
+  "what-is-a-merchant-account"
+ ],
+ "icon": "briefcase",
+ "read_minutes": 7
+}

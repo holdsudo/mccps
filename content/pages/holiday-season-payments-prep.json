@@ -1,0 +1,126 @@
+{
+ "slug": "holiday-season-payments-prep",
+ "category": "blog",
+ "title": "Preparing Your Payments for the Holiday Rush",
+ "seo_title": "Holiday Season Payments Prep Checklist | MCCPS",
+ "meta_description": "Holiday volume can overwhelm unprepared card systems. Use this checklist for terminals, staffing, funding, fraud controls and chargeback prep before the rush.",
+ "primary_keyword": "holiday season payments",
+ "keywords": [
+  "holiday payment checklist",
+  "peak season card processing",
+  "holiday fraud",
+  "terminal readiness",
+  "holiday chargebacks",
+  "seasonal funding",
+  "black friday payments"
+ ],
+ "eyebrow": "Seasonal checklist",
+ "dek": "The worst time to discover a payment problem is the busiest week of the year. Work through this checklist while there is still time to fix things.",
+ "intro": [
+  "Every holiday season brings the same story. Lines get longer, terminals work harder, fraudsters get busier and a small problem that nobody noticed in a quiet month turns into a line of frustrated customers. The businesses that sail through the rush usually did one thing differently: they prepared their payment setup weeks in advance.",
+  "This checklist covers hardware, connectivity, staffing, fraud, funding and the cleanup that follows. Start at least a month before your peak, and adjust the details to your business. A food shop and an online gift seller have different worries, but the framework is the same."
+ ],
+ "sections": [
+  {
+   "h2": "Test your equipment before you need it",
+   "paragraphs": [
+    "Run a test transaction on every terminal, every mobile reader and every register, using each way a customer can pay: chip insert, tap, swipe fallback and, if you accept it, keyed entry. Check receipt printers for paper, ink and connection. Replace worn card readers, cracked screens and frayed cables now rather than at 6 p.m. on the busiest Saturday.",
+    "If you use older terminals, confirm they support chip and contactless payments. MCCPS often works with re-programmable terminals you already own, so ask whether a spare unit can be set up as a backup. A single spare terminal that is configured, charged and stored in a drawer is cheap insurance.",
+    "Also consider the physical environment. Counters crowded with displays, cables stretched across walkways and terminals placed where glare hides the screen all slow customers down. Walk through a checkout as a customer would, and reposition devices so that the screen is visible and the tap area is clear. Small layout fixes often save more time during a rush than any technology upgrade."
+   ],
+   "bullets": [
+    "Test chip, tap and swipe on every device",
+    "Charge batteries and check for software updates",
+    "Stock paper rolls and spare cables",
+    "Keep one configured backup terminal"
+   ]
+  },
+  {
+   "h2": "Plan for connectivity problems",
+   "paragraphs": [
+    "Holiday crowds strain Wi-Fi and cellular networks, and a connection dropout during a rush is a real possibility. Know in advance what your terminals do when they lose the internet. Some can store transactions and forward them later, which carries risk because approvals are not guaranteed until the batch is sent.",
+    "Consider a wired connection for fixed registers and a cellular backup for terminals. Our guide on offline payments explains the trade-offs of store-and-forward modes and how to set a safe limit. Write down who to call, and keep MCCPS's 24/7 technical support number, 844.826.6227, where every manager can find it."
+   ]
+  },
+  {
+   "h2": "Staff up and train for speed and accuracy",
+   "paragraphs": [
+    "Seasonal hires are often the people running your payment terminal. Give them a one-page cheat sheet that covers the basics: how to take a chip card, how to handle a decline, when to call a manager for an override, how to process a refund and what a suspicious transaction looks like.",
+    "Practice the awkward cases. A card is declined and the customer produces another. A gift card does not cover the full bill. A shopper wants to split a total across three cards. Role-playing these scenarios for ten minutes reduces mistakes and keeps lines moving."
+   ]
+  },
+  {
+   "h2": "Tighten your fraud controls",
+   "paragraphs": [
+    "Fraudsters take advantage of holiday volume because unusual orders blend in. For online sales, use address and security-code verification, review large first-time orders to new shipping addresses and watch for many small attempts with different card numbers, which is a pattern known as card testing. For in-store sales, check that employees follow the usual verification steps for keyed transactions.",
+    "Be careful not to overcorrect. Setting rules so strict that legitimate gift buyers are blocked costs sales. Review your rules weekly during the season and adjust based on what you actually see."
+   ],
+   "bullets": [
+    "Verify address and security code on online orders",
+    "Hold high-risk orders for review before shipping",
+    "Be wary of rush shipping requests to freight forwarders or unusual addresses",
+    "Limit keyed-in transactions in store"
+   ]
+  },
+  {
+   "h2": "Think about cash flow and funding timing",
+   "paragraphs": [
+    "Holiday inventory is bought before holiday revenue arrives. Know how long your processor takes to deposit funds, and how weekends and bank holidays affect that schedule. Next-day funding is available through MCCPS for eligible merchants, which can shorten the gap when you need to restock quickly.",
+    "If you need extra working capital for inventory or staff, plan it early. MCCPS is not a lender, but refers merchants to Fidelity Funding for business funding needs. Compare costs and terms carefully and borrow only what your expected sales can repay."
+   ]
+  },
+  {
+   "h2": "Prepare for returns and chargebacks",
+   "paragraphs": [
+    "Holiday sales produce holiday returns. Post your return policy near the register and on receipts, process refunds back to the original card where possible and keep the refund paperwork. A clear, visible policy is also your best defense when a customer disputes a charge instead of asking for a refund.",
+    "Chargeback deadlines are strict, and you may need documentation weeks later when you are busy with the new year. Keep signed receipts, order confirmations, delivery tracking and customer communication organized by date. Our guide on winning a chargeback explains what evidence works."
+   ]
+  },
+  {
+   "h2": "After the rush: review and reconcile",
+   "paragraphs": [
+    "In the first week of January, reconcile every batch against your sales records, review the monthly statement for unexpected fees and look at what went well. Note the busiest hours and any terminal that struggled, and use those notes to prepare for next year.",
+    "It is also a good moment to review your costs. A free, no-obligation statement analysis from MCCPS looks at two months of statements line by line, and holiday months are exactly the kind of high-volume data that makes it useful."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Test every terminal and every payment method weeks before the peak.",
+  "Know how your devices behave offline and keep a configured backup.",
+  "Train seasonal staff on declines, refunds and suspicious orders.",
+  "Review fraud rules weekly without blocking real gift buyers.",
+  "Plan funding timing early and keep documentation for chargebacks."
+ ],
+ "faq": [
+  {
+   "q": "When should I start preparing for the holiday rush?",
+   "a": "Begin at least four to six weeks before your busiest period. That gives you time to replace equipment, change connectivity, train seasonal staff and fix any issues your test transactions reveal. Waiting until the week of your peak leaves no margin for repairs or deliveries."
+  },
+  {
+   "q": "Do holiday sales increase fraud risk?",
+   "a": "Yes, fraud attempts tend to rise with volume because unusual orders blend in with busy days. Use address and security-code checks online, review large first-time orders, and watch for repeated small attempts with different cards. Adjust rules as you learn so legitimate buyers aren't blocked."
+  },
+  {
+   "q": "What should I do if my internet fails during a rush?",
+   "a": "Use a cellular backup if you have one, and know whether your terminals can store transactions offline. Offline approvals carry the risk that a card may later decline, so set sensible limits. Call technical support for help if your terminal does not behave as expected."
+  },
+  {
+   "q": "How can I get my deposits faster during the holidays?",
+   "a": "Next-day funding may be available for eligible merchants, subject to the approval and processing schedule. Even so, weekends and bank holidays can affect deposit timing, so check the calendar and plan inventory purchases accordingly. A quick call to your processor can confirm how this works on your specific account."
+  },
+  {
+   "q": "Where can I get working capital before the season?",
+   "a": "MCCPS is not a lender, but it refers merchants to Fidelity Funding for business funding. Compare the total cost, repayment structure and your expected sales before accepting any offer, and ask your accountant if you are unsure. Write the answer down so every manager and employee gives customers the same explanation."
+  }
+ ],
+ "related": [
+  "offline-payments",
+  "payment-terminal-troubleshooting",
+  "seasonal-business-payments",
+  "card-testing-attacks",
+  "how-to-win-a-chargeback",
+  "next-day-funding"
+ ],
+ "icon": "clock",
+ "read_minutes": 7
+}

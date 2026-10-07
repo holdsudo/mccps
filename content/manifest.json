@@ -1,0 +1,1402 @@
+[
+{
+"category": "industries",
+"slug": "restaurants",
+"title": "Restaurant Payment Processing",
+"angle": "tableside/tap, tips, high volume small tickets, POS integration",
+"url": "/industries/restaurants/"
+},
+{
+"category": "industries",
+"slug": "retail-stores",
+"title": "Retail Payment Processing",
+"angle": "countertop EMV, inventory-linked POS, returns, holiday peaks",
+"url": "/industries/retail-stores/"
+},
+{
+"category": "industries",
+"slug": "ecommerce",
+"title": "E-commerce Payment Processing",
+"angle": "gateway, cart plugins, card-not-present fraud, chargebacks",
+"url": "/industries/ecommerce/"
+},
+{
+"category": "industries",
+"slug": "bars-and-nightclubs",
+"title": "Bar & Nightclub Payment Processing",
+"angle": "pre-auth tabs, tips, speed at rush, chargebacks",
+"url": "/industries/bars-and-nightclubs/"
+},
+{
+"category": "industries",
+"slug": "coffee-shops",
+"title": "Coffee Shop Payment Processing",
+"angle": "micro-transactions, tap, loyalty, per-transaction fee impact",
+"url": "/industries/coffee-shops/"
+},
+{
+"category": "industries",
+"slug": "food-trucks",
+"title": "Food Truck Payment Processing",
+"angle": "mobile readers, offline mode, event volume",
+"url": "/industries/food-trucks/"
+},
+{
+"category": "industries",
+"slug": "quick-service-restaurants",
+"title": "Quick-Service Restaurant Payment Processing",
+"angle": "speed, kiosks, online ordering, drive-thru",
+"url": "/industries/quick-service-restaurants/"
+},
+{
+"category": "industries",
+"slug": "salons-and-spas",
+"title": "Salon & Spa Payment Processing",
+"angle": "appointments, deposits/no-show fees, tips, retail products",
+"url": "/industries/salons-and-spas/"
+},
+{
+"category": "industries",
+"slug": "barbershops",
+"title": "Barbershop Payment Processing",
+"angle": "walk-ins, tips, booth renters",
+"url": "/industries/barbershops/"
+},
+{
+"category": "industries",
+"slug": "gyms-and-fitness",
+"title": "Gym & Fitness Studio Payment Processing",
+"angle": "recurring memberships, failed payments, account updater",
+"url": "/industries/gyms-and-fitness/"
+},
+{
+"category": "industries",
+"slug": "medical-practices",
+"title": "Medical Practice Payment Processing",
+"angle": "patient copays, HSA/FSA cards, payment plans, PCI and privacy",
+"url": "/industries/medical-practices/"
+},
+{
+"category": "industries",
+"slug": "dental-practices",
+"title": "Dental Practice Payment Processing",
+"angle": "treatment plans, financing, card-on-file",
+"url": "/industries/dental-practices/"
+},
+{
+"category": "industries",
+"slug": "veterinary-clinics",
+"title": "Veterinary Clinic Payment Processing",
+"angle": "large unexpected bills, card-on-file, deposits",
+"url": "/industries/veterinary-clinics/"
+},
+{
+"category": "industries",
+"slug": "chiropractors",
+"title": "Chiropractic Payment Processing",
+"angle": "packages, recurring care plans",
+"url": "/industries/chiropractors/"
+},
+{
+"category": "industries",
+"slug": "auto-repair-shops",
+"title": "Auto Repair Shop Payment Processing",
+"angle": "large tickets, key-entry, Level 2 for fleets",
+"url": "/industries/auto-repair-shops/"
+},
+{
+"category": "industries",
+"slug": "car-dealerships",
+"title": "Car Dealership Payment Processing",
+"angle": "deposits, high ticket, card limits, ACH",
+"url": "/industries/car-dealerships/"
+},
+{
+"category": "industries",
+"slug": "hvac-and-plumbing",
+"title": "HVAC & Plumbing Payment Processing",
+"angle": "field payments, invoices, mobile",
+"url": "/industries/hvac-and-plumbing/"
+},
+{
+"category": "industries",
+"slug": "contractors",
+"title": "Contractor Payment Processing",
+"angle": "deposits, progress billing, B2B Level 2/3, ACH",
+"url": "/industries/contractors/"
+},
+{
+"category": "industries",
+"slug": "landscaping",
+"title": "Landscaping Payment Processing",
+"angle": "recurring service plans, invoicing, seasonal",
+"url": "/industries/landscaping/"
+},
+{
+"category": "industries",
+"slug": "cleaning-services",
+"title": "Cleaning Service Payment Processing",
+"angle": "recurring billing, card on file",
+"url": "/industries/cleaning-services/"
+},
+{
+"category": "industries",
+"slug": "professional-services",
+"title": "Professional Services Payment Processing",
+"angle": "invoices, retainers, ACH vs card",
+"url": "/industries/professional-services/"
+},
+{
+"category": "industries",
+"slug": "law-firms",
+"title": "Law Firm Payment Processing",
+"angle": "trust/IOLTA account considerations (consult bar rules), retainers",
+"url": "/industries/law-firms/"
+},
+{
+"category": "industries",
+"slug": "accounting-firms",
+"title": "Accounting Firm Payment Processing",
+"angle": "recurring engagements, invoices",
+"url": "/industries/accounting-firms/"
+},
+{
+"category": "industries",
+"slug": "nonprofits",
+"title": "Nonprofit Donation Processing",
+"angle": "donation pages, recurring gifts, fee coverage",
+"url": "/industries/nonprofits/"
+},
+{
+"category": "industries",
+"slug": "churches",
+"title": "Church & Ministry Giving Processing",
+"angle": "text/online giving, recurring tithes",
+"url": "/industries/churches/"
+},
+{
+"category": "industries",
+"slug": "schools-and-education",
+"title": "School & Education Payment Processing",
+"angle": "tuition, plans, events",
+"url": "/industries/schools-and-education/"
+},
+{
+"category": "industries",
+"slug": "daycare-centers",
+"title": "Daycare Payment Processing",
+"angle": "weekly tuition autopay",
+"url": "/industries/daycare-centers/"
+},
+{
+"category": "industries",
+"slug": "hotels-and-lodging",
+"title": "Hotel & Lodging Payment Processing",
+"angle": "pre-auths, incidentals, PMS integration",
+"url": "/industries/hotels-and-lodging/"
+},
+{
+"category": "industries",
+"slug": "travel-agencies",
+"title": "Travel Agency Payment Processing",
+"angle": "high chargeback risk, deposits",
+"url": "/industries/travel-agencies/"
+},
+{
+"category": "industries",
+"slug": "event-venues",
+"title": "Event Venue Payment Processing",
+"angle": "deposits, ticketing, on-site POS",
+"url": "/industries/event-venues/"
+},
+{
+"category": "industries",
+"slug": "ticketing-and-events",
+"title": "Ticketing & Event Payment Processing",
+"angle": "online tickets, door sales, peaks",
+"url": "/industries/ticketing-and-events/"
+},
+{
+"category": "industries",
+"slug": "convenience-stores",
+"title": "Convenience Store Payment Processing",
+"angle": "small tickets, EBT, speed",
+"url": "/industries/convenience-stores/"
+},
+{
+"category": "industries",
+"slug": "grocery-stores",
+"title": "Grocery Store Payment Processing",
+"angle": "EBT/SNAP, integrated lanes, volume pricing",
+"url": "/industries/grocery-stores/"
+},
+{
+"category": "industries",
+"slug": "liquor-stores",
+"title": "Liquor Store Payment Processing",
+"angle": "age verification, high volume, compliance",
+"url": "/industries/liquor-stores/"
+},
+{
+"category": "industries",
+"slug": "gas-stations",
+"title": "Gas Station Payment Processing",
+"angle": "pay-at-pump EMV, fleet cards, c-store",
+"url": "/industries/gas-stations/"
+},
+{
+"category": "industries",
+"slug": "pharmacies",
+"title": "Pharmacy Payment Processing",
+"angle": "HSA/FSA IIAS, copays",
+"url": "/industries/pharmacies/"
+},
+{
+"category": "industries",
+"slug": "florists",
+"title": "Florist Payment Processing",
+"angle": "phone orders, delivery, holidays",
+"url": "/industries/florists/"
+},
+{
+"category": "industries",
+"slug": "pet-services",
+"title": "Pet Store & Grooming Payment Processing",
+"angle": "appointments, retail",
+"url": "/industries/pet-services/"
+},
+{
+"category": "industries",
+"slug": "photographers",
+"title": "Photography Business Payment Processing",
+"angle": "deposits, invoices",
+"url": "/industries/photographers/"
+},
+{
+"category": "industries",
+"slug": "real-estate-and-property-management",
+"title": "Property Management Payment Processing",
+"angle": "rent via ACH/card, recurring",
+"url": "/industries/real-estate-and-property-management/"
+},
+{
+"category": "industries",
+"slug": "subscription-businesses",
+"title": "Subscription Business Payment Processing",
+"angle": "recurring billing, dunning, churn",
+"url": "/industries/subscription-businesses/"
+},
+{
+"category": "industries",
+"slug": "b2b-wholesale",
+"title": "B2B & Wholesale Payment Processing",
+"angle": "Level 2/3 data, invoices, ACH",
+"url": "/industries/b2b-wholesale/"
+},
+{
+"category": "industries",
+"slug": "manufacturing",
+"title": "Manufacturing Payment Processing",
+"angle": "large B2B, Level 3, net terms",
+"url": "/industries/manufacturing/"
+},
+{
+"category": "industries",
+"slug": "trucking-and-logistics",
+"title": "Trucking & Logistics Payment Processing",
+"angle": "fleet cards, B2B, mobile",
+"url": "/industries/trucking-and-logistics/"
+},
+{
+"category": "industries",
+"slug": "towing-companies",
+"title": "Towing Company Payment Processing",
+"angle": "roadside mobile payments",
+"url": "/industries/towing-companies/"
+},
+{
+"category": "industries",
+"slug": "home-services",
+"title": "Home Services Payment Processing",
+"angle": "field service apps, invoices",
+"url": "/industries/home-services/"
+},
+{
+"category": "industries",
+"slug": "farmers-markets-and-vendors",
+"title": "Market Vendor Payment Processing",
+"angle": "mobile, offline, low cost",
+"url": "/industries/farmers-markets-and-vendors/"
+},
+{
+"category": "industries",
+"slug": "ecommerce-subscription-boxes",
+"title": "Subscription Box Payment Processing",
+"angle": "recurring, card updater",
+"url": "/industries/ecommerce-subscription-boxes/"
+},
+{
+"category": "industries",
+"slug": "telehealth",
+"title": "Telehealth Payment Processing",
+"angle": "card-not-present, recurring",
+"url": "/industries/telehealth/"
+},
+{
+"category": "industries",
+"slug": "government-and-municipal",
+"title": "Government & Utility Payment Processing",
+"angle": "convenience fees rules, online bill pay",
+"url": "/industries/government-and-municipal/"
+},
+{
+"category": "solutions",
+"slug": "credit-card-processing",
+"title": "Credit Card Processing",
+"angle": "merchant account basics, how authorization/settlement works",
+"url": "/solutions/credit-card-processing/"
+},
+{
+"category": "solutions",
+"slug": "zero-processing-fees",
+"title": "Zero Processing Fees Program",
+"angle": "compliant dual pricing / cash discount explained, rules vary",
+"url": "/solutions/zero-processing-fees/"
+},
+{
+"category": "solutions",
+"slug": "pos-systems",
+"title": "POS Systems",
+"angle": "choosing POS, integrations, keep existing hardware",
+"url": "/solutions/pos-systems/"
+},
+{
+"category": "solutions",
+"slug": "credit-card-terminals",
+"title": "Credit Card Terminals",
+"angle": "countertop, wireless, EMV/NFC, reprogramming",
+"url": "/solutions/credit-card-terminals/"
+},
+{
+"category": "solutions",
+"slug": "mobile-payments",
+"title": "Mobile Payment Processing",
+"angle": "readers, tap-to-phone, field use",
+"url": "/solutions/mobile-payments/"
+},
+{
+"category": "solutions",
+"slug": "tap-to-pay",
+"title": "Tap to Pay & Contactless",
+"angle": "NFC, Apple/Google Pay",
+"url": "/solutions/tap-to-pay/"
+},
+{
+"category": "solutions",
+"slug": "payment-gateway",
+"title": "Online Payment Gateway",
+"angle": "CNP, tokenization, cart integrations",
+"url": "/solutions/payment-gateway/"
+},
+{
+"category": "solutions",
+"slug": "virtual-terminal",
+"title": "Virtual Terminal",
+"angle": "phone/mail orders, key-entry",
+"url": "/solutions/virtual-terminal/"
+},
+{
+"category": "solutions",
+"slug": "recurring-billing",
+"title": "Recurring Billing",
+"angle": "subscriptions, memberships, autopay",
+"url": "/solutions/recurring-billing/"
+},
+{
+"category": "solutions",
+"slug": "invoicing-and-payment-links",
+"title": "Invoicing & Payment Links",
+"angle": "pay-by-link, faster AR",
+"url": "/solutions/invoicing-and-payment-links/"
+},
+{
+"category": "solutions",
+"slug": "ach-processing",
+"title": "ACH & eCheck Processing",
+"angle": "bank payments, lower cost, timing",
+"url": "/solutions/ach-processing/"
+},
+{
+"category": "solutions",
+"slug": "level-2-and-level-3-processing",
+"title": "Level 2 & Level 3 Processing",
+"angle": "B2B enhanced data, lower interchange",
+"url": "/solutions/level-2-and-level-3-processing/"
+},
+{
+"category": "solutions",
+"slug": "next-day-funding",
+"title": "Next-Day Funding",
+"angle": "settlement timing, cash flow",
+"url": "/solutions/next-day-funding/"
+},
+{
+"category": "solutions",
+"slug": "pci-compliance",
+"title": "PCI Compliance",
+"angle": "SAQs, scans, encryption",
+"url": "/solutions/pci-compliance/"
+},
+{
+"category": "solutions",
+"slug": "fraud-prevention",
+"title": "Fraud Prevention",
+"angle": "AVS/CVV, 3DS, velocity",
+"url": "/solutions/fraud-prevention/"
+},
+{
+"category": "solutions",
+"slug": "chargeback-management",
+"title": "Chargeback Management",
+"angle": "disputes, representment",
+"url": "/solutions/chargeback-management/"
+},
+{
+"category": "solutions",
+"slug": "high-risk-merchant-accounts",
+"title": "High-Risk Merchant Accounts",
+"angle": "what makes high risk, realistic expectations",
+"url": "/solutions/high-risk-merchant-accounts/"
+},
+{
+"category": "solutions",
+"slug": "ebt-processing",
+"title": "EBT Processing",
+"angle": "SNAP acceptance basics",
+"url": "/solutions/ebt-processing/"
+},
+{
+"category": "solutions",
+"slug": "gift-cards-and-loyalty",
+"title": "Gift Cards & Loyalty",
+"angle": "programs, retention",
+"url": "/solutions/gift-cards-and-loyalty/"
+},
+{
+"category": "solutions",
+"slug": "payment-analytics-dashboard",
+"title": "Payment Analytics & Reporting",
+"angle": "dashboard insights",
+"url": "/solutions/payment-analytics-dashboard/"
+},
+{
+"category": "solutions",
+"slug": "emv-chip-processing",
+"title": "EMV Chip Card Processing",
+"angle": "liability shift",
+"url": "/solutions/emv-chip-processing/"
+},
+{
+"category": "solutions",
+"slug": "restaurant-pos",
+"title": "Restaurant POS",
+"angle": "tables, KDS, tips",
+"url": "/solutions/restaurant-pos/"
+},
+{
+"category": "solutions",
+"slug": "retail-pos",
+"title": "Retail POS",
+"angle": "inventory, SKUs",
+"url": "/solutions/retail-pos/"
+},
+{
+"category": "solutions",
+"slug": "ecommerce-integrations",
+"title": "E-commerce Platform Integrations",
+"angle": "cart/plugin integrations",
+"url": "/solutions/ecommerce-integrations/"
+},
+{
+"category": "solutions",
+"slug": "merchant-cash-advance-referrals",
+"title": "Business Funding for Merchants",
+"angle": "working capital options via partners like Fidelity Funding",
+"url": "/solutions/merchant-cash-advance-referrals/"
+},
+{
+"category": "solutions",
+"slug": "interchange-plus-pricing",
+"title": "Interchange-Plus Pricing",
+"angle": "transparent pricing model",
+"url": "/solutions/interchange-plus-pricing/"
+},
+{
+"category": "solutions",
+"slug": "surcharging-programs",
+"title": "Credit Card Surcharging",
+"angle": "rules, caps, disclosures; vary by state/network",
+"url": "/solutions/surcharging-programs/"
+},
+{
+"category": "solutions",
+"slug": "free-statement-analysis",
+"title": "Free Merchant Statement Analysis",
+"angle": "what we review",
+"url": "/solutions/free-statement-analysis/"
+},
+{
+"category": "solutions",
+"slug": "switch-payment-processors",
+"title": "Switching Payment Processors",
+"angle": "contracts, ETFs, smooth migration",
+"url": "/solutions/switch-payment-processors/"
+},
+{
+"category": "solutions",
+"slug": "independent-sales-agent-program",
+"title": "Independent Sales Agent Program",
+"angle": "residuals, ISO/ISA partnership",
+"url": "/solutions/independent-sales-agent-program/"
+},
+{
+"category": "use-cases",
+"slug": "lower-processing-fees",
+"title": "How to Lower Credit Card Processing Fees",
+"angle": "levers",
+"url": "/use-cases/lower-processing-fees/"
+},
+{
+"category": "use-cases",
+"slug": "accept-credit-cards-for-the-first-time",
+"title": "Accepting Credit Cards for the First Time",
+"angle": "setup steps",
+"url": "/use-cases/accept-credit-cards-for-the-first-time/"
+},
+{
+"category": "use-cases",
+"slug": "accept-payments-online",
+"title": "Accepting Payments Online",
+"angle": "gateway, website",
+"url": "/use-cases/accept-payments-online/"
+},
+{
+"category": "use-cases",
+"slug": "accept-payments-by-phone",
+"title": "Taking Card Payments Over the Phone",
+"angle": "virtual terminal, security",
+"url": "/use-cases/accept-payments-by-phone/"
+},
+{
+"category": "use-cases",
+"slug": "accept-payments-on-the-go",
+"title": "Accepting Payments on the Go",
+"angle": "mobile setups",
+"url": "/use-cases/accept-payments-on-the-go/"
+},
+{
+"category": "use-cases",
+"slug": "accept-payments-at-events",
+"title": "Accepting Payments at Events & Pop-Ups",
+"angle": "offline, connectivity",
+"url": "/use-cases/accept-payments-at-events/"
+},
+{
+"category": "use-cases",
+"slug": "set-up-recurring-payments",
+"title": "Setting Up Recurring Payments",
+"angle": "subscriptions",
+"url": "/use-cases/set-up-recurring-payments/"
+},
+{
+"category": "use-cases",
+"slug": "get-paid-faster",
+"title": "Getting Paid Faster",
+"angle": "next-day funding, invoices",
+"url": "/use-cases/get-paid-faster/"
+},
+{
+"category": "use-cases",
+"slug": "reduce-chargebacks",
+"title": "Reducing Chargebacks",
+"angle": "prevention",
+"url": "/use-cases/reduce-chargebacks/"
+},
+{
+"category": "use-cases",
+"slug": "prevent-card-fraud",
+"title": "Preventing Card Fraud",
+"angle": "CNP and in-person",
+"url": "/use-cases/prevent-card-fraud/"
+},
+{
+"category": "use-cases",
+"slug": "upgrade-to-emv-and-contactless",
+"title": "Upgrading to EMV & Contactless",
+"angle": "hardware",
+"url": "/use-cases/upgrade-to-emv-and-contactless/"
+},
+{
+"category": "use-cases",
+"slug": "integrate-payments-with-pos",
+"title": "Integrating Payments With Your POS",
+"angle": "integration choices",
+"url": "/use-cases/integrate-payments-with-pos/"
+},
+{
+"category": "use-cases",
+"slug": "offer-cash-discount",
+"title": "Offering a Cash Discount Program",
+"angle": "implementation, signage",
+"url": "/use-cases/offer-cash-discount/"
+},
+{
+"category": "use-cases",
+"slug": "pass-fees-to-customers",
+"title": "Passing Processing Fees to Customers",
+"angle": "surcharge vs cash discount vs convenience fee",
+"url": "/use-cases/pass-fees-to-customers/"
+},
+{
+"category": "use-cases",
+"slug": "process-b2b-payments",
+"title": "Processing B2B Payments",
+"angle": "Level 2/3, ACH",
+"url": "/use-cases/process-b2b-payments/"
+},
+{
+"category": "use-cases",
+"slug": "take-deposits-and-prepayments",
+"title": "Taking Deposits & Prepayments",
+"angle": "pre-auth, card on file",
+"url": "/use-cases/take-deposits-and-prepayments/"
+},
+{
+"category": "use-cases",
+"slug": "accept-tips",
+"title": "Accepting Tips on Card Payments",
+"angle": "tip adjust, pooling",
+"url": "/use-cases/accept-tips/"
+},
+{
+"category": "use-cases",
+"slug": "handle-refunds-and-returns",
+"title": "Handling Refunds & Returns",
+"angle": "policies",
+"url": "/use-cases/handle-refunds-and-returns/"
+},
+{
+"category": "use-cases",
+"slug": "multi-location-payments",
+"title": "Payments for Multi-Location Businesses",
+"angle": "consolidated reporting",
+"url": "/use-cases/multi-location-payments/"
+},
+{
+"category": "use-cases",
+"slug": "open-a-new-business",
+"title": "Payments Setup for a New Business",
+"angle": "checklist",
+"url": "/use-cases/open-a-new-business/"
+},
+{
+"category": "use-cases",
+"slug": "move-off-flat-rate-processing",
+"title": "Moving Off Flat-Rate Processing",
+"angle": "when it pays",
+"url": "/use-cases/move-off-flat-rate-processing/"
+},
+{
+"category": "use-cases",
+"slug": "cancel-processor-contract",
+"title": "Getting Out of a Processor Contract",
+"angle": "ETF, leases",
+"url": "/use-cases/cancel-processor-contract/"
+},
+{
+"category": "use-cases",
+"slug": "terminal-lease-traps",
+"title": "Avoiding Terminal Lease Traps",
+"angle": "non-cancellable leases",
+"url": "/use-cases/terminal-lease-traps/"
+},
+{
+"category": "use-cases",
+"slug": "become-pci-compliant",
+"title": "Becoming PCI Compliant",
+"angle": "step by step",
+"url": "/use-cases/become-pci-compliant/"
+},
+{
+"category": "use-cases",
+"slug": "accept-apple-pay-and-google-pay",
+"title": "Accepting Apple Pay & Google Pay",
+"angle": "wallets",
+"url": "/use-cases/accept-apple-pay-and-google-pay/"
+},
+{
+"category": "use-cases",
+"slug": "accept-international-cards",
+"title": "Accepting International Cards",
+"angle": "fees, currency",
+"url": "/use-cases/accept-international-cards/"
+},
+{
+"category": "use-cases",
+"slug": "sell-on-social-media",
+"title": "Selling on Social Media With Payment Links",
+"angle": "links, DMs",
+"url": "/use-cases/sell-on-social-media/"
+},
+{
+"category": "use-cases",
+"slug": "collect-overdue-invoices",
+"title": "Collecting Overdue Invoices With Payment Links",
+"angle": "AR",
+"url": "/use-cases/collect-overdue-invoices/"
+},
+{
+"category": "use-cases",
+"slug": "earn-residual-income",
+"title": "Earning Residual Income as a Payments Agent",
+"angle": "agent economics",
+"url": "/use-cases/earn-residual-income/"
+},
+{
+"category": "use-cases",
+"slug": "audit-your-merchant-statement",
+"title": "Auditing Your Merchant Statement",
+"angle": "line by line",
+"url": "/use-cases/audit-your-merchant-statement/"
+},
+{
+"category": "blog",
+"slug": "how-credit-card-processing-works",
+"title": "How Credit Card Processing Works, Step by Step",
+"angle": "auth, clearing, settlement, parties",
+"url": "/blog/how-credit-card-processing-works/"
+},
+{
+"category": "blog",
+"slug": "interchange-explained",
+"title": "Interchange Fees Explained",
+"angle": "who sets them, why they vary",
+"url": "/blog/interchange-explained/"
+},
+{
+"category": "blog",
+"slug": "assessment-fees-explained",
+"title": "Card Network Assessment Fees Explained",
+"angle": "network fees",
+"url": "/blog/assessment-fees-explained/"
+},
+{
+"category": "blog",
+"slug": "processor-markup-explained",
+"title": "Processor Markup: What You're Really Paying For",
+"angle": "markup",
+"url": "/blog/processor-markup-explained/"
+},
+{
+"category": "blog",
+"slug": "effective-rate-explained",
+"title": "Your Effective Rate: The Only Number That Matters",
+"angle": "calculation",
+"url": "/blog/effective-rate-explained/"
+},
+{
+"category": "blog",
+"slug": "tiered-pricing-explained",
+"title": "Tiered Pricing: Qualified vs. Non-Qualified",
+"angle": "why it hides cost",
+"url": "/blog/tiered-pricing-explained/"
+},
+{
+"category": "blog",
+"slug": "flat-rate-vs-interchange-plus",
+"title": "Flat-Rate vs. Interchange-Plus Pricing",
+"angle": "comparison",
+"url": "/blog/flat-rate-vs-interchange-plus/"
+},
+{
+"category": "blog",
+"slug": "membership-and-subscription-pricing",
+"title": "Subscription (Membership) Pricing for Processing",
+"angle": "model",
+"url": "/blog/membership-and-subscription-pricing/"
+},
+{
+"category": "blog",
+"slug": "dual-pricing-explained",
+"title": "Dual Pricing Explained",
+"angle": "how it works, rules",
+"url": "/blog/dual-pricing-explained/"
+},
+{
+"category": "blog",
+"slug": "cash-discount-vs-surcharge",
+"title": "Cash Discount vs. Surcharge: What's the Difference?",
+"angle": "compliance overview",
+"url": "/blog/cash-discount-vs-surcharge/"
+},
+{
+"category": "blog",
+"slug": "surcharge-rules-by-state",
+"title": "Credit Card Surcharge Rules: What to Check in Your State",
+"angle": "no specifics claimed as current law; varies",
+"url": "/blog/surcharge-rules-by-state/"
+},
+{
+"category": "blog",
+"slug": "convenience-fees-explained",
+"title": "Convenience Fees Explained",
+"angle": "card network rules",
+"url": "/blog/convenience-fees-explained/"
+},
+{
+"category": "blog",
+"slug": "debit-vs-credit-processing-costs",
+"title": "Debit vs. Credit: Why Costs Differ",
+"angle": "regulated debit, rewards cards",
+"url": "/blog/debit-vs-credit-processing-costs/"
+},
+{
+"category": "blog",
+"slug": "rewards-cards-cost-more",
+"title": "Why Rewards Cards Cost Merchants More",
+"angle": "interchange categories",
+"url": "/blog/rewards-cards-cost-more/"
+},
+{
+"category": "blog",
+"slug": "card-present-vs-card-not-present",
+"title": "Card-Present vs. Card-Not-Present Transactions",
+"angle": "risk and cost",
+"url": "/blog/card-present-vs-card-not-present/"
+},
+{
+"category": "blog",
+"slug": "what-is-a-merchant-account",
+"title": "What Is a Merchant Account?",
+"angle": "basics",
+"url": "/blog/what-is-a-merchant-account/"
+},
+{
+"category": "blog",
+"slug": "payment-facilitator-vs-merchant-account",
+"title": "Payment Facilitator vs. Dedicated Merchant Account",
+"angle": "trade-offs",
+"url": "/blog/payment-facilitator-vs-merchant-account/"
+},
+{
+"category": "blog",
+"slug": "what-is-an-iso",
+"title": "What Is an ISO in Payments?",
+"angle": "roles",
+"url": "/blog/what-is-an-iso/"
+},
+{
+"category": "blog",
+"slug": "what-is-a-payment-gateway",
+"title": "What Is a Payment Gateway?",
+"angle": "basics",
+"url": "/blog/what-is-a-payment-gateway/"
+},
+{
+"category": "blog",
+"slug": "payment-processor-vs-gateway",
+"title": "Payment Processor vs. Payment Gateway",
+"angle": "difference",
+"url": "/blog/payment-processor-vs-gateway/"
+},
+{
+"category": "blog",
+"slug": "how-to-read-a-merchant-statement",
+"title": "How to Read a Merchant Statement",
+"angle": "sections",
+"url": "/blog/how-to-read-a-merchant-statement/"
+},
+{
+"category": "blog",
+"slug": "hidden-fees-on-merchant-statements",
+"title": "12 Hidden Fees on Merchant Statements",
+"angle": "list",
+"url": "/blog/hidden-fees-on-merchant-statements/"
+},
+{
+"category": "blog",
+"slug": "pci-non-compliance-fee",
+"title": "The PCI Non-Compliance Fee and How to Stop Paying It",
+"angle": "SAQ",
+"url": "/blog/pci-non-compliance-fee/"
+},
+{
+"category": "blog",
+"slug": "early-termination-fees",
+"title": "Processor Early Termination Fees",
+"angle": "contracts",
+"url": "/blog/early-termination-fees/"
+},
+{
+"category": "blog",
+"slug": "terminal-leasing-vs-buying",
+"title": "Leasing vs. Buying a Card Terminal",
+"angle": "total cost",
+"url": "/blog/terminal-leasing-vs-buying/"
+},
+{
+"category": "blog",
+"slug": "best-pos-features-small-business",
+"title": "POS Features That Matter for Small Businesses",
+"angle": "checklist",
+"url": "/blog/best-pos-features-small-business/"
+},
+{
+"category": "blog",
+"slug": "emv-liability-shift",
+"title": "The EMV Liability Shift Explained",
+"angle": "counterfeit fraud",
+"url": "/blog/emv-liability-shift/"
+},
+{
+"category": "blog",
+"slug": "contactless-payments-guide",
+"title": "Contactless Payments: A Merchant Guide",
+"angle": "NFC",
+"url": "/blog/contactless-payments-guide/"
+},
+{
+"category": "blog",
+"slug": "mobile-wallets-explained",
+"title": "Apple Pay, Google Pay & Mobile Wallets Explained",
+"angle": "tokenization",
+"url": "/blog/mobile-wallets-explained/"
+},
+{
+"category": "blog",
+"slug": "tokenization-explained",
+"title": "Payment Tokenization Explained",
+"angle": "security",
+"url": "/blog/tokenization-explained/"
+},
+{
+"category": "blog",
+"slug": "encryption-p2pe-explained",
+"title": "Point-to-Point Encryption (P2PE) Explained",
+"angle": "security",
+"url": "/blog/encryption-p2pe-explained/"
+},
+{
+"category": "blog",
+"slug": "3d-secure-explained",
+"title": "3-D Secure Explained",
+"angle": "CNP auth",
+"url": "/blog/3d-secure-explained/"
+},
+{
+"category": "blog",
+"slug": "avs-and-cvv",
+"title": "AVS and CVV Checks: Your First Fraud Defense",
+"angle": "basics",
+"url": "/blog/avs-and-cvv/"
+},
+{
+"category": "blog",
+"slug": "chargeback-reason-codes",
+"title": "Chargeback Reason Codes Explained",
+"angle": "common categories",
+"url": "/blog/chargeback-reason-codes/"
+},
+{
+"category": "blog",
+"slug": "how-to-win-a-chargeback",
+"title": "How to Win a Chargeback Dispute",
+"angle": "representment",
+"url": "/blog/how-to-win-a-chargeback/"
+},
+{
+"category": "blog",
+"slug": "friendly-fraud",
+"title": "Friendly Fraud: What It Is and How to Fight It",
+"angle": "prevention",
+"url": "/blog/friendly-fraud/"
+},
+{
+"category": "blog",
+"slug": "card-testing-attacks",
+"title": "Card Testing Attacks on Online Stores",
+"angle": "prevention",
+"url": "/blog/card-testing-attacks/"
+},
+{
+"category": "blog",
+"slug": "refund-vs-chargeback",
+"title": "Refund vs. Chargeback",
+"angle": "why refunding early helps",
+"url": "/blog/refund-vs-chargeback/"
+},
+{
+"category": "blog",
+"slug": "next-day-funding-explained",
+"title": "Next-Day Funding: How Settlement Timing Works",
+"angle": "batches, cutoffs",
+"url": "/blog/next-day-funding-explained/"
+},
+{
+"category": "blog",
+"slug": "batch-settlement-explained",
+"title": "Batch Settlement Explained",
+"angle": "closing batches",
+"url": "/blog/batch-settlement-explained/"
+},
+{
+"category": "blog",
+"slug": "ach-vs-credit-card",
+"title": "ACH vs. Credit Card Payments for Businesses",
+"angle": "cost/timing",
+"url": "/blog/ach-vs-credit-card/"
+},
+{
+"category": "blog",
+"slug": "recurring-billing-best-practices",
+"title": "Recurring Billing Best Practices",
+"angle": "dunning, updater",
+"url": "/blog/recurring-billing-best-practices/"
+},
+{
+"category": "blog",
+"slug": "account-updater",
+"title": "Card Account Updater: Fewer Failed Payments",
+"angle": "how it works",
+"url": "/blog/account-updater/"
+},
+{
+"category": "blog",
+"slug": "level-2-3-data-explained",
+"title": "Level 2 and Level 3 Data Explained",
+"angle": "fields, savings",
+"url": "/blog/level-2-3-data-explained/"
+},
+{
+"category": "blog",
+"slug": "b2b-payment-trends",
+"title": "Accepting Cards From Business Customers",
+"angle": "corporate/purchasing cards",
+"url": "/blog/b2b-payment-trends/"
+},
+{
+"category": "blog",
+"slug": "ebt-snap-acceptance",
+"title": "Accepting EBT/SNAP: A Retailer Guide",
+"angle": "basics",
+"url": "/blog/ebt-snap-acceptance/"
+},
+{
+"category": "blog",
+"slug": "hsa-fsa-card-acceptance",
+"title": "Accepting HSA and FSA Cards",
+"angle": "IIAS basics",
+"url": "/blog/hsa-fsa-card-acceptance/"
+},
+{
+"category": "blog",
+"slug": "tipping-on-card-terminals",
+"title": "Tipping on Card Terminals: Setup & Etiquette",
+"angle": "options",
+"url": "/blog/tipping-on-card-terminals/"
+},
+{
+"category": "blog",
+"slug": "restaurant-payment-tips",
+"title": "Restaurant Payment Tips to Cut Costs",
+"angle": "practical",
+"url": "/blog/restaurant-payment-tips/"
+},
+{
+"category": "blog",
+"slug": "retail-payment-tips",
+"title": "Retail Payment Tips to Cut Costs",
+"angle": "practical",
+"url": "/blog/retail-payment-tips/"
+},
+{
+"category": "blog",
+"slug": "ecommerce-checkout-optimization",
+"title": "Checkout Optimization for Online Stores",
+"angle": "conversion",
+"url": "/blog/ecommerce-checkout-optimization/"
+},
+{
+"category": "blog",
+"slug": "high-risk-industries-explained",
+"title": "Why Some Industries Are 'High Risk' for Processing",
+"angle": "factors",
+"url": "/blog/high-risk-industries-explained/"
+},
+{
+"category": "blog",
+"slug": "merchant-account-approval",
+"title": "How Merchant Account Approval Works",
+"angle": "underwriting",
+"url": "/blog/merchant-account-approval/"
+},
+{
+"category": "blog",
+"slug": "merchant-account-holds-and-reserves",
+"title": "Merchant Account Holds and Reserves",
+"angle": "why they happen",
+"url": "/blog/merchant-account-holds-and-reserves/"
+},
+{
+"category": "blog",
+"slug": "matched-list-explained",
+"title": "The MATCH List Explained",
+"angle": "termination file",
+"url": "/blog/matched-list-explained/"
+},
+{
+"category": "blog",
+"slug": "switching-processors-checklist",
+"title": "Switching Processors: A Checklist",
+"angle": "steps",
+"url": "/blog/switching-processors-checklist/"
+},
+{
+"category": "blog",
+"slug": "questions-to-ask-a-processor",
+"title": "15 Questions to Ask a Payment Processor",
+"angle": "list",
+"url": "/blog/questions-to-ask-a-processor/"
+},
+{
+"category": "blog",
+"slug": "processor-contract-red-flags",
+"title": "Red Flags in Payment Processing Contracts",
+"angle": "auto-renew, ETF, leases",
+"url": "/blog/processor-contract-red-flags/"
+},
+{
+"category": "blog",
+"slug": "negotiate-processing-rates",
+"title": "How to Negotiate Lower Processing Rates",
+"angle": "levers",
+"url": "/blog/negotiate-processing-rates/"
+},
+{
+"category": "blog",
+"slug": "small-ticket-transactions",
+"title": "Small-Ticket Transactions and Processing Costs",
+"angle": "per-transaction fees",
+"url": "/blog/small-ticket-transactions/"
+},
+{
+"category": "blog",
+"slug": "large-ticket-transactions",
+"title": "Large-Ticket Transactions: Limits and Risk",
+"angle": "limits",
+"url": "/blog/large-ticket-transactions/"
+},
+{
+"category": "blog",
+"slug": "international-cards-fees",
+"title": "Cross-Border and International Card Fees",
+"angle": "fees",
+"url": "/blog/international-cards-fees/"
+},
+{
+"category": "blog",
+"slug": "cash-vs-card-small-business",
+"title": "Cash vs. Card for Small Businesses",
+"angle": "handling costs",
+"url": "/blog/cash-vs-card-small-business/"
+},
+{
+"category": "blog",
+"slug": "going-cashless",
+"title": "Should Your Business Go Cashless?",
+"angle": "considerations, local laws vary",
+"url": "/blog/going-cashless/"
+},
+{
+"category": "blog",
+"slug": "payment-links-guide",
+"title": "Payment Links: A Small Business Guide",
+"angle": "use cases",
+"url": "/blog/payment-links-guide/"
+},
+{
+"category": "blog",
+"slug": "qr-code-payments",
+"title": "QR Code Payments for Small Businesses",
+"angle": "use",
+"url": "/blog/qr-code-payments/"
+},
+{
+"category": "blog",
+"slug": "buy-now-pay-later-for-merchants",
+"title": "Buy Now, Pay Later for Merchants",
+"angle": "pros/cons",
+"url": "/blog/buy-now-pay-later-for-merchants/"
+},
+{
+"category": "blog",
+"slug": "omnichannel-payments",
+"title": "Omnichannel Payments: One Account, Every Channel",
+"angle": "unified",
+"url": "/blog/omnichannel-payments/"
+},
+{
+"category": "blog",
+"slug": "payment-data-analytics",
+"title": "Using Payment Data to Grow Sales",
+"angle": "insights",
+"url": "/blog/payment-data-analytics/"
+},
+{
+"category": "blog",
+"slug": "customer-loyalty-with-payments",
+"title": "Building Loyalty Through Your Payment System",
+"angle": "programs",
+"url": "/blog/customer-loyalty-with-payments/"
+},
+{
+"category": "blog",
+"slug": "gift-card-programs",
+"title": "Running a Gift Card Program",
+"angle": "setup",
+"url": "/blog/gift-card-programs/"
+},
+{
+"category": "blog",
+"slug": "holiday-season-payments-prep",
+"title": "Preparing Your Payments for the Holiday Rush",
+"angle": "checklist",
+"url": "/blog/holiday-season-payments-prep/"
+},
+{
+"category": "blog",
+"slug": "seasonal-business-payments",
+"title": "Payments for Seasonal Businesses",
+"angle": "pausing, fees",
+"url": "/blog/seasonal-business-payments/"
+},
+{
+"category": "blog",
+"slug": "payment-security-checklist",
+"title": "Payment Security Checklist for Small Businesses",
+"angle": "list",
+"url": "/blog/payment-security-checklist/"
+},
+{
+"category": "blog",
+"slug": "data-breach-response",
+"title": "What to Do After a Payment Data Breach",
+"angle": "steps (consult counsel)",
+"url": "/blog/data-breach-response/"
+},
+{
+"category": "blog",
+"slug": "employee-theft-pos",
+"title": "Preventing Employee Theft at the POS",
+"angle": "controls",
+"url": "/blog/employee-theft-pos/"
+},
+{
+"category": "blog",
+"slug": "offline-payments",
+"title": "Taking Payments When the Internet Goes Down",
+"angle": "offline mode",
+"url": "/blog/offline-payments/"
+},
+{
+"category": "blog",
+"slug": "payment-terminal-troubleshooting",
+"title": "Card Terminal Troubleshooting Guide",
+"angle": "common fixes",
+"url": "/blog/payment-terminal-troubleshooting/"
+},
+{
+"category": "blog",
+"slug": "receipt-best-practices",
+"title": "Receipt Best Practices: Paper, Email and SMS",
+"angle": "options",
+"url": "/blog/receipt-best-practices/"
+},
+{
+"category": "blog",
+"slug": "payments-for-startups",
+"title": "Payment Processing for Startups",
+"angle": "first setup",
+"url": "/blog/payments-for-startups/"
+},
+{
+"category": "blog",
+"slug": "independent-sales-agent-guide",
+"title": "How to Become a Merchant Services Sales Agent",
+"angle": "path",
+"url": "/blog/independent-sales-agent-guide/"
+},
+{
+"category": "blog",
+"slug": "residual-income-explained",
+"title": "Merchant Services Residuals Explained",
+"angle": "how agents earn",
+"url": "/blog/residual-income-explained/"
+},
+{
+"category": "blog",
+"slug": "iso-vs-agent",
+"title": "ISO vs. Independent Sales Agent",
+"angle": "roles",
+"url": "/blog/iso-vs-agent/"
+},
+{
+"category": "blog",
+"slug": "selling-merchant-services",
+"title": "How to Sell Merchant Services: A Beginner's Guide",
+"angle": "prospecting",
+"url": "/blog/selling-merchant-services/"
+},
+{
+"category": "blog",
+"slug": "statement-analysis-sales-tool",
+"title": "Using Statement Analysis to Win Merchants",
+"angle": "agent tactic",
+"url": "/blog/statement-analysis-sales-tool/"
+},
+{
+"category": "blog",
+"slug": "future-of-payments",
+"title": "The Future of Payments for Small Businesses",
+"angle": "trends without stats",
+"url": "/blog/future-of-payments/"
+},
+{
+"category": "blog",
+"slug": "payments-glossary-guide",
+"title": "Payment Processing Terms Every Owner Should Know",
+"angle": "narrative glossary",
+"url": "/blog/payments-glossary-guide/"
+},
+{
+"category": "blog",
+"slug": "processing-fees-tax-deductible",
+"title": "Are Credit Card Processing Fees Tax Deductible?",
+"angle": "general, consult CPA",
+"url": "/blog/processing-fees-tax-deductible/"
+},
+{
+"category": "blog",
+"slug": "checks-vs-cards",
+"title": "Paper Checks vs. Card Payments for Small Businesses",
+"angle": "cost, speed, risk",
+"url": "/blog/checks-vs-cards/"
+},
+{
+"category": "blog",
+"slug": "working-capital-for-merchants",
+"title": "Working Capital Options for Card-Accepting Businesses",
+"angle": "funding via partners, Fidelity Funding mention",
+"url": "/blog/working-capital-for-merchants/"
+}
+]

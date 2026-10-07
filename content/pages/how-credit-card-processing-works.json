@@ -1,0 +1,92 @@
+{
+  "slug": "how-credit-card-processing-works",
+  "category": "blog",
+  "title": "How Credit Card Processing Works, Step by Step",
+  "seo_title": "How Credit Card Processing Works Step by Step | MCCPS",
+  "meta_description": "Follow a card payment from tap to deposit: authorization, clearing, settlement, and the parties that touch every sale. A plain-English guide for merchants.",
+  "primary_keyword": "how credit card processing works",
+  "keywords": ["credit card processing steps", "authorization and settlement", "card payment flow", "issuing bank and acquirer", "how merchants get paid", "batch settlement", "payment processing explained"],
+  "eyebrow": "Payments 101",
+  "dek": "A card sale feels instant at the counter, but a lot happens in the seconds and days that follow. Here is the whole path, in order.",
+  "intro": [
+    "A customer taps a card, the terminal beeps, and the receipt prints. From where you stand, the sale is done. In reality, that beep only means one thing: the customer's bank has agreed to hold the money. Your actual cash arrives one or two business days later, after a second set of steps that most owners never see.",
+    "Understanding that path is not trivia. Every fee on your statement, every delayed deposit and every chargeback maps to one specific stage of the process. Once you can name the stages, a confusing statement starts to read like a receipt for services you can actually evaluate.",
+    "This guide walks through a typical card payment from start to finish, introduces the parties involved, and points out where your costs and risks come from along the way."
+  ],
+  "sections": [
+    {
+      "h2": "The cast of characters",
+      "paragraphs": [
+        "Even a simple coffee purchase involves more parties than the two standing at the register. Knowing who is who makes the rest of the process easy to follow.",
+        "The cardholder is your customer. The issuing bank is the institution that gave them the card and extended the credit or holds the debit funds. You are the merchant. Your acquiring bank, usually working through a processor or an independent sales organization, holds your merchant account and is responsible for getting your sales funded. The card networks sit in the middle, setting the rules and moving the messages between issuer and acquirer."
+      ],
+      "bullets": [
+        "Cardholder: the customer paying with a card or mobile wallet.",
+        "Issuer: the bank that approves or declines the sale and bills the cardholder.",
+        "Acquirer: the bank that deposits money into your account.",
+        "Processor: the technology company that routes transaction data and handles settlement files.",
+        "Card network: the brand and rulebook connecting issuers and acquirers.",
+        "Gateway: the secure connection between a website or app and the processor."
+      ]
+    },
+    {
+      "h2": "Step one: capture and authorization request",
+      "paragraphs": [
+        "The process starts when card data enters your system. In person, the terminal reads the chip, the contactless antenna or, as a fallback, the magnetic stripe. Online, the customer types the number into a checkout form. By phone, you key it into a virtual terminal. Whichever method you use, the data is encrypted or tokenized as quickly as possible so that raw card numbers do not linger on your systems.",
+        "The terminal or gateway packages the card data with the amount, your merchant ID and a few other details, then sends an authorization request to your processor. The processor forwards it across the card network to the issuing bank. This hop-by-hop journey usually completes in a second or two."
+      ]
+    },
+    {
+      "h2": "Step two: the issuer decides",
+      "paragraphs": [
+        "The issuing bank checks several things at once: is the account open, is there enough available credit or balance, does the card number and security data match, and does the transaction look like something this cardholder would do. Fraud models weigh the location, the merchant type and the pattern of recent purchases.",
+        "The issuer sends back a response code. An approval includes an authorization code. A decline carries a reason, such as insufficient funds, a suspected fraud flag or an invalid card. Importantly, an approval does not move money. It places a hold on the cardholder's available credit or balance, which is why a pending charge can appear in a customer's banking app before you have been paid."
+      ]
+    },
+    {
+      "h2": "Step three: batching",
+      "paragraphs": [
+        "Approved transactions accumulate in an open batch. Think of the batch as a stack of signed receipts waiting to be turned in. Many systems close the batch automatically at a set time each night, while others require someone to press a close-batch button. If you forget on a manually closed terminal, your sales simply wait, and your funding slips by a day.",
+        "Tip adjustments, tab closeouts and corrections happen before the batch closes. Once it is submitted, changes get harder, and any fix usually means a refund or a new charge."
+      ]
+    },
+    {
+      "h2": "Step four: clearing and settlement",
+      "paragraphs": [
+        "When the batch is submitted, the processor sends it through the network for clearing. This is the stage where the actual dollar amounts are matched to each authorization and the fees are calculated. The issuer sends the sale amount, minus the interchange fee, toward the acquirer. The network also collects its own assessments along the way.",
+        "The acquirer then deposits the net amount into your business bank account, typically by ACH, and the processor takes its markup. Standard funding commonly lands in one to two business days, and some programs offer next-day funding. Weekends and bank holidays stretch the timeline because the banking system settles on business days.",
+        "Say you close a batch of $5,000 in sales. If the all-in cost lands at 2.8%, about $140 is deducted, and roughly $4,860 arrives. That example is hypothetical, but the arithmetic is the same on any real batch."
+      ]
+    },
+    {
+      "h2": "Step five: billing and the aftermath",
+      "paragraphs": [
+        "The cardholder receives a statement from the issuer and pays the balance on their own schedule. The merchant's part is usually finished, with two exceptions. First, refunds: you send a credit back through the same path, and the original processing fees are generally not returned. Second, chargebacks: if the cardholder disputes the charge, the issuer can pull the funds back, and you must respond with evidence within the deadline for that reason code.",
+        "This is also where card-present and card-not-present sales diverge. A chip-read, signed or PIN-verified in-person sale is much harder to dispute successfully than a keyed online order, so the way you accept cards affects both your rates and your risk."
+      ]
+    },
+    {
+      "h2": "Where your costs come from",
+      "paragraphs": [
+        "Every stage above is a source of cost. Interchange goes to the issuer, assessments go to the networks, and the processor's markup, per-item fees and monthly fees go to the companies that run the machinery for you. Add-ons such as gateway fees, PCI program fees and statement fees round out the picture.",
+        "If you would like to see how those layers stack up for your own business, MCCPS offers a free, no-obligation savings analysis of two months of your statements, line by line. Savings always depend on your card mix and how you accept payments, so there is no promise until the numbers are reviewed."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "An approval is a hold on funds, not a deposit; settlement happens after the batch closes.",
+    "Six parties touch most card sales: cardholder, issuer, acquirer, processor, network and gateway.",
+    "Funding usually arrives in one to two business days, and closing your batch on time matters.",
+    "Each stage of the flow maps to a line on your statement, which is why understanding it helps you audit fees."
+  ],
+  "faq": [
+    {"q": "How long does credit card processing take?", "a": "Authorization takes a second or two. Getting paid takes longer: after your batch closes, funds commonly reach your bank in one to two business days, longer over weekends and holidays. Some processing programs offer next-day funding, and your actual timing depends on your agreement and when you submit your batch."},
+    {"q": "What is the difference between authorization and settlement?", "a": "Authorization is the issuer's approval and a temporary hold on the cardholder's funds. Settlement is the later transfer of money from the issuer through the networks to your acquirer and into your bank account. A sale can be authorized without ever settling if it is voided or never batched."},
+    {"q": "Why does my deposit not match my sales total?", "a": "Deposits are net of processing fees, refunds, chargebacks and sometimes reserves or adjustments. Timing also differs, because a day's sales may be split across batches. Compare your batch reports against deposits and your monthly statement to reconcile each difference."},
+    {"q": "Who actually sends me the money?", "a": "The acquiring bank deposits funds into your account, usually via ACH, based on the settlement file from your processor. The processor and any ISO involved deduct their fees from that amount. The issuing bank funds the transaction upstream but never deals with you directly."},
+    {"q": "Does closing my batch every day matter?", "a": "On terminals that close manually, yes. An unsubmitted batch is not funded, so leaving it open delays your money. Many modern systems auto-close at a set time, which removes the risk. Check your settings and confirm your cutoff time, since sales after the cutoff roll into the next day."}
+  ],
+  "related": ["interchange-explained", "batch-settlement-explained", "credit-card-processing", "what-is-a-payment-gateway", "how-to-read-a-merchant-statement", "free-statement-analysis"],
+  "icon": "card",
+  "read_minutes": 6
+}

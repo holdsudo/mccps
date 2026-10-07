@@ -1,0 +1,83 @@
+{
+  "slug": "liquor-stores",
+  "category": "industries",
+  "title": "Liquor Store Payment Processing",
+  "seo_title": "Liquor Store Payment Processing | MCCPS",
+  "meta_description": "Liquor and wine shops need age checks, fast lines and sensible card costs. Learn how bottle shops handle high-volume payments and compliance.",
+  "primary_keyword": "liquor store payment processing",
+  "keywords": ["liquor store credit card processing", "wine shop merchant account", "age verification POS", "package store card fees", "alcohol delivery payments", "bottle shop POS", "high ticket case sales"],
+  "eyebrow": "Liquor retail",
+  "dek": "Age checks, weekend rushes and big case sales: what a package store should expect from its payment setup.",
+  "intro": [
+    "A liquor store has an unusual rhythm. Friday evenings and the days before holidays can be frantic, with a line to the door and customers who know exactly what they want. At other times a single customer may walk out with a few thousand dollars of rare bottles or a large order for a wedding.",
+    "Payments in this business sit right beside compliance. Selling to someone underage, selling outside permitted hours, or mishandling delivery can put a license at risk, so the point-of-sale and card setup need to support the discipline you already bring to the counter.",
+    "This guide explains how card acceptance works in liquor retail, what raises or lowers costs, and what to check before you pick a provider."
+  ],
+  "sections": [
+    {
+      "h2": "Card processing meets age verification",
+      "paragraphs": [
+        "Payment processing does not verify age; the store does. But your POS can help by prompting the cashier to scan or check ID on every restricted item and recording that the check occurred. Some systems scan the barcode on a driver's license to confirm date of birth and expiration, leaving a record that can matter if a sale is ever questioned.",
+        "Making the ID check part of the transaction flow, rather than a separate habit, is the most reliable approach during rushes. It also reduces training burden for seasonal staff. Ask any POS vendor how restricted-item prompts are configured and whether the log is retained."
+      ],
+      "bullets": [
+        "Flag all age-restricted items so the POS prompts for ID",
+        "Log the check against the transaction",
+        "Train new staff before the holiday season, not during it",
+        "Review the exception log periodically"
+      ]
+    },
+    {
+      "h2": "High volume, mixed tickets",
+      "paragraphs": [
+        "A liquor store sees both small and large tickets: a single six-pack at one end, a case of premium spirits at the other. Because the mix swings, your effective rate depends on how many sales are debit versus credit, how many are rewards cards, and how much of the revenue is high-ticket.",
+        "Say a store processes $150,000 a month at a 2.6% effective rate. That is $3,900 in fees, and a small shift in average ticket can move it. A statement review shows which segments drive cost. Premium rewards credit cards, which are common among customers buying higher-priced bottles, carry higher interchange than basic debit."
+      ]
+    },
+    {
+      "h2": "Cash discount and dual pricing in liquor retail",
+      "paragraphs": [
+        "Because customers in this business often compare shelf prices, store owners wonder whether they can offer a cash discount or show two prices. Programs of that kind can be compliant when done right, but rules vary by state and card network, and many states regulate alcohol pricing in ways that interact with them. Disclosure and signage are required, and alcohol regulators may have their own rules on posted prices.",
+        "Before launching any program that changes the price shown for card versus cash, confirm requirements with your state alcohol authority, your attorney and your processor. MCCPS offers a Zero Processing Fees program built on compliant dual pricing, but whether it suits a particular store depends on the state and on the statement analysis."
+      ]
+    },
+    {
+      "h2": "Delivery, pickup and online orders",
+      "paragraphs": [
+        "Many states allow some form of delivery or curbside pickup for alcohol, subject to age verification at handoff. Online orders are card-not-present, and fraud screening matters: use AVS and CVV, watch for orders shipped to unusual addresses, and verify ID when the order is delivered, not just when it is placed.",
+        "A common practice is to authorize the card at order time and capture the final amount after items are confirmed in stock, which protects customers from being charged for unavailable bottles. Make sure your policy about substitutions and refunds is visible at checkout."
+      ]
+    },
+    {
+      "h2": "Allocation, special orders and deposits",
+      "paragraphs": [
+        "Specialty shops often take deposits for allocated bottles or special orders, such as a case of a limited release or a wedding wine order. A written agreement and a clear refund policy matter here, because the customer is paying for something not yet in hand. Card deposits can be disputed if expectations are vague.",
+        "For larger orders, a payment link or virtual terminal lets you take payment by phone without writing down card numbers. For business customers, such as restaurants buying from your store where state law permits, ACH and commercial card data can help lower costs on big invoices."
+      ]
+    },
+    {
+      "h2": "Choosing and reviewing a provider",
+      "paragraphs": [
+        "Ask for a statement review before you commit. MCCPS provides a free, no-obligation analysis of two months of processing statements, line by line, and can often keep your existing terminals if they can be re-programmed. Look for fast chip and tap hardware, backup connectivity, and clear reporting by day and by employee.",
+        "Check for PCI fees, monthly minimums and early termination fees in any contract, and favor providers whose support is reachable late on a Friday night. MCCPS offers free 24/7 technical support. If you need business funding for inventory or a build-out, we can refer you to Fidelity Funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Build age-check prompts into the POS flow so they happen every time.",
+    "Your mix of debit, rewards credit and high tickets drives the effective rate.",
+    "Cash-discount or dual-pricing ideas must be checked against state alcohol rules.",
+    "Online and delivery orders need AVS, CVV and ID verification at handoff.",
+    "Special-order deposits need a written agreement and refund terms."
+  ],
+  "faq": [
+    {"q": "Can a liquor store use a cash discount program?", "a": "It may be possible, but rules vary by state and card network, and alcohol pricing is regulated in many states. Signage and disclosure are required. Check with your state alcohol authority, your attorney and your processor before changing how prices are displayed."},
+    {"q": "Does my payment system need to check IDs?", "a": "The payment network does not check age, but your POS can prompt cashiers and record ID checks. That record helps if a sale is ever questioned. Choose a POS that supports restricted-item prompts and retains the log."},
+    {"q": "How should I charge for delivery orders?", "a": "Authorize at order time, confirm stock, then capture the final amount. Verify age at delivery, and use AVS and CVV to reduce fraud. Display your refund and substitution policies at checkout to prevent disputes."},
+    {"q": "Why are card fees higher on premium bottles?", "a": "Higher-priced purchases are often made with rewards credit cards, which carry higher interchange than standard debit. Large tickets also increase total fees in dollars even if the percentage is the same. A statement analysis shows the breakdown."},
+    {"q": "Can I take deposits on special orders by card?", "a": "Yes. Use a written agreement that states the item, price, deposit amount and refund terms, and take payment through a secure payment link or virtual terminal. Keep the agreement on file in case of a dispute."}
+  ],
+  "related": ["convenience-stores", "retail-stores", "offer-cash-discount", "dual-pricing-explained", "bars-and-nightclubs", "retail-pos"],
+  "icon": "store",
+  "read_minutes": 6
+}

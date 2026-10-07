@@ -1,0 +1,125 @@
+{
+  "slug": "chiropractors",
+  "category": "industries",
+  "title": "Chiropractic Payment Processing",
+  "seo_title": "Chiropractic Payment Processing | MCCPS",
+  "meta_description": "Chiropractic payment processing for care packages, recurring plans and per-visit copays. Bill cards on file clearly and review your fees for free with MCCPS.",
+  "primary_keyword": "chiropractic payment processing",
+  "keywords": [
+    "chiropractor credit card processing",
+    "care plan billing",
+    "chiropractic packages",
+    "recurring care plans",
+    "card on file chiropractor",
+    "chiropractic merchant account",
+    "wellness membership payments"
+  ],
+  "eyebrow": "Healthcare payments",
+  "dek": "Packages, recurring care plans and cash-pay visits: how a chiropractic office can bill clearly and keep patients on track.",
+  "intro": [
+    "Chiropractic care is often a series, not a single visit. A patient might begin with three visits a week, taper to weekly, then move to a monthly maintenance plan. Many offices also sell prepaid packages or membership-style wellness plans, particularly for patients paying outside insurance.",
+    "That structure shapes the payment setup. The office needs a way to take a package payment, charge monthly care plans reliably, collect per-visit copays and keep every charge clearly explained, because patients who understand what they are paying for are less likely to question it."
+  ],
+  "sections": [
+    {
+      "h2": "Selling and tracking packages",
+      "paragraphs": [
+        "A prepaid package, such as 12 visits for a set price, brings cash in upfront and encourages the patient to complete the plan. Because the service happens over time, record the sale as a package in your system and track visits as they are used. A clear tally, shown on a card or in a patient portal, keeps expectations aligned.",
+        "Define what happens to unused visits. If a package expires, say so up front and in writing; consumer rules on prepaid services and expiration vary by state, so confirm your terms with your attorney. Treat refunds for unused visits consistently, since a single exception tends to become expected."
+      ],
+      "bullets": [
+        "State the number of visits, price and expiry in writing.",
+        "Track used and remaining visits for every patient.",
+        "Decide in advance how refunds for unused visits are handled.",
+        "Give a receipt for the package that lists what it includes."
+      ]
+    },
+    {
+      "h2": "Recurring care plans",
+      "paragraphs": [
+        "Monthly maintenance or wellness plans work like subscriptions. The patient authorizes a card on file, and the office charges the same amount each month for a set number of visits or a defined service. The first charge should be flagged as the start of a recurring series, and later ones as merchant-initiated, which is how the card networks expect stored credentials to be used.",
+        "Make cancellation simple. A patient who wants to pause or end a plan should know exactly how, and the office should stop billing promptly. Billing someone after they asked to cancel is a reliable way to receive a dispute. MCCPS supports one-time and recurring payments and can discuss account updater options to reduce failed charges from expired cards."
+      ]
+    },
+    {
+      "h2": "Per-visit copays and cash-pay visits",
+      "paragraphs": [
+        "For insured patients, a copay at check-in is simple: a tap or dip, a receipt, and a record against the account. For cash-pay patients, the visit fee is collected the same way. Having a terminal at the front desk integrated with scheduling software ensures the amount charged matches the service on the books.",
+        "Many patients use health savings or flexible spending cards, which process like debit cards and cover eligible services. Provide itemized receipts so patients can submit for reimbursement, and train the front desk to accept these cards without hesitation."
+      ],
+      "steps": [
+        "Check in the patient and confirm the visit type.",
+        "Apply the copay, package visit or plan credit.",
+        "Take payment by tap, dip or card on file as applicable.",
+        "Print or send a receipt with the service listed.",
+        "Update the patient's remaining visits."
+      ]
+    },
+    {
+      "h2": "Keeping billing transparent",
+      "paragraphs": [
+        "Disputes in a care-based practice rarely come from the fee itself; they come from surprise. Patients should know what a plan costs, what it includes and when it is charged before the first payment. Reminder messages before each charge or before a plan renews reduce confusion.",
+        "Billing practices in healthcare can be regulated beyond card rules, including how plans are advertised and what claims are made about care. For compliance questions, consult your state board, professional association or attorney. Keep payment data separate from clinical notes and use tokenized storage for cards."
+      ]
+    },
+    {
+      "h2": "Getting paid on time",
+      "paragraphs": [
+        "Revenue timing matters for a small office with staff and rent. Next-day funding is available through MCCPS and shortens the wait between a card payment and deposit. A reporting dashboard shows daily and monthly card volume, refunds and declines, so you can spot trends such as a rise in failed recurring charges.",
+        "When a recurring charge fails, a gentle same-day message with a link to update the card usually resolves it. Avoid awkward conversations in the treatment room; a text link is more discreet and often faster."
+      ]
+    },
+    {
+      "h2": "Tracking outcomes and keeping plans on schedule",
+      "paragraphs": [
+        "Care plans work when patients actually come in, and payment is part of that rhythm. If a recurring plan charges for visits the patient is not attending, resentment builds and cancellations follow. Review attendance alongside billing, and reach out when a patient has missed several visits rather than quietly continuing to bill. Offer to pause or adjust the plan according to your written policy. A short check-in call is far cheaper than a dispute and shows patients you are paying attention to their care, not only their card. Keep notes of these conversations in the account so any staff member can follow the history."
+      ]
+    },
+    {
+      "h2": "What it costs and where to start",
+      "paragraphs": [
+        "Say a chiropractic office processes $35,000 a month on cards with an effective rate of 2.9 percent, or $1,015 in fees. In-person copays typically price lower than card-not-present recurring charges, so a plan-heavy office will see a different blend than a per-visit office. Check your statement for per-item fees, gateway fees and any PCI non-compliance fees.",
+        "Some offices explore a cash discount or dual pricing program, and MCCPS offers the Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and healthcare practices should confirm any additional limits. For a straightforward first step, request the free statement analysis: MCCPS reviews two months of statements line by line, with savings depending on what is found. Free 24/7 support is included."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Packages and care plans need clear written terms about visits, expiry and refunds.",
+    "Recurring plans should be flagged as stored-credential transactions and be easy to cancel.",
+    "Integrate the front-desk terminal with scheduling to avoid keying errors.",
+    "A text link to update a card is a discreet way to fix failed payments.",
+    "Compare recurring and in-person fees separately on your statement."
+  ],
+  "faq": [
+    {
+      "q": "How do chiropractors bill monthly care plans?",
+      "a": "With the patient's written authorization, the office stores a tokenized card and charges the agreed amount each month. The plan terms, cancellation process and receipts should be clear, and billing should stop promptly when a patient cancels."
+    },
+    {
+      "q": "Can I sell prepaid visit packages?",
+      "a": "Many offices do. Define the number of visits, price and expiration in writing, and confirm consumer rules on prepaid services in your state with an attorney. Track used visits for each patient."
+    },
+    {
+      "q": "Do HSA and FSA cards work at a chiropractic office?",
+      "a": "Generally yes for eligible services. They process like debit cards. Give itemized receipts so patients can claim reimbursement, and confirm with your processor that your account accepts them."
+    },
+    {
+      "q": "What if a patient disputes a recurring charge?",
+      "a": "Gather the signed authorization, the plan terms, visit records and any cancellation messages. Responding quickly with clear records helps, and refunding a genuine billing mistake promptly usually costs less than a dispute."
+    },
+    {
+      "q": "Can a chiropractic office add a card fee?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require clear disclosure. Healthcare offices should also check for any additional limits before adding a fee."
+    }
+  ],
+  "related": [
+    "medical-practices",
+    "recurring-billing",
+    "account-updater",
+    "gyms-and-fitness",
+    "hsa-fsa-card-acceptance",
+    "set-up-recurring-payments"
+  ],
+  "icon": "heart",
+  "read_minutes": 6
+}

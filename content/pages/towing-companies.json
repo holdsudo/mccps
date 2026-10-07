@@ -1,0 +1,114 @@
+{
+  "slug": "towing-companies",
+  "category": "industries",
+  "title": "Towing Company Payment Processing",
+  "seo_title": "Towing Company Payment Processing | MCCPS",
+  "meta_description": "Take payment at the roadside, in the yard and from insurers. A guide to mobile card processing, impound fees and dispute prevention for towing companies.",
+  "primary_keyword": "towing company payment processing",
+  "keywords": [
+    "tow truck credit card processing",
+    "roadside assistance payments",
+    "impound lot payment processing",
+    "mobile card reader towing",
+    "towing chargebacks",
+    "motor club payments",
+    "tow company merchant account"
+  ],
+  "eyebrow": "Towing & roadside",
+  "dek": "Customers are stressed, the truck is on the shoulder and the bill is not small. Here is how to take payment smoothly and defend it later.",
+  "intro": [
+    "A tow is a distress purchase. The customer did not plan to spend several hundred dollars today, the car is not working, and they are likely standing on the side of a road or in a parking lot. That emotional context shapes how the payment goes, and it is why towing companies see more disputes than many other small service businesses.",
+    "Some towing is for motor clubs and insurers who pay on account. Some is for police-requested tows or private property enforcement. Some is for retail customers paying on the spot. Each channel has its own payment flow, and a good setup covers all of them.",
+    "The notes below explain how to take payment in the field and at the yard, and how to protect your business when a customer calls the bank."
+  ],
+  "sections": [
+    {
+      "h2": "Taking payment at the roadside",
+      "paragraphs": [
+        "A driver with a mobile reader that supports chip, tap and wallets can complete payment at the scene or when the vehicle is delivered. This beats sending an invoice later, because the customer is present, the service has just been provided and the card is in hand. Provide a printed or texted receipt immediately.",
+        "Coverage matters. Tow routes run through rural areas, tunnels and garages where signal is poor. Choose a device that can use cellular data and, if offered, fall back on stored transactions with the risk that you will not know about a decline until later. Make sure your drivers know the procedure when the device cannot connect."
+      ],
+      "bullets": [
+        "Keep each driver's device charged, with a backup power source in the truck",
+        "Show the price before the hook-up and get a signed work order",
+        "Send a receipt by text or email on the spot",
+        "Log the time, location and vehicle on every ticket"
+      ]
+    },
+    {
+      "h2": "Quotes, work orders and authorization",
+      "paragraphs": [
+        "The most common source of towing disputes is price. A customer who agreed to a quote of $150 and is later billed $320 for mileage, after-hours fees and storage will remember the difference. Present a written or digital quote before the tow begins, list the components, and get a signature or electronic acceptance.",
+        "Say a customer is quoted $185 and signs an authorization on the driver's phone. If the charge is disputed later, the signed work order, the time stamp and the photo of the vehicle are your evidence. Without them it is your word against theirs. Some states regulate towing prices and notices, especially for non-consensual tows, so consult your local rules.",
+        "Dispatchers can help too. When a customer calls, a dispatcher who reads the quote aloud and sends it by text creates an early record. Drivers then confirm the same figure on site, so the price the customer hears first is the price on the final receipt."
+      ]
+    },
+    {
+      "h2": "Impound lots and storage fees",
+      "paragraphs": [
+        "A yard that holds towed vehicles collects release fees, daily storage and sometimes administrative charges. Customers arrive stressed and often need to pay by card to get their car back. A countertop terminal at the office with tap and chip, along with a clear fee schedule posted where customers can see it, keeps the process orderly.",
+        "Some jurisdictions limit what impound lots can charge and may require acceptance of certain payment types. Check your local ordinances and any contract with the municipality. Keep itemized receipts that show each fee separately."
+      ]
+    },
+    {
+      "h2": "Motor clubs, insurers and account billing",
+      "paragraphs": [
+        "Roadside work for motor clubs and insurers is paid on account, often through a dispatch platform, with its own rates and payment timing. These are not card transactions in most cases, so your accounting needs to track them separately from retail jobs. Reconciling a stack of small payments from different sources is easier when your reports separate customer-paid jobs from account jobs.",
+        "For commercial customers such as fleets and property managers, invoicing with a payment link allows card or ACH payment on terms."
+      ]
+    },
+    {
+      "h2": "Chargebacks and how to answer them",
+      "paragraphs": [
+        "When a customer disputes a tow charge, the issuer will ask for your side. Provide the signed work order, the quote, the time and location of service, photos of the vehicle before and after, GPS or dispatch logs, and the receipt. If the customer says they were charged for a service they did not authorize, the signed authorization is the key.",
+        "Keep your records organized by job number so you can produce them quickly; disputes have deadlines. Our guides on reducing chargebacks and winning a chargeback explain the process, and consistent documentation is the single most reliable defense."
+      ]
+    },
+    {
+      "h2": "Costs, setup and support",
+      "paragraphs": [
+        "Tows are large for a small service ticket, so the percentage matters. Say a company processes $35,000 a month at a 2.9% effective rate: that is $1,015 in fees. A statement review can show whether your pricing fits a business that mixes card-present roadside sales and keyed-in payments.",
+        "Some towers consider compliant dual pricing or a surcharge; rules vary by state and card network and require disclosure, and towing prices may be regulated, so check before changing anything. MCCPS offers a free, no-obligation statement analysis, can often keep devices you already own, and provides free 24/7 technical support, which suits a business that works nights and holidays."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Mobile readers let drivers collect payment at the scene with a receipt.",
+    "A signed quote or work order is the most important protection against disputes.",
+    "Impound fees should be itemized and match local rules.",
+    "Track account jobs for motor clubs separately from retail card jobs.",
+    "Photos, time stamps and dispatch logs help win chargebacks."
+  ],
+  "faq": [
+    {
+      "q": "Can tow truck drivers take credit cards?",
+      "a": "Yes. Drivers can use a smartphone or rugged mobile reader that accepts chip, tap and wallets over cellular data. Assign each device to a driver, and have a plan for areas with poor signal."
+    },
+    {
+      "q": "How do I avoid disputes over towing charges?",
+      "a": "Give a clear quote before starting, itemize the components, and get a signature or electronic acceptance. Send a receipt immediately and record photos and time stamps. Know your local rules for towing price notices."
+    },
+    {
+      "q": "Can an impound lot require card payment only?",
+      "a": "That depends on local ordinances and any municipal contract. Some jurisdictions require accepting certain payment types or limit fees. Check with your local authority or attorney."
+    },
+    {
+      "q": "How are motor club payments handled?",
+      "a": "They are generally paid on account through the club or dispatch platform, not by the customer's card at the scene. Track them separately from retail jobs so reconciliation is simple."
+    },
+    {
+      "q": "What if a customer disputes a tow after the fact?",
+      "a": "Respond to the chargeback with the signed work order, quote, photos, time and location records, and the receipt. Organize records by job number so you can meet the response deadline."
+    }
+  ],
+  "related": [
+    "auto-repair-shops",
+    "trucking-and-logistics",
+    "accept-payments-on-the-go",
+    "mobile-payments",
+    "reduce-chargebacks",
+    "how-to-win-a-chargeback"
+  ],
+  "icon": "truck",
+  "read_minutes": 6
+}

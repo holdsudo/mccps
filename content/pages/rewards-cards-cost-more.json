@@ -1,0 +1,114 @@
+{
+  "slug": "rewards-cards-cost-more",
+  "category": "blog",
+  "title": "Why Rewards Cards Cost Merchants More",
+  "seo_title": "Why Rewards Cards Cost Merchants More | MCCPS",
+  "meta_description": "Rewards and premium credit cards carry higher interchange. Learn how points and cash back are funded, what it costs you, and how to manage the impact.",
+  "primary_keyword": "rewards credit card fees for merchants",
+  "keywords": [
+    "rewards card interchange",
+    "premium credit card fees",
+    "cash back card merchant cost",
+    "interchange categories rewards",
+    "signature card interchange",
+    "corporate card fees",
+    "card mix effective rate"
+  ],
+  "eyebrow": "Fee basics",
+  "dek": "Your customer's points, miles and cash back have to come from somewhere. A large part of it is the interchange you pay on their purchase.",
+  "intro": [
+    "A customer pays with a premium travel card, earns points and walks out happy. You get paid, minus a fee that is noticeably higher than it would have been if they had paid with a basic card. Neither the customer nor the terminal tells you. Only your statement shows it, weeks later, in the form of a higher effective rate.",
+    "This is not an accident or a mistake. It is how rewards programs are financed, and understanding the mechanism helps you decide what, if anything, to do about it."
+  ],
+  "sections": [
+    {
+      "h2": "Where the rewards money comes from",
+      "paragraphs": [
+        "Card issuers earn revenue from several sources: interest on balances, annual fees, and interchange. For cardholders who pay in full every month, interest is zero, so interchange becomes the main revenue stream, and it is the pool that funds benefits such as points, travel credits and cash back.",
+        "Because premium products promise richer benefits, networks maintain higher interchange categories for them. The higher the benefit, the higher the category tends to be, which is why the hierarchy of cards roughly follows the hierarchy of perks."
+      ]
+    },
+    {
+      "h2": "The ladder of credit card categories",
+      "paragraphs": [
+        "Card networks publish categories that map to product types. Names differ among networks, but the general ladder is familiar. Understanding which rung a card sits on explains most of the variation in your statement.",
+        "The exact rates move over time and are published by the networks, so rely on your processor's current tables for specifics."
+      ],
+      "bullets": [
+        "Standard or basic consumer credit: the lowest credit category.",
+        "Rewards or enhanced consumer credit: a step up, tied to points or cash-back products.",
+        "Premium, signature or elite credit: a higher step, tied to travel, concierge and similar benefits.",
+        "Business and small-business rewards cards: usually priced in their own, often higher, categories.",
+        "Corporate, purchasing and fleet cards: typically the top of the range unless data qualifies them for lower pricing."
+      ]
+    },
+    {
+      "h2": "What it costs in dollars",
+      "paragraphs": [
+        "Say a restaurant has a $75 check. On a basic credit card, interchange might be about 1.7% plus 10 cents, or $1.38. On a rewards card at 2.3% plus 10 cents, it is $1.83. On a premium card at 2.6% plus 10 cents, it is $2.05. These numbers are hypothetical, but they show an upward step of roughly 45 to 65 cents on one check.",
+        "Spread that across a month of $40,000 in card sales and the gap between a rewards-heavy mix and a basic-heavy mix could be several hundred dollars. Your volume is the same. Your customers' wallets are not.",
+        "The effect is easiest to see in sectors with high average tickets. A contractor taking a $3,000 deposit on a premium card pays a much larger dollar fee than on a basic one, even though the percentages differ by only a point or so. For high-ticket sellers, a handful of premium-card sales can swing a month's total.",
+        "Seasonality plays a role too. Holiday and travel periods tend to bring more premium cards and higher tickets, so your effective rate may drift upward in those months even when nothing in your contract has changed. Tracking the trend helps you tell the difference between a seasonal shift and a genuine pricing problem."
+      ]
+    },
+    {
+      "h2": "Why you cannot just refuse them",
+      "paragraphs": [
+        "Card network rules generally prevent merchants from declining a card type that falls under the brand's acceptance obligations, once you accept that network's credit cards. Choosing to take only basic cards is not an option under the standard rules. What merchants can do is manage the cost through pricing structure and acceptance practices, in line with rules that vary by state and network.",
+        "It also helps to be realistic. Customers who use premium cards often spend more per visit, and the sale you lose by discouraging them can be worth more than the extra fee."
+      ]
+    },
+    {
+      "h2": "Ways to manage the impact",
+      "paragraphs": [
+        "The first lever is pricing model. Under interchange-plus, you see exactly what each card costs and can negotiate your markup. Under a flat rate, rewards sales are partly covered by cheaper debit sales. Under tiered pricing, rewards cards are often placed in the highest buckets, and the markup on top can be large.",
+        "The second lever is how you charge for card acceptance. Some merchants adopt a compliant dual-pricing or cash-discount program, which shifts the cost of acceptance to card payments overall. Others add a surcharge on credit where permitted. Both are subject to state and network rules, require disclosure and should be verified before use. The third lever is data: for business cards, supplying Level 2 and 3 information can qualify transactions for lower rates."
+      ]
+    },
+    {
+      "h2": "Seeing your own mix",
+      "paragraphs": [
+        "Your statement may already show the split between debit, standard credit, rewards credit and commercial cards, especially if you are on an itemized pricing model. If it does not, ask your processor for a card-type report. Knowing the percentage of volume from each tier tells you whether rewards costs are a footnote or a major line.",
+        "MCCPS reviews two months of statements for free and without obligation, showing what you pay by category and how the pieces add up. Whether a different structure would reduce your cost depends on that mix, and the review tells you without asking you to switch."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Rewards, miles and cash back on credit cards are largely funded by the interchange merchants pay.",
+    "Premium and corporate cards sit at the top of the interchange ladder, and basic cards at the bottom.",
+    "Card network rules generally stop merchants from refusing a card type once they accept the brand's credit cards.",
+    "Pricing model, compliant acceptance programs and clean data are the real levers for managing the cost."
+  ],
+  "faq": [
+    {
+      "q": "Why do rewards cards have higher interchange?",
+      "a": "Issuers use interchange revenue to fund points, travel credits and cash back. Networks publish higher categories for products with richer benefits, so the more generous the card, the higher the interchange tends to be. The merchant pays that difference on each sale."
+    },
+    {
+      "q": "Can I refuse rewards or premium cards?",
+      "a": "Under standard network rules, a merchant that accepts a brand's credit cards generally must accept all of that brand's credit cards, regardless of the product tier. Check your merchant agreement for details. Managing cost through pricing structure is usually more practical than trying to exclude cards."
+    },
+    {
+      "q": "Does a flat rate protect me from rewards card costs?",
+      "a": "It averages them in. Cheap debit sales help offset the costlier rewards sales, but you pay one blended rate regardless. If your mix is mostly debit or basic credit, that blended rate may be higher than your true cost, and interchange-plus can be less expensive."
+    },
+    {
+      "q": "How can I see how many rewards cards I accept?",
+      "a": "An itemized, interchange-plus style statement usually lists volume by card category. If yours does not, ask your processor for a card-type or interchange report. MCCPS can also summarize it for you during its free statement analysis."
+    },
+    {
+      "q": "Are business rewards cards treated differently?",
+      "a": "Business and commercial cards often fall into separate interchange categories that can be higher than consumer rates. Supplying Level 2 or Level 3 data on qualifying sales can reduce the cost in some cases, which matters most for businesses that sell to other businesses."
+    }
+  ],
+  "related": [
+    "debit-vs-credit-processing-costs",
+    "interchange-explained",
+    "level-2-3-data-explained",
+    "effective-rate-explained",
+    "surcharging-programs",
+    "process-b2b-payments"
+  ],
+  "icon": "card",
+  "read_minutes": 6
+}

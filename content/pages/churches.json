@@ -1,0 +1,125 @@
+{
+  "slug": "churches",
+  "category": "industries",
+  "title": "Church & Ministry Giving Processing",
+  "seo_title": "Church & Ministry Giving Processing | MCCPS",
+  "meta_description": "Church and ministry giving processing for text and online giving, recurring tithes and kiosks. Keep more of each gift and review fees with MCCPS.",
+  "primary_keyword": "church giving processing",
+  "keywords": [
+    "online church giving",
+    "text to give",
+    "recurring tithes",
+    "church donation kiosk",
+    "ministry merchant account",
+    "church card processing",
+    "giving statements"
+  ],
+  "eyebrow": "Faith-based",
+  "dek": "Fewer people carry cash or checks on Sunday: how churches and ministries can offer online, text and recurring giving with clear costs.",
+  "intro": [
+    "Many congregants no longer carry cash or a checkbook, and some are not in the building at all. A church that only passes a plate can miss gifts from members who would happily give if giving were convenient. At the same time, the people handling the money are usually volunteers and a small staff, so the system has to be simple.",
+    "Church and ministry giving processing is about meeting people where they are: on their phone, at a kiosk in the lobby, through a monthly schedule or in the offering plate. It also needs to give the treasurer clear records and keep fees from consuming a meaningful share of each gift."
+  ],
+  "sections": [
+    {
+      "h2": "Online and mobile giving",
+      "paragraphs": [
+        "An online giving page is the foundation. It should be easy to find from the church website, load well on a phone and let a person choose a fund such as general, missions or building. Allow a one-time or recurring gift, and accept cards and mobile wallets so a gift takes seconds.",
+        "A QR code printed in the bulletin or shown on a screen sends people straight to the giving page. Text-to-give works by sending a link in reply to a keyword, which can be especially helpful for guests and younger members. Whatever you choose, test it from a phone on cellular data, not just on the office Wi-Fi."
+      ],
+      "bullets": [
+        "Let givers choose a fund or designation.",
+        "Offer one-time and recurring options.",
+        "Print a QR code in bulletins and display it on screens.",
+        "Send an automatic receipt after every gift."
+      ]
+    },
+    {
+      "h2": "Recurring tithes",
+      "paragraphs": [
+        "A recurring gift is the digital version of a faithful weekly or monthly contribution. The giver authorizes a card or bank account, and the church receives the gift on a schedule. This steadies the budget, because the church knows a base level of giving arrives regardless of attendance on a snowy Sunday.",
+        "Bank account (ACH) giving is popular for recurring tithes because the cost can be lower than card fees, particularly for larger gifts. The giver should be able to change the amount, date or method at any time. A card account updater refreshes stored cards when they expire, preventing quiet lapses in giving."
+      ]
+    },
+    {
+      "h2": "Kiosks and in-person card giving",
+      "paragraphs": [
+        "A giving kiosk in the lobby or a handheld reader carried by a greeter gives members a way to give without the plate. Contactless cards and mobile wallets make this fast. For events, such as a youth fundraiser or a bazaar, mobile readers let volunteers accept cards at tables and booths.",
+        "Keep the equipment simple and clearly labeled. Place kiosks where there is privacy and a stable connection, and have a backup, such as a QR code, in case the network is down. Train a few volunteers so that more than one person can help."
+      ],
+      "steps": [
+        "Choose the locations where people naturally pause, such as the lobby.",
+        "Set up funds and amounts on the device.",
+        "Test a card and a phone wallet before the service.",
+        "Assign volunteers to help first-time givers.",
+        "Reconcile totals with the online system after the weekend."
+      ]
+    },
+    {
+      "h2": "Records, statements and the treasurer",
+      "paragraphs": [
+        "At year-end, givers expect a statement. A system that records each gift by donor and fund makes this far easier than adding cash and checks by hand. Check with your accountant about the wording and rules for acknowledgments and statements, since requirements can depend on the nature of the gift and your organization's status.",
+        "Reporting that separates online, kiosk and in-person card gifts helps the treasurer reconcile deposits. The MCCPS dashboard shows card activity by day, which pairs with your fund accounting system."
+      ]
+    },
+    {
+      "h2": "Security and trust",
+      "paragraphs": [
+        "Givers entrust the church with payment details. Use a hosted or tokenized form so card numbers are never typed into your own website or stored in a spreadsheet. Limit access: not every volunteer needs to see donor payment data, and refunds should require a second approval.",
+        "PCI compliance applies to churches that accept cards, and MCCPS offers PCI compliance help. A simple written policy on who can view records and process refunds protects both the church and the volunteers."
+      ]
+    },
+    {
+      "h2": "Special offerings and capital campaigns",
+      "paragraphs": [
+        "Beyond weekly giving, churches run special offerings for missions, benevolence funds and building campaigns. Set up each as a separate fund on the giving page so that gifts are tracked correctly from the start. For a capital campaign, consider allowing pledges with scheduled installments, and make sure larger gifts can be made by ACH or card. Keep communication clear about how funds will be used. Large one-time gifts sometimes trigger fraud checks at the donor's bank, so a short note encouraging the giver to call their bank if a gift is declined can help. Reconcile special funds separately each month."
+      ]
+    },
+    {
+      "h2": "Keeping costs reasonable",
+      "paragraphs": [
+        "Say a congregation receives $20,000 a month in card and online gifts at a 3.0 percent effective rate, or $600 in fees. A switch to a lower-cost structure, or encouraging larger recurring gifts through ACH, can change that figure. Check your statement for per-item fees, monthly fees and PCI charges.",
+        "Some churches offer givers the option to cover the processing fee. Rules for adding fees to card payments vary by state and card network, require clear disclosure and may be treated differently for donations, so confirm requirements with your advisor first. MCCPS also offers a free statement analysis that reviews two months of statements line by line, with savings depending on what is found. Free 24/7 support is included for the tech problems that always seem to happen on Sunday morning."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Offer online, QR, text and kiosk giving so members can give in the way that suits them.",
+    "Recurring gifts steady the budget; ACH can lower cost on larger gifts.",
+    "Account updater helps stored cards keep working after expiry.",
+    "Record gifts by donor and fund to simplify year-end statements.",
+    "Check statement fees and confirm any donor fee-coverage rules before using them."
+  ],
+  "faq": [
+    {
+      "q": "How can a church accept tithes online?",
+      "a": "Set up a giving page with a gateway that accepts cards and bank accounts, offers fund choices and recurring schedules and sends receipts. Link it from your website and print a QR code."
+    },
+    {
+      "q": "What is text-to-give?",
+      "a": "It lets a person text a keyword to a number and receive a link to the giving page. It is helpful for guests and quick gifts. Test it on cellular data to be sure it works smoothly."
+    },
+    {
+      "q": "Is ACH a better option for recurring tithes?",
+      "a": "It often costs less than cards, particularly for larger gifts, though it takes longer to settle and can be returned. Offering both lets givers choose."
+    },
+    {
+      "q": "Can a church ask givers to cover processing fees?",
+      "a": "Some do via an optional checkbox. Rules vary by state and card network and require clear disclosure. Ask your accountant how it should appear on receipts."
+    },
+    {
+      "q": "Do small churches need PCI compliance?",
+      "a": "Yes, any organization accepting cards is expected to follow the PCI standard, usually with a self-assessment questionnaire. Using hosted or tokenized forms simplifies it, and MCCPS provides PCI compliance help."
+    }
+  ],
+  "related": [
+    "nonprofits",
+    "recurring-billing",
+    "qr-code-payments",
+    "mobile-payments",
+    "account-updater",
+    "ach-processing"
+  ],
+  "icon": "users",
+  "read_minutes": 6
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "virtual-terminal",
+  "category": "solutions",
+  "title": "Virtual Terminal for Phone and Mail Orders",
+  "seo_title": "Virtual Terminal for Phone & Mail Orders | MCCPS",
+  "meta_description": "A virtual terminal lets you key in card payments from any browser. Learn how phone and mail orders work, what they cost and how to keep them secure.",
+  "primary_keyword": "virtual terminal",
+  "keywords": [
+    "virtual terminal credit card",
+    "phone order processing",
+    "mail order payments",
+    "key entered transactions",
+    "MOTO payments",
+    "browser based card processing",
+    "take card payments by phone"
+  ],
+  "eyebrow": "Keyed payments",
+  "dek": "A browser-based way to take a card number over the phone or from a form, without a physical reader on your desk.",
+  "intro": [
+    "Not every sale arrives at the counter or through a shopping cart. A regular calls to reorder, a client mails back a signed authorization form, a customer wants to pay a deposit while you are on the phone. In each case someone has to type in a card number, and doing that safely and cheaply is what a virtual terminal is for.",
+    "A virtual terminal is a secure web page connected to your merchant account. It looks like a payment form, works from any computer, and turns a typed card number into a normal authorization. It sounds simple, but how you use it affects cost, fraud exposure and compliance, so it deserves a careful setup."
+  ],
+  "sections": [
+    {
+      "h2": "How a virtual terminal works",
+      "paragraphs": [
+        "You log in, enter the amount, the card number, expiration date and billing details, and submit. The page sends the data through your gateway to the processor, which asks the issuing bank for approval. Within seconds you see approved or declined and can email or print a receipt.",
+        "Because nothing is physically read from the card, these are called card-not-present, or key-entered, transactions. Industry shorthand is MOTO, for mail order and telephone order. The card network sees that the card was not present and applies different risk rules."
+      ]
+    },
+    {
+      "h2": "Where it fits in a business",
+      "paragraphs": [
+        "Wholesalers, florists, contractors, service companies and medical offices commonly rely on keyed payments. So do shops that use the virtual terminal as a fallback when a physical reader fails. It is also the easy way to charge a stored card for a repeat purchase, run a recurring schedule or issue a refund.",
+        "If a customer would rather not read a card number aloud, a payment link sends them a secure page to complete the transaction themselves. That moves the card details off the phone line and out of your staff's hands, which is better for security and reduces mistakes."
+      ],
+      "bullets": [
+        "Reorders from repeat customers over the phone",
+        "Deposits and balances for jobs and events",
+        "Mailed or faxed authorization forms",
+        "Backup when a reader or the POS goes down",
+        "Refunds and voids from the office"
+      ]
+    },
+    {
+      "h2": "Cost and the price of typing",
+      "paragraphs": [
+        "Key-entered sales usually fall into a higher-cost interchange category than chip or tap, because the card was not present to verify. Say you key in $20,000 a month. If the keyed rate is a point higher than your card-present rate, that is $200 a month, $2,400 a year, so it is worth separating those sales when you read your statement.",
+        "Collecting the address and security code, and passing them for matching, can help qualify for better pricing and also reduces fraud risk. Entering invoice numbers and purchase details on B2B sales can lower cost further when Level 2 and Level 3 data is supported."
+      ]
+    },
+    {
+      "h2": "Protecting card numbers in a phone workflow",
+      "paragraphs": [
+        "Never write a card number on paper, a sticky note or an unprotected spreadsheet. Type it directly into the virtual terminal while the customer is on the line. If you need to pause, ask the customer to call back rather than storing the number.",
+        "Limit who has access, use individual logins, require strong passwords, and log out of shared computers. Where possible, add multi-factor authentication. PCI compliance covers how card data is handled in these workflows, and MCCPS offers PCI compliance help so you can complete the questionnaire correctly."
+      ]
+    },
+    {
+      "h2": "Fraud checks for keyed orders",
+      "paragraphs": [
+        "Because there is no card in hand, treat unusual orders with care. Warning signs include rush shipping to a different address, a large first order, multiple cards declining before one works, and a billing address that does not match the caller's story. Address and security code checks will not catch everything, but they remove many bad attempts.",
+        "Keep clear records of the call, the authorization and the delivery. If the cardholder later disputes the charge, written proof of what was agreed is your best evidence. Our chargeback guidance explains how disputes unfold and how to respond."
+      ]
+    },
+    {
+      "h2": "Policies that make keyed payments smoother",
+      "paragraphs": [
+        "Write down a short procedure for phone orders and follow it every time. Confirm the cardholder's name, billing address and security code, read back the amount and what it covers, and tell the customer when the charge will appear. Note the date, time and staff member on the order. A simple script means a new employee handles a payment the same way as your most experienced one.",
+        "Decide in advance how you handle partial payments, split cards and refunds. Refunds should go back to the card used, never as cash, and any refund above a threshold might need manager approval. Also settle your policy on tips and add-ons after the original charge. These small rules prevent the arguments that turn into disputes, and they make your records easier to follow when a bookkeeper or auditor asks questions later."
+      ]
+    },
+    {
+      "h2": "Getting a virtual terminal with MCCPS",
+      "paragraphs": [
+        "A virtual terminal is typically available alongside your gateway and merchant account, and one-time and recurring payments can run from the same place. The reporting and analytics dashboard in PayPilot by MCCPS shows keyed and in-person sales together, so you can see exactly what mix you process.",
+        "Free 24/7 technical support covers login problems and setup. Request the free statement analysis and a specialist will show how your keyed transactions are priced today and what could be improved."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A virtual terminal is a secure browser form for keyed card payments.",
+    "Keyed sales usually cost more than card-present ones.",
+    "Never store card numbers on paper or in spreadsheets.",
+    "Payment links offer a safer alternative to reading numbers aloud."
+  ],
+  "faq": [
+    {
+      "q": "Is a virtual terminal the same as a gateway?",
+      "a": "Not exactly. The gateway is the secure connection to the processor; the virtual terminal is a web interface that uses the gateway so you can key in payments manually. Many providers include both in one login."
+    },
+    {
+      "q": "Can I use it on any computer?",
+      "a": "Generally, yes. It runs in a browser, so a laptop, desktop or tablet can work. Use secure networks, individual logins and updated software, and avoid public or shared computers for card entry."
+    },
+    {
+      "q": "Why does a keyed transaction cost more?",
+      "a": "Without a physical card to read, the risk of fraud is higher, so the interchange category is typically more expensive. Supplying address and security code data can help, and so can switching to payment links in some cases."
+    },
+    {
+      "q": "Can I store customer cards in it?",
+      "a": "Many systems let you save a tokenized card for repeat payments with the customer's permission. The token replaces the real number. Document consent, especially for recurring charges, and follow your PCI requirements."
+    },
+    {
+      "q": "What if the card is declined?",
+      "a": "Ask the customer to try another card or contact the issuing bank. Do not repeatedly retry, which can trigger fraud flags. A payment link also lets the customer enter another card on their own."
+    }
+  ],
+  "related": [
+    "accept-payments-by-phone",
+    "invoicing-and-payment-links",
+    "payment-gateway",
+    "card-present-vs-card-not-present",
+    "pci-compliance",
+    "fraud-prevention"
+  ],
+  "icon": "phone",
+  "read_minutes": 6
+}

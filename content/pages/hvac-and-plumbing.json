@@ -1,0 +1,125 @@
+{
+  "slug": "hvac-and-plumbing",
+  "category": "industries",
+  "title": "HVAC & Plumbing Payment Processing",
+  "seo_title": "HVAC & Plumbing Payment Processing | MCCPS",
+  "meta_description": "HVAC and plumbing payment processing for field payments, invoices and emergency calls. Take cards on-site, send pay links and review fees with MCCPS.",
+  "primary_keyword": "HVAC payment processing",
+  "keywords": [
+    "plumber credit card processing",
+    "field service payments",
+    "mobile card reader for technicians",
+    "HVAC invoice payments",
+    "payment link for invoices",
+    "service call payments",
+    "on-site card payments"
+  ],
+  "eyebrow": "Field service",
+  "dek": "The job is done, the customer is happy and the check is in the mail: how HVAC and plumbing crews can get paid before the truck leaves.",
+  "intro": [
+    "In HVAC and plumbing, the work happens at someone else's address. A technician fixes a burst pipe at 9 p.m. or replaces a condenser in July, and then the question arrives: how will you pay? If the answer is I will mail a check, you have already added days or weeks to your receivables.",
+    "Field service payment processing exists to close that gap. With a mobile reader or a payment link, the invoice can be paid in the driveway, and the money reaches your account in a day or two. Here is how to set it up and what to watch out for."
+  ],
+  "sections": [
+    {
+      "h2": "Payment on site",
+      "paragraphs": [
+        "The simplest approach is a mobile card reader paired to the technician's phone or tablet. After the job, the tech presents the invoice, the customer taps or inserts a card, and a receipt goes by text or email. Card-present payments typically cost less than keyed ones, so having the reader in the truck is better than typing numbers.",
+        "Test your hardware before relying on it. Basements and rural areas are well known for weak signals, so verify that the reader works with cellular data and that the app handles intermittent connections. A backup option, such as a payment link the customer opens on their own phone, covers failures."
+      ],
+      "bullets": [
+        "Equip every technician with a reader and charger.",
+        "Check coverage in your service area, including basements and rural calls.",
+        "Send receipts by text or email on the spot.",
+        "Have a payment link ready as a backup method."
+      ]
+    },
+    {
+      "h2": "Invoices and payment links",
+      "paragraphs": [
+        "Not every job ends with a card tap. Larger installs may be billed after the fact, to a homeowner who wants time or a commercial client with an accounts payable department. A payment link on the invoice allows the customer to pay by card or bank transfer whenever it suits them, with no need to mail or call.",
+        "Links also shorten collections. A reminder with a link at day 7 and day 14 usually does more than a letter. MCCPS supports invoicing and payment links, and the reporting dashboard shows which invoices are paid and which are outstanding. Treat each invoice as a record: include the work performed, parts, labor and the date."
+      ]
+    },
+    {
+      "h2": "Deposits for big jobs",
+      "paragraphs": [
+        "A full system replacement can be a five-figure job. Many companies take a deposit at signing to cover equipment orders, and a final payment on completion. Put the schedule in the contract and have the customer authorize each charge. The deposit can be taken by card or by ACH, which usually costs less on a large amount.",
+        "Be careful with the timing of card payments on long projects. If a customer disputes a charge months after a deposit, you will need the contract, proof of delivery of equipment and photos of the work. Keep a folder for each job. Many states have home improvement rules about deposits and cancellation periods, so ask your attorney how they apply to you."
+      ],
+      "steps": [
+        "Prepare a written estimate and contract.",
+        "Collect the signed agreement and the deposit.",
+        "Order equipment and record delivery.",
+        "Complete the work and obtain sign-off.",
+        "Charge the balance and send a final invoice."
+      ]
+    },
+    {
+      "h2": "Emergency calls and after-hours payments",
+      "paragraphs": [
+        "Emergency calls are where cash flow and trust meet. The customer is stressed, the price may be higher after hours, and they want to see the cost before authorizing. Present an estimate before work begins, record the approval, and be clear about what is included. Surprises at payment time cause the worst disputes.",
+        "If a customer wants to pay by phone, use a secure virtual terminal, not a note on the work order. Collect CVV and billing ZIP, and keep a record of the authorization. For after-hours technical issues with your own payment tools, MCCPS provides free 24/7 support."
+      ]
+    },
+    {
+      "h2": "Connecting to field service software",
+      "paragraphs": [
+        "Most HVAC and plumbing companies use scheduling and dispatch software that creates the work order, tracks the technician and produces the invoice. Payments are smoothest when the processing connects to that software, so a card taken in the field posts to the right invoice automatically. Without that connection, the office must match payments by hand.",
+        "MCCPS integrates with almost any POS, smartphone or terminal, and offers multiple gateways, so ask about compatibility with your software before you change anything."
+      ]
+    },
+    {
+      "h2": "Seasonal peaks and emergency pricing",
+      "paragraphs": [
+        "HVAC businesses see sharp peaks in the first heat wave and the first cold snap, while plumbers face burst pipes after a freeze. Those weeks can bring several times your normal volume, with higher-than-usual ticket sizes. Tell your processor in advance if you expect a surge, and make sure each technician has a working reader and charger. If you charge after-hours or emergency rates, show the price on the estimate before work begins and get approval. Customers who agreed to a clearly stated emergency rate rarely dispute it later, while surprises at payment time are the main trigger. Review payments weekly during peaks to catch declines early."
+      ]
+    },
+    {
+      "h2": "What it costs and what to check",
+      "paragraphs": [
+        "Say your company processes $90,000 a month with an effective rate of 3.0 percent, or $2,700 in fees. Job sizes vary widely, so a few large installs can move your average. Review how keyed, card-present and online payments are priced, and look for monthly fees, gateway fees and equipment charges.",
+        "Some contractors use a cash discount or dual pricing program, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and large home-service bills deserve a careful look at current requirements. The free statement analysis reviews two months of statements line by line, with savings depending on what is found. Next-day funding is available."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A mobile reader in the truck turns finished jobs into immediate payments.",
+    "Payment links on invoices speed up collections for after-the-fact billing.",
+    "Document deposits and approvals for large jobs; state rules on home improvement may apply.",
+    "Integrate payments with dispatch software to avoid manual matching.",
+    "Compare card-present and keyed pricing on your statement."
+  ],
+  "faq": [
+    {
+      "q": "What do plumbers use to take cards on site?",
+      "a": "Most use a mobile card reader paired with a phone or tablet app, or a wireless terminal. Many also send a payment link by text so the customer can pay from their own phone."
+    },
+    {
+      "q": "How can I get paid faster on invoices?",
+      "a": "Add a payment link to every invoice, send reminders and offer card and bank payment options. Next-day funding also reduces the wait between payment and deposit."
+    },
+    {
+      "q": "Can I take a deposit for an HVAC installation?",
+      "a": "Yes, many companies do. Put the schedule in a signed contract and have the customer authorize the charges. Check state home-improvement rules with your attorney."
+    },
+    {
+      "q": "What if there is no cell signal at the job site?",
+      "a": "Use a reader that supports intermittent connectivity or a payment link the customer can open later. Offline modes carry decline risk, so use them cautiously."
+    },
+    {
+      "q": "Can I add a fee for paying by card?",
+      "a": "Possibly via surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure on estimates and invoices. Confirm requirements before adding a fee."
+    }
+  ],
+  "related": [
+    "home-services",
+    "contractors",
+    "mobile-payments",
+    "invoicing-and-payment-links",
+    "collect-overdue-invoices",
+    "accept-payments-on-the-go"
+  ],
+  "icon": "hammer",
+  "read_minutes": 6
+}

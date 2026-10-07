@@ -1,0 +1,82 @@
+{
+  "slug": "accept-payments-at-events",
+  "category": "use-cases",
+  "title": "Accepting Payments at Events and Pop-Ups",
+  "seo_title": "Accept Card Payments at Events & Pop-Ups | MCCPS",
+  "meta_description": "Plan card acceptance for fairs, markets, trade shows and pop-ups: connectivity, offline risk, speed at peak, backup devices and settlement after the event.",
+  "primary_keyword": "accept payments at events",
+  "keywords": ["pop-up shop card payments", "trade show card reader", "festival vendor payments", "event payment processing", "offline card payments", "craft fair credit cards", "temporary booth payments"],
+  "eyebrow": "Event sales",
+  "dek": "A crowded weekend, a flaky signal and a long line: how to be ready to take cards when the sales come all at once.",
+  "intro": [
+    "Event selling compresses a month of revenue into a few hours. Customers browse, decide quickly and expect to pay without a hassle, usually with a card or a phone. If your reader freezes or the venue Wi-Fi drops while ten people are queued, those impulse sales walk away, and they rarely come back.",
+    "The trouble is that events are the most hostile environment for payment gear. Networks are congested, power outlets are scarce, and you are working from a folding table. A little planning before the day, plus a clear fallback plan, is the difference between a record weekend and a lot of apologies."
+  ],
+  "sections": [
+    {
+      "h2": "Plan for the connection you will not get",
+      "paragraphs": [
+        "Never count on venue Wi-Fi. Thousands of phones in a convention hall or fairground can swamp cellular towers and public networks alike. The most dependable setup is a device with its own cellular data plan, ideally on a carrier that tested well at the venue, with a second device on another carrier as backup. A portable hotspot with a different carrier from your primary device gives you another route.",
+        "Test everything before opening. Run a small sale during setup, in your actual booth position, because a corner of a building can have a very different signal from the entrance. If the organizers publish connectivity details or offer vendor networks, ask about them in advance."
+      ]
+    },
+    {
+      "h2": "Understanding offline mode, and its risk",
+      "paragraphs": [
+        "Some terminals and apps can keep taking payments with no signal and send them later. That feels like a safety net, but think carefully about what it means. In offline mode the issuing bank has not approved the card; the device stores the details and submits them once back online. If the card turns out to be declined, stolen or over its limit, you have already handed over the goods and the sale may not be collectible.",
+        "Many merchants set a low per-transaction ceiling for offline sales, accept only chip or tap, and use the feature only as an emergency measure. Ask your provider how offline transactions are stored, how long they remain valid and what limits you can set."
+      ]
+    },
+    {
+      "h2": "Equipment checklist for the day",
+      "paragraphs": [
+        "A short, repeatable kit prevents the usual disasters:"
+      ],
+      "bullets": [
+        "Two payment devices, ideally on different networks, charged fully before you leave.",
+        "Power banks and charging cables, since a dead reader at noon ends sales for the afternoon.",
+        "A printed price list with a QR code or payment link as a fallback for online payment.",
+        "A cash float and a small box, because some customers still pay in cash.",
+        "Signage showing which cards and wallets you accept, and any cash discount notices if you run such a program.",
+        "A phone number for technical support in case something fails mid-event."
+      ]
+    },
+    {
+      "h2": "Speed at the peak",
+      "paragraphs": [
+        "Lines form when each sale takes ninety seconds. Contactless payments are the fastest, so promote tap and wallets at the table. Keep your catalog or price list loaded in your payment app so you tap items instead of typing amounts, and turn off optional prompts you do not need. If tips are not part of your business, remove the tip screen. If they are, prompt before the card is presented.",
+        "Pair staff clearly. One person can handle the customer while another bags items or manages the queue, which keeps the terminal in use rather than idle. At a busy show a second device multiplies throughput and doubles as the backup."
+      ]
+    },
+    {
+      "h2": "After the event: reconciling and funding",
+      "paragraphs": [
+        "Event sales are easy to lose track of. Close out your batch at the end of each day rather than waiting until you are back at the shop, then compare the batch total with your own count. Receipts sent by email or text help customers recognize the charge later, which cuts the odd disputed sale from people who forgot where they bought.",
+        "Remember that funding follows the batch schedule. A Saturday market closed out on Saturday night may not reach your bank until early the next week, so plan cash flow around that. Next-day funding, which MCCPS offers, can shorten the wait when available on your account."
+      ]
+    },
+    {
+      "h2": "Making it repeatable",
+      "paragraphs": [
+        "Treat each event as a rehearsal for the next. Note what sold fastest, where the signal failed and how long the longest line lasted. A reporting dashboard that breaks out sales by device or location makes that review easy. If you are about to commit to a season of events, call MCCPS at 844.826.6227. Ask about mobile setups that work with your existing equipment, and about a free statement review so event fees are not a surprise."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Bring a cellular-connected device and a backup on a different network, never rely on venue Wi-Fi.",
+    "Offline transactions are not approved until submitted, so limit them and use them sparingly.",
+    "Pack power banks, signage, a payment-link fallback and a cash float.",
+    "Contactless payments and pre-loaded item lists keep lines moving.",
+    "Close your batch daily and expect funding to follow the normal settlement schedule."
+  ],
+  "faq": [
+    {"q": "What do I need to take cards at a craft fair or pop-up?", "a": "A merchant account, a payment app or portable terminal, a cellular data connection, charged power and signage. A backup device is strongly recommended. Test a transaction in your booth before the doors open, and decide in advance how you will handle a lost signal."},
+    {"q": "Can I take card payments with no internet?", "a": "Some devices can store transactions and submit them later, but the card is not approved at the time of sale, so declines and fraud become your problem. Use offline mode only as a fallback, with a low ceiling per sale, and prefer a cellular-connected device so you rarely need it."},
+    {"q": "How fast will I get paid after an event?", "a": "It depends on when you close your batch and your funding schedule. Standard funding takes a business day or two, and weekends can add time. MCCPS offers next-day funding where available. Close the batch the same day as sales so the clock starts promptly."},
+    {"q": "Should I add a cash discount at events?", "a": "It can work for booths with many small sales, but rules on cash discounts, dual pricing and surcharges vary by state and card network, and require clear disclosure and signage. Confirm current requirements for the state where each event takes place before posting two prices."},
+    {"q": "What if my reader fails during the busiest hour?", "a": "Switch to your backup device or send customers a payment link or QR code. Keep support contact details handy, because a quick fix is possible for many issues. After the event, find out why it failed so it does not happen at the next one."}
+  ],
+  "related": ["accept-payments-on-the-go", "event-venues", "ticketing-and-events", "offline-payments", "farmers-markets-and-vendors", "qr-code-payments"],
+  "icon": "pin",
+  "read_minutes": 6
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "ach-vs-credit-card",
+  "category": "blog",
+  "title": "ACH vs. Credit Card Payments for Businesses",
+  "seo_title": "ACH vs. Credit Card Payments: Cost and Timing | MCCPS",
+  "meta_description": "Compare ACH and credit card payments on cost, speed, risk, returns and customer experience, and learn when each one fits your business best today.",
+  "primary_keyword": "ACH vs credit card payments",
+  "keywords": [
+    "ACH payment processing",
+    "ACH fees versus card fees",
+    "ACH return codes",
+    "e-check payments",
+    "ACH timing",
+    "recurring ACH debits",
+    "accept bank transfers"
+  ],
+  "eyebrow": "Payment methods",
+  "dek": "Two ways to collect money from customers, with very different cost, speed and risk profiles, and a practical guide to choosing between them.",
+  "intro": [
+    "Cards are convenient, but they are not the only way to get paid. ACH payments, which pull money directly from a customer's bank account, are often cheaper per transaction, especially for large or recurring amounts. They also behave differently in ways that can surprise merchants used to the card world.",
+    "The right answer is rarely all one or all the other. Many businesses offer both and nudge certain payments toward the method that fits them best."
+  ],
+  "sections": [
+    {
+      "h2": "How each method works",
+      "paragraphs": [
+        "A credit or debit card payment is authorized in seconds. The issuer approves it, the sale settles in a batch, and funds arrive within a day or two. The merchant pays a processing fee made of interchange, network assessments and the processor's markup.",
+        "An ACH payment is a batch electronic transfer through the Automated Clearing House network. You submit the customer's bank routing and account number with authorization to debit it. The transaction is sent in a file, processed in cycles and typically settles in one to a few banking days, depending on the speed option and your processor. There is no instant approval; the debit may be returned later."
+      ]
+    },
+    {
+      "h2": "Cost comparison",
+      "paragraphs": [
+        "ACH is often charged as a small flat fee per transaction, sometimes with a small percentage cap, while cards carry a percentage plus a fixed amount. Take a hypothetical $5,000 invoice. A card payment at an effective rate of 3% would cost $150. An ACH payment at a flat $0.50 to $1 would cost a tiny fraction of that.",
+        "This difference makes ACH attractive for rent, tuition, B2B invoices, utilities and subscriptions with large amounts. On a $12 coffee order, the gap is negligible, and the convenience of cards usually wins. Actual fees depend on your provider and agreement.",
+        "Remember to look beyond the headline per-transaction fee. ACH providers may charge monthly fees, setup fees, return fees and fees for same-day processing, and card processors may charge statement, PCI and gateway fees. The honest comparison is the total cost per dollar collected over a month, using your own volume and average ticket."
+      ],
+      "bullets": [
+        "Card fees scale with the sale amount",
+        "ACH fees are often flat or small per item",
+        "ACH savings grow on large tickets",
+        "Card convenience often outweighs fees on small purchases"
+      ]
+    },
+    {
+      "h2": "Speed and certainty",
+      "paragraphs": [
+        "Cards win on certainty at the moment of sale: the approval tells you the funds are available and reserved. ACH does not guarantee funds at submission. A debit can later be returned as insufficient funds, closed account, or unauthorized, sometimes days after you thought the sale was complete.",
+        "Return windows can be long. Standard returns for most reasons arrive within a few days, while unauthorized consumer debits can be disputed for a much longer time under the network rules. This is why some merchants hold shipping or service until the payment clears.",
+        "A hypothetical landlord collecting 40 rent payments of ,800 each month could see how this matters. Cards at 3% would cost  per payment, or ,160 monthly, while ACH could cost well under a hundred dollars total. But if tenants prefer cards for rewards or flexibility, offering both and letting them choose may be the most practical approach, subject to the pricing rules that apply to you."
+      ]
+    },
+    {
+      "h2": "Authorization and risk controls",
+      "paragraphs": [
+        "ACH requires proper customer authorization, such as a signed form, a clear online consent or a recorded call, and you need to keep it. Recurring debits need consent that spells out the amount, frequency and how to cancel. Mistakes here are the main source of unauthorized returns.",
+        "Risk tools help. Account validation checks confirm that an account exists. Limits on amount and frequency, returned item policies and verification before releasing goods all reduce exposure. Also plan for returned payment fees, which you may charge customers if permitted and disclosed, subject to state law.",
+        "Be cautious about releasing high-value goods on ACH alone. For a first-time customer buying expensive equipment, you might wait for funds to clear, ask for a deposit by card, or verify the account first. For long-standing customers with a payment history, the risk is much lower and faster release is reasonable."
+      ],
+      "steps": [
+        "Collect written or recorded authorization and store it securely.",
+        "Validate routing and account numbers when possible.",
+        "Disclose amount, schedule and cancellation terms for recurring debits.",
+        "Decide how long to hold goods or services for large ACH payments.",
+        "Track returns by reason and follow up promptly."
+      ]
+    },
+    {
+      "h2": "Which to offer for which situation",
+      "paragraphs": [
+        "ACH tends to fit large invoices, recurring dues, rent, tuition and regular B2B payments where customers are accustomed to bank transfers. Cards tend to fit retail, restaurants, e-commerce and impulse purchases, where speed, rewards and consumer protections matter to buyers.",
+        "Offering both gives choice. You might present ACH as an option on invoices above a certain amount. If you use a cash discount or dual pricing program, rules vary by state and card network, so confirm how ACH and card prices may be shown and disclosed."
+      ]
+    },
+    {
+      "h2": "Putting it into practice",
+      "paragraphs": [
+        "Adding ACH usually means enabling it through your gateway or payment platform and updating your forms. Think about customer messaging, authorization language and your policy for returns. For recurring use, test the process end to end with a small amount.",
+        "MCCPS supports one-time and recurring payments and can walk you through ACH and card options during a free statement analysis. For legal questions about authorization language and fees you pass to customers, check with your attorney."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "ACH often costs far less than cards on large or recurring payments.",
+    "Card approval is instant; ACH debits can be returned days later.",
+    "Proper authorization and records are essential for ACH.",
+    "Cards fit small, fast purchases; ACH fits large invoices and dues.",
+    "Offering both lets customers choose and can lower your total cost."
+  ],
+  "faq": [
+    {
+      "q": "Is ACH cheaper than credit card processing?",
+      "a": "Often yes, particularly on larger payments, because ACH fees tend to be flat or small while card fees scale with the amount. Actual costs depend on your provider and agreement."
+    },
+    {
+      "q": "How long does an ACH payment take?",
+      "a": "Typically one to a few banking days, depending on the processing option and your provider. Same-day options exist in some cases. Funds are not guaranteed until the return window passes."
+    },
+    {
+      "q": "What are ACH returns?",
+      "a": "They are debits sent back by the customer's bank for reasons such as insufficient funds, closed account or unauthorized transaction. Each return has a code, and the merchant may incur a fee."
+    },
+    {
+      "q": "Do I need written authorization for ACH?",
+      "a": "You need valid customer authorization, which can be written, electronic or recorded, depending on the entry type. Keep it on file and make recurring terms clear."
+    },
+    {
+      "q": "Can I offer both ACH and cards?",
+      "a": "Yes. Many businesses accept both and direct larger or recurring payments to ACH. If you adjust prices by payment type, rules vary by state and card network, so confirm requirements."
+    }
+  ],
+  "related": [
+    "ach-processing",
+    "checks-vs-cards",
+    "set-up-recurring-payments",
+    "process-b2b-payments",
+    "invoicing-and-payment-links",
+    "collect-overdue-invoices"
+  ],
+  "icon": "dollar",
+  "read_minutes": 6
+}

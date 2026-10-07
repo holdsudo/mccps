@@ -1,0 +1,94 @@
+{
+  "slug": "upgrade-to-emv-and-contactless",
+  "category": "use-cases",
+  "title": "Upgrading to EMV and Contactless",
+  "seo_title": "Upgrade to EMV & Contactless Terminals | MCCPS",
+  "meta_description": "Plan an upgrade to EMV chip and contactless payments: what to check on your current terminal, reprogramming versus replacing, staff training and costs.",
+  "primary_keyword": "upgrade to EMV and contactless",
+  "keywords": ["EMV terminal upgrade", "contactless card reader", "chip card reader for business", "NFC payments", "reprogram existing terminal", "EMV liability shift", "tap to pay hardware"],
+  "eyebrow": "Hardware upgrade",
+  "dek": "If your terminal still leans on the magnetic stripe, you are carrying risk and turning away customers who expect to tap.",
+  "intro": [
+    "You can usually tell when a business has not updated its card equipment: the customer holds out a phone or a tap-enabled card, and the cashier points to a slot that only reads a swipe. It is a small moment, but it signals to customers that you are behind, and it quietly shifts fraud liability toward you.",
+    "Upgrading to a device that reads chips and contactless payments is one of the more straightforward improvements you can make. The decisions are about which route to take, how to avoid paying more than necessary and how to bring staff along. This guide covers each."
+  ],
+  "sections": [
+    {
+      "h2": "What EMV and contactless actually add",
+      "paragraphs": [
+        "EMV refers to the chip embedded in most modern cards. Instead of broadcasting the same static data every time, the chip creates a unique cryptogram for each transaction, so copying the data from one sale does not allow a counterfeit card to be made. Contactless uses near-field communication, short-range radio, to send equivalent data when the customer taps a card, phone or watch within a couple of centimeters of the reader.",
+        "Mobile wallets add tokenization on top. Rather than the real card number, the phone supplies a stand-in value tied to the device, so a stolen transaction record is of little use. For merchants, the practical result is lower counterfeit risk, faster checkout and the ability to take payment methods customers increasingly prefer."
+      ]
+    },
+    {
+      "h2": "Why liability matters",
+      "paragraphs": [
+        "Under the EMV liability shift, when a counterfeit chip card is processed through a magnetic stripe or non-chip terminal, responsibility for the resulting fraud can move to the party that did not support the chip. In plain terms, if your terminal cannot read chips and a fake card is used, you may be the one who absorbs the loss. The rules differ by card network and situation, so ask your processor how they apply to you.",
+        "That liability concern, combined with customer expectation, is why most merchants treat the upgrade as essential rather than optional."
+      ]
+    },
+    {
+      "h2": "Reprogram, replace or add",
+      "paragraphs": [
+        "You have three realistic routes, and the cheapest is not always the obvious one."
+      ],
+      "bullets": [
+        "Reprogram: if your existing terminal is chip and contactless capable, it can often be reloaded with new settings and keys to work with a different processor or updated software, with no new hardware cost.",
+        "Replace: if the device is older and cannot read chips or taps, a new terminal is appropriate. Prefer purchasing or a short, cancellable arrangement over a long, fixed lease.",
+        "Add: a small contactless reader or PIN pad that connects to your register or POS can modernize an older system without replacing everything.",
+        "Use software: tap-to-phone on a compatible smartphone offers contactless acceptance with no extra hardware for low-volume or mobile sales."
+      ]
+    },
+    {
+      "h2": "Questions to settle before you buy",
+      "paragraphs": [
+        "Confirm that the device is certified by the major card networks and supports PIN entry for debit, chip and contactless, and the mobile wallets you want to accept. Ask whether it is a point-to-point encrypted model, which keeps card data scrambled from the moment it is read and can reduce your PCI burden. Check how it connects, by Ethernet, Wi-Fi or cellular, and whether it integrates with your POS if you use one.",
+        "Be careful with terms. A device offered on a multi-year lease may cost many times its price over the lease term, and such leases are often non-cancellable. Compare the total cost, not the monthly payment. MCCPS works with existing re-programmable terminals as well as new ones and will tell you whether yours qualifies before you spend anything."
+      ]
+    },
+    {
+      "h2": "Rolling it out",
+      "paragraphs": [
+        "A smooth switchover is mostly preparation."
+      ],
+      "steps": [
+        "Identify the make and model of your current terminals and ask whether they support chip and contactless.",
+        "Decide to reprogram, replace or add hardware based on the answer and the total cost.",
+        "Arrange installation at a quiet time and have your processor on hand to test.",
+        "Run test transactions for chip, tap, wallet and swipe fallback, and confirm receipts print correctly.",
+        "Train staff to leave the card in the reader until prompted and to encourage tapping.",
+        "Update signage so customers know which payment methods you accept."
+      ]
+    },
+    {
+      "h2": "Common snags",
+      "paragraphs": [
+        "Staff sometimes pull the card out too soon, so remind them the transaction is not complete until the terminal says so. Customers unfamiliar with tapping may hold a phone too far away. Counter space and cable length can complicate placement, and a tap reader that sits behind a counter customers cannot reach defeats the purpose. Plan the layout around the customer's movement, not just your own.",
+        "After the upgrade, watch your statements. Chip and tap sales should be card-present and priced accordingly, and a drop in downgraded transactions is a good sign the new device is configured properly."
+      ]
+    },
+    {
+      "h2": "Talk to MCCPS first",
+      "paragraphs": [
+        "MCCPS integrates with nearly any POS, smartphone or terminal, and often keeps the re-programmable equipment you already own. A free statement analysis can also show whether you are paying for outdated gear. Call 844.826.6227 and ask whether your current terminal can make the jump."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "EMV chips and contactless taps create one-time data, which sharply reduces counterfeit fraud.",
+    "Under the liability shift, a non-chip terminal can leave counterfeit losses with you.",
+    "Reprogramming a compatible terminal can avoid new hardware costs entirely.",
+    "Avoid long non-cancellable terminal leases; compare total cost, not monthly payment.",
+    "Train staff and place the reader where customers can easily tap."
+  ],
+  "faq": [
+    {"q": "Is EMV mandatory for merchants?", "a": "There is no general law that requires it, but the card networks' liability shift makes it risky not to. If a counterfeit chip card is used on a non-chip terminal, you may bear the loss. Most customers also expect chip and tap now. Ask your processor how the rules apply to your account."},
+    {"q": "Can my existing terminal accept chip and tap?", "a": "Some can. Terminals sold in recent years generally support both, while older models may only read magnetic stripes. The model number tells you quickly. If it is compatible, it can often be reprogrammed for a new account instead of being replaced. MCCPS can check the model before you buy."},
+    {"q": "Do contactless payments cost more?", "a": "Contactless sales are card-present and are generally priced like chip transactions, not like keyed ones. Fees depend on the card type and your pricing model rather than on tapping. Wallet payments still carry the underlying card's interchange. Review a statement to see how your own tap sales are priced."},
+    {"q": "What happens if the chip will not read?", "a": "Customers can try again, use tap or insert a different card. Terminals can fall back to a swipe, but a fallback swipe may shift fraud liability to you and can reduce your protection. Train staff to attempt the chip and tap thoroughly before falling back, and note unusual patterns."},
+    {"q": "Do I need a new terminal to accept Apple Pay and Google Pay?", "a": "You need a reader with NFC contactless support. Most modern terminals have it, and a compatible smartphone with tap-to-phone software can also accept wallet payments without separate hardware. Check that wallets are enabled in your terminal settings, since some devices ship with contactless turned off."}
+  ],
+  "related": ["emv-chip-processing", "tap-to-pay", "credit-card-terminals", "emv-liability-shift", "contactless-payments-guide", "accept-apple-pay-and-google-pay"],
+  "icon": "card",
+  "read_minutes": 6
+}

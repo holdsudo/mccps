@@ -1,0 +1,125 @@
+{
+  "slug": "cleaning-services",
+  "category": "industries",
+  "title": "Cleaning Service Payment Processing",
+  "seo_title": "Cleaning Service Payment Processing | MCCPS",
+  "meta_description": "Cleaning service payment processing for recurring billing, cards on file and invoices. Automate payments and review your processing fees with MCCPS.",
+  "primary_keyword": "cleaning service payment processing",
+  "keywords": [
+    "maid service billing",
+    "recurring cleaning payments",
+    "card on file cleaning",
+    "janitorial invoicing",
+    "cleaning business merchant account",
+    "autopay house cleaning",
+    "commercial cleaning payments"
+  ],
+  "eyebrow": "Field service",
+  "dek": "Weekly homes, nightly offices and one-time deep cleans: how a cleaning company can bill reliably without a clipboard of checks.",
+  "intro": [
+    "A cleaning company often works while the customer is out. The cleaners arrive, the house is finished and nobody is there to hand over payment. Without a system, someone has to follow up on each visit, and with dozens of clients that follow-up becomes a part-time job.",
+    "Cleaning service payment processing solves this by taking payment details once, with consent, and charging them automatically. It also covers the commercial side, where invoices go to an office manager, and the one-time jobs where a payment link does the work."
+  ],
+  "sections": [
+    {
+      "h2": "Card on file for recurring clients",
+      "paragraphs": [
+        "For weekly or biweekly clients, a card on file is the backbone of the business. At sign-up the customer enters their card on a secure form, the system stores a token and the company charges after each visit or on a monthly schedule. The cleaner never handles the card, and the customer never has to be home.",
+        "Spell out the terms. State the price, whether you charge per visit or monthly, when the charge occurs, your cancellation and rescheduling policy and any fee for lockouts. Keep the agreement with a date. Clear terms are the best defense if a customer later says they did not expect a charge."
+      ],
+      "bullets": [
+        "Collect card details through a secure form, not by text or email.",
+        "State price, schedule and cancellation policy up front.",
+        "Send a receipt after each charge.",
+        "Record the customer's consent and keep it on file."
+      ]
+    },
+    {
+      "h2": "Billing per visit versus monthly",
+      "paragraphs": [
+        "Per-visit billing matches the charge to the work done, but creates more small transactions, each with its own per-item fee. Monthly billing combines visits into a single charge, which is cheaper to process and easier for customers to budget, though it requires a clear policy for skipped or added visits.",
+        "Think about the fee impact. Billing 100 clients four times a month at $120 is 400 transactions, while one monthly charge of $480 each is 100 transactions. If your per-item fee is $0.15, that is $60 versus $15 a month in item fees alone, with the percentage portion unchanged. Hypothetical numbers, but they show why structure matters."
+      ]
+    },
+    {
+      "h2": "Handling lockouts, cancellations and add-ons",
+      "paragraphs": [
+        "Cleaning has its own friction points: a customer who forgets to leave the door open, a last-minute cancellation, an extra request for inside the oven. Decide your policy for each, write it down and apply it consistently. A reasonable late-cancel fee, clearly disclosed in the agreement, is common.",
+        "When you charge an add-on or a fee, send a message that explains it. A short note such as a lockout fee per our service agreement for the 9 a.m. visit avoids surprise and cuts disputes."
+      ],
+      "steps": [
+        "Record the visit and any extra services performed.",
+        "Calculate the charge per the agreement.",
+        "Process the card on file after the visit or on the billing date.",
+        "Send a receipt that itemizes extras or fees.",
+        "Follow up quickly if the card is declined."
+      ]
+    },
+    {
+      "h2": "Commercial and janitorial accounts",
+      "paragraphs": [
+        "Offices, clinics and retail spaces usually want an invoice, a PO number and net terms. They may pay by ACH or by corporate card. A payment link on the invoice makes it easy for the accounts payable team to pay, and ACH usually costs less than cards for larger monthly amounts.",
+        "If a customer pays with a corporate or purchasing card, sending extra data with the transaction, known as Level 2 or Level 3, can lower interchange. MCCPS supports B2B enhanced data processing. Keep the contract and visit logs for each account, since commercial customers sometimes ask for documentation before paying."
+      ]
+    },
+    {
+      "h2": "Security and staff access",
+      "paragraphs": [
+        "Because you store customers' payment details and often their house keys, trust is central. Use tokenized storage so staff cannot see full card numbers, limit who can run refunds, and use unique logins. Never keep card numbers in spreadsheets or messaging apps.",
+        "PCI compliance applies to any business that takes cards, and the questionnaire that applies depends on how you accept them. MCCPS offers PCI compliance help and free 24/7 technical support."
+      ]
+    },
+    {
+      "h2": "Handling damage claims and refunds fairly",
+      "paragraphs": [
+        "Occasionally a customer says something was broken or a room was missed. How you respond affects whether the matter ends with a conversation or a chargeback. Offer a prompt return visit or partial credit under a written policy, and document the original complaint. Photos at the end of each job, or a checklist signed by the cleaner, help when memories differ. If a refund is warranted, process it to the original card quickly, which costs less than a dispute. Review complaints for patterns, since repeated issues at one property or with one cleaner usually point to a training or scheduling problem you can fix."
+      ]
+    },
+    {
+      "h2": "Review your costs",
+      "paragraphs": [
+        "Say your company processes $40,000 a month by card with a 3.1 percent effective rate, or $1,240 in fees. A big share of that is recurring, card-not-present billing. Check your statement for gateway fees, recurring-billing fees and monthly minimums, and ask how failed charges are priced.",
+        "Some cleaning companies explore a cash discount or dual pricing arrangement, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and current requirements should be confirmed before changing prices. The free statement analysis reviews two months of statements line by line, with savings depending on what is found."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A tokenized card on file lets you charge clients who are not home.",
+    "Write down price, schedule, cancellation and lockout terms and share them up front.",
+    "Monthly billing reduces the number of per-item fees compared with per-visit billing.",
+    "Commercial accounts prefer invoices, ACH and corporate cards with Level 2 data.",
+    "Limit staff access to payment functions and never store card numbers informally."
+  ],
+  "faq": [
+    {
+      "q": "How do cleaning companies charge customers who are not home?",
+      "a": "They store a tokenized card on file with the customer's consent and charge after each visit or on a monthly schedule. Terms and cancellation rules should be in a written agreement."
+    },
+    {
+      "q": "Is monthly billing better than per-visit billing?",
+      "a": "Monthly billing means fewer transactions and fewer per-item fees, and it is easier for customers to budget. Per-visit billing tracks work more closely. Choose based on your clients and your policies for skipped visits."
+    },
+    {
+      "q": "What if a customer disputes a late-cancel fee?",
+      "a": "Provide the signed agreement showing the policy, the booking record and any messages. A clear, consistent policy and a short explanation at the time of the charge reduce successful disputes."
+    },
+    {
+      "q": "Can commercial clients pay by ACH?",
+      "a": "Yes. ACH is common for monthly janitorial invoices and often costs less than cards. A written authorization is required for debits, and payments take a few days to clear."
+    },
+    {
+      "q": "Can a cleaning company add a card fee?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure. Confirm requirements before adding a fee."
+    }
+  ],
+  "related": [
+    "recurring-billing",
+    "landscaping",
+    "set-up-recurring-payments",
+    "account-updater",
+    "invoicing-and-payment-links",
+    "home-services"
+  ],
+  "icon": "refresh",
+  "read_minutes": 6
+}

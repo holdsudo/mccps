@@ -1,0 +1,96 @@
+{
+  "slug": "lower-processing-fees",
+  "category": "use-cases",
+  "title": "How to Lower Credit Card Processing Fees",
+  "seo_title": "How to Lower Credit Card Processing Fees | MCCPS",
+  "meta_description": "Learn the real levers for lowering credit card processing fees: pricing model, card mix, data quality, hardware and program design. Start with a free analysis.",
+  "primary_keyword": "lower credit card processing fees",
+  "keywords": ["reduce credit card processing fees", "lower merchant account fees", "how to cut processing costs", "effective rate reduction", "interchange-plus pricing", "cash discount program", "merchant statement review"],
+  "eyebrow": "Cost savings",
+  "dek": "Most of what you pay is not negotiable, but a surprising amount of the rest is. Here is how to tell the difference and act on it.",
+  "intro": [
+    "You open the monthly statement, see a total that has crept up again, and wonder whether anyone could actually explain it. Card processing is one of the few expenses that scales with your success: every sale you make carries a slice that goes to someone else. It is easy to treat that slice as a fixed cost of doing business, like rent on a sale you have already made.",
+    "In reality the number you pay is a stack of separate layers, and only some of them can be moved. Once you know which is which, lowering the bill becomes a project with clear steps instead of a vague complaint. This guide walks through the layers, the levers that genuinely work, and the ones that sound good but do little."
+  ],
+  "sections": [
+    {
+      "h2": "Know what you are actually paying",
+      "paragraphs": [
+        "Every card sale carries three kinds of cost. Interchange goes to the bank that issued the customer's card and is set by the card networks, not by your processor. Assessments are small network fees charged as a percentage of volume. Everything else is the processor's own markup: a percentage, a per-transaction fee, monthly fees, statement fees, gateway fees and, sometimes, charges that exist mostly because nobody questioned them.",
+        "The single most useful figure is your effective rate: total fees divided by total card volume. Say you process $40,000 in a month and the statement shows $1,240 in fees. Your effective rate is 3.1%. That is a hypothetical, but the calculation is real, and it lets you compare any offer, any pricing model and any month against any other on equal terms."
+      ]
+    },
+    {
+      "h2": "Start with the pricing model, not the headline rate",
+      "paragraphs": [
+        "A quoted rate tells you little if the structure around it is built to hide cost. Tiered pricing sorts transactions into buckets with names like qualified and non-qualified, and the processor decides which transactions fall where. Flat-rate pricing is simple but charges the same percentage whether the card is a low-cost debit card or a premium rewards card. Interchange-plus passes the true interchange through and adds a visible, fixed markup, which makes every line traceable.",
+        "Which model wins depends on your mix. A business with mostly large tickets and many debit cards often does better on interchange-plus, while a very small, occasional seller may value flat-rate simplicity. The point is to choose on purpose, using your own statements, rather than inheriting whatever the first salesperson offered."
+      ]
+    },
+    {
+      "h2": "Levers that genuinely reduce cost",
+      "paragraphs": [
+        "Some savings come from how you accept cards rather than from who processes them. Interchange rewards transactions that look low-risk and well documented, and punishes those that do not."
+      ],
+      "bullets": [
+        "Swipe, dip or tap in person instead of key-entering cards; card-present transactions generally qualify for lower interchange than keyed or online ones.",
+        "Collect and send address verification and security code data on every card-not-present sale so it qualifies for the better category.",
+        "Submit Level 2 and Level 3 data on business and purchasing card sales, which can reduce the interchange on those transactions.",
+        "Close your batch every day so transactions are not downgraded for late settlement.",
+        "Remove junk lines: unused gateways, duplicate statement fees, equipment rentals you no longer use and a PCI non-compliance charge you can stop by completing the questionnaire.",
+        "Negotiate the markup itself once you can show the volume and the mix that justify a better rate."
+      ]
+    },
+    {
+      "h2": "Redesign the program around who pays",
+      "paragraphs": [
+        "Beyond trimming, some businesses change who bears the cost. A compliant cash discount or dual pricing program shows two prices, so customers who pay with a card cover the cost of acceptance. MCCPS offers this as its Zero Processing Fees program, which can bring a merchant's net card-processing cost toward zero when it is set up properly.",
+        "This is not a switch to flip casually. Rules vary by state and by card network, the program needs proper disclosure and signage at the register and online, and the way prices are displayed matters. Confirm the current requirements for your location and business type before you launch, and be ready to adjust if rules change. Done carefully, it turns a variable expense into a pricing decision you control."
+      ]
+    },
+    {
+      "h2": "Where hardware and contracts hide cost",
+      "paragraphs": [
+        "Fees are not only percentages. A terminal leased for four years at a price far above what the device costs, an automatic renewal with a long notice window, or an early termination fee can each outweigh a rate reduction. Read the equipment and contract terms with the same care as the rates, and ask whether your existing terminal can be reprogrammed instead of replaced. Many can, which removes both the lease and the downtime."
+      ]
+    },
+    {
+      "h2": "A simple order of operations",
+      "paragraphs": [
+        "Work in sequence so you do not chase small wins while a large one sits untouched."
+      ],
+      "steps": [
+        "Gather two to three recent statements and calculate your effective rate for each month.",
+        "Identify the pricing model and list every non-percentage fee with its annual total.",
+        "Fix acceptance habits: card-present where possible, full data on online sales, daily batching.",
+        "Ask for a line-by-line comparison against interchange-plus pricing using your actual mix.",
+        "Decide whether a cash discount or dual pricing program fits your customers and your state.",
+        "Review contract and equipment terms before changing anything, so you know the cost of switching.",
+        "Recheck the effective rate after two months to confirm the change held."
+      ]
+    },
+    {
+      "h2": "Get a second set of eyes on the statement",
+      "paragraphs": [
+        "Reading a statement is a skill, and the formats are inconsistent enough that even careful owners miss things. MCCPS offers a free, no-obligation savings analysis in which the team reviews two months of your processing statements line by line and shows you where the money goes. What you could save depends entirely on what the statements reveal, and there is no promise attached. If you would like a clearer picture, call 844.826.6227 and ask for the analysis."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Your effective rate, fees divided by volume, is the one number that lets you compare any offer fairly.",
+    "Interchange and assessments are mostly fixed; markup, monthly fees and acceptance habits are where the room is.",
+    "Taking cards the low-risk way, with full data and daily batching, reduces what interchange charges you.",
+    "A compliant cash discount program can change who pays, but rules vary by state and network.",
+    "Check contracts and terminal leases before switching, because exit costs can erase the savings."
+  ],
+  "faq": [
+    {"q": "What is a good effective rate for card processing?", "a": "It depends on your card mix, average ticket and how cards are accepted. Effective rates commonly land somewhere in the 2 to 4 percent range, but a business with large tickets and mostly debit can sit below that while a keyed, rewards-heavy one can sit above. Compare your own months against each other and against a line-by-line alternative rather than chasing a universal target."},
+    {"q": "Can I negotiate my current processor's rates?", "a": "Often yes, particularly the markup, monthly fees and per-item charges. Interchange and assessments are not negotiable because the networks set them. Bring recent statements, your volume and an alternative quote. If your processor will not move, you may still switch, but check the contract first for early termination fees and equipment leases."},
+    {"q": "Will lowering fees change how I get paid?", "a": "Not necessarily. Funding speed depends on your processor and bank, not on your rate. Many merchants keep their existing terminals and gain next-day funding at the same time, though availability depends on your account and the cutoff times of your batch. Ask about funding schedules explicitly when you compare offers."},
+    {"q": "Is a cash discount program the same as a surcharge?", "a": "No. A cash discount or dual pricing program posts prices that already include card costs and gives a lower price for non-card payment, while a surcharge adds a fee on top at checkout. Each has different rules by state and card network, with disclosure requirements. Confirm current rules for your location before choosing."},
+    {"q": "How long does it take to see lower fees after switching?", "a": "You typically see the difference on the first full statement after the change, since fees are totaled monthly. Run the effective rate calculation on that statement and again the following month, because card mix and ticket size vary and a single month can mislead."}
+  ],
+  "related": ["free-statement-analysis", "interchange-plus-pricing", "effective-rate-explained", "zero-processing-fees", "audit-your-merchant-statement", "negotiate-processing-rates"],
+  "icon": "trend",
+  "read_minutes": 6
+}

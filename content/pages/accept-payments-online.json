@@ -1,0 +1,93 @@
+{
+  "slug": "accept-payments-online",
+  "category": "use-cases",
+  "title": "Accepting Payments Online for Your Business",
+  "seo_title": "How to Accept Payments Online | MCCPS",
+  "meta_description": "Add online card payments to your website the right way: gateway, hosted pages, tokenization, fraud checks and checkout choices that keep fees and risk down.",
+  "primary_keyword": "accept payments online",
+  "keywords": ["accept credit card payments on website", "online payment gateway", "website checkout setup", "card not present processing", "hosted payment page", "payment links", "ecommerce payments"],
+  "eyebrow": "Online payments",
+  "dek": "What you need behind a checkout button: a gateway, a merchant account, secure card handling and a few guardrails against fraud.",
+  "intro": [
+    "Adding a pay button to a website looks simple from the outside. Behind it sits a chain of services that capture card details safely, ask the issuing bank for approval, protect you from fraudulent orders and move the money to your account. Get that chain right and customers barely notice it. Get it wrong and you invite abandoned carts, chargebacks and security headaches.",
+    "This guide is for owners who sell products, services or bookings online and want to understand the moving parts before choosing tools. It covers the components, the main integration options, the fees that differ from in-person sales and the practices that keep the risk manageable."
+  ],
+  "sections": [
+    {
+      "h2": "The pieces behind an online checkout",
+      "paragraphs": [
+        "Online card acceptance needs a merchant account, which receives the funds, and a payment gateway, which securely transmits card data from your site to the processor and returns the approval or decline. The gateway is the online equivalent of the terminal on your counter. Some providers bundle the two, but they are separate functions, and knowing that helps when you compare quotes with several line items.",
+        "Because the customer is not physically present, these are card-not-present transactions. Issuers see them as riskier and interchange is generally higher than for a chip or tap, so the cost and the fraud protections both deserve more attention than they would at a store counter."
+      ]
+    },
+    {
+      "h2": "Ways to connect your website",
+      "paragraphs": [
+        "There is no single right answer; the choice depends on how much control and how much responsibility you want. Three approaches cover most small businesses:"
+      ],
+      "bullets": [
+        "Shopping-cart plugins for popular e-commerce platforms, which connect your cart directly to the gateway with little or no coding.",
+        "Hosted payment pages or payment links, where the customer pays on a secure page you do not have to build, ideal for service businesses, invoices and small catalogs.",
+        "A direct API integration for custom sites, which gives full design control but places more security responsibility on you.",
+        "A virtual terminal alongside any of these, so you can key in orders that arrive by email or phone."
+      ]
+    },
+    {
+      "h2": "Keep card data off your own systems",
+      "paragraphs": [
+        "The easiest way to shrink your security burden is to never touch raw card numbers. Hosted pages and embedded fields send details straight to the gateway, which returns a token, a stand-in value that is useless to a thief. You store the token to refund an order or bill a returning customer, and the real number never sits on your server.",
+        "That choice also affects PCI compliance. Merchants who fully outsource card entry usually qualify for a shorter self-assessment questionnaire than those who handle card data directly. MCCPS helps merchants work out which questionnaire applies and complete it so a non-compliance fee does not appear on the statement."
+      ]
+    },
+    {
+      "h2": "Fraud controls that matter online",
+      "paragraphs": [
+        "Online fraud usually shows up as stolen card numbers used for orders, or as card-testing bots that fire small transactions to see which numbers work. A few inexpensive settings blunt most of it. Require the card's security code and billing postal code so the address verification service can compare them with the issuer's records. Add 3-D Secure for higher-risk orders, which shifts some liability and puts an extra authentication step in front of the cardholder.",
+        "Watch for patterns: many failed attempts from one IP address, mismatched shipping and billing locations on large orders, and unusual quantities of a single item. Setting limits on how many attempts a visitor can make slows card testing considerably, and a short manual review rule for unusually large first orders catches most of the rest."
+      ]
+    },
+    {
+      "h2": "Checkout design affects revenue and risk",
+      "paragraphs": [
+        "A checkout that is clear about total cost, delivery timing and refund policy reduces both abandoned carts and later disputes. Make sure your business name on the customer's statement is recognizable, because an unfamiliar descriptor is one of the most common reasons customers dispute a charge they actually made. Offer wallets such as Apple Pay and Google Pay where you can, since they reduce typing on phones and use tokenized credentials."
+      ]
+    },
+    {
+      "h2": "Setting it up, step by step",
+      "paragraphs": [
+        "A typical launch follows this order:"
+      ],
+      "steps": [
+        "Confirm your merchant account is approved for online sales and that your website lists contact details and policies.",
+        "Choose a gateway and connect it through a cart plugin, payment link or API.",
+        "Enable address and security code checks and decide where 3-D Secure fits.",
+        "Place a test order in live mode, then refund it and confirm the full cycle.",
+        "Set the descriptor, confirmation email and receipt wording.",
+        "Review daily batches and early declines for odd patterns during the first weeks."
+      ]
+    },
+    {
+      "h2": "Next steps",
+      "paragraphs": [
+        "If you already have an in-person account, ask whether your online sales can run through the same merchant account so reporting and funding stay in one place. MCCPS supports multiple gateways, can integrate with almost any POS or cart, and offers free 24/7 technical support for the day something stops working. A free statement review is a sensible place to begin if you want to see what your current online costs look like."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Online acceptance needs a merchant account and a payment gateway, which do different jobs.",
+    "Hosted pages, plugins and APIs trade convenience against control and security responsibility.",
+    "Tokenization keeps raw card numbers off your systems and simplifies PCI compliance.",
+    "Security code, postal code checks and 3-D Secure cut a large share of fraud for little effort.",
+    "A recognizable billing descriptor and clear policies reduce disputes from real customers."
+  ],
+  "faq": [
+    {"q": "Do I need a separate merchant account for online sales?", "a": "Not always. Many merchants run online and in-person sales through one account, which keeps reporting and funding together. Some processors do require the online channel to be approved separately, particularly if your website sells something new, so tell the underwriter about every channel when you apply."},
+    {"q": "Why are online card fees often higher?", "a": "Online sales are card-not-present, which issuers regard as higher risk, so interchange for those transactions is generally higher than for a chip or tap payment. Passing address and security code data, and Level 2 or 3 data for business cards, can help you qualify for better categories."},
+    {"q": "What is a payment gateway?", "a": "A gateway is the service that securely transmits card data from your website to the processor and returns the approval or decline. It is the online counterpart of a card terminal. Some gateways also store tokens, run fraud checks and handle recurring billing, which is why features differ so widely."},
+    {"q": "Can I accept payments without building a store?", "a": "Yes. Payment links and hosted invoice pages let you collect card payments by sending a link through email, text or a social message, with no website required. They suit service businesses, deposits and small catalogs, and the customer pays on a secure page."},
+    {"q": "How do I stop card testing bots?", "a": "Limit how many payment attempts one visitor or IP can make, require the security code and postal code, add a challenge such as CAPTCHA at checkout and monitor for bursts of small declined charges. A gateway with velocity controls helps. Act quickly, because testing can lead to fees and issuer attention."}
+  ],
+  "related": ["payment-gateway", "ecommerce-integrations", "fraud-prevention", "what-is-a-payment-gateway", "tokenization-explained", "payment-links-guide"],
+  "icon": "cart",
+  "read_minutes": 6
+}

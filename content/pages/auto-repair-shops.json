@@ -1,0 +1,125 @@
+{
+  "slug": "auto-repair-shops",
+  "category": "industries",
+  "title": "Auto Repair Shop Payment Processing",
+  "seo_title": "Auto Repair Shop Payment Processing | MCCPS",
+  "meta_description": "Auto repair shop payment processing for large tickets, key-entered cards and fleet accounts with Level 2 data. Check your fees with a free statement analysis.",
+  "primary_keyword": "auto repair shop payment processing",
+  "keywords": [
+    "mechanic credit card processing",
+    "garage payments",
+    "fleet account billing",
+    "Level 2 processing",
+    "key-entered transactions",
+    "auto shop merchant account",
+    "repair invoice payments"
+  ],
+  "eyebrow": "Industry payments",
+  "dek": "Big tickets, cards typed in over the phone and fleet customers who pay on account: how repair shops can keep processing costs sensible.",
+  "intro": [
+    "In an auto repair shop, the bill is rarely a surprise to the mechanic but often a surprise to the customer. A brake job turns into rotors, then a caliper. A transmission diagnosis becomes a four-figure repair. The more the ticket grows, the more the payment method matters, and the more a percentage-based fee costs.",
+    "Auto repair payment processing deals with those large tickets, with cards entered by hand when the car is dropped off or the customer is on the phone, and with fleet or commercial accounts that pay on invoice. Getting it right affects both cash flow and cost."
+  ],
+  "sections": [
+    {
+      "h2": "Why repair tickets are expensive to process",
+      "paragraphs": [
+        "Interchange is mostly a percentage of the sale, so bigger tickets mean bigger fees. A $1,800 repair at a 2.9 percent effective rate costs about $52 to process, nearly the profit on a small job. Because repair shops see a mix of small oil changes and large repairs, the effective rate can swing depending on the week.",
+        "Rewards and premium cards, common among customers who can afford large repairs, usually carry higher interchange. That is not something you control, but you can control how the card is accepted and what markup sits on top of the interchange. A line-by-line statement review shows how much of your cost is pass-through and how much is markup."
+      ]
+    },
+    {
+      "h2": "Keyed-in cards and drop-off payments",
+      "paragraphs": [
+        "Repair shops often take card details over the phone, authorizing a repair while the customer is at work. Those keyed transactions are card-not-present, which carry higher fraud risk and usually higher cost than a chip or tap at the counter. If the card is entered through a virtual terminal, collecting the billing ZIP code and CVV helps qualify the transaction for better pricing and gives some protection against fraud.",
+        "Never write card numbers on a work order. A paper copy lying on a counter is exactly how card data leaks. Use a secure virtual terminal, or send a payment link the customer completes on their own phone, which keeps the number out of your hands entirely."
+      ],
+      "bullets": [
+        "Collect billing ZIP and CVV on every keyed transaction.",
+        "Do not record card numbers on paper work orders.",
+        "Prefer payment links for customers away from the shop.",
+        "Keep a signed authorization for the work and the amount."
+      ]
+    },
+    {
+      "h2": "Deposits and authorization for parts",
+      "paragraphs": [
+        "Special-order parts create risk. If a customer cancels after the part arrives, you are stuck. A deposit covering the cost of the part, collected when the order is placed, protects you. A written estimate and signed authorization for the work are also vital, because disputes in this industry often center on whether the customer approved the final price.",
+        "If the repair cost climbs after teardown, call the customer, explain the change and record their approval. Taking payment for amounts the customer did not agree to is one of the commonest causes of chargebacks in repair work."
+      ],
+      "steps": [
+        "Prepare a written estimate and get it signed.",
+        "Take a deposit for special-order parts.",
+        "Call for approval if the scope or price changes.",
+        "Record the approval with date and time.",
+        "Charge the final amount and give an itemized invoice."
+      ]
+    },
+    {
+      "h2": "Fleet and commercial accounts with Level 2",
+      "paragraphs": [
+        "Delivery vans, contractor trucks and company cars bring steady, higher-value work. Many of these customers pay with corporate or purchasing cards. Those cards often qualify for lower interchange when you send extra detail with the transaction, known as Level 2 data (such as tax amount and a customer code), and sometimes Level 3 line-item detail.",
+        "Your payment platform must be set up to pass that data. If it is not, you may be paying a higher rate on card types that could cost less. MCCPS supports B2B Level 2 and Level 3 processing, so fleet-heavy shops can ask how it would apply to their account. Invoices with payment links and ACH are also useful for commercial customers who prefer bank transfers."
+      ]
+    },
+    {
+      "h2": "Getting paid at pickup",
+      "paragraphs": [
+        "Customers pick up cars at the end of the day, often in a hurry. A counter terminal with contactless acceptance and a printed itemized invoice makes pickup quick. Make sure you capture the card before releasing the keys, and refund any difference if the final total changed after preauthorization.",
+        "Integration with shop management software helps. When the invoice and the payment live in the same system, reconciliation is simpler, and the customer's history shows what was done and paid. MCCPS can work with most shop software and often keep terminals you already own."
+      ]
+    },
+    {
+      "h2": "Warranty work, comebacks and refunds",
+      "paragraphs": [
+        "Repair shops face a particular refund situation: the comeback. A customer returns after a repair with a problem, and you either redo the work at no charge or refund part of the bill. If you refund, remember the original processing fees are usually not returned, so the refund costs you the fees as well as the revenue. Where possible, redo the work rather than refund, and document the decision. If a refund is the right answer, send it to the original card promptly. Keep warranty terms printed on the invoice, so the customer knows what is covered and for how long, which reduces both disputes and surprise refund requests."
+      ]
+    },
+    {
+      "h2": "Cost review and next steps",
+      "paragraphs": [
+        "Say your shop processes $75,000 a month on cards and pays $2,325 in fees, an effective rate of 3.1 percent. If keyed transactions are a large share, ask whether you are being charged a higher rate for them than necessary, and whether corporate cards are being priced with Level 2 data.",
+        "Some shops explore a cash discount or dual pricing program, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure and signage are required, and large repair bills deserve a careful look at current rules. MCCPS offers a free statement analysis that reviews two months of statements line by line, with savings depending on what is found, plus next-day funding and free 24/7 support."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Large repair tickets make percentage-based fees expensive, so review your effective rate.",
+    "Use a virtual terminal or payment link instead of writing card numbers on work orders.",
+    "Take deposits for special-order parts and get signed estimates.",
+    "Level 2 data can reduce costs on corporate and fleet cards.",
+    "Record customer approval for any change in repair price."
+  ],
+  "faq": [
+    {
+      "q": "How should a repair shop take a card over the phone?",
+      "a": "Use a secure virtual terminal or send a payment link. Collect the billing ZIP and CVV, and keep a record of the customer's authorization. Avoid writing card numbers on paper."
+    },
+    {
+      "q": "What is Level 2 processing for fleet customers?",
+      "a": "It means sending additional data, such as tax amount and customer code, with a corporate or purchasing card transaction. That can qualify the sale for lower interchange. Your gateway and processor must support it."
+    },
+    {
+      "q": "Can a shop charge more than the estimate?",
+      "a": "Only with the customer's approval. Call the customer, explain the change and record their agreement before charging. Charges the customer did not approve are a common reason for disputes."
+    },
+    {
+      "q": "Should I take deposits on parts?",
+      "a": "Many shops do for special-order parts, so they are protected if the job is cancelled. Put the deposit policy in writing on the estimate."
+    },
+    {
+      "q": "Can a repair shop add a surcharge for cards?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require clear disclosure and signage. Confirm current requirements before adding anything to invoices."
+    }
+  ],
+  "related": [
+    "level-2-and-level-3-processing",
+    "virtual-terminal",
+    "car-dealerships",
+    "large-ticket-transactions",
+    "accept-payments-by-phone",
+    "invoicing-and-payment-links"
+  ],
+  "icon": "gear",
+  "read_minutes": 6
+}

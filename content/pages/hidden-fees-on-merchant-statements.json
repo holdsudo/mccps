@@ -1,0 +1,125 @@
+{
+  "slug": "hidden-fees-on-merchant-statements",
+  "category": "blog",
+  "title": "12 Hidden Fees on Merchant Statements",
+  "seo_title": "12 Hidden Fees on Merchant Statements to Watch | MCCPS",
+  "meta_description": "Twelve fees that commonly hide in merchant statements, what each is, when it is legitimate, and the question to ask your processor about it.",
+  "primary_keyword": "hidden fees on merchant statements",
+  "keywords": [
+    "merchant statement fees",
+    "hidden processing fees",
+    "batch fee",
+    "PCI fee",
+    "statement fee",
+    "monthly minimum fee",
+    "annual fee processor",
+    "regulatory fee"
+  ],
+  "eyebrow": "Statement skills",
+  "dek": "Few of these are scams, and many are legitimate. What matters is whether you agreed to them, understand them and can compare them.",
+  "intro": [
+    "Processing quotes lead with a rate. Statements tell the rest of the story. Between the headline percentage and the final deposit sit a series of smaller charges, some tied to real costs, some purely the provider's own revenue. Individually they look minor, but together they can add a noticeable share of your total cost.",
+    "Here are twelve that appear often, with what they are and what to ask. Whether any of them is a problem depends on your contract, your volume and what you were told at signup."
+  ],
+  "sections": [
+    {
+      "h2": "Fees tied to every transaction",
+      "paragraphs": [
+        "These charges scale with activity, so they hit small-ticket businesses hardest. Check them against your signed pricing schedule.",
+        "On 1,000 transactions a month, even a few cents of difference per item is real money, so ask for each per-item amount to be listed."
+      ],
+      "bullets": [
+        "1. Per-authorization fee: a few cents each time a transaction is submitted, sometimes including declines. Ask whether declined attempts are charged.",
+        "2. Batch fee: a charge each time you close and submit a batch. Ask whether it applies per day or per batch header.",
+        "3. Network access or brand fees: charged by the card networks per transaction. Ask whether the amount shown matches the networks' published pass-through and whether any markup is added.",
+        "4. AVS or verification fees: a small charge for address verification or zero-dollar checks. Ask whether your system sends more checks than it needs."
+      ]
+    },
+    {
+      "h2": "Fees charged monthly or annually",
+      "paragraphs": [
+        "Recurring charges are billed whether you process much or little. Over a year they add up, and they are easy to overlook because each looks small.",
+        "Many are negotiable at signup or at renewal, and some can be removed if you no longer use the service."
+      ],
+      "bullets": [
+        "5. Monthly account or statement fee: a flat charge for maintaining the account. Ask what it covers.",
+        "6. Monthly minimum: if your fees fall below a threshold, you are charged the difference. Ask what the minimum is and how it is calculated.",
+        "7. Gateway fee: a monthly and per-transaction charge for online or virtual terminal access. Ask whether you are paying for more than one gateway.",
+        "8. Annual fee: a once-a-year charge, often billed in a single lump. Ask when it is billed and if it can be waived."
+      ]
+    },
+    {
+      "h2": "Compliance and regulatory fees",
+      "paragraphs": [
+        "Some charges are labeled with an official-sounding name, which makes them hard to question. A fee can be legitimate and still be the processor's revenue instead of a government or network charge.",
+        "Ask for the exact reason for any charge called a regulatory, compliance or administrative fee."
+      ],
+      "bullets": [
+        "9. PCI program fee: a charge for the provider's compliance program or portal. Ask what service it includes and whether you can complete the validation yourself.",
+        "10. PCI non-compliance fee: a penalty billed when you have not completed your annual validation. Ask how to complete it and whether past charges can be waived.",
+        "11. Regulatory or administrative fee: a vague charge with no clear outside cost. Ask for the specific law, network rule or service behind it."
+      ]
+    },
+    {
+      "h2": "Fees at the end of the relationship",
+      "paragraphs": [
+        "12. Early termination fee: a charge for ending your contract before its term expires, sometimes combined with equipment lease obligations that continue regardless. Ask for the exact amount, how it is calculated and whether the contract renews automatically.",
+        "Leases deserve special attention. A terminal lease can run for years, may be noncancelable and may cost several times the price of the device. If you are signing one, read the term and the buyout before you commit.",
+        "The lease deserves its own line in your review. A terminal lease can run four years or more, often cannot be cancelled and may carry a total cost many times the price of the equipment. Even if you later switch processors, the lease company may keep billing you. If you already own a terminal that can be re-programmed, you may not need to lease anything at all.",
+        "When you review early termination terms, look beyond the headline amount. Some contracts charge a flat fee, some charge a formula based on remaining months or average fees, and some add liquidated damages. Read the language, and ask for an example calculation using your own numbers."
+      ]
+    },
+    {
+      "h2": "How to audit your own statement",
+      "paragraphs": [
+        "Highlight every line that is not interchange or assessments. For each one, find it in your agreement. If it is not there, ask when it was added and how you were notified. If it is there, ask whether you use the service. Add up the non-pass-through lines, then divide by your volume to see what they cost you as a percentage.",
+        "Take a hypothetical business with $30,000 in volume that pays $10 for batches, $25 for an account fee, $30 for gateway, $15 for a PCI program and $20 for an administrative fee. That is $100, or about 0.33% of sales, before any rate is applied. Individually minor, together meaningful."
+      ]
+    },
+    {
+      "h2": "What to do about it",
+      "paragraphs": [
+        "Ask your provider for a line-by-line explanation in writing, and for removal of any fee you did not agree to or do not use. If they decline, compare the total cost with quotes from other providers. A transparent pricing model helps, because it separates pass-through costs from the provider's own charges.",
+        "MCCPS provides a free, no-obligation analysis that goes through two months of statements line by line, highlighting which fees are pass-through, which are the provider's and where there may be room to reduce them. Savings depend on what the statements show."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Many statement fees are legitimate, but each should appear in your agreement and have a clear purpose.",
+    "Fixed monthly and annual charges can add a noticeable percentage at modest volume.",
+    "Vague regulatory or administrative fees deserve a request for the specific reason and source.",
+    "Total non-pass-through charges divided by volume shows what the provider's own fees cost you."
+  ],
+  "faq": [
+    {
+      "q": "Are hidden fees on merchant statements illegal?",
+      "a": "Not generally, as long as they are disclosed in your agreement. The issue is often that they are buried in fine print or described vaguely. Review your contract, ask for explanations and challenge any fee you did not agree to."
+    },
+    {
+      "q": "What is a batch fee?",
+      "a": "It is a charge each time you close and submit your batch of transactions for settlement. Typically a few cents, it is billed per batch, which can add up if you close multiple times a day. Ask your provider how it is counted."
+    },
+    {
+      "q": "Can I get a fee removed from my statement?",
+      "a": "Sometimes. Providers may waive or remove fees at renewal, when you point out a charge that is not in your agreement or when you present a competing quote. It helps to ask in writing and to be specific about which fee and why."
+    },
+    {
+      "q": "Why is there a monthly minimum fee?",
+      "a": "It guarantees the provider a minimum revenue from your account. If your fees fall below the minimum, you pay the difference. It affects low-volume or seasonal businesses most, so check the amount and whether it can be waived or lowered."
+    },
+    {
+      "q": "How can I find out which fees I could avoid?",
+      "a": "Compare each non-pass-through line to your agreement and to the services you use. A statement review can identify duplicate gateways, unused services and avoidable penalties. MCCPS does this for free, with no obligation to switch."
+    }
+  ],
+  "related": [
+    "how-to-read-a-merchant-statement",
+    "pci-non-compliance-fee",
+    "early-termination-fees",
+    "terminal-leasing-vs-buying",
+    "audit-your-merchant-statement",
+    "processor-contract-red-flags"
+  ],
+  "icon": "target",
+  "read_minutes": 7
+}

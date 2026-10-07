@@ -1,0 +1,115 @@
+{
+  "slug": "cash-discount-vs-surcharge",
+  "category": "blog",
+  "title": "Cash Discount vs. Surcharge: What's the Difference?",
+  "seo_title": "Cash Discount vs. Surcharge: Key Differences | MCCPS",
+  "meta_description": "Cash discounts and surcharges both offset card fees but follow different rules. Compare how each works, what disclosure is expected, and what to verify.",
+  "primary_keyword": "cash discount vs surcharge",
+  "keywords": [
+    "cash discount program",
+    "credit card surcharge",
+    "surcharge vs dual pricing",
+    "passing card fees to customers",
+    "cash discount signage",
+    "surcharge disclosure",
+    "card network surcharge rules"
+  ],
+  "eyebrow": "Pricing programs",
+  "dek": "Both approaches shift card costs toward the people who use cards, but they are built differently, regulated differently and explained to customers differently.",
+  "intro": [
+    "Owners tired of paying three percent on every card sale usually run into two options within the first hour of searching: give a discount for cash, or add a fee for credit cards. They sound like mirror images of the same idea. Legally and operationally, they are not.",
+    "A cash discount starts with a higher posted price and rewards customers who pay in a lower-cost way. A surcharge starts with one price and adds a fee at checkout on certain card payments. The distinction shapes your signage, your receipts, your point of sale and the rules you need to follow."
+  ],
+  "sections": [
+    {
+      "h2": "How a cash discount works",
+      "paragraphs": [
+        "In a cash discount program, the posted or standard price already includes the cost of card acceptance. Customers who pay with cash or an equivalent lower-cost method receive a reduction from that price. The discount is displayed in advance, and the card customer simply pays the listed price.",
+        "Many merchants who adopt this approach implement it through dual pricing, listing both prices on menus and price tags. In practice, the card price is the regular price, and the cash price is the offer."
+      ]
+    },
+    {
+      "h2": "How a surcharge works",
+      "paragraphs": [
+        "A surcharge is an additional fee added to a transaction when the customer pays with a credit card. Card networks generally allow merchants to surcharge credit under defined conditions, and they commonly cap the percentage, require advance notice to the network and the acquirer, and require clear disclosure at entry and at the point of sale.",
+        "Debit cards are treated differently from credit under many network rules and some state laws, so a merchant that surcharges generally needs a way to distinguish card types at the time of sale. Because specific caps and conditions change, verify the current rules before applying a surcharge."
+      ]
+    },
+    {
+      "h2": "Side-by-side comparison",
+      "paragraphs": [
+        "The easiest way to see the contrast is to line up the features that matter on the counter. The details below describe general patterns, not the law of any one state, and rules vary by state and card network.",
+        "Neither approach is automatically safer. The better choice depends on your state, your customers, your industry and your point of sale, and each can be implemented well or badly.",
+        "Some merchants wonder whether they can take a middle path, such as a small fee on all non-cash payments, or a fee that varies by card brand. These variations tend to raise additional questions with the networks, since rules are written around specific definitions. If your idea does not fit neatly into one of the two categories, that is a reason to ask your processor and your attorney before you build signage around it.",
+        "Keep in mind, too, that the cheapest option on paper is not always the best in practice. A program that confuses customers, creates arguments at the counter or leaves staff unsure what to say may cost you more in lost goodwill than it saves in fees."
+      ],
+      "bullets": [
+        "Starting price: a cash discount reduces a higher standard price, while a surcharge adds to a single price.",
+        "When it appears: a cash discount is visible on the price tag, and a surcharge shows at checkout or on the receipt.",
+        "Card type: a surcharge is typically limited to credit cards, while a cash discount can apply to any non-cash payment type.",
+        "Network involvement: surcharging often requires notice to the network and acquirer, which cash discounts generally do not.",
+        "Customer reaction: surcharges can feel like an extra fee, and discounts feel like savings, though the economics are similar.",
+        "Setup burden: surcharges need card-type detection and caps, while discounts need two-price displays."
+      ]
+    },
+    {
+      "h2": "A hypothetical comparison",
+      "paragraphs": [
+        "Suppose a service costs $300 and the merchant's all-in card cost is 3%. Under a cash discount program, the posted price might be $309, with $300 available to cash payers. Under a surcharge program, the price is $300, and a 3% surcharge adds $9 for credit card payers.",
+        "In both cases the card customer pays about $309 and the cash customer $300, but the experience differs. The first customer sees a price. The second sees a fee. That distinction affects how the customer perceives the transaction, and how regulators and networks classify it."
+      ]
+    },
+    {
+      "h2": "Compliance points common to both",
+      "paragraphs": [
+        "Whichever you choose, certain principles recur: disclose clearly and early, apply the program consistently, show amounts accurately on receipts, and train staff to explain it plainly. Online and phone orders need disclosure at the right moment as well, before the customer commits.",
+        "Because state laws and network rules differ and change, confirm current requirements for your location and your card networks before launching, and consult your attorney or advisor if you have questions. Do not rely on a general article, including this one, for specifics about any individual state."
+      ]
+    },
+    {
+      "h2": "Choosing between them",
+      "paragraphs": [
+        "Start with your state's rules, then your customers. A business with many repeat local customers may find a clear cash discount feels natural. One with a lot of high-value credit card sales may prefer a capped surcharge on credit only. And a business that cannot support either might prefer to negotiate lower pricing or switch models.",
+        "MCCPS can help you compare the options. The free, no-obligation savings analysis looks at two months of your statements, and the Zero Processing Fees program uses compliant dual-pricing and cash-discount structures. Fit and savings depend on your state and your numbers, so the review comes first."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A cash discount lowers a higher posted price for cash payers, and a surcharge adds a fee on card payments at checkout.",
+    "Surcharging typically has network notice, cap and disclosure requirements that discounts do not.",
+    "Both require clear signage, accurate receipts and trained staff, and rules vary by state and card network.",
+    "Confirm current requirements for your location before adopting either approach."
+  ],
+  "faq": [
+    {
+      "q": "Which is better, a cash discount or a surcharge?",
+      "a": "Neither is better in every case. The right choice depends on your state's rules, card network requirements, your customers and your point of sale. A cash discount is often seen as friendlier, while a surcharge can be more targeted. Verify current rules before choosing."
+    },
+    {
+      "q": "Can I surcharge debit cards?",
+      "a": "Network rules and many state laws treat debit differently from credit, and surcharging debit is commonly restricted. Requirements change and vary by location, so confirm current rules with your processor and, if needed, an attorney before applying any fee to debit transactions."
+    },
+    {
+      "q": "Do I have to notify anyone before surcharging?",
+      "a": "Card network rules generally expect merchants to provide advance notice to their acquirer and the networks before surcharging. Specifics and timing vary, so ask your processor what is required and make sure disclosures at the register and online are in place before you begin."
+    },
+    {
+      "q": "Is a cash discount a surcharge in disguise?",
+      "a": "They are treated differently by networks and states, even though the economics can be similar. A properly structured cash discount shows prices in advance, with a reduction for cash. Mislabeling the program or hiding the pricing can create problems, so follow disclosure rules carefully."
+    },
+    {
+      "q": "Can I do both?",
+      "a": "Generally merchants choose one approach, because mixing them confuses customers and can create compliance problems. Discuss your plan with your processor and verify requirements for your state before combining anything. A single clear program is easier to disclose and easier for staff to explain."
+    }
+  ],
+  "related": [
+    "dual-pricing-explained",
+    "surcharge-rules-by-state",
+    "surcharging-programs",
+    "offer-cash-discount",
+    "pass-fees-to-customers",
+    "convenience-fees-explained"
+  ],
+  "icon": "scale",
+  "read_minutes": 6
+}

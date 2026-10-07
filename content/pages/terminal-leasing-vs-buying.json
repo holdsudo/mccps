@@ -1,0 +1,90 @@
+{
+  "slug": "terminal-leasing-vs-buying",
+  "category": "blog",
+  "title": "Leasing vs. Buying a Card Terminal",
+  "seo_title": "Leasing vs. Buying a Card Terminal: Total Cost | MCCPS",
+  "meta_description": "Should you lease or buy a credit card terminal? Compare total cost over time, contract risks, upgrade options and when reusing your own terminal wins.",
+  "primary_keyword": "lease vs buy credit card terminal",
+  "keywords": ["credit card terminal lease", "buy credit card machine", "terminal lease cancellation", "reprogram existing terminal", "card reader cost", "POS hardware financing", "EMV terminal price"],
+  "eyebrow": "Hardware",
+  "dek": "A plain look at what a terminal lease really costs over its term, when buying makes sense, and a third option many merchants overlook.",
+  "intro": [
+    "A salesperson offers you a brand-new countertop terminal for $39 a month. It sounds painless, the same way a phone plan sounds painless, and you sign. Four years later you have paid close to $1,900 for a device that sells for a few hundred dollars, and you are still locked into a contract you cannot easily cancel.",
+    "Not every lease is a trap, and not every purchase is a bargain. The honest answer depends on how long you will use the device, how often technology changes, and what your lease really says. This guide gives you a framework for comparing the options with real arithmetic."
+  ],
+  "sections": [
+    {
+      "h2": "How terminal leases work",
+      "paragraphs": [
+        "Most terminal leases are not with your processor. They are with a separate leasing company that buys the equipment, leases it to you, and collects a fixed monthly payment for a fixed term, often 24 to 48 months. Because the lease is a distinct contract, it keeps running even if you close your merchant account or change processors.",
+        "Many leases are also written as non-cancelable. That means you owe every remaining payment regardless of whether the device works well, whether you still use it, or whether the business closes. Some include a renewal clause that extends the term if you do not return the equipment on time, and some add insurance or maintenance charges you may not have noticed."
+      ]
+    },
+    {
+      "h2": "The total cost math",
+      "paragraphs": [
+        "Look at the whole stream of payments, not the monthly figure. Say a lease costs $45 a month for 48 months. That is $2,160 before any taxes or insurance. If a comparable terminal costs $300 to $600 to buy outright, the lease costs several times the device's value. This is a hypothetical comparison, but the shape of it is common.",
+        "Buying has its own costs. You pay up front, you own the risk of failure, and you may need to replace the device when card technology changes. But even if you replaced a purchased terminal every five years, the total is usually far below a long lease. Leasing can still make sense in narrow cases: you need a premium multi-function device but lack cash, or your business is seasonal and you can cancel without penalty. Check whether a lease has a buyout clause that lets you purchase at a fair price."
+      ],
+      "bullets": [
+        "Multiply monthly payment by the number of months, then add tax and insurance",
+        "Compare that total to the device's retail price",
+        "Check whether payments continue after you close processing",
+        "Ask for the buyout price and whether it is fixed",
+        "Ask whether the lease auto-renews and how to end it"
+      ]
+    },
+    {
+      "h2": "Buying: what to watch for",
+      "paragraphs": [
+        "Buying outright removes the long contract, but not every purchase is a clean one. Some terminals are locked to a specific processor and cannot be reprogrammed, so if you switch later the device becomes useless. Ask whether the terminal is open to multiple processors and whether it supports EMV chip, contactless and mobile wallets, because a device without those is outdated on day one.",
+        "Check warranty terms and what happens when it breaks. A purchased terminal with a one-year warranty and no replacement path can cost you a day of sales when it fails. Also check the software: some devices require ongoing app or gateway fees that quietly turn a purchase into a subscription."
+      ]
+    },
+    {
+      "h2": "The third option: keep the terminal you already own",
+      "paragraphs": [
+        "Many merchants already have a working terminal. If it supports EMV and contactless and is a model that can be re-programmed, you may be able to keep it and simply load new processing settings. This is often the lowest-cost route, because you avoid both the lease and a new purchase.",
+        "Not every terminal qualifies. Some are locked, some are too old to support current security standards, and some are owned by a leasing company rather than by you. MCCPS commonly reviews whether a merchant's existing terminal can be re-programmed as part of a statement review. The check takes a few minutes and tells you the model, whether it is encrypted, and whether it is yours."
+      ]
+    },
+    {
+      "h2": "Matching hardware to how you sell",
+      "paragraphs": [
+        "A counter terminal is not the only form factor. A restaurant might need a pay-at-table handheld, a mobile service business may only need a card reader that pairs with a smartphone, and an online store may need nothing physical beyond a virtual terminal. Buying the wrong form factor is a hidden cost, since you pay for features you will not use or work around missing ones.",
+        "Before you compare lease and purchase prices, decide what you must have: chip and contactless, receipt printing, tip prompts, offline mode, cellular or wifi connection, and compatibility with your POS software. Then price only the devices that meet the list."
+      ],
+      "steps": [
+        "List the payment types you take: swipe, chip, tap, keyed, mobile wallets.",
+        "Decide on connection type: ethernet, wifi, cellular or smartphone pairing.",
+        "Confirm whether your existing device can be re-programmed.",
+        "Get the full lease total and a buyout price in writing if leasing is offered.",
+        "Compare against the purchase price plus a realistic replacement cycle."
+      ]
+    },
+    {
+      "h2": "Red flags to avoid",
+      "paragraphs": [
+        "Be wary when the terminal is described as free but the paperwork shows a lease, when the monthly payment is quoted without a term, or when the lease is signed on a tablet screen without a copy delivered to you. Be cautious if the sales rep cannot explain who the leasing company is or how to reach it.",
+        "MCCPS offers a free, no-obligation statement analysis and, where possible, helps you keep equipment you already own. If you want a second opinion on a lease you already signed, bring the paperwork. For decisions with legal implications, such as breaking a lease, consult an attorney."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A lease is usually a separate, long contract that survives a processor change.",
+    "Multiply the monthly payment by the term and compare it to the device price.",
+    "A terminal locked to one processor is a hidden switching cost.",
+    "Re-programming a terminal you already own is often the cheapest option.",
+    "Match the hardware to how you actually sell before comparing prices."
+  ],
+  "faq": [
+    {"q": "Is it cheaper to lease or buy a credit card machine?", "a": "Buying is usually cheaper over time, since lease payments over 24 to 48 months can add up to several times the device price. Leasing can fit a tight cash situation, but check the total, the buyout price, and whether you can cancel."},
+    {"q": "Can I cancel a terminal lease early?", "a": "Many leases are non-cancelable, meaning you owe the remaining payments. Some allow a buyout. Read the agreement or ask the leasing company for the payoff figure, and consider asking an attorney if the amount is large."},
+    {"q": "Can any terminal be reprogrammed?", "a": "No. Some terminals are locked to a processor or are too old to meet current security standards. A quick check of the model and ownership tells you whether re-programming is possible."},
+    {"q": "Do I need a terminal for contactless payments?", "a": "Yes, the device must include an NFC reader. Many modern terminals support tap cards and mobile wallets, while older ones may only read chip and swipe. Confirm this before buying or leasing anything."},
+    {"q": "What if my leased terminal breaks?", "a": "That depends on the lease. Some include replacement, others make you pay for repairs while payments continue. Ask what the warranty covers and how fast replacement ships, since downtime means lost sales."}
+  ],
+  "related": ["terminal-lease-traps", "credit-card-terminals", "cancel-processor-contract", "early-termination-fees", "upgrade-to-emv-and-contactless", "best-pos-features-small-business"],
+  "icon": "card",
+  "read_minutes": 6
+}

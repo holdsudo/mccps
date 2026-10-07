@@ -1,0 +1,119 @@
+{
+  "slug": "payment-gateway",
+  "category": "solutions",
+  "title": "Online Payment Gateway",
+  "seo_title": "Online Payment Gateway & Checkout Integration | MCCPS",
+  "meta_description": "Learn how an online payment gateway secures card-not-present sales, supports tokenization and plugs into your cart, with multiple gateways via MCCPS.",
+  "primary_keyword": "online payment gateway",
+  "keywords": [
+    "payment gateway",
+    "ecommerce payment gateway",
+    "card not present processing",
+    "tokenization",
+    "shopping cart payment integration",
+    "hosted checkout",
+    "multiple payment gateways"
+  ],
+  "eyebrow": "Online payments",
+  "dek": "The gateway is the secure doorway between your checkout page and the card networks, and choosing it well shapes cost, security and conversion.",
+  "intro": [
+    "When someone types card details into your website, those numbers must travel from a browser to a bank without being seen by anyone along the way. The payment gateway is the service that makes that journey safe and standard. It captures the data, encrypts it, passes it to your processor, and reports back whether the sale was approved.",
+    "Most owners only notice the gateway when it breaks or when a monthly fee shows up unexpectedly. This page explains what a gateway does, how it fits with your merchant account and shopping cart, and what to ask before you pick one."
+  ],
+  "sections": [
+    {
+      "h2": "The gateway's job in plain terms",
+      "paragraphs": [
+        "A gateway does three things. It collects payment details from a checkout form or an API call, it encrypts and transmits them to the processor, and it returns the approval or decline so your site can show a confirmation or an error. It also commonly stores a record of each transaction and supports refunds, voids and reporting.",
+        "Think of it as the card-not-present equivalent of the terminal on a counter. The terminal and the gateway do similar work, but one lives in your shop and the other lives on the internet. Your merchant account is the arrangement that actually receives the funds in both cases."
+      ]
+    },
+    {
+      "h2": "Gateway, processor and merchant account: who does what",
+      "paragraphs": [
+        "Owners often blur the three, and sellers sometimes encourage the confusion. The gateway handles the secure connection. The processor routes the transaction and manages settlement. The merchant account is the account that holds the relationship with an acquiring bank. A clean setup lets you understand which fees belong to which party.",
+        "If your gateway charges a monthly fee, a per-transaction fee and your processor adds its own markup, check that the three are not stacked in ways that duplicate each other. The free MCCPS statement analysis separates these lines so you can see where each charge comes from."
+      ]
+    },
+    {
+      "h2": "Security features that matter",
+      "paragraphs": [
+        "Tokenization replaces a stored card number with a meaningless placeholder, so your database holds nothing a thief can use. Hosted payment pages or embedded fields keep raw card data off your server entirely, which shrinks your PCI burden considerably.",
+        "Card-not-present sales carry higher fraud risk than in-person ones, so a gateway should support address and security code checks, velocity limits, and optional 3-D Secure authentication for riskier orders. Those tools are explained further in our fraud prevention material."
+      ],
+      "bullets": [
+        "Tokenization for stored cards and repeat purchases",
+        "Hosted or embedded payment fields",
+        "AVS and CVV matching rules",
+        "Velocity checks and card-testing defenses",
+        "Optional 3-D Secure for higher-risk orders"
+      ]
+    },
+    {
+      "h2": "Connecting to your cart or website",
+      "paragraphs": [
+        "Most popular shopping carts and website builders offer plugins or built-in options for payment gateways. Others use an API that your developer wires in. A hosted checkout page is the quickest route, while an embedded form keeps customers on your site and usually converts better.",
+        "Ask which carts are supported, whether plugins are maintained, and what happens when your cart updates. A gateway that works perfectly until the next plugin release is an expensive surprise. MCCPS supports multiple gateways, so you are not forced into one if your platform prefers another."
+      ]
+    },
+    {
+      "h2": "Features beyond one-time sales",
+      "paragraphs": [
+        "A good gateway handles more than a single purchase. It can store a card on file for repeat orders, run recurring billing on a schedule, send payment links by email or text, and give you a virtual terminal for phone orders. Reports should let you filter by date, status and amount, and reconcile against deposits.",
+        "If you sell B2B, look for Level 2 and Level 3 data fields on invoices and purchase-card sales, which can lower interchange on eligible transactions. If you sell internationally, ask about multi-currency options and how declines are reported."
+      ]
+    },
+    {
+      "h2": "Uptime, declines and what to ask support",
+      "paragraphs": [
+        "A gateway is part of your storefront, so downtime costs real sales. Ask what uptime history looks like, how outages are communicated, and whether there is a backup route if the primary connection fails. Check how declines are reported: a vague 'declined' message frustrates customers, while a clear reason code lets your site prompt them to try another card or fix a typo in the billing address.",
+        "Think about the support you will actually need. When a checkout stops working during a promotion, you want a person, not a ticket queue. MCCPS includes free 24/7 technical support and personal customer service, which is worth weighing as heavily as the per-transaction fee. Test the checkout yourself with a small real purchase and a refund before launch, and repeat the test after any major site update."
+      ]
+    },
+    {
+      "h2": "How to choose and get started",
+      "paragraphs": [
+        "List what you sell, how often customers return, and which platform you use. Then compare gateways on monthly fees, per-transaction fees, supported integrations, fraud tools and support. Cheap per-transaction pricing is not much comfort if you cannot get a human on the phone during a holiday sale.",
+        "MCCPS offers free 24/7 technical support, personal customer service and a reporting and analytics dashboard in PayPilot by MCCPS. Send two months of statements for the free analysis and a specialist can recommend a gateway setup that matches your cart and sales channels."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "The gateway securely carries card data from checkout to the processor.",
+    "Gateway, processor and merchant account are different pieces with different fees.",
+    "Tokenization and hosted fields reduce risk and PCI scope.",
+    "MCCPS supports multiple gateways and common cart integrations."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a gateway if I already have a merchant account?",
+      "a": "For online sales, yes. The merchant account receives the funds, but a gateway is what securely captures card details on a website or app. Some providers bundle the two. A specialist can explain which structure fits your platform."
+    },
+    {
+      "q": "What is tokenization?",
+      "a": "It replaces a stored card number with a random token that is useless outside your payment system. You can charge a returning customer using the token without keeping the real card data, which lowers breach risk and simplifies compliance."
+    },
+    {
+      "q": "Can I use more than one gateway?",
+      "a": "Yes, in many cases. Some merchants use different gateways for different sites or channels, or keep a backup. MCCPS supports multiple gateways. Your platform and processing agreement determine which combinations are practical."
+    },
+    {
+      "q": "Will a gateway work with my website builder?",
+      "a": "Most popular carts and builders have plugins or built-in options, and others use an API. Compatibility depends on the platform and version. Ask a specialist to confirm before you commit to a gateway."
+    },
+    {
+      "q": "Why are online sales more expensive to process?",
+      "a": "Card-not-present transactions carry higher fraud risk, so interchange categories are often more costly than for in-person sales. Good fraud tools and clean address and code matching help limit chargebacks, which is often the larger cost."
+    }
+  ],
+  "related": [
+    "ecommerce-integrations",
+    "what-is-a-payment-gateway",
+    "payment-processor-vs-gateway",
+    "tokenization-explained",
+    "fraud-prevention",
+    "accept-payments-online"
+  ],
+  "icon": "lock",
+  "read_minutes": 6
+}

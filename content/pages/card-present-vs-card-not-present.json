@@ -1,0 +1,114 @@
+{
+  "slug": "card-present-vs-card-not-present",
+  "category": "blog",
+  "title": "Card-Present vs. Card-Not-Present Transactions",
+  "seo_title": "Card-Present vs. Card-Not-Present Transactions | MCCPS",
+  "meta_description": "Card-present and card-not-present sales differ in cost, fraud risk and chargeback liability. Learn what each means and how to protect your business.",
+  "primary_keyword": "card-present vs card-not-present",
+  "keywords": [
+    "card not present transactions",
+    "CNP fraud",
+    "card present interchange",
+    "keyed transaction fees",
+    "card not present chargebacks",
+    "AVS CVV",
+    "EMV chip liability"
+  ],
+  "eyebrow": "Risk and cost",
+  "dek": "Whether the physical card was in front of you changes the price of the sale, the odds of fraud and who pays when something goes wrong.",
+  "intro": [
+    "Every card transaction falls on one side of a line. Either the card, and ideally its owner, was physically present when the sale was captured, or it was not. Online orders, phone orders, mailed authorizations and keyed-in payments all land on the second side.",
+    "That single distinction influences the interchange category your sale is billed in, the checks available to you, the fraud you face and how disputes are resolved. Merchants who understand it can make informed choices about how to accept each kind of payment."
+  ],
+  "sections": [
+    {
+      "h2": "What counts as card-present",
+      "paragraphs": [
+        "A card-present transaction is one in which the card is physically read by your equipment. A chip insert, a contactless tap with a card or phone, and a magnetic stripe swipe all qualify. The terminal captures data from the card itself, which gives the issuer stronger evidence that the genuine card was used.",
+        "Chip and contactless reads add dynamic data that changes with every transaction, which makes copying the information from one sale and reusing it far less useful to a thief."
+      ]
+    },
+    {
+      "h2": "What counts as card-not-present",
+      "paragraphs": [
+        "Card-not-present, often shortened to CNP, covers any sale where the card is not read by your device. That includes e-commerce checkouts, orders taken by phone, mail-order forms, invoices paid by card and any payment typed into a terminal or virtual terminal by hand. A card on file used for a recurring charge is CNP too, although the first transaction can sometimes be captured in person.",
+        "A keyed-in sale at your counter because the chip would not read is also treated as CNP in practice, which is why it can cost more than a tap."
+      ]
+    },
+    {
+      "h2": "Why CNP costs more",
+      "paragraphs": [
+        "Networks set higher interchange for CNP because the fraud rate is higher and the evidence is weaker. A criminal who has stolen card numbers can use them online from anywhere, with no physical card needed. The issuer carries more risk and prices that into the rate.",
+        "Merchants can narrow the gap with extra data. Sending address verification and security code results, and using other tools such as 3D Secure, can help qualify sales for better categories, depending on the network and the processor. Your results will depend on your configuration."
+      ]
+    },
+    {
+      "h2": "Who is responsible when fraud happens",
+      "paragraphs": [
+        "Liability follows the evidence. For chip-capable cards used at chip-capable terminals, the liability shift generally means that the party with less secure technology absorbs the fraud loss. If a counterfeit chip card is swiped at a merchant who has not upgraded, the merchant can be responsible for the chargeback.",
+        "In the CNP world, merchants typically carry more of the burden, because they cannot prove the cardholder was present. A fraud chargeback on an online order often lands on the merchant, along with the lost goods and the fee. Tools that authenticate the cardholder, such as 3D Secure, can shift some liability back to the issuer in certain cases.",
+        "Merchants who take many phone orders can reduce exposure with a few habits: ask for the billing address and security code every time, repeat back the shipping address, confirm the cardholder's name matches and note the date and time in the order record. For large or unusual orders, a quick verification call to a known number can prevent a loss.",
+        "For online stores, review orders that ship to a different address than the billing address, look for multiple failed attempts from the same source and consider velocity limits that pause suspicious activity. Card testing attacks, where criminals try many small charges to find working numbers, are a CNP problem, and screening tools at the gateway level are designed to stop them."
+      ],
+      "bullets": [
+        "Card-present sales: stronger evidence, lower interchange, lower chargeback risk with EMV.",
+        "Card-not-present sales: weaker evidence, higher interchange, more fraud and dispute exposure.",
+        "Keyed sales at the counter: treated like CNP, so use the chip or tap whenever you can.",
+        "Card-on-file and recurring payments: need clear customer authorization on record.",
+        "Phone orders: collect address and security code and document the call details."
+      ]
+    },
+    {
+      "h2": "A cost example",
+      "paragraphs": [
+        "Suppose a shop sells $20,000 a month in person and $10,000 over the phone. In-person interchange averages 1.8% plus 10 cents on 500 tickets, about $410. Phone sales average 2.5% plus 10 cents on 100 tickets, about $260. In percentage terms, the in-person sales cost 2.05% of volume and the phone sales 2.6%.",
+        "These numbers are hypothetical, but they illustrate how the same business has two cost structures. If the phone staff routinely skip address verification, some of those sales may even slip into worse categories."
+      ]
+    },
+    {
+      "h2": "Practical ways to improve both sides",
+      "paragraphs": [
+        "For in-person sales, accept chip and contactless and reserve manual entry for true exceptions. Keep terminals updated and batch daily. For remote sales, always collect the billing address and security code, keep records of customer communications and delivery proof, use fraud screening and consider authentication tools your gateway supports.",
+        "MCCPS offers a range of gateways and payment options for online, phone and mobile sales, and supports EMV and contactless in person, with free 24/7 technical support. A free statement analysis shows how much of your volume falls on each side of the line today."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Card-present means the card was physically read, by chip, tap or swipe; everything else is card-not-present.",
+    "CNP transactions usually cost more because fraud rates and dispute risk are higher.",
+    "Liability tends to rest with whoever used the weaker technology, which often means the CNP merchant.",
+    "Address and security code data, authentication tools and chip acceptance narrow the gap."
+  ],
+  "faq": [
+    {
+      "q": "Is a contactless tap card-present?",
+      "a": "Yes. A tap with a card or mobile wallet is read by your terminal and uses dynamic data, so it is treated as card-present. In many cases it is processed at the same rate as a chip insert and carries similar protections."
+    },
+    {
+      "q": "Why are keyed-in transactions more expensive?",
+      "a": "When card data is typed in rather than read by the device, the issuer has no proof the physical card was present. Networks treat the transaction as higher risk and assign it to a costlier category unless extra verification data is provided."
+    },
+    {
+      "q": "Who pays for fraud on online sales?",
+      "a": "Often the merchant. If a cardholder disputes an online charge as unauthorized, the merchant has the burden of providing evidence, and without it the chargeback typically stands. Fraud screening and authentication tools can improve your odds and may shift liability in some cases."
+    },
+    {
+      "q": "What is EMV liability shift?",
+      "a": "It is a network rule that moves responsibility for counterfeit card fraud to the party that did not support chip technology. A merchant without a chip reader may be liable when a counterfeit chip card is swiped. Accepting chip cards protects you from that exposure."
+    },
+    {
+      "q": "Can I lower the cost of phone and online orders?",
+      "a": "Often partly. Collecting the billing address and security code, using your gateway's verification tools and settling on time can help qualify sales for better categories. Results depend on your processor and configuration, and a statement review can show where you stand."
+    }
+  ],
+  "related": [
+    "emv-liability-shift",
+    "avs-and-cvv",
+    "3d-secure-explained",
+    "accept-payments-by-phone",
+    "accept-payments-online",
+    "prevent-card-fraud"
+  ],
+  "icon": "shield",
+  "read_minutes": 6
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "what-is-a-payment-gateway",
+  "category": "blog",
+  "title": "What Is a Payment Gateway?",
+  "seo_title": "What Is a Payment Gateway? How It Works | MCCPS",
+  "meta_description": "A payment gateway securely carries card data from your checkout or terminal to the processor. Learn what it does, what it costs, and when you need one.",
+  "primary_keyword": "what is a payment gateway",
+  "keywords": [
+    "payment gateway definition",
+    "payment gateway fees",
+    "gateway for online store",
+    "hosted payment page",
+    "payment gateway integration",
+    "virtual terminal gateway",
+    "tokenization gateway"
+  ],
+  "eyebrow": "Payments 101",
+  "dek": "The gateway is the secure doorway between where a customer enters a card and where the transaction gets approved.",
+  "intro": [
+    "When a customer types a card number into your website, the page cannot simply email it to a bank. Something has to encrypt the data, package it in a format the processor understands, send it, wait for the answer and show the customer a result in seconds. That something is the payment gateway.",
+    "Gateways rarely get attention until one breaks or an invoice arrives with an unfamiliar fee. A short explanation of what one does and why it exists makes decisions about checkout, terminals and integrations much easier."
+  ],
+  "sections": [
+    {
+      "h2": "What a gateway does",
+      "paragraphs": [
+        "A payment gateway is a service that securely captures card information at the point of entry and transmits it to your payment processor for authorization. It then returns the approval or decline to the checkout page or device. It does for online and keyed payments what a physical terminal does in a store.",
+        "Gateways also encrypt or tokenize sensitive data, apply fraud screening, store customer payment methods for later use, produce reports and connect to shopping carts, invoicing software and accounting tools."
+      ]
+    },
+    {
+      "h2": "How a transaction moves through it",
+      "paragraphs": [
+        "The sequence is quick but worth knowing. The customer submits payment details on a checkout page, a payment link or a virtual terminal. The gateway encrypts the data and sends it to the processor with the amount and your merchant details. The processor routes the request to the card network and issuing bank, and the response travels back along the same path.",
+        "The gateway then tells your site or software whether the payment succeeded. If you used tokenization, it returns a token instead of the card number, so you can charge the customer again without storing the actual number."
+      ],
+      "steps": [
+        "Customer enters card details on a checkout page, payment link or virtual terminal.",
+        "The gateway encrypts the data and transmits it to the processor.",
+        "The processor sends an authorization request through the card network to the issuer.",
+        "The issuer approves or declines, and the answer returns to the gateway.",
+        "The gateway reports the result to your website or software and may issue a token for future charges.",
+        "Approved transactions are batched and settled to your bank account later."
+      ]
+    },
+    {
+      "h2": "Where you need one",
+      "paragraphs": [
+        "Anytime a card is accepted without a standalone physical reader, a gateway is involved. That includes online stores, invoices with pay links, phone orders typed into a virtual terminal, recurring billing and mobile apps. Many modern in-person systems also use a gateway behind the scenes to connect the terminal to the processor.",
+        "A business that only accepts cards on a traditional countertop terminal over a dial-up or internet connection may not think about a gateway at all, because the terminal handles the connection itself."
+      ]
+    },
+    {
+      "h2": "Hosted versus integrated checkout",
+      "paragraphs": [
+        "Gateways offer different ways to collect card data. With a hosted payment page, the customer is sent to the gateway's secure page to pay, which keeps card numbers off your servers and reduces your compliance burden. With an integrated or embedded form, the entry fields live within your own pages through a secure component, giving you more design control. A direct API approach gives developers the most flexibility but places more responsibility on you.",
+        "The more card data touches your own systems, the more PCI work you have to do. For most small businesses, a hosted or embedded approach is the safer choice.",
+        "Fraud tools at the gateway level are worth understanding. Common options include address and security code matching, velocity checks that limit repeated attempts, IP and device screening, and rules that flag unusual order patterns. Tuning them is a balancing act: too loose and fraudulent orders slip through, too strict and legitimate customers are declined. Review declined-transaction reports regularly to find the right balance for your business.",
+        "Uptime matters as well. If your gateway goes down, your checkout fails. Ask about the provider's reliability record, how outages are communicated and whether there is a fallback, such as a virtual terminal, for taking orders by phone while the problem is fixed."
+      ]
+    },
+    {
+      "h2": "What gateways cost",
+      "paragraphs": [
+        "Gateway pricing usually has a monthly fee, a per-transaction fee or both, on top of your processing costs. Some are bundled into the processor's pricing and show up only as a line item. Others are sold separately by a third party, which means you pay twice for the connection if you are not careful.",
+        "Say a gateway charges $20 a month plus 10 cents per transaction. At 600 monthly transactions that is $80 a month, or $960 a year. The numbers are hypothetical, but it shows why gateway fees deserve a line in your cost comparison."
+      ]
+    },
+    {
+      "h2": "Choosing one",
+      "paragraphs": [
+        "Check compatibility with your shopping cart or software, support for tokenization and recurring billing, fraud tools, reporting, uptime and who answers when something goes wrong. Make sure it works with the processor you plan to use. Some gateways are tied to one processor, while others support many.",
+        "MCCPS supports multiple gateways and can help you pick one that fits your site, invoicing or phone-order workflow, with free 24/7 technical support. A no-obligation look at your statements will also show whether you are paying separate gateway fees you could avoid."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A payment gateway securely carries card data from the checkout or virtual terminal to the processor and returns the result.",
+    "It encrypts or tokenizes data, applies fraud checks and connects your software to your processor.",
+    "Hosted or embedded checkout keeps card numbers off your servers and reduces PCI scope.",
+    "Gateway fees are separate from processing fees, so include them in any cost comparison."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a payment gateway?",
+      "a": "If you accept cards online, by payment link, through a virtual terminal or via recurring billing, yes. A traditional in-store terminal usually has its own connection, so you may not need to think about one. Many integrated POS systems use a gateway behind the scenes."
+    },
+    {
+      "q": "Is a payment gateway the same as a merchant account?",
+      "a": "No. The gateway transmits data between your checkout and the processor. The merchant account is the agreement that lets you receive funds. You need both for online card payments, and some providers bundle them together."
+    },
+    {
+      "q": "Is a payment gateway secure?",
+      "a": "Reputable gateways encrypt card data in transit and offer tokenization so you do not store card numbers. Your own security still matters, including keeping your site updated and following PCI requirements. Hosted checkout reduces your exposure further."
+    },
+    {
+      "q": "What are typical gateway fees?",
+      "a": "Structures vary widely: some charge a monthly fee, some a per-transaction fee and some include it in processing pricing. Rather than relying on typical numbers, ask for a written breakdown of monthly and per-item gateway charges and compare them across providers."
+    },
+    {
+      "q": "Can I use my existing gateway with a new processor?",
+      "a": "Sometimes. Many gateways support multiple processors, but not all. Confirm compatibility before switching, since needing a new gateway adds cost and setup work. MCCPS can check whether your current setup will carry over during its free statement analysis."
+    }
+  ],
+  "related": [
+    "payment-processor-vs-gateway",
+    "payment-gateway",
+    "virtual-terminal",
+    "tokenization-explained",
+    "accept-payments-online",
+    "ecommerce-integrations"
+  ],
+  "icon": "lock",
+  "read_minutes": 6
+}

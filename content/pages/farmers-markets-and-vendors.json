@@ -1,0 +1,114 @@
+{
+  "slug": "farmers-markets-and-vendors",
+  "category": "industries",
+  "title": "Market Vendor Payment Processing",
+  "seo_title": "Farmers Market & Vendor Payment Processing | MCCPS",
+  "meta_description": "Farmers market, craft fair and pop-up vendors: take cards with a phone reader, handle spotty signal and keep costs low on small ticket sales.",
+  "primary_keyword": "farmers market payment processing",
+  "keywords": [
+    "market vendor card reader",
+    "craft fair credit card processing",
+    "pop-up shop payments",
+    "offline card payments",
+    "mobile card reader vendors",
+    "SNAP farmers market",
+    "small ticket vendor fees"
+  ],
+  "eyebrow": "Market vendors",
+  "dek": "A folding table, a phone and a long line on Saturday morning. Here is how vendors can accept cards without losing sales to a dead signal.",
+  "intro": [
+    "Market vendors work in a unique environment. Your storefront is a tent, your checkout is a phone, and your busiest hour might be the first one, when everyone arrives with cash and cards for the week's shopping. Customers are used to paying by card nearly everywhere, and a vendor who only takes cash will lose sales to the stall next door.",
+    "At the same time, vendors operate with tiny margins and small tickets. A bunch of kale, a jar of honey or a pair of earrings may cost a few dollars, and a card fee has to be justified against that sale. Weather, battery life and mobile signal add practical problems that a shop never has.",
+    "Here is how to set up payments that work in a field, a parking lot or a park."
+  ],
+  "sections": [
+    {
+      "h2": "Choosing hardware for a table in a field",
+      "paragraphs": [
+        "A pocket reader that pairs with your phone, or a small standalone terminal with its own cellular connection, is typical. Pick something that accepts chip, tap and mobile wallets, since most shoppers will tap. Check battery life against a full market day and bring a power bank. Direct sun on a screen can make a device overheat or become unreadable, so shade matters.",
+        "Existing equipment may still be usable. MCCPS can often keep re-programmable terminals you already own, which can save you the cost of new hardware. Ask for a compatibility check as part of the first conversation."
+      ],
+      "bullets": [
+        "Test your device at home on cellular data only",
+        "Bring a power bank and a charging cable",
+        "Keep the reader out of direct sun and rain",
+        "Carry a small amount of cash for change as a fallback"
+      ]
+    },
+    {
+      "h2": "When the signal drops",
+      "paragraphs": [
+        "Markets in parks, fields and fairgrounds often have weak or congested cellular service, especially when hundreds of phones share a tower. Know how your device behaves without a connection. Some readers can store a limited number of transactions and send them later, accepting the risk that a card may be declined when finally submitted, and that you carry that risk.",
+        "A practical approach is to use offline mode only for small amounts, and to keep a backup option such as a second device on a different carrier. Our guide on offline payments explains the tradeoffs in detail.",
+        "If you sell at several markets in a season, label each location in your reports. Seeing sales and fees by market tells you which stalls are worth the booth fee, and it makes your seasonal bookkeeping much easier when tax time arrives."
+      ]
+    },
+    {
+      "h2": "Small tickets and the cost of each sale",
+      "paragraphs": [
+        "A vendor selling a $6 jar of jam pays a percentage plus a fixed amount per transaction, and the fixed portion is a noticeable slice of that sale. Say a vendor collects $1,500 in card sales over a market weekend in 250 transactions at an average of $6. Even small per-transaction differences add up across 250 sales.",
+        "That is why the pricing structure matters for vendors more than the headline rate does. Compare the total fee on your typical ticket, including any monthly charge, rather than the advertised percentage. Beware of monthly minimums and statement fees that could exceed the profit on a slow market day, and of seasonal gaps when you earn nothing."
+      ]
+    },
+    {
+      "h2": "SNAP and market incentive programs",
+      "paragraphs": [
+        "Many farmers markets participate in SNAP and nutrition incentive programs. These often run through the market itself, which may issue tokens or scrip that shoppers use at individual vendors, rather than each vendor processing EBT directly. Ask your market manager how the program works for vendors and how you are reimbursed.",
+        "If you do need to process EBT yourself, it has specific authorization and equipment requirements. See our pages on EBT processing and EBT and SNAP acceptance."
+      ]
+    },
+    {
+      "h2": "Sales tax, receipts and bookkeeping",
+      "paragraphs": [
+        "Whether and how you collect sales tax depends on what you sell and where. Many agricultural products are exempt in some states while prepared foods and crafts are not. Ask your accountant or state tax agency what applies to your products and locations.",
+        "A reader or app that logs every sale with item names, tax and tip makes the evening reconciliation easier, and the monthly report you need at tax time. Email or text receipts instead of printing them; customers like them, and you avoid carrying a printer."
+      ]
+    },
+    {
+      "h2": "Fees, seasons and getting started",
+      "paragraphs": [
+        "Vendors often work seasonally, so look for an arrangement without large fixed charges during the off-season, and read the contract for early termination fees. Some vendors consider a compliant cash-discount or dual-pricing approach; rules vary by state and card network, and signage and disclosure are required, and market rules may also apply. Confirm before posting prices.",
+        "MCCPS offers a free, no-obligation review of two months of statements, mobile payment options that work with phones and small terminals, and free 24/7 technical support, including on weekend mornings when markets are busiest. If you are starting out, we can help you accept cards for the first time with minimal equipment cost."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A pocket reader or cellular terminal with tap acceptance suits most vendors.",
+    "Test the device on cellular data and bring a power bank.",
+    "Know how offline mode works before relying on it.",
+    "On small tickets, compare total fee per sale, not only the percentage.",
+    "Ask your market how SNAP and incentive programs work for vendors."
+  ],
+  "faq": [
+    {
+      "q": "What is the best card reader for a farmers market?",
+      "a": "Look for a reader that accepts chip, tap and wallets, has a battery that lasts a full day, and works over cellular or your phone's data. Test it in advance, and keep a backup in case of a signal problem."
+    },
+    {
+      "q": "Can I take cards when there is no cell service?",
+      "a": "Some devices support offline mode, which stores transactions to send later. The risk is that a card could be declined when submitted and you would not be paid. Use it sparingly for small amounts, or carry a second device on a different carrier."
+    },
+    {
+      "q": "How do SNAP benefits work at a farmers market?",
+      "a": "Many markets run a central program where shoppers exchange benefits for tokens or scrip spent at vendor stalls, and vendors are reimbursed by the market. Ask your market manager how it works at your location."
+    },
+    {
+      "q": "Are card fees worth it for a small stand?",
+      "a": "For most vendors, yes, because customers increasingly expect to pay by card and may spend more when they can. Choose pricing without large monthly minimums so slow days and off-seasons do not cost you."
+    },
+    {
+      "q": "Do I need a business license to take cards?",
+      "a": "A merchant account usually requires basic business information, and markets often require vendor permits. Requirements vary by location and what you sell, so check with your market and local authorities."
+    }
+  ],
+  "related": [
+    "food-trucks",
+    "accept-payments-on-the-go",
+    "offline-payments",
+    "small-ticket-transactions",
+    "ebt-processing",
+    "accept-credit-cards-for-the-first-time"
+  ],
+  "icon": "pin",
+  "read_minutes": 6
+}

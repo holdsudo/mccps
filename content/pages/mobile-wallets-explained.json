@@ -1,0 +1,122 @@
+{
+  "slug": "mobile-wallets-explained",
+  "category": "blog",
+  "title": "Apple Pay, Google Pay & Mobile Wallets Explained",
+  "seo_title": "Mobile Wallets Explained: Apple Pay, Google Pay | MCCPS",
+  "meta_description": "How mobile wallets like Apple Pay and Google Pay use tokenization, what they mean for fraud and fees, and how to accept them in store and online.",
+  "primary_keyword": "mobile wallets explained",
+  "keywords": [
+    "Apple Pay for merchants",
+    "Google Pay acceptance",
+    "mobile wallet tokenization",
+    "digital wallet payments",
+    "accept mobile wallets",
+    "wallet payment fees",
+    "NFC wallet"
+  ],
+  "eyebrow": "Wallets",
+  "dek": "What a mobile wallet really stores, why the card number never reaches your terminal, and what you need to accept wallets in person and online.",
+  "intro": [
+    "When a customer pays with a phone, it feels like the card is just in there somewhere. In fact, the phone does not store the card number the way a leather wallet stores a card. It stores a stand-in, and that stand-in is what makes wallet payments both convenient and safer than they look.",
+    "For a merchant, mobile wallets are mostly good news: faster checkout, fewer card-handling mistakes, and a security layer you get without lifting a finger. Still, there are a few operational details around refunds, receipts and online setup worth understanding."
+  ],
+  "sections": [
+    {
+      "h2": "What a mobile wallet stores",
+      "paragraphs": [
+        "A mobile wallet is an app on a phone or watch that holds payment credentials. When a customer adds a card, the wallet asks the card network and issuer to provision a token, which is a substitute number that maps back to the real account only inside the payment system. The real card number is not stored on the device in usable form.",
+        "That token is tied to the specific device. If a thief copies it to another phone, it will not work, because the token is bound to hardware and requires the owner's authentication. This is why wallet payments are often described as more secure than physical cards."
+      ]
+    },
+    {
+      "h2": "What happens during a wallet payment",
+      "paragraphs": [
+        "In store, the customer unlocks their phone with a fingerprint, face or passcode and holds it near the terminal. The phone transmits the token and a one-time cryptogram over NFC. Your terminal sends that to the processor, the network translates the token back into the real account number, and the issuer decides to approve or decline.",
+        "Online, the flow is similar but runs through a button on your checkout page. The customer confirms with the same biometric, and your gateway receives an encrypted payment payload instead of a typed card number. Because there is nothing to type, wallet checkout can also reduce abandoned carts on mobile devices."
+      ],
+      "bullets": [
+        "Customer authenticates on the device",
+        "Token and cryptogram are sent instead of the card number",
+        "Network maps the token to the real account",
+        "Issuer approves or declines as with any card"
+      ]
+    },
+    {
+      "h2": "Common wallets you will see",
+      "paragraphs": [
+        "Most customers use the wallet built into their phone or watch. Several major platforms offer one, and each works with the same contactless terminals. You usually do not need a separate agreement with each; acceptance rides on the card networks. What you need is a terminal with an NFC reader, or an online gateway that supports the wallet buttons.",
+        "Some wallets are issued by retailers or apps and work as closed-loop stored value. Those are a different category from network-branded wallets, and you generally need a separate integration to accept them.",
+        "Online, the picture is a little different. Wallet buttons appear on checkout pages, and the customer confirms with the device they already carry. That means fewer typed card numbers, fewer typos that cause declines, and less friction on small screens. If you sell through a mobile site, adding wallet buttons is one of the simpler improvements you can make to checkout, and it does not change how the underlying card is priced."
+      ]
+    },
+    {
+      "h2": "What it means for fraud and chargebacks",
+      "paragraphs": [
+        "Because the transaction is authenticated on the device and uses a one-time cryptogram, counterfeit and lost-card fraud tend to be less likely than with a stripe card. In-person wallet taps are handled as card-present transactions. Online wallet payments carry some added protection, since the payment payload is authenticated, though online disputes still follow card-not-present rules.",
+        "Wallets do not eliminate chargebacks. A customer can still dispute a charge for service, delivery or billing reasons, so keep receipts, order records and good descriptors. The wallet token shown on a receipt may differ from the physical card's last four digits, which sometimes confuses customers when they review statements.",
+        "Another practical point: wallet users tend to expect speed. If your terminal prompts are slow, or your staff ask to see the card, the experience feels clumsy. Keep the terminal screen visible, clear the previous transaction promptly, and make sure the tap area is not blocked by a card holder or sign. Small details at the counter decide whether customers think of your business as modern or awkward."
+      ]
+    },
+    {
+      "h2": "Fees, refunds and receipts",
+      "paragraphs": [
+        "In general, wallet transactions are priced like the underlying card. A wallet tap with a debit card follows debit rates, and one with a rewards credit card follows that card's rates. There is not typically a separate wallet fee, but your pricing structure and agreement determine what you actually pay, so check your statement.",
+        "Refunds should go back to the same payment method. For an in-person wallet purchase, the refund is applied to the token's underlying account, so the customer does not always need to present the device again. Receipts may show a device account number. Train staff so a customer holding a phone is not told a refund cannot be processed because the printed digits do not match their card.",
+        "If you operate a dual pricing or cash discount program, wallets are treated as card payments and follow the same display and disclosure rules as other cards. Those rules vary by state and card network, so confirm current requirements and keep signage and receipts consistent. The Zero Processing Fees program from MCCPS is built around this kind of compliant structure, but how it applies to your business depends on your state and the card networks."
+      ]
+    },
+    {
+      "h2": "How to get set up",
+      "paragraphs": [
+        "To accept wallets in store, you need a contactless-enabled terminal and your processor's configuration to be current. To accept them online, you need a gateway or checkout that supports wallet buttons, plus domain and merchant verification steps the platforms require. These are often straightforward, but they vary by platform.",
+        "MCCPS works with a range of terminals, gateways and POS systems and often can keep equipment you already own if it is compatible. A free statement analysis can also show how your current processing treats card-present and card-not-present transactions, which matters when more customers pay by phone."
+      ],
+      "steps": [
+        "Confirm your terminal has an NFC reader and is certified with your processor.",
+        "Test a wallet payment in each wallet you expect customers to use.",
+        "Add wallet buttons to your online checkout if you sell online.",
+        "Train staff on how wallet refunds and receipts appear.",
+        "Add signage so customers know wallets are welcome."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A mobile wallet stores a device-specific token, not the real card number.",
+    "Each wallet payment uses a one-time cryptogram and device authentication.",
+    "Wallet payments are priced like the underlying card, not with a separate wallet fee.",
+    "Refunds go back to the same payment method, even when receipt digits differ.",
+    "You need an NFC terminal in store and wallet buttons online."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a separate account to accept Apple Pay or Google Pay?",
+      "a": "Usually not for in-store acceptance. Wallets work through the card networks, so a contactless-enabled terminal and your existing processing account are typically enough. Online acceptance requires a gateway or checkout that supports wallet buttons."
+    },
+    {
+      "q": "Are mobile wallet payments safer for merchants?",
+      "a": "They reduce certain risks, such as counterfeit cards, because of tokens and device authentication. They do not remove all risk. Disputes about goods, services or billing can still occur."
+    },
+    {
+      "q": "Why do the card digits on the receipt not match?",
+      "a": "Wallets use a device-specific token, so the last digits may differ from the physical card. This is normal and does not mean the payment is wrong."
+    },
+    {
+      "q": "Do wallet payments cost more in fees?",
+      "a": "Typically no separate wallet fee applies. The cost depends on the underlying card type and your pricing agreement. Review your statement to see how those transactions are categorized."
+    },
+    {
+      "q": "Can I refund a mobile wallet purchase?",
+      "a": "Yes. The refund goes back to the account linked to the token. The customer may not need to show the phone again, but your process should follow your terminal's refund steps."
+    }
+  ],
+  "related": [
+    "accept-apple-pay-and-google-pay",
+    "tokenization-explained",
+    "contactless-payments-guide",
+    "tap-to-pay",
+    "mobile-payments",
+    "payment-gateway"
+  ],
+  "icon": "phone",
+  "read_minutes": 6
+}

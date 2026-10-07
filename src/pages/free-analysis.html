@@ -1,0 +1,95 @@
+<!--{"title":"Free Credit Card Processing Savings Analysis | MCCPS","desc":"Get a free, no-obligation merchant statement analysis. Send two statements and MCCPS shows you line by line what you pay to accept cards — and what you could save.","nav":"analysis","light":true,"scripts":["analysis.js"]}-->
+<section class="section" style="padding-top:calc(var(--nav-h) + clamp(40px,6vw,72px));background:linear-gradient(180deg,var(--bg-soft),var(--bg) 60%)">
+  <div class="container">
+    <div class="section-head reveal" style="margin-bottom:clamp(32px,5vw,56px)">
+      <span class="eyebrow">Free savings analysis</span>
+      <h1 class="h1" style="margin-top:14px">See exactly what you pay<br><span class="grad-blue">to accept cards.</span></h1>
+      <p class="lead">A few quick questions and two statements. We review every line and show you where the money goes — free, with no obligation, and you keep your terminals wherever possible.</p>
+    </div>
+
+    <div class="apply">
+      <aside class="apply__aside" aria-label="Progress">
+        <ol class="apply-steps" id="apply-steps">
+          <li class="apply-step is-active" data-step="0"><span class="apply-step__n">1</span><span>Business<small>How you get paid</small></span></li>
+          <li class="apply-step" data-step="1"><span class="apply-step__n">2</span><span>Processing<small>Volume &amp; statements</small></span></li>
+          <li class="apply-step" data-step="2"><span class="apply-step__n">3</span><span>Contact<small>Where to send it</small></span></li>
+          <li class="apply-step" data-step="3"><span class="apply-step__n">4</span><span>Review<small>Confirm &amp; send</small></span></li>
+        </ol>
+        <ul class="apply-assure">
+          <li>{{i:check}}<span>No obligation — the analysis is free.</span></li>
+          <li>{{i:card}}<span>Keep your existing terminals wherever possible.</span></li>
+          <li>{{i:bolt}}<span>Ask about Zero Processing Fees.</span></li>
+          <li>{{i:phone}}<span>24/7 support: <a href="tel:+18448266227" style="color:#fff;font-weight:650">844.826.6227</a></span></li>
+        </ul>
+      </aside>
+
+      <div class="apply-card">
+        <div class="apply-progress" aria-hidden="true"><i id="apply-bar"></i></div>
+        <form id="apply-form" novalidate autocomplete="on">
+          <fieldset class="fstep is-active" data-step="0" style="border:0;padding:0;margin:0">
+            <div class="fstep__head"><span class="eyebrow">Step 1 of 4</span><h2>Tell us about your business</h2><p>Retail, online, mobile or not taking cards yet — all welcome.</p></div>
+            <div class="grid-2">
+              <div class="field span-2"><label for="b-name">Business name <span class="req">*</span></label><input class="input" id="b-name" name="business_name" required autocomplete="organization"><span class="field__err">Please enter your business name.</span></div>
+              <div class="field"><label for="b-web">Website</label><input class="input" id="b-web" name="website" type="url" inputmode="url" placeholder="https://"></div>
+              <div class="field"><label for="b-industry">Industry <span class="req">*</span></label><select class="select" id="b-industry" name="industry" required><option value="">Please select</option><option value="restaurants">Restaurant / bar</option><option value="retail-stores">Retail</option><option value="ecommerce">E-commerce</option><option value="salons-and-spas">Salon / spa / beauty</option><option value="medical-practices">Medical / dental / vet</option><option value="professional-services">Professional services</option><option value="contractors">Contractor / home services</option><option value="auto-repair-shops">Automotive</option><option value="b2b-wholesale">B2B / wholesale</option><option value="nonprofits">Nonprofit / church</option><option value="other">Other</option></select><span class="field__err">Please choose an industry.</span></div>
+              <div class="field span-2"><span class="label" id="yrs-l">Time in business <span class="req">*</span></span><div class="radio-cards" role="radiogroup" aria-labelledby="yrs-l"><label class="radio-card"><input type="radio" name="years" value="New business" required><span>Brand new</span></label><label class="radio-card"><input type="radio" name="years" value="Under 2 years"><span>Under 2 yrs</span></label><label class="radio-card"><input type="radio" name="years" value="2+ years"><span>2+ yrs</span></label></div><span class="field__err">Please choose one.</span></div>
+              <div class="field span-2"><span class="label" id="acc-l">How do you take payments today?</span><div class="radio-cards" role="group" aria-labelledby="acc-l"><label class="radio-card"><input type="checkbox" name="accept" value="In store"><span>In store</span></label><label class="radio-card"><input type="checkbox" name="accept" value="Online"><span>Online</span></label><label class="radio-card"><input type="checkbox" name="accept" value="By phone"><span>By phone</span></label><label class="radio-card"><input type="checkbox" name="accept" value="On the go"><span>On the go</span></label><label class="radio-card"><input type="checkbox" name="accept" value="Not yet"><span>Not yet</span></label></div></div>
+            </div>
+          </fieldset>
+
+          <fieldset class="fstep" data-step="1" style="border:0;padding:0;margin:0">
+            <div class="fstep__head"><span class="eyebrow">Step 2 of 4</span><h2>Your processing today</h2><p>Estimates are fine — your statements fill in the details.</p></div>
+            <div class="grid-2">
+              <div class="field"><label for="p-volume">Monthly card volume <span class="req">*</span></label><div class="input-wrap"><span class="prefix">$</span><input class="input" id="p-volume" name="volume" required inputmode="numeric" data-mask="money" placeholder="40,000"></div><span class="field__err">Enter your approximate monthly card sales.</span></div>
+              <div class="field"><label for="p-ticket">Average sale</label><div class="input-wrap"><span class="prefix">$</span><input class="input" id="p-ticket" name="ticket" inputmode="numeric" data-mask="money" placeholder="45"></div></div>
+              <div class="field"><label for="p-proc">Current processor</label><input class="input" id="p-proc" name="processor" placeholder="Not sure? That's fine"></div>
+              <div class="field"><label for="p-equip">Terminal / POS you use</label><input class="input" id="p-equip" name="equipment" placeholder="e.g. countertop terminal, POS app"></div>
+              <div class="field span-2"><span class="label" id="z-l">Interested in Zero Processing Fees (dual pricing)?</span><div class="radio-cards" role="radiogroup" aria-labelledby="z-l" style="max-width:520px"><label class="radio-card"><input type="radio" name="zero" value="Yes"><span>Yes</span></label><label class="radio-card"><input type="radio" name="zero" value="Tell me more"><span>Tell me more</span></label><label class="radio-card"><input type="radio" name="zero" value="No"><span>No</span></label></div></div>
+            </div>
+            <div class="fstep__group">
+              <h3>Upload two recent processing statements <span class="muted" style="font-weight:500">(optional)</span></h3>
+              <label class="dropzone" id="dropzone">
+                <input type="file" id="f-files" name="statements" multiple accept=".pdf,.png,.jpg,.jpeg,.heic,.csv,.xlsx">
+                {{i:upload}}
+                <div><b>Drop your last two merchant statements</b> or click to browse</div>
+                <div style="font-size:13px;margin-top:6px">PDF or photo · up to 25 MB each</div>
+              </label>
+              <div class="files" id="file-list"></div>
+              <p class="field__hint" style="margin-top:10px">No statements handy? Skip this — a specialist can collect them on the call.</p>
+            </div>
+          </fieldset>
+
+          <fieldset class="fstep" data-step="2" style="border:0;padding:0;margin:0">
+            <div class="fstep__head"><span class="eyebrow">Step 3 of 4</span><h2>Where should we send your analysis?</h2><p>A real person reviews every request.</p></div>
+            <div class="grid-2">
+              <div class="field"><label for="c-name">Full name <span class="req">*</span></label><input class="input" id="c-name" name="name" required autocomplete="name"><span class="field__err">Please enter your name.</span></div>
+              <div class="field"><label for="c-email">Email <span class="req">*</span></label><input class="input" id="c-email" name="email" type="email" required autocomplete="email"><span class="field__err">Enter a valid email.</span></div>
+              <div class="field"><label for="c-phone">Phone <span class="req">*</span></label><input class="input" id="c-phone" name="phone" type="tel" required data-mask="phone" placeholder="(555) 555-5555" autocomplete="tel"><span class="field__err">Enter a 10-digit phone number.</span></div>
+              <div class="field"><label for="c-time">Best time to reach you</label><select class="select" id="c-time" name="best_time"><option value="">Any time</option><option>Morning</option><option>Afternoon</option><option>Evening</option></select></div>
+            </div>
+            <label class="check" style="margin-top:20px"><input type="checkbox" name="sms_consent" value="Yes"><span>I agree to receive calls and text messages from MCCPS about my analysis at the number provided. Consent is not a condition of purchase. Reply STOP to opt out. Msg &amp; data rates may apply.</span></label>
+          </fieldset>
+
+          <fieldset class="fstep" data-step="3" style="border:0;padding:0;margin:0">
+            <div class="fstep__head"><span class="eyebrow">Step 4 of 4</span><h2>Review &amp; send</h2><p>Double-check your details, then send your request.</p></div>
+            <div class="review" id="review"></div>
+            <div class="field" style="margin-top:22px"><label class="check"><input type="checkbox" name="agree" required id="s-agree"><span>I agree to the <a href="/terms-of-use/" style="color:var(--blue)">Terms of Use</a> and <a href="/privacy-policy/" style="color:var(--blue)">Privacy Policy</a>. <span class="req">*</span></span></label><span class="field__err">Please confirm to continue.</span></div>
+          </fieldset>
+
+          <div class="form-nav" id="form-nav">
+            <button class="btn btn--ghost" type="button" id="btn-back" hidden>{{i:chev-l}} Back</button>
+            <span class="save" id="save-state">{{i:lock}} Secure &amp; private</span>
+            <button class="btn btn--primary btn--lg" type="submit" id="btn-next">Continue {{i:arrow}}</button>
+          </div>
+        </form>
+
+        <div class="success" id="apply-success" hidden>
+          <div class="success__check"><svg class="icon" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <h2 class="h2">Request received.</h2>
+          <p id="success-msg">Thanks! An MCCPS specialist will reach out shortly.</p>
+          <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap"><a class="btn btn--primary btn--lg" href="/">Back to home</a><a class="btn btn--ghost btn--lg" href="tel:+18448266227">{{i:phone}} 844.826.6227</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

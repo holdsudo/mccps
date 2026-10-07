@@ -1,0 +1,125 @@
+{
+ "slug": "merchant-account-holds-and-reserves",
+ "category": "blog",
+ "title": "Merchant Account Holds and Reserves",
+ "seo_title": "Merchant Account Holds and Reserves Explained | MCCPS",
+ "meta_description": "Why processors place holds and reserves on merchant funds, how rolling and fixed reserves work, and practical steps to prevent or resolve a funding delay.",
+ "primary_keyword": "merchant account holds and reserves",
+ "keywords": [
+  "rolling reserve",
+  "merchant account hold",
+  "funds held by processor",
+  "delayed funding",
+  "fixed reserve",
+  "processor risk review",
+  "release of reserve funds"
+ ],
+ "eyebrow": "Funding delays",
+ "dek": "Why money you earned is sometimes not in your bank account yet, and what you can do to prevent, understand or end a hold.",
+ "intro": [
+  "Few things alarm a business owner like a missing deposit. Sales were strong, the batch closed, and the money simply did not arrive. Or a letter says part of every deposit will be held for six months. These are holds and reserves, and while they feel like punishment, they are usually risk-management tools that follow predictable rules.",
+  "Knowing the difference between a temporary review hold and a contractual reserve changes how you respond. One calls for quick documentation; the other calls for reading your agreement and negotiating a release schedule.",
+  "This guide explains why they happen, the main types, how to prevent them and what to do if you are already in one."
+ ],
+ "sections": [
+  {
+   "h2": "Holds versus reserves: two different things",
+   "paragraphs": [
+    "A hold is typically temporary. Funds from some or all of your transactions are paused while the processor reviews something, such as an unusually large sale, a spike in volume, a sudden number of refunds or a possible compliance concern. Holds end when the review ends, though how long that takes depends on how fast you supply information.",
+    "A reserve is a structured arrangement, usually written into the merchant agreement or added later by notice. A portion of your funds is set aside as security against future chargebacks and refunds. It has a defined size, duration and release rule, at least in principle.",
+    "Think about what each does to your daily operations. A hold means a specific deposit is late, and you can often plan around it for a week or two. A reserve means a permanent haircut on every deposit for as long as it lasts, which changes how much working cash you carry. Owners who treat the two as the same thing tend to react to the wrong problem."
+   ],
+   "bullets": [
+    "Rolling reserve: a percentage of each day's sales is held and released after a set number of days.",
+    "Fixed or up-front reserve: a lump sum is funded at the start or built up over time.",
+    "Capped reserve: held until a target balance is reached, then stops.",
+    "Review hold: temporary pause while a specific issue is examined."
+   ]
+  },
+  {
+   "h2": "Why processors place them",
+   "paragraphs": [
+    "The processor is responsible for chargebacks you cannot cover. If a merchant closes or has a wave of disputes, the processor and its bank absorb the loss. A reserve or hold is the way to cover that exposure in advance. Triggers include a high-risk category, a short operating history, large tickets, delayed delivery models and sudden changes in processing patterns.",
+    "Hypothetically, say you normally process $20,000 a month and one month you process $90,000 because of a big event. To a risk team, that jump looks like either a great month or a sign of something wrong. Holding funds while they confirm which is routine, even if it is inconvenient.",
+    "There is also the matter of contractual rights. Most merchant agreements give the processor broad discretion to hold or reserve funds when it believes there is risk. That language is standard, which is why reading it before you sign is more useful than arguing about it afterward."
+   ]
+  },
+  {
+   "h2": "Common triggers you can control",
+   "paragraphs": [
+    "Many holds are provoked by behavior merchants can manage. Unannounced volume or ticket-size spikes, a rising chargeback ratio, a burst of refunds, unusual patterns like repeated identical amounts and processing for a business type different from what was approved all attract attention.",
+    "Tell your processor before known spikes, such as a promotion, a seasonal peak, a large B2B invoice or a new product line. A quick note and a limit adjustment prevents most surprise holds.",
+    "Another common trigger is a mismatch between the business you described and the sales passing through. If you were approved as a retail shop and suddenly run large online orders or invoice payments, the system will flag it. Update your processor and, if needed, your account, so the activity and the approval match."
+   ]
+  },
+  {
+   "h2": "What to do when funds are held",
+   "paragraphs": [
+    "First, contact the processor and ask three things: why the hold exists, what documents would resolve it and when you can expect a decision. Get the answers in writing. Then respond fast and completely; slow or partial answers extend the hold.",
+    "Typical requests include invoices, shipping records, customer contracts, bank statements and an explanation of the unusual activity. If you receive a reserve notice, read the clause in your agreement that allows it and ask for the percentage, duration and release schedule.",
+    "Keep a calm paper trail. Record the name of each person you speak to, the date and the promise made. If a hold drags on, those notes make escalation far more effective than a general complaint about slow service."
+   ],
+   "steps": [
+    "Ask for the reason and the exact documents needed.",
+    "Send everything at once, organized and labeled.",
+    "Request a written timeline for review and release.",
+    "Keep a ledger of held funds and expected release dates.",
+    "Escalate politely to a supervisor if deadlines pass."
+   ]
+  },
+  {
+   "h2": "Planning cash flow around a reserve",
+   "paragraphs": [
+    "If a reserve applies, build it into your budget. A 10 percent rolling reserve held for 90 days, as a hypothetical, means that at steady volume roughly three months of that 10 percent is always held. On $30,000 a month, that is about $9,000 you cannot spend. Understand the math before you accept terms.",
+    "Compare options. A fixed reserve may be cheaper than a rolling one, or a lower-reserve account with slightly higher pricing may suit your cash position better. Because pricing and reserves interact, evaluate them together.",
+    "Another approach is to negotiate the structure rather than the existence of the reserve. You might ask for a lower percentage with a shorter hold period, a cap on total reserve balance or an automatic review date. Processors often have flexibility on structure even when they will not drop the reserve."
+   ]
+  },
+  {
+   "h2": "Getting reserve terms reduced or released",
+   "paragraphs": [
+    "Reserves are often reviewed after a period of clean performance. Keep chargebacks low, volume stable and communication open, then request a review in writing, noting your history. Many agreements allow release or reduction after 6 to 12 months at the processor's discretion.",
+    "MCCPS can review your agreement and statements as part of a free, no-obligation analysis and tell you whether the terms look typical for your category. For short-term working capital while funds are held, we refer merchants to Fidelity Funding; MCCPS is not a lender."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Holds are temporary reviews; reserves are contractual security.",
+  "Triggers are usually spikes, rising chargebacks or business changes.",
+  "Warn your processor about planned volume jumps.",
+  "Get reasons, documents and timelines in writing.",
+  "Model reserve effects on cash flow before accepting terms."
+ ],
+ "faq": [
+  {
+   "q": "How long can a processor hold my funds?",
+   "a": "It depends on your agreement and the reason. Review holds can last days to weeks; reserves follow a stated schedule. Your contract should describe the circumstances and limits, so read it and ask for specifics in writing."
+  },
+  {
+   "q": "Is a rolling reserve forever?",
+   "a": "Not usually. It holds a percentage for a fixed number of days, and funds are released on a rolling basis. Some agreements also allow ending or reducing the reserve after good performance, but that is typically at the processor's discretion."
+  },
+  {
+   "q": "Can I stop a hold from happening?",
+   "a": "Often you can reduce the odds by keeping chargebacks low, notifying your processor of planned spikes and processing only what you were approved for. There is no guarantee, but communication lowers surprises considerably."
+  },
+  {
+   "q": "Do reserves earn interest for me?",
+   "a": "Usually not unless the agreement says so. Ask directly where funds are held and whether any return accrues. Most merchants should assume no interest and plan accordingly."
+  },
+  {
+   "q": "What if I disagree with the hold?",
+   "a": "Request the specific reason and the contract clause relied on, supply the documents they want and escalate in writing. For serious disputes consult an attorney; this article is general information and not legal advice."
+  }
+ ],
+ "related": [
+  "high-risk-industries-explained",
+  "next-day-funding-explained",
+  "batch-settlement-explained",
+  "chargeback-reason-codes",
+  "working-capital-for-merchants",
+  "merchant-cash-advance-referrals"
+ ],
+ "icon": "lock",
+ "read_minutes": 6
+}

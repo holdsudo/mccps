@@ -1,0 +1,58 @@
+[
+ {
+  "slug": "trucking-company-mca-2026",
+  "title": "How Your Trucking Company Can Navigate 2026 Fuel Prices Using MCA",
+  "date": "Apr 14, 2026",
+  "tags": [
+   "trucking",
+   "mca"
+  ],
+  "icon": "truck",
+  "grad": "linear-gradient(140deg,#0329D1,#050A2A)",
+  "cover": "/assets/img/post-trucking.webp",
+  "desc": "Fuel is no longer just another expense. It is your biggest variable risk.",
+  "mins": 3
+ },
+ {
+  "slug": "merchant-cash-advance-retail-shop-stabilize-cash-flow",
+  "title": "Can a merchant cash advance help my retail shop stabilize cash flow?",
+  "date": "Nov 26, 2025",
+  "tags": [
+   "retail",
+   "mca"
+  ],
+  "icon": "store",
+  "grad": "linear-gradient(140deg,#5B3BFF,#0B0E4A)",
+  "cover": null,
+  "desc": "Merchant cash advances (MCAs) can be a fast, flexible funding option for retail shops that need short-term working capital to smooth out uneven revenue. Th",
+  "mins": 3
+ },
+ {
+  "slug": "restaurant-owner-improve-approval-odds-merchant-cash-advance",
+  "title": "How can a restaurant owner improve approval odds for a merchant cash advance?",
+  "date": "Nov 26, 2025",
+  "tags": [
+   "restaurants",
+   "mca"
+  ],
+  "icon": "utensils",
+  "grad": "linear-gradient(140deg,#0A8FB0,#071B4E)",
+  "cover": null,
+  "desc": "Restaurant owners seeking a merchant cash advance (MCA) can raise their approval odds by focusing on predictable cash flow, organized documentation, and cl",
+  "mins": 3
+ },
+ {
+  "slug": "trucking-company-merchant-cash-advance-approval-odds",
+  "title": "How can my trucking company improve approval odds for a merchant cash advance?",
+  "date": "Nov 26, 2025",
+  "tags": [
+   "trucking",
+   "mca"
+  ],
+  "icon": "truck",
+  "grad": "linear-gradient(140deg,#1E43FF,#0A2F9B)",
+  "cover": null,
+  "desc": "Merchant cash advances (MCAs) can be a fast way for trucking companies to access working capital, but they also come with strict underwriting criteria and ",
+  "mins": 3
+ }
+]

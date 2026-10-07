@@ -1,0 +1,125 @@
+{
+ "slug": "seasonal-business-payments",
+ "category": "blog",
+ "title": "Payments for Seasonal Businesses",
+ "seo_title": "Payment Processing for Seasonal Businesses | MCCPS",
+ "meta_description": "Running a business that closes or surges by season? Learn how to handle monthly fees, volume swings, pausing an account and off-season cash flow.",
+ "primary_keyword": "seasonal business payment processing",
+ "keywords": [
+  "seasonal merchant account",
+  "pause merchant account",
+  "monthly minimum fees",
+  "off-season processing",
+  "seasonal volume spikes",
+  "seasonal cash flow",
+  "seasonal business fees"
+ ],
+ "eyebrow": "Seasonal merchants",
+ "dek": "When your sales arrive in a few intense months, your payment setup has to handle both the surge and the silence.",
+ "intro": [
+  "Ice cream stands, pool companies, ski shops, Christmas tree lots, tax preparers and beach rental operators share a challenge that year-round businesses rarely think about: income arrives in bursts. A merchant account that suits a steady monthly volume can feel clumsy when you process very little for five months and enormous amounts for the other seven.",
+  "The right payment setup for a seasonal business answers four questions. What do you pay when nothing is happening? What happens when volume jumps? Can you pause or reduce the account honestly and safely? And how do you keep cash flow steady until the next season? The sections below take them in turn."
+ ],
+ "sections": [
+  {
+   "h2": "What you pay when you are closed",
+   "paragraphs": [
+    "Many processing contracts include recurring charges that continue regardless of activity: a monthly statement fee, a gateway fee, a PCI program fee, a minimum monthly processing amount and sometimes lease payments on terminal equipment. If you process nothing in January, those charges may still post and quietly erode the profit you made in July.",
+    "Read your agreement for any language about minimums, inactivity fees and equipment leases. Say your fixed fees total $55 a month. Over five idle months that is $275, which may be acceptable, but it is better to know the number than to find it on a statement. If your contract has a hard minimum, ask whether it can be lowered or waived during the off-season."
+   ],
+   "bullets": [
+    "Monthly statement and gateway fees",
+    "Minimum monthly processing charges",
+    "PCI compliance program fees",
+    "Terminal lease payments that continue year-round"
+   ]
+  },
+  {
+   "h2": "Pausing, closing or staying open",
+   "paragraphs": [
+    "Some businesses keep their account active all year, even at low volume. Others ask their processor to place it on a seasonal or inactive status. A third group closes the account and reopens a new one each spring, which can create approval hassles and early termination fees, and is rarely worth it.",
+    "Before closing anything, ask direct questions. Does the contract carry an early termination fee? What would reopening require? Will new underwriting be needed? Our guide on early termination fees explains the common penalties. In most cases, a low-cost, low-minimum account that stays open is simpler than a cycle of cancel and reapply."
+   ]
+  },
+  {
+   "h2": "Handling the surge when the season starts",
+   "paragraphs": [
+    "A sudden jump in volume can alarm a processor's risk systems. If you normally process $2,000 a month and suddenly run $60,000, the account may be flagged for review and funds can be held. This is a protective measure, not an accusation, but it can freeze your cash at the worst possible moment.",
+    "The remedy is communication. Tell your processor about your seasonality before it starts, share expected monthly volume and your largest anticipated ticket, and make sure these figures are on file when the account is set up. Our article on holds and reserves explains why processors react to sudden changes and how to avoid surprises."
+   ]
+  },
+  {
+   "h2": "Scale your equipment and staffing with demand",
+   "paragraphs": [
+    "Peak season is when terminals break and lines grow. Plan equipment for the busiest day, not the average one. Mobile readers and tap-to-pay on a smartphone can add checkout lanes quickly without a big capital outlay, and they can be put away in the off-season.",
+    "Keep a short checklist for opening day: test every device, update software, confirm that receipt printers work and make sure seasonal staff know how to take a chip card, process a refund and handle a decline. MCCPS offers free 24/7 technical support, which helps when your busiest weekend falls outside normal business hours."
+   ],
+   "bullets": [
+    "Test every device before opening day",
+    "Add mobile readers rather than permanent hardware",
+    "Train temporary staff with a one-page guide",
+    "Know who to call for support outside business hours"
+   ]
+  },
+  {
+   "h2": "Smooth cash flow across the year",
+   "paragraphs": [
+    "Revenue that arrives in a few months must cover twelve months of expenses. Open a separate savings account and move a set share of each season's deposits into it. Fast access to funds also helps: next-day funding is available through MCCPS for eligible merchants, and can shorten the gap between a sale and the money being available to pay suppliers.",
+    "Prepayments and deposits are another tool. A landscaping company, for example, may collect a spring service deposit in winter, and a tour operator may take bookings months ahead. Our use-case guide on deposits covers how to take them properly and what to put in your cancellation terms."
+   ]
+  },
+  {
+   "h2": "Pricing and fees across the season",
+   "paragraphs": [
+    "Because seasonal businesses concentrate their volume, even small differences in effective rate matter. Say you process $200,000 over a six-month season at 3.1 percent; the fees are $6,200. Trimming just half a point would be worth $1,000. Review your statement for unnecessary line items such as monthly minimums, redundant gateway charges and non-compliance fees.",
+    "MCCPS provides a free, no-obligation savings analysis in which the team reviews two months of statements line by line. For a seasonal business, send statements from busy months so the analysis reflects your actual card mix. The Zero Processing Fees program may suit some eligible merchants, but cash discount and dual pricing rules vary by state and card network, so confirm current requirements and signage first."
+   ]
+  },
+  {
+   "h2": "Prepare for the off-season",
+   "paragraphs": [
+    "Use the quiet months for housekeeping. Reconcile the season's batches, review chargebacks, update your PCI self-assessment and replace aging equipment. If you sell gift cards or take future bookings, check that balances and deposits are recorded correctly.",
+    "You can also use the break to evaluate your processor. If the contract no longer fits the shape of your year, February is a better time to compare options than the week before opening. Ask questions, compare line by line and do not sign anything under time pressure."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Recurring fees and minimums continue when you are closed, so read your contract.",
+  "Closing and reopening an account can trigger fees and fresh underwriting.",
+  "Tell your processor about seasonal volume spikes before they happen to avoid holds.",
+  "Mobile readers add peak capacity without permanent hardware.",
+  "Use the off-season to reconcile, update compliance and compare processors."
+ ],
+ "faq": [
+  {
+   "q": "Can I pause my merchant account in the off-season?",
+   "a": "Some processors allow a low-activity or inactive status, while others require the account to stay active. Ask your provider and read your agreement for minimums and inactivity fees. Closing entirely may involve termination fees and re-underwriting when you reopen. Revisit the question at least once a year, because equipment, rules and pricing change."
+  },
+  {
+   "q": "Will a big jump in volume cause a hold on my funds?",
+   "a": "It can. Processors monitor for unusual activity, and a sudden increase from your normal volume may trigger a review. Informing your processor about seasonal patterns and expected volume when the account is set up reduces the chance of surprises. When in doubt, ask for the answer in writing before you commit to anything."
+  },
+  {
+   "q": "Do I still pay monthly fees when I have no sales?",
+   "a": "Often yes. Statement fees, gateway fees, PCI program fees and equipment leases may continue even with zero sales. Check your contract for any minimum processing requirements, and ask about reducing or suspending certain charges during slow months. Your accountant or attorney can confirm how this applies to your circumstances."
+  },
+  {
+   "q": "How can seasonal businesses improve cash flow?",
+   "a": "Set aside part of each season's deposits, collect deposits or prepayments where appropriate and use faster funding to shorten the gap between sales and available cash. Match your spending to the calendar so that the quiet months are covered. Start small, measure what happens, and adjust from there."
+  },
+  {
+   "q": "Does MCCPS offer funding for seasonal inventory?",
+   "a": "MCCPS is not a lender. For business funding needs it refers merchants to Fidelity Funding. Compare the full cost, repayment terms and your expected sales before accepting any funding, and consult your accountant if you are unsure. Testing it once before you need it will save you stress later."
+  }
+ ],
+ "related": [
+  "early-termination-fees",
+  "merchant-account-holds-and-reserves",
+  "take-deposits-and-prepayments",
+  "accept-payments-at-events",
+  "holiday-season-payments-prep",
+  "working-capital-for-merchants"
+ ],
+ "icon": "clock",
+ "read_minutes": 7
+}

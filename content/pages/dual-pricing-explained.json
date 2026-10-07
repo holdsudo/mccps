@@ -1,0 +1,115 @@
+{
+  "slug": "dual-pricing-explained",
+  "category": "blog",
+  "title": "Dual Pricing Explained",
+  "seo_title": "Dual Pricing Explained: How It Works & Rules | MCCPS",
+  "meta_description": "Dual pricing lists a cash price and a card price. Learn how it works, how it differs from surcharging, and the disclosure rules to confirm before you start.",
+  "primary_keyword": "dual pricing",
+  "keywords": [
+    "dual pricing program",
+    "dual pricing credit card processing",
+    "cash price and card price",
+    "dual pricing signage",
+    "dual pricing compliance",
+    "zero fee processing",
+    "dual pricing disclosure"
+  ],
+  "eyebrow": "Pricing programs",
+  "dek": "Two prices, posted openly: one for cash and one for cards. Done right, it moves the cost of acceptance to the customers who choose cards.",
+  "intro": [
+    "Card acceptance costs money, and for many businesses the fee is larger than their net margin on some items. Dual pricing is one answer: instead of absorbing the cost, you display two prices for every product or service, a lower one for cash or debit-like payment and a standard one for credit cards.",
+    "It sounds like a small tweak, but it affects your menu or price list, your point-of-sale configuration, your signage and your customer conversations. It is also an area where rules vary by state and by card network, so the details matter."
+  ],
+  "sections": [
+    {
+      "h2": "What dual pricing means",
+      "paragraphs": [
+        "In a dual-pricing program, every item has two listed prices from the start. The cash price is the base. The card price is the same base plus an amount that covers the typical cost of card acceptance. Both prices are displayed before the customer decides how to pay.",
+        "That upfront display is central to how the model is positioned. The customer sees two prices, picks a payment method and pays the corresponding amount. The card price is simply the regular listed price, rather than an extra line added at the end of the transaction."
+      ]
+    },
+    {
+      "h2": "A simple example",
+      "paragraphs": [
+        "Say a shop sells a repair service with a cash price of $200. Its program sets the card price at $206, a 3% difference. A customer who pays cash pays $200. A customer who pays by card pays $206, and the extra $6 offsets the roughly $6 the merchant pays in processing costs. In this hypothetical, the merchant's net on either payment type is about the same.",
+        "Over a month of $40,000 in card sales, a business that would otherwise pay $1,240 at a 3.1% effective rate could shift much of that cost through the pricing difference. How much, and whether it can reach zero, depends on the program setup, the customer mix and the rules that apply."
+      ]
+    },
+    {
+      "h2": "How it differs from surcharging",
+      "paragraphs": [
+        "Surcharging adds a fee at checkout on credit card transactions, generally capped and subject to specific card network rules and state laws. Dual pricing, by contrast, builds the price difference into the posted prices from the beginning.",
+        "Because the two are treated differently by networks and by states, they should not be mixed up in your signage or your staff training. We cover the comparison in more detail in our guide on cash discounts versus surcharges.",
+        "A common mistake is treating the card price as a fee that appears only at the register. If a customer sees one price on the menu and a higher total on the receipt without prior notice, the program looks like an undisclosed charge, which is exactly what disclosure rules are meant to prevent. Build the two prices into the workflow from the first point of contact, whether that is a website, a menu board or a quote.",
+        "Another is inconsistency across channels. If your in-store price list shows two prices but your online store shows one, or your invoices omit the cash price, customers and regulators may see a mismatch. Walk through each way a customer can buy from you and confirm that the pricing is displayed the same way at every step."
+      ]
+    },
+    {
+      "h2": "What compliant setup typically involves",
+      "paragraphs": [
+        "No single checklist applies everywhere, and requirements change. The elements below are the ones that come up most often in compliant programs, but you should confirm current requirements for your state and the card networks before launching.",
+        "Good implementation also means training the person at the register. Staff need to explain the two prices clearly and without pressure, and to avoid statements that sound like a fee or a penalty."
+      ],
+      "bullets": [
+        "Post both prices on menus, price lists, shelf labels, websites and invoices, not only at checkout.",
+        "Place clear signage at the entrance and register stating that a different price applies for card payments.",
+        "Show the card price as the standard price and the cash price as the discounted option, if your state requires that framing.",
+        "Print both amounts on receipts and itemize any difference accurately.",
+        "Apply the program consistently, including for debit-card and online payments where required.",
+        "Review whether any rules restrict how much of a difference is allowed and how it must be described."
+      ]
+    },
+    {
+      "h2": "Benefits and trade-offs",
+      "paragraphs": [
+        "The benefits are straightforward. The merchant reduces or removes the cost of card acceptance, margins stabilize, and pricing becomes more transparent. Some customers choose cash or a lower-cost payment when it saves them money, which also reduces fees further.",
+        "The trade-offs are real, too. Some customers react poorly to seeing two prices, particularly in industries where card payment is expected. Online and phone sales need additional care in how prices are displayed. And an error in disclosure can create compliance exposure, which is why setup deserves attention."
+      ]
+    },
+    {
+      "h2": "Getting started safely",
+      "paragraphs": [
+        "Begin by understanding your current cost: calculate your effective rate and see how much of your volume is on cards. Confirm what your state and the card networks require, and consult your attorney or advisor if you have questions about your specific situation. Then choose a program that supports compliant signage, receipts and point-of-sale configuration.",
+        "MCCPS offers a Zero Processing Fees program built on compliant dual pricing and cash-discount principles, which can bring the merchant's card-processing cost to $0 when it is set up and disclosed properly. Rules vary by state and card network, so it begins with a free, no-obligation review of your statements to see whether it fits your business."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Dual pricing lists a cash price and a higher card price up front, before the customer chooses how to pay.",
+    "It differs from surcharging, which adds a fee at checkout and follows separate network and state rules.",
+    "Rules vary by state and card network, so proper disclosure and signage must be confirmed before launch.",
+    "Staff training and consistent price display are as important as the pricing math."
+  ],
+  "faq": [
+    {
+      "q": "Is dual pricing legal?",
+      "a": "Dual pricing and cash discount programs are used by many businesses, but rules differ by state and by card network, and they require proper disclosure and signage. Laws and network rules change, so confirm current requirements for your location, and consult an attorney if you are unsure."
+    },
+    {
+      "q": "How is dual pricing different from a surcharge?",
+      "a": "A surcharge is an added fee on credit card payments at checkout. Dual pricing posts two complete prices in advance, one for cash and one for cards. Networks and states treat them differently, so signage, receipts and training should reflect which approach you are using."
+    },
+    {
+      "q": "Will customers be upset about two prices?",
+      "a": "Reactions vary by industry and how you present it. Clear signage, a friendly explanation and a visible cash savings generally help. Some customers will switch to cash or debit, which lowers your costs further, while others will simply pay by card."
+    },
+    {
+      "q": "Can dual pricing really bring my processing cost to zero?",
+      "a": "Under a properly structured program, the price difference can offset the fees you pay, which can bring the merchant's net cost to zero. Results depend on your card mix, local rules and execution, so results are not guaranteed and should be assessed from your statements."
+    },
+    {
+      "q": "Do I need new equipment?",
+      "a": "Often not. Many re-programmable terminals and POS systems can be configured to show both prices and print compliant receipts. MCCPS can review your current setup as part of its free analysis and tell you whether you can keep what you already own."
+    }
+  ],
+  "related": [
+    "cash-discount-vs-surcharge",
+    "surcharge-rules-by-state",
+    "zero-processing-fees",
+    "offer-cash-discount",
+    "surcharging-programs",
+    "convenience-fees-explained"
+  ],
+  "icon": "cash",
+  "read_minutes": 6
+}

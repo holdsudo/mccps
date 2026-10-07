@@ -1,0 +1,125 @@
+{
+  "slug": "accounting-firms",
+  "category": "industries",
+  "title": "Accounting Firm Payment Processing",
+  "seo_title": "Accounting Firm Payment Processing | MCCPS",
+  "meta_description": "Accounting firm payment processing for recurring engagements, tax-season invoices and client portals. Get paid faster and review your fees with MCCPS.",
+  "primary_keyword": "accounting firm payment processing",
+  "keywords": [
+    "CPA firm credit card processing",
+    "tax preparer payments",
+    "recurring bookkeeping billing",
+    "accounting invoices payment link",
+    "client portal payments",
+    "tax season cash flow",
+    "accountant merchant account"
+  ],
+  "eyebrow": "Professional payments",
+  "dek": "Monthly bookkeeping, a tax-season crush and clients who wait until April to pay: how accounting firms can collect on time.",
+  "intro": [
+    "Accounting firms live with an unusual calendar. Bookkeeping clients pay monthly all year, tax clients cluster between January and April, and some of them would rather pay after the work is delivered than before. A firm with a hundred clients can hold a surprising amount of unpaid work in progress at any given time.",
+    "Payment processing for an accounting firm is therefore about three things: automating the recurring engagements, making it easy to pay a one-off tax invoice and keeping the costs of accepting cards in proportion. This page walks through each."
+  ],
+  "sections": [
+    {
+      "h2": "Automating monthly engagements",
+      "paragraphs": [
+        "Monthly bookkeeping, payroll and advisory engagements are predictable. With the client's written authorization, you can keep a payment method on file and charge it on the same day each month. That removes the monthly invoicing cycle and helps the firm plan around steady revenue.",
+        "Include the key terms in the engagement letter: the monthly fee, what is covered, how extra work is billed, notice required to end the engagement and what happens if a payment fails. Many clients prefer ACH for a recurring fee because it keeps cost low on both sides, while others like the convenience of a card. Offering both lets the client choose."
+      ],
+      "bullets": [
+        "Get written authorization for stored payment methods.",
+        "Spell out how out-of-scope work will be billed.",
+        "Offer ACH and card options for recurring fees.",
+        "Send a receipt for every charge."
+      ]
+    },
+    {
+      "h2": "Tax-season invoicing",
+      "paragraphs": [
+        "In tax season, a firm may deliver dozens of returns a week. Collecting at delivery is much easier than chasing later: a payment link on the invoice, or a payment step in a client portal, lets the client pay before downloading the finished return. Some firms prefer to collect a deposit at intake, with the balance at delivery.",
+        "Make sure your fee schedule is clear. A client who is surprised by the price of a more complex return is more likely to dispute the charge. Send an estimate when the scope becomes clear and confirm it in writing."
+      ]
+    },
+    {
+      "h2": "Client portals and secure payments",
+      "paragraphs": [
+        "Accounting firms already ask clients to share sensitive documents, so payment should match that security level. Use a hosted payment page or tokenized fields so card numbers never sit in email or on paper. Do not accept card details over unencrypted email or by text.",
+        "For phone payments, use a virtual terminal and collect the billing ZIP and CVV. PCI compliance applies to any firm that accepts cards, and MCCPS provides PCI compliance help. Choose the questionnaire that matches how you take payments, and keep records of your completed assessment."
+      ],
+      "steps": [
+        "Send the invoice with a secure payment link.",
+        "Let the client choose card or bank payment.",
+        "Confirm payment before releasing the finished work, if your policy requires it.",
+        "Send a receipt automatically.",
+        "Record the payment against the client's account."
+      ]
+    },
+    {
+      "h2": "Cash flow around the season",
+      "paragraphs": [
+        "A firm with a heavy winter and spring may run lean in summer. Next-day funding, available through MCCPS, means card payments received during the busiest weeks are available quickly for payroll and seasonal staff. A reporting dashboard shows payments by day, which helps you compare one season to the last.",
+        "For gaps in cash flow, MCCPS refers merchants to Fidelity Funding for business funding options. MCCPS is not a lender, and any funding is subject to the terms offered by Fidelity Funding."
+      ]
+    },
+    {
+      "h2": "Handling disputes and refunds",
+      "paragraphs": [
+        "Disputes arise when a client believes a charge exceeds what was agreed or that work was incomplete. Keep engagement letters, estimates and delivery records together. Respond to client questions quickly, because a short call often resolves what would otherwise become a chargeback.",
+        "If a refund is due, process it to the original payment method. Be careful about what client information you include when responding to a card dispute, and consult your professional association or counsel about confidentiality duties."
+      ]
+    },
+    {
+      "h2": "Onboarding clients with payment preferences",
+      "paragraphs": [
+        "The best time to settle payment details is at onboarding. Ask each new client how they prefer to pay, collect authorization for recurring fees and record any requirements such as a purchase order or a separate billing contact. Clients who set up payment during onboarding rarely require reminders later. For existing clients, use the quiet summer months to update stored payment methods and confirm contact details before the next busy season. A short checklist at onboarding, covering scope, fee, schedule, payment method and cancellation terms, saves hours of back-and-forth and gives the firm a clear record if any question arises."
+      ]
+    },
+    {
+      "h2": "Understanding the cost",
+      "paragraphs": [
+        "Say your firm processes $25,000 a month on cards with a 3.0 percent effective rate, or $750. In a firm where a large share of revenue is paid by check or ACH, card volume may be modest, but peaks in March and April can be heavy. Check how keyed and online payments are priced, and whether there are monthly minimums or fees that persist when volume is low.",
+        "Some firms consider a cash discount or dual pricing arrangement, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and professional rules may add limits, so confirm what applies to you. The free statement analysis reviews two months of statements line by line, with savings depending on what is found. Free 24/7 support is part of the service."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Automatic billing suits monthly bookkeeping and advisory engagements.",
+    "Collect at delivery with a payment link to avoid chasing tax-season invoices.",
+    "Use hosted payment pages instead of email or paper for card details.",
+    "Offer ACH and cards so clients can choose.",
+    "Put scope and fees in writing to prevent disputes."
+  ],
+  "faq": [
+    {
+      "q": "How can an accounting firm get paid faster?",
+      "a": "Send invoices with a payment link, collect a deposit at intake for tax work, and charge recurring engagements automatically with client authorization. Next-day funding also reduces the wait for deposits."
+    },
+    {
+      "q": "Is it safe to take card numbers by email?",
+      "a": "No. Use a secure payment link, hosted page or virtual terminal so the card number goes straight to a protected system. Keep card data out of email, text messages and paper files."
+    },
+    {
+      "q": "Should an accountant charge a client's card on file?",
+      "a": "Only with clear written authorization that states the amount and schedule. Send a receipt each time and make it easy for the client to change or end the arrangement."
+    },
+    {
+      "q": "Can the firm pass card fees to clients?",
+      "a": "Possibly via surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure. Professional rules may also apply. Confirm current requirements first."
+    },
+    {
+      "q": "Are processing fees tax deductible?",
+      "a": "Processing fees are generally treated as a business expense, but you should confirm treatment for your situation with your own CPA or tax adviser."
+    }
+  ],
+  "related": [
+    "professional-services",
+    "recurring-billing",
+    "invoicing-and-payment-links",
+    "ach-vs-credit-card",
+    "processing-fees-tax-deductible",
+    "law-firms"
+  ],
+  "icon": "file",
+  "read_minutes": 6
+}

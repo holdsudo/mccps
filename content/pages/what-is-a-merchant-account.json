@@ -1,0 +1,117 @@
+{
+  "slug": "what-is-a-merchant-account",
+  "category": "blog",
+  "title": "What Is a Merchant Account?",
+  "seo_title": "What Is a Merchant Account? A Plain-English Guide | MCCPS",
+  "meta_description": "A merchant account is the business account that lets you accept card payments and receive settlement. Learn how it works, what it costs and how to get one.",
+  "primary_keyword": "what is a merchant account",
+  "keywords": [
+    "merchant account definition",
+    "do I need a merchant account",
+    "merchant account vs bank account",
+    "merchant account application",
+    "merchant ID MID",
+    "merchant account fees",
+    "dedicated merchant account"
+  ],
+  "eyebrow": "Payments 101",
+  "dek": "It is not a regular bank account, and it is not something you open at a branch. It is the arrangement that lets card money reach you.",
+  "intro": [
+    "People often assume that accepting cards is just a matter of buying a reader. In reality, a reader is a tool. The thing that actually allows you to be paid is a merchant account, which is an agreement between your business and an acquiring bank.",
+    "The term is jargon-heavy, so owners can go years without a clear sense of what theirs is, where it lives and what it commits them to. This guide explains it plainly."
+  ],
+  "sections": [
+    {
+      "h2": "The definition",
+      "paragraphs": [
+        "A merchant account is a type of account that lets a business accept card payments and have the proceeds settled to its bank account. Technically, it is a contractual relationship with an acquiring bank that agrees to sponsor your processing, take on the risk of disputes and fund your sales, in exchange for fees.",
+        "It is not a place where your money sits. When a customer pays, funds are authorized, settled and then deposited into your ordinary business checking account. The merchant account governs that flow, gives you a merchant ID, sets your fee schedule and carries your obligations for chargebacks and compliance."
+      ]
+    },
+    {
+      "h2": "How it differs from a business bank account",
+      "paragraphs": [
+        "A business checking account holds your funds and handles deposits, withdrawals and payments. A merchant account handles the acceptance and settlement of card payments. You need both: the merchant account feeds the checking account.",
+        "Some banks offer both under one roof, but they remain distinct agreements, each with its own fees and terms. A common mistake is to assume that your bank's debit card on your checking account means you can accept customer cards. It does not."
+      ]
+    },
+    {
+      "h2": "What the account includes",
+      "paragraphs": [
+        "Though packages vary, a merchant account relationship usually bundles several components. The processor and acquirer handle authorization and settlement. A gateway or terminal connects your sales environment. Reporting tools show what was sold and what was deposited, and support helps when something fails.",
+        "The details below describe what to expect to find in your agreement and on your statement."
+      ],
+      "bullets": [
+        "A merchant ID that identifies your business in the payment system.",
+        "A pricing schedule: interchange-plus, tiered, flat-rate, membership or another model.",
+        "Settlement terms, including how fast funds reach you and where they go.",
+        "Chargeback handling rules, fees and your responsibility for disputes.",
+        "Compliance requirements, including PCI standards.",
+        "Contract term, cancellation conditions and any early termination provisions."
+      ]
+    },
+    {
+      "h2": "The application and underwriting",
+      "paragraphs": [
+        "To open an account you submit an application describing your business: what you sell, how you take payment, your expected monthly volume and average ticket, and your ownership. The acquirer reviews your credit and business history, the nature of your industry and sometimes your website or your product mix. This process is called underwriting.",
+        "Most standard small businesses are approved quickly, sometimes the same day, once the paperwork is complete. Higher-risk businesses may take longer or be asked for more documentation. The acquirer may also set a reserve or limits on volume and ticket size, particularly for new accounts.",
+        "Reserves and limits deserve a note. Acquirers may set monthly volume limits, per-transaction limits or hold a percentage of sales as a reserve, particularly for new accounts, seasonal businesses or industries with higher dispute rates. These terms should appear in your agreement. If you expect a big month, such as a holiday rush or a large one-time sale, tell your provider in advance so a limit does not delay your funds.",
+        "Accuracy on the application matters as well. Misstating your volume, average ticket or products can lead to holds or account closure later. A truthful description may take longer to approve, but it prevents surprises."
+      ]
+    },
+    {
+      "h2": "What it costs",
+      "paragraphs": [
+        "Costs fall into several buckets: the per-transaction costs that depend on your pricing model, recurring fees such as monthly minimums, statement, gateway or PCI program fees, and occasional charges such as chargebacks, retrievals or early termination. Equipment may be bought, leased or already owned.",
+        "Say you process $25,000 a month. A statement might show roughly $700 in per-transaction costs, $25 in monthly fees and $20 in compliance charges, or about 3% overall. That is a hypothetical, and your actual figures will differ. Reading a real statement is the surest way to know."
+      ]
+    },
+    {
+      "h2": "Choosing and moving an account",
+      "paragraphs": [
+        "Because the merchant account carries your contract terms, it matters more than the brand name on your terminal. Ask about pricing transparency, funding speed, equipment compatibility, contract length and support hours. If you already have an account, you can often move without replacing every device, since many terminals can be re-programmed to a new processor.",
+        "MCCPS sets up merchant accounts for in-store, online, phone and mobile payments, offers next-day funding where available and provides free 24/7 technical support. It starts with a no-obligation review of two months of your current statements, so you can compare against what you pay today.",
+        "Before you sign, picture a bad month. If a terminal fails, who do you call and how fast do they answer? If a customer disputes a charge, who sends you the notice and what is the deadline to respond? If you want to leave, what does it cost? The answers to those three questions often matter more over the life of the account than a few hundredths of a percent in rate.",
+        "Keep copies of your signed agreement, fee schedule and any addenda in one place. Many disputes with providers come down to which version of the terms applied at the time, and being able to produce the paperwork quickly makes those conversations short."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A merchant account is an agreement with an acquiring bank that lets you accept card payments and receive settlement.",
+    "It is separate from your business checking account, which is where the funds are deposited.",
+    "Underwriting reviews your business, volume and risk before the account is opened.",
+    "Contract terms and fee structure matter more than the brand of terminal you use."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a merchant account to accept cards?",
+      "a": "You need some arrangement that provides one, either a dedicated merchant account or an account under a payment facilitator. Each has trade-offs in cost, stability and control. A dedicated account usually offers more transparent pricing and direct underwriting, while aggregated models start faster."
+    },
+    {
+      "q": "Is a merchant account the same as a payment processor?",
+      "a": "No. The merchant account is your agreement with an acquiring bank. The processor is the company that moves transaction data and handles settlement on the bank's behalf. In practice, you often sign one contract that covers both, which is why the terms get mixed together."
+    },
+    {
+      "q": "How long does it take to open a merchant account?",
+      "a": "Many standard applications are decided within a day or a few days once documents are complete. Higher-risk businesses or larger limits may take longer. Having your business license, bank details, ownership information and recent processing statements ready speeds things up."
+    },
+    {
+      "q": "Can I keep my existing terminal when I change accounts?",
+      "a": "Often yes, if the terminal can be re-programmed for a new processor. Some are locked to the original provider, so check before you commit. MCCPS often keeps re-programmable terminals merchants already own, and can tell you whether yours qualifies."
+    },
+    {
+      "q": "What is a merchant ID?",
+      "a": "It is the unique number that identifies your business to the processor and card networks. It appears on statements and is required for configuring terminals and gateways. Treat it as an account identifier rather than a secret, but do not post it publicly alongside other sensitive details."
+    }
+  ],
+  "related": [
+    "payment-facilitator-vs-merchant-account",
+    "what-is-an-iso",
+    "merchant-account-approval",
+    "payment-processor-vs-gateway",
+    "accept-credit-cards-for-the-first-time",
+    "credit-card-processing"
+  ],
+  "icon": "building",
+  "read_minutes": 6
+}

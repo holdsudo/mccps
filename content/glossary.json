@@ -1,0 +1,252 @@
+[
+{
+"term": "3-D Secure",
+"def": "An authentication layer for online card payments that can verify the cardholder with their bank.",
+"url": "/blog/3d-secure-explained/"
+},
+{
+"term": "Account updater",
+"def": "A service that refreshes stored card details when cards are reissued, reducing failed recurring payments.",
+"url": "/blog/account-updater/"
+},
+{
+"term": "ACH",
+"def": "The US bank-to-bank network used for eChecks, direct debits and many recurring payments. Typically cheaper than cards but slower to settle.",
+"url": "/solutions/ach-processing/"
+},
+{
+"term": "Acquirer (acquiring bank)",
+"def": "The bank that holds the merchant's account and receives card payments on the merchant's behalf.",
+"url": "/blog/how-credit-card-processing-works/"
+},
+{
+"term": "Address Verification Service (AVS)",
+"def": "A check that compares the billing address a customer enters with the address on file at the card issuer \u2014 a key fraud tool for online and phone orders.",
+"url": "/blog/avs-and-cvv/"
+},
+{
+"term": "Assessment fees",
+"def": "Fees charged by the card networks on transactions, separate from interchange and the processor's markup.",
+"url": "/blog/assessment-fees-explained/"
+},
+{
+"term": "Authorization",
+"def": "The real-time request to the card issuer to approve a transaction and hold the funds.",
+"url": "/blog/how-credit-card-processing-works/"
+},
+{
+"term": "Batch",
+"def": "A group of authorized transactions sent together for settlement, usually at the end of the business day.",
+"url": "/blog/batch-settlement-explained/"
+},
+{
+"term": "Card-not-present (CNP)",
+"def": "A transaction where the card isn't physically presented \u2014 online, phone or mail orders. CNP usually carries higher interchange and fraud risk.",
+"url": "/blog/card-present-vs-card-not-present/"
+},
+{
+"term": "Card-present",
+"def": "A transaction where the card is dipped, tapped or swiped at a terminal.",
+"url": "/blog/card-present-vs-card-not-present/"
+},
+{
+"term": "Cash discount",
+"def": "A pricing approach that offers a lower price for cash payments. Program rules and disclosures vary by card network and state.",
+"url": "/blog/cash-discount-vs-surcharge/"
+},
+{
+"term": "Chargeback",
+"def": "A disputed transaction reversed by the cardholder's bank, often with a fee to the merchant.",
+"url": "/blog/chargeback-reason-codes/"
+},
+{
+"term": "Convenience fee",
+"def": "A fee for using an alternative payment channel (for example paying online instead of in person). Card-network rules restrict when it can be charged.",
+"url": "/blog/convenience-fees-explained/"
+},
+{
+"term": "CVV / CVC",
+"def": "The security code printed on a card, used to verify card-not-present transactions.",
+"url": "/blog/avs-and-cvv/"
+},
+{
+"term": "Dual pricing",
+"def": "Displaying both a cash price and a card price so card processing cost is covered at checkout \u2014 the basis of MCCPS Zero Processing Fees.",
+"url": "/blog/dual-pricing-explained/"
+},
+{
+"term": "Early termination fee (ETF)",
+"def": "A fee some processors charge for ending a contract before its term ends.",
+"url": "/blog/early-termination-fees/"
+},
+{
+"term": "Effective rate",
+"def": "Total processing fees divided by total card volume \u2014 the clearest single measure of what accepting cards costs you.",
+"url": "/tools/processing-fee-calculator/"
+},
+{
+"term": "EMV",
+"def": "The chip-card standard. EMV transactions are more secure than magstripe swipes and affect who bears counterfeit-fraud liability.",
+"url": "/blog/emv-liability-shift/"
+},
+{
+"term": "Flat-rate pricing",
+"def": "One blended percentage (and often a per-transaction fee) for every transaction regardless of card type.",
+"url": "/blog/flat-rate-vs-interchange-plus/"
+},
+{
+"term": "Friendly fraud",
+"def": "When a cardholder disputes a legitimate purchase \u2014 for example, forgetting a charge or a family member's purchase.",
+"url": "/blog/friendly-fraud/"
+},
+{
+"term": "Gateway",
+"def": "Software that securely transmits online and card-not-present payment data to the processor.",
+"url": "/blog/what-is-a-payment-gateway/"
+},
+{
+"term": "Interchange",
+"def": "The fee paid to the card-issuing bank on each transaction, set by the card networks. It's the largest part of processing cost and varies by card type and how the card is accepted.",
+"url": "/blog/interchange-explained/"
+},
+{
+"term": "Interchange-plus",
+"def": "A pricing model that passes interchange and assessments through at cost and adds a disclosed processor markup.",
+"url": "/solutions/interchange-plus-pricing/"
+},
+{
+"term": "ISA (Independent Sales Agent)",
+"def": "An individual who refers or signs merchants for a processor or ISO, typically earning residuals.",
+"url": "/blog/iso-vs-agent/"
+},
+{
+"term": "ISO (Independent Sales Organization)",
+"def": "A company registered with card networks through a sponsor bank to sell and support merchant accounts.",
+"url": "/blog/what-is-an-iso/"
+},
+{
+"term": "Issuer (issuing bank)",
+"def": "The bank that issued the customer's card and approves or declines transactions.",
+"url": "/blog/how-credit-card-processing-works/"
+},
+{
+"term": "Level 2 / Level 3 data",
+"def": "Additional transaction details (tax amount, PO number, line items) that can qualify business and purchasing cards for lower interchange.",
+"url": "/blog/level-2-3-data-explained/"
+},
+{
+"term": "MATCH list",
+"def": "A database of merchants whose accounts were terminated for certain reasons, which other acquirers check during approval.",
+"url": "/blog/matched-list-explained/"
+},
+{
+"term": "Merchant account",
+"def": "A bank account that lets a business accept card payments and receive settled funds.",
+"url": "/blog/what-is-a-merchant-account/"
+},
+{
+"term": "Merchant statement",
+"def": "The monthly report from your processor showing volume, transactions and every fee charged.",
+"url": "/blog/how-to-read-a-merchant-statement/"
+},
+{
+"term": "Mid-qualified / non-qualified",
+"def": "Tiered-pricing buckets for transactions that don't meet the processor's 'qualified' criteria \u2014 they cost more.",
+"url": "/blog/tiered-pricing-explained/"
+},
+{
+"term": "Next-day funding",
+"def": "Settlement that deposits funds the business day after a batch is closed.",
+"url": "/solutions/next-day-funding/"
+},
+{
+"term": "NFC (contactless)",
+"def": "Near-field communication \u2014 the technology behind tap-to-pay cards and mobile wallets.",
+"url": "/blog/contactless-payments-guide/"
+},
+{
+"term": "P2PE",
+"def": "Point-to-point encryption: card data is encrypted at the terminal and only decrypted by the processor.",
+"url": "/blog/encryption-p2pe-explained/"
+},
+{
+"term": "Payment facilitator (PayFac)",
+"def": "A provider that signs merchants up under its own master merchant account, rather than giving each a dedicated account.",
+"url": "/blog/payment-facilitator-vs-merchant-account/"
+},
+{
+"term": "PCI DSS",
+"def": "The Payment Card Industry Data Security Standard \u2014 security requirements for any business that accepts card payments.",
+"url": "/solutions/pci-compliance/"
+},
+{
+"term": "PCI non-compliance fee",
+"def": "A monthly fee some processors charge until a merchant completes PCI validation.",
+"url": "/blog/pci-non-compliance-fee/"
+},
+{
+"term": "Pre-authorization",
+"def": "Holding an amount on a card before the final total is known \u2014 common at bars, hotels and fuel pumps.",
+"url": "/use-cases/take-deposits-and-prepayments/"
+},
+{
+"term": "Processor markup",
+"def": "The processor's own margin on top of interchange and assessments \u2014 the negotiable part of your cost.",
+"url": "/blog/processor-markup-explained/"
+},
+{
+"term": "Recurring billing",
+"def": "Automatically charging customers on a schedule for subscriptions, memberships or plans.",
+"url": "/solutions/recurring-billing/"
+},
+{
+"term": "Representment",
+"def": "The merchant's response to a chargeback, submitting evidence to reverse it.",
+"url": "/blog/how-to-win-a-chargeback/"
+},
+{
+"term": "Reserve",
+"def": "Funds a processor holds back from settlements to cover potential chargebacks or risk.",
+"url": "/blog/merchant-account-holds-and-reserves/"
+},
+{
+"term": "Residuals",
+"def": "Ongoing payments to sales agents based on the processing volume of merchants they signed.",
+"url": "/blog/residual-income-explained/"
+},
+{
+"term": "Settlement",
+"def": "The process of moving funds from issuing banks to the merchant's account after a batch is submitted.",
+"url": "/blog/batch-settlement-explained/"
+},
+{
+"term": "Surcharge",
+"def": "An added fee on credit card transactions to offset processing costs. Subject to card-network rules, disclosure requirements and state law.",
+"url": "/solutions/surcharging-programs/"
+},
+{
+"term": "Terminal lease",
+"def": "A rental agreement for card hardware \u2014 often long-term and non-cancellable.",
+"url": "/use-cases/terminal-lease-traps/"
+},
+{
+"term": "Tiered pricing",
+"def": "A pricing model that groups transactions into qualified, mid-qualified and non-qualified rates.",
+"url": "/blog/tiered-pricing-explained/"
+},
+{
+"term": "Tokenization",
+"def": "Replacing card numbers with tokens so sensitive data isn't stored in your systems.",
+"url": "/blog/tokenization-explained/"
+},
+{
+"term": "Virtual terminal",
+"def": "A browser-based tool for keying in card payments taken by phone or mail.",
+"url": "/solutions/virtual-terminal/"
+},
+{
+"term": "Zero Processing Fees",
+"def": "MCCPS's compliant dual-pricing program that can take card processing cost to $0.",
+"url": "/solutions/zero-processing-fees/"
+}
+]

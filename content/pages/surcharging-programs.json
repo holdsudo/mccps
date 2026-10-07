@@ -1,0 +1,122 @@
+{
+  "slug": "surcharging-programs",
+  "category": "solutions",
+  "title": "Credit Card Surcharging Programs",
+  "seo_title": "Credit Card Surcharging: Rules & Disclosures | MCCPS",
+  "meta_description": "Understand how credit card surcharging works, why rules vary by state and card network, and what disclosure and signage to confirm before you start.",
+  "primary_keyword": "credit card surcharging",
+  "keywords": [
+    "credit card surcharge",
+    "surcharge program",
+    "surcharge disclosure",
+    "surcharge vs cash discount",
+    "pass processing fees to customers",
+    "surcharge signage",
+    "card network surcharge rules"
+  ],
+  "eyebrow": "Fee programs",
+  "dek": "A surcharge adds a separate charge to certain card payments. Whether and how you may do it depends on rules you must confirm first.",
+  "intro": [
+    "Owners who watch processing fees climb often ask the same question: can I just charge the customer? The answer is sometimes, under conditions. Surcharging is one of several ways merchants offset card cost, and it is the one with the most rules attached.",
+    "This page explains what a surcharge is, how it differs from a discount or convenience fee, and the questions you must answer before turning one on. It is general information, not legal advice. Rules vary by state and card network, change over time and require proper disclosure, so confirm current requirements before acting."
+  ],
+  "sections": [
+    {
+      "h2": "What a surcharge is",
+      "paragraphs": [
+        "A surcharge is an additional amount added at checkout when a customer pays with a credit card. It appears as its own line on the receipt, separate from the price of the goods. The amount is typically a percentage of the transaction.",
+        "It differs from cash discounting, where the listed price is the card price and cash customers get a reduction, and from dual pricing, where two prices are displayed. The legal and network treatment of each is different, and a program that is allowed in one form may not be allowed in another.",
+        "Some processors and POS systems apply surcharges automatically, which is convenient but not a substitute for understanding the rules. You remain responsible for the program you run, including what your signage says and what your receipts show."
+      ]
+    },
+    {
+      "h2": "Why the rules vary",
+      "paragraphs": [
+        "Two layers of rules apply. The card networks set conditions for merchants who surcharge, including notification to the network or processor, limits on the amount, and treatment of different card types. States may allow, restrict or prohibit surcharging, and some require specific disclosures.",
+        "Those requirements have changed in the past and may change again. For that reason this page does not state any specific cap or any specific state's current position. Check with your processor, your attorney or the state agency before you begin."
+      ],
+      "bullets": [
+        "Card network conditions and notification requirements",
+        "State law that may allow, limit or prohibit surcharging",
+        "Different treatment of credit, debit and prepaid cards",
+        "Requirements for signage, receipts and online checkout text"
+      ]
+    },
+    {
+      "h2": "Disclosure is the part owners get wrong",
+      "paragraphs": [
+        "Customers should learn about a surcharge before they decide to pay, not at the last moment. Typical disclosure includes signage at the entrance and at the register, a notice on menus or price lists where appropriate, a clear line on the receipt and an explanation in online checkout before the final confirmation.",
+        "Train staff to explain it in one calm sentence. If a customer would rather avoid the charge, they should be able to pay another way. Misleading or hidden surcharges invite complaints and chargebacks.",
+        "Online sellers should place the notice where a customer sees it before entering card details, and invoices and payment links should carry it as well. A phone sale needs the explanation spoken aloud before the card number is taken, with a note of what was said in the order record."
+      ]
+    },
+    {
+      "h2": "Worked example",
+      "paragraphs": [
+        "Say a customer buys $200 of goods and the program applies a 3% surcharge. The receipt shows $200.00 for items, $6.00 for the surcharge and $206.00 total. Your processor charges its normal fees on the $206.00. Whether the surcharge fully offsets your cost depends on your actual rates, the card type and the program rules.",
+        "This is a hypothetical illustration, not a suggested rate. The permitted amount and treatment of different cards depend on the rules in force where you operate and in the card network's requirements at the time."
+      ]
+    },
+    {
+      "h2": "Weighing the customer-experience cost",
+      "paragraphs": [
+        "Some customers accept a surcharge without a second thought, and others notice it and shop elsewhere. Retail, restaurants and professional services react differently. Consider your competitors' practices and your customers' expectations.",
+        "Some merchants prefer a dual-pricing or cash-discount structure for exactly this reason, as it changes how the price difference is presented. Our guides on cash discount versus surcharge and the Zero Processing Fees program lay out the differences.",
+        "Test the idea gradually if you can. Review complaints, abandoned sales and the share of customers switching to another payment method after the program starts. If the reaction is worse than expected, you may prefer another structure or a different presentation of prices."
+      ]
+    },
+    {
+      "h2": "Mistakes to avoid",
+      "paragraphs": [
+        "Do not apply a surcharge to debit cards unless you have confirmed it is permitted, as rules often differ for debit. Do not charge more than your actual cost if rules limit it to cost. Do not forget online checkout and invoices, where the same disclosure applies. Do not leave older staff or older terminals out of the rollout.",
+        "Keep records of your disclosures and of program configuration. If a dispute arises, documentation shows you complied.",
+        "Taxes can also complicate things. Whether sales tax applies to the surcharge amount depends on your state, so ask your accountant how it should appear on receipts and in your books."
+      ]
+    },
+    {
+      "h2": "Talking it through with MCCPS",
+      "paragraphs": [
+        "MCCPS can walk you through the options for offsetting card costs, including surcharging, dual pricing and the Zero Processing Fees program, and explain what each involves for your type of business. Confirm the current requirements for your state and card networks before launching any of them.",
+        "Start with the free, no-obligation statement analysis. It reviews two months of statements line by line so you know what you pay today. Free 24/7 technical support and personal customer service are part of the service."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A surcharge is a separate charge added to certain card payments.",
+    "State law and card network rules differ and change; confirm before starting.",
+    "Clear signage and receipt disclosure are essential.",
+    "Cash discounting and dual pricing are alternatives with different rules."
+  ],
+  "faq": [
+    {
+      "q": "Is surcharging legal?",
+      "a": "It depends on your state and on card network rules, both of which can change. Some places allow it with conditions and others restrict it. Confirm current requirements with your processor, an attorney or the state agency."
+    },
+    {
+      "q": "How much can I surcharge?",
+      "a": "Limits are set by card network rules and sometimes by state law, and they change. This page does not state a specific cap. Ask your processor for the current limit that applies to you."
+    },
+    {
+      "q": "How do I tell customers?",
+      "a": "Use signage at the entrance and register, show the surcharge as a separate line on receipts and explain it in online checkout before payment. Train staff to explain it briefly and calmly."
+    },
+    {
+      "q": "Can I surcharge debit cards?",
+      "a": "Often not in the same way as credit. Rules treat debit differently, and some prohibit it. Confirm what applies to you before configuring your system."
+    },
+    {
+      "q": "Is a surcharge the same as a cash discount?",
+      "a": "No. A surcharge adds a charge for card payments, while a cash discount reduces the price for non-card payments from a listed card price. Rules and customer perception differ between them."
+    }
+  ],
+  "related": [
+    "surcharge-rules-by-state",
+    "cash-discount-vs-surcharge",
+    "pass-fees-to-customers",
+    "zero-processing-fees",
+    "convenience-fees-explained",
+    "dual-pricing-explained"
+  ],
+  "icon": "scale",
+  "read_minutes": 7
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "switch-payment-processors",
+  "category": "solutions",
+  "title": "Switching Payment Processors Smoothly",
+  "seo_title": "Switching Payment Processors: Contracts & Migration | MCCPS",
+  "meta_description": "How to switch payment processors without disrupting sales: check contracts and termination fees, handle equipment leases, plan the migration and test first.",
+  "primary_keyword": "switch payment processors",
+  "keywords": [
+    "change merchant processor",
+    "early termination fee",
+    "processor migration",
+    "terminal reprogramming",
+    "merchant account transfer",
+    "payment processor contract",
+    "switching card processing"
+  ],
+  "eyebrow": "Migration",
+  "dek": "Switching processors is mostly paperwork and planning. Done in the right order, your customers will never notice.",
+  "intro": [
+    "Plenty of owners stay with a processor they dislike for years because switching sounds painful. They imagine terminals that stop working, a gap in deposits and a cancellation fee that eats the savings. Some of those worries are fair, but most come down to doing things in the wrong order.",
+    "This page lays out a sensible sequence: check what you have signed, line up the new setup before touching the old one, test, cut over, and then close the old account cleanly."
+  ],
+  "sections": [
+    {
+      "h2": "Start with the contract you already have",
+      "paragraphs": [
+        "Find your merchant agreement and read the term, renewal and cancellation sections. Look for an auto-renewal clause, a notice period and any early termination fee. Some agreements renew for a full year or more unless you give written notice within a window, so missing a date can lock you in again.",
+        "Also look for liquidated damages tied to expected future volume, rather than a flat fee. Those can be much larger. If the language is unclear, ask a specialist or an attorney to read it with you.",
+        "Be aware that some contracts include a clause requiring you to process a minimum monthly volume or pay the difference. If your sales have dropped or you are seasonal, check whether that provision applies and whether it counts toward a termination fee."
+      ]
+    },
+    {
+      "h2": "Equipment: owned, leased or locked",
+      "paragraphs": [
+        "Terminals can be owned, leased or provided with the account. Owned devices are often re-programmable, meaning they can be loaded with new settings to work with a different processor. Leased devices may need to be returned or paid off, and some leases run for years with no way out.",
+        "MCCPS often keeps re-programmable terminals merchants already own, which removes hardware from the cost of switching. Hypothetically, a $60 monthly lease with 30 months left is $1,800 still owed, so factor that into your math. Our guide to terminal lease traps goes further."
+      ]
+    },
+    {
+      "h2": "Do the numbers before you move",
+      "paragraphs": [
+        "Compare total cost, not just rates. Add termination fees, remaining lease payments and any setup costs, then compare against the monthly savings. If a switch saves $300 a month and costs $1,500 to exit, you break even in five months, a reasonable trade for many.",
+        "The free statement analysis from MCCPS reviews two months of your statements line by line, so the comparison uses your real volume and card mix. Savings depend on that review, and no result is promised in advance.",
+        "Do not overlook non-financial costs: staff time for retraining, a day of slower service while terminals are swapped, and the effort of updating your website checkout and recurring billing. They are usually modest, but listing them keeps the plan honest."
+      ]
+    },
+    {
+      "h2": "Plan the cutover",
+      "paragraphs": [
+        "Keep the old account open until the new one is fully tested. The aim is overlap, not a gap. Gather your current merchant ID, equipment details, POS and gateway settings, and recurring billing schedules before you begin. If you store customer cards for subscriptions, ask how tokens will be migrated, because losing them forces customers to re-enter cards.",
+        "Choose a quiet day for the switch, not the Friday before a holiday. Tell your staff what to expect and who to call. Free 24/7 technical support from MCCPS covers the day itself.",
+        "For businesses with an online store, update the gateway credentials on a staging copy of the site first if one exists. Run a full checkout, a refund and a failed-card test, and only then change the live site. Keep the old credentials stored safely until the first successful live deposits arrive."
+      ],
+      "steps": [
+        "Review contract terms and notice deadlines",
+        "Confirm equipment ownership and reprogramming options",
+        "Apply and get approved with the new provider",
+        "Configure and test terminals, POS and gateway",
+        "Run live test transactions and refunds",
+        "Switch live traffic and monitor the first batches",
+        "Give written notice and close the old account"
+      ]
+    },
+    {
+      "h2": "Test, then test again",
+      "paragraphs": [
+        "Run test transactions on every terminal and channel: chip, tap, swipe and keyed in store, an online checkout, a phone order through the virtual terminal and a refund. Confirm the transactions reach the right account and that batches close properly.",
+        "After the switch, watch your first few deposits. They should match batch totals less fees. If anything looks off, call at once. Early problems are far easier to fix than ones discovered at month end.",
+        "Reconcile the first full month in detail. Compare batch reports, deposits and fees against what was quoted. The first statement under any new processor is the real test of whether the proposal matched reality."
+      ]
+    },
+    {
+      "h2": "Closing out the old account",
+      "paragraphs": [
+        "Send written cancellation according to the contract, and keep a copy and proof of delivery. Ask for confirmation that the account is closed and that no further fees will be charged. Watch your bank statements for stray debits in the following months.",
+        "Chargebacks and refunds on old transactions can still arrive after closing, so make sure you know how to respond. Keep old statements for your records and for tax purposes."
+      ]
+    },
+    {
+      "h2": "Common pitfalls",
+      "paragraphs": [
+        "Cancelling the old account before the new one is live is the classic mistake, and it can stop sales. Others include forgetting recurring billing, missing the notice window, overlooking PCI obligations with the new provider and failing to update the descriptor customers see on their statements.",
+        "A specialist can help you avoid each of these. Call 844.826.6227 to discuss a switch, and remember that MCCPS integrates with almost any POS, smartphone or terminal."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Read your contract for term, notice windows and termination fees first.",
+    "Check whether terminals are owned, leased or re-programmable.",
+    "Keep the old account open until the new setup is tested.",
+    "Plan for tokens, recurring billing and the descriptor on statements."
+  ],
+  "faq": [
+    {
+      "q": "Will switching interrupt my sales?",
+      "a": "It should not, if you overlap accounts and test thoroughly. Keep the old setup running until the new one is verified, and choose a quiet day for the cutover. Support is available during the switch."
+    },
+    {
+      "q": "What is an early termination fee?",
+      "a": "A charge for ending the contract before the term is up. It may be a flat amount or tied to expected future volume. Check your agreement and add it to the cost-benefit comparison."
+    },
+    {
+      "q": "Can I keep my current terminal?",
+      "a": "Often yes, if it is owned and re-programmable. Leased or locked devices may need to be returned or paid off. MCCPS can check your model during the free analysis."
+    },
+    {
+      "q": "What about my saved customer cards?",
+      "a": "Ask both providers about migrating tokens. Without a migration, subscribers may have to re-enter cards. Plan this early if you run recurring billing."
+    },
+    {
+      "q": "How long does a switch take?",
+      "a": "It depends on approval, equipment and complexity. Simple setups can move quickly, while integrated systems take more testing. Plan for an overlap period rather than a hard cutoff."
+    }
+  ],
+  "related": [
+    "switching-processors-checklist",
+    "cancel-processor-contract",
+    "early-termination-fees",
+    "terminal-lease-traps",
+    "processor-contract-red-flags",
+    "free-statement-analysis"
+  ],
+  "icon": "refresh",
+  "read_minutes": 7
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "prevent-card-fraud",
+  "category": "use-cases",
+  "title": "Preventing Card Fraud at Your Business",
+  "seo_title": "Prevent Credit Card Fraud for Merchants | MCCPS",
+  "meta_description": "Protect your business from card fraud in store, online and by phone: EMV, AVS and CVV, 3-D Secure, velocity limits and employee controls that actually work.",
+  "primary_keyword": "prevent credit card fraud",
+  "keywords": ["merchant fraud prevention", "card not present fraud", "counterfeit card fraud", "3-D Secure", "AVS CVV checks", "card testing", "fraud controls small business"],
+  "eyebrow": "Fraud defense",
+  "dek": "Fraud looks different at a counter, on a website and over the phone. The defenses are different too, and most of them are affordable.",
+  "intro": [
+    "Card fraud is not a single problem. A stolen card used at your counter, a stolen number typed into your checkout and a staff member skimming at the register are three separate threats, each needing a different defense. When fraud succeeds, you often bear the cost: the goods are gone, the payment is reversed and a chargeback fee lands on top.",
+    "The encouraging part is that the biggest gaps are usually the simplest to close. The card networks and your processor offer tools for each channel, and a few disciplined habits at the point of sale do much of the rest. Here is how to protect each part of your business."
+  ],
+  "sections": [
+    {
+      "h2": "In person: use the chip and the tap",
+      "paragraphs": [
+        "Chip cards generate a unique code for each transaction, which makes counterfeit cards far harder to use than the old magnetic stripe. Since the EMV liability shift, a merchant who still swipes a chip card on a non-chip terminal can be responsible for counterfeit losses that would otherwise fall on the issuer. That is the strongest reason to run an EMV-capable terminal and insist on the chip.",
+        "Contactless payments and mobile wallets add another layer, because they use one-time values and the actual card number is never shared with the terminal. For larger purchases, compare the name on a photo ID with the card and watch for cards that have been obviously altered, but never rely on a signature as protection."
+      ]
+    },
+    {
+      "h2": "Online and by phone: verify what you can",
+      "paragraphs": [
+        "Without the card in hand, you lean on data. Address verification compares the billing postal code and street number with the issuer's records, and the security code on the back confirms the buyer has the physical card. Both are inexpensive and should be required on every card-not-present order. For riskier transactions, 3-D Secure sends the cardholder through an authentication step and can move liability for certain fraud disputes to the issuer.",
+        "Pay attention to context. Orders for unusually large quantities, shipping addresses that differ sharply from the billing address, rush shipping on a first order and several declined attempts followed by a success all deserve a second look before you ship."
+      ]
+    },
+    {
+      "h2": "Watch for card testing",
+      "paragraphs": [
+        "Criminals with lists of stolen numbers often test them on small online purchases or donation forms to see which still work. You may see dozens or hundreds of tiny charges in minutes, many declined. Defenses include limits on attempts per visitor or IP, CAPTCHA at checkout, requiring security codes and blocking suspicious regions where you do not sell. Act quickly when you see a burst, because large volumes of declines can attract attention from issuers and your processor."
+      ]
+    },
+    {
+      "h2": "Inside your business",
+      "paragraphs": [
+        "Not all fraud comes from outside. Staff with access to the terminal can issue refunds to their own cards, skim numbers or void sales and pocket cash. Basic controls make this much harder:"
+      ],
+      "bullets": [
+        "Give each employee a unique login and review a daily report of voids, refunds and no-sale openings.",
+        "Require manager approval for refunds above a set amount, and refund only to the original card.",
+        "Keep terminals in sight and inspect them periodically for tampering or unfamiliar attachments.",
+        "Never allow staff to write down or photograph card numbers.",
+        "Rotate who closes the register and reconcile batches against the deposit."
+      ]
+    },
+    {
+      "h2": "Layer your defenses",
+      "paragraphs": [
+        "No single tool stops everything, and extra friction costs sales, so tailor the mix to your risk. A low-value, in-person business needs a chip reader, wallet acceptance and basic staff controls. A website selling electronics needs address and code checks, 3-D Secure on larger orders and manual review rules. A business taking phone orders needs a tight routine for verifying new customers and storing nothing it should not.",
+        "Protect your own environment as well. Complete your PCI self-assessment, keep software current, use strong unique passwords with multi-factor sign-in on your payment portals and limit who can access them."
+      ]
+    },
+    {
+      "h2": "A fraud-readiness checklist",
+      "paragraphs": [
+        "Use this as a starting point for a quarterly review:"
+      ],
+      "steps": [
+        "Confirm every terminal reads chip and contactless and that staff do not bypass the chip.",
+        "Require security code and postal code on all keyed and online orders.",
+        "Decide which orders trigger manual review and who handles it.",
+        "Enable attempt limits and challenges on your checkout.",
+        "Review void and refund reports weekly.",
+        "Turn on multi-factor sign-in for the payment dashboard.",
+        "Write down what to do when you suspect fraud, including who to call."
+      ]
+    },
+    {
+      "h2": "Help from MCCPS",
+      "paragraphs": [
+        "MCCPS offers EMV and contactless hardware, reporting that makes unusual activity visible and free 24/7 technical support. The team can also review your statements for fraud-related fees and chargeback patterns during a free analysis. Call 844.826.6227 to talk about the right layers for how you sell."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Fraud differs by channel, so match your defenses to how you accept payment.",
+    "Use the chip or tap in person; the EMV liability shift puts counterfeit risk on merchants who do not.",
+    "Require address and security code checks on card-not-present sales and consider 3-D Secure.",
+    "Limit payment attempts to blunt card-testing bots.",
+    "Employee controls and daily void and refund reports catch internal fraud early."
+  ],
+  "faq": [
+    {"q": "Who pays when a fraudulent card is used at my business?", "a": "It depends on how the card was accepted. If the fraud is disputed and you did not follow the rules, such as swiping a chip card where chip was available, the loss can fall on you through a chargeback. Following chip, verification and authentication practices shifts more risk away from you."},
+    {"q": "Does asking for ID stop card fraud?", "a": "It helps with obvious mismatches but is not reliable on its own, and some card network rules restrict requiring ID as a condition of payment. Rely mainly on chip and tap authentication, then use ID checks at your discretion for suspicious situations while following your processor's policies."},
+    {"q": "What is 3-D Secure?", "a": "3-D Secure is an authentication step for online card payments in which the issuer may ask the cardholder to verify the purchase, for example with a code or app approval. When it succeeds, liability for certain fraud chargebacks can shift to the issuer. It can add friction, so many merchants use it selectively."},
+    {"q": "How can I tell if my website is being card-tested?", "a": "Look for bursts of small transactions, many declines, repeated attempts from the same IP address or unusual patterns of cards from different countries. Set alerts with your gateway, limit attempts, require security codes and add a challenge at checkout. Contact your processor early if you see a surge."},
+    {"q": "Do small businesses really need fraud tools?", "a": "Yes, because criminals often target businesses they expect to be less protected. Most useful protections are inexpensive or already included, such as EMV, address and code checks and staff reports. Start with the basics suited to your channel, then add layers as volume or risk grows."}
+  ],
+  "related": ["fraud-prevention", "emv-liability-shift", "3d-secure-explained", "avs-and-cvv", "card-testing-attacks", "employee-theft-pos"],
+  "icon": "lock",
+  "read_minutes": 6
+}

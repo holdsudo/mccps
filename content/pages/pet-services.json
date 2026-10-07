@@ -1,0 +1,114 @@
+{
+  "slug": "pet-services",
+  "category": "industries",
+  "title": "Pet Store & Grooming Payment Processing",
+  "seo_title": "Pet Store & Grooming Payment Processing | MCCPS",
+  "meta_description": "Groomers, boarders, trainers and pet shops: set up card payments for appointments, no-show fees, tips and retail sales that fit how pet businesses run.",
+  "primary_keyword": "pet grooming payment processing",
+  "keywords": [
+    "dog groomer credit card processing",
+    "pet boarding payments",
+    "pet store merchant account",
+    "no-show fee pet grooming",
+    "card on file groomer",
+    "mobile grooming payments",
+    "pet training deposits"
+  ],
+  "eyebrow": "Pet businesses",
+  "dek": "Appointments, tips, boarding deposits and retail shelves: how pet businesses can collect payment without awkward moments at pickup.",
+  "intro": [
+    "Pet owners are loyal, emotional customers, and the businesses that serve them, from groomers to boarding kennels to training studios and pet supply shops, tend to run on relationships. That makes payment a delicate topic. Nobody wants to haggle about a late-cancellation fee while a happy dog is tugging at the leash.",
+    "The practical answer is to set up payments so the awkward conversations never have to happen: cards on file with clear permission, deposits for long stays, visible tipping options and a retail checkout that keeps pace with the line.",
+    "This page covers how to structure those pieces and what to look for in a provider."
+  ],
+  "sections": [
+    {
+      "h2": "Appointments, cards on file and no-shows",
+      "paragraphs": [
+        "Grooming and training run on scheduled time slots, and a no-show is lost revenue you cannot recover. Many studios ask for a card at booking and state a late-cancellation or no-show policy in plain terms. When the client accepts the policy, you have a basis for charging the card on file if they miss an appointment.",
+        "Say a groomer charges $75 per appointment and loses three no-shows a week; that is $225 of unbilled time every week. A policy that charges a modest fee for late cancellations, applied consistently and with a reminder sent the day before, often reduces no-shows more than any penalty actually collected."
+      ],
+      "bullets": [
+        "Collect and tokenize a card when the appointment is booked",
+        "Show the cancellation policy and have the client accept it",
+        "Send reminders by text or email 24 to 48 hours ahead",
+        "Apply the fee consistently and send an itemized receipt"
+      ]
+    },
+    {
+      "h2": "Tips at checkout",
+      "paragraphs": [
+        "Groomers and trainers earn much of their income from tips. Cash tips are easy to miss when clients walk in with a card and no cash. A reader that prompts for a tip, with preset percentages and a custom option, tends to bring in tips that would otherwise be left out. Decide whether tips go to individual groomers or are pooled, and keep records that match your payroll and tax obligations.",
+        "Tip adjustment on a receipt can also help when the owner or front-desk staff take payment after the service. Our guide on accepting tips explains the mechanics.",
+        "One more detail worth settling: decide in advance whether tips are added before or after the service total is finalized, and whether a regular client's stored card can be used for tips left later. A short line in your booking terms avoids confusion, and the receipt should show the service and the tip as separate amounts."
+      ]
+    },
+    {
+      "h2": "Boarding, daycare packages and prepayment",
+      "paragraphs": [
+        "Overnight boarding and daycare passes are larger purchases, often booked weeks in advance, particularly before holidays when a spot is scarce. A deposit at booking holds the space, with the balance due at pickup or before arrival. State the refund terms clearly, including the holiday policy, because a cancelled holiday stay is a frequent source of disputes.",
+        "Prepaid packages, such as ten daycare days at a discount, introduce a liability: you have been paid for services not yet delivered. Track the remaining balance for each client and state any expiration terms in writing. Expiration rules for prepaid services can be regulated, so check requirements that apply in your area."
+      ]
+    },
+    {
+      "h2": "Retail shelves and online orders",
+      "paragraphs": [
+        "Pet stores and many groomers sell food, treats, toys and accessories. A POS that tracks inventory and ties into your payment terminal saves time on stock counts and reordering. Recurring orders for food, such as a monthly bag of a prescription diet, can be set up as subscriptions, charging a stored card on schedule with an easy way for the customer to skip or cancel.",
+        "If you sell online, remember that shipped goods bring card-not-present processing and different fraud considerations than in-store sales. Use AVS and CVV and send tracking information promptly."
+      ]
+    },
+    {
+      "h2": "Mobile grooming and on-the-go payments",
+      "paragraphs": [
+        "Mobile groomers work from a van, and their payment device needs to travel too. A smartphone or pocket reader that accepts tap, chip and wallets, with cellular connectivity, lets you collect at the curb. Keep a backup battery in the van, and make sure transactions can be completed even if a customer's driveway has poor signal by learning how your device handles offline mode.",
+        "A text-to-pay link is another option: send the invoice to the client's phone when the groom is done, so they can pay from the couch. See our guide on accepting payments on the go for more detail."
+      ]
+    },
+    {
+      "h2": "Costs, setup and support",
+      "paragraphs": [
+        "Pet businesses range from sole operators to multi-site kennels, and costs depend on mix. Say a grooming studio processes $18,000 a month at a 2.9% effective rate; that is $522 in fees. A review may reveal avoidable monthly charges, such as PCI fees, that do not match the size of the business.",
+        "MCCPS offers a free, no-obligation analysis of two months of statements, line by line, can often keep your existing re-programmable terminals, and provides free 24/7 technical support. If you are considering a compliant dual-pricing or surcharge program to offset card costs, rules vary by state and card network, and disclosure and signage are required, so verify before posting a sign."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Collect a card at booking and a signed policy so no-show fees are fair and enforceable.",
+    "Tip prompts on the reader capture tips that cash alone would miss.",
+    "Boarding deposits and prepaid packages need clear refund and expiration terms.",
+    "Mobile groomers should plan for connectivity and battery life.",
+    "A review of your statement can reveal fees that do not suit a small studio."
+  ],
+  "faq": [
+    {
+      "q": "Can a groomer charge a no-show fee?",
+      "a": "Generally yes if the client agreed to a clear cancellation policy when booking, and a card is on file. Apply the fee consistently, send an itemized receipt, and consider reminders to reduce no-shows. Check any local rules that may apply."
+    },
+    {
+      "q": "How do I take payment for a mobile grooming business?",
+      "a": "Use a smartphone or small card reader that accepts chip, tap and wallets over cellular data, or text a payment link to the customer. Keep a backup battery and understand how your device behaves if the signal drops."
+    },
+    {
+      "q": "What is the best way to handle boarding deposits?",
+      "a": "Take a deposit at booking through a secure link or virtual terminal, state the refund policy and holiday terms in writing, and collect the balance at pickup or before arrival. Keep the signed terms on file."
+    },
+    {
+      "q": "Can I set up recurring orders for pet food?",
+      "a": "Yes. Store the customer's card as a token with their consent and charge it on the schedule they choose. Offer easy skip and cancel options and send reminders before each order ships."
+    },
+    {
+      "q": "How should tips be handled for groomers?",
+      "a": "Use a reader that prompts for a tip and record tips by employee. Whether tips are pooled or individual, follow payroll and tax requirements and consult your accountant about reporting."
+    }
+  ],
+  "related": [
+    "veterinary-clinics",
+    "salons-and-spas",
+    "accept-tips",
+    "accept-payments-on-the-go",
+    "set-up-recurring-payments",
+    "retail-stores"
+  ],
+  "icon": "heart",
+  "read_minutes": 6
+}

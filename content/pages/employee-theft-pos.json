@@ -1,0 +1,127 @@
+{
+ "slug": "employee-theft-pos",
+ "category": "blog",
+ "title": "Preventing Employee Theft at the POS",
+ "seo_title": "Preventing Employee Theft at the POS | MCCPS",
+ "meta_description": "Learn how employee theft happens at the register and the controls that stop it: permissions, void reports, cash counts and clear policies for owners.",
+ "primary_keyword": "employee theft at the POS",
+ "keywords": [
+  "POS theft prevention",
+  "void and refund abuse",
+  "cashier fraud",
+  "register controls",
+  "skimming cash sales",
+  "employee permissions POS",
+  "cash drawer reconciliation"
+ ],
+ "eyebrow": "Internal controls",
+ "dek": "Most employees are honest, but a register with no controls makes dishonesty easy. A few simple safeguards protect everyone, including your best people.",
+ "intro": [
+  "Nobody likes to think about a trusted employee taking money from the till. But small businesses lose real money to internal theft, and it often lasts for months because nobody is looking. The losses rarely come from dramatic robberies. They come from small, repeated actions: a voided sale here, a pocketed cash payment there, a discount given to a friend.",
+  "Prevention is mostly about design, not suspicion. When the system makes theft hard and detection easy, honest employees are protected from false accusations and tempted employees are deterred. This guide covers the most common schemes at the point of sale and the practical controls that counter them."
+ ],
+ "sections": [
+  {
+   "h2": "How theft usually happens at the register",
+   "paragraphs": [
+    "Knowing the patterns helps you design controls. The classic scheme is skimming cash: the cashier takes cash from the customer and never rings the sale, or rings a smaller one. A related trick is the void after payment, where a sale is rung, paid in cash and then voided, with the money kept.",
+    "Card-based schemes exist too. A cashier can process a fake refund to a personal card, apply unauthorized discounts, use the manager override to ring a no-sale, or run a customer's card twice. Gift card sales can also be abused by loading value onto a card without collecting payment."
+   ],
+   "bullets": [
+    "Unrung or under-rung cash sales",
+    "Voids and cancellations after payment",
+    "Fake refunds to a personal card",
+    "Excessive discounts, comps or no-sale drawer openings",
+    "Gift card loading without payment"
+   ]
+  },
+  {
+   "h2": "Set permissions by role",
+   "paragraphs": [
+    "Your point-of-sale system probably lets you control what each login can do. Use it. A cashier might be able to ring sales and apply standard discounts but not void a completed transaction, issue a refund over a set amount, open the cash drawer without a sale or change prices. Managers can approve exceptions with their own credentials.",
+    "Give each employee a unique login or PIN and prohibit sharing. Shared logins destroy accountability, because you cannot tell who did what. When employees leave, deactivate their access the same day."
+   ]
+  },
+  {
+   "h2": "Make exceptions visible with reports",
+   "paragraphs": [
+    "Controls only work if someone looks at the results. Review a daily exceptions report that shows voids, refunds, discounts, no-sales and drawer-open events by employee and by shift. Patterns matter more than single events. One void is normal; fifteen on one person's shift is a question to ask.",
+    "Compare what each cashier's tally shows against payments. Say a register shows $1,200 in sales but the drawer holds $1,050 in cash at close and card batches match; a repeated shortage on one person's shifts is worth investigating. Card payments leave a clean trail in your batch and settlement reports, which is one reason cashless sales are harder to steal."
+   ]
+  },
+  {
+   "h2": "Count cash the right way",
+   "paragraphs": [
+    "Cash is the highest-risk tender. Start each shift with a counted drawer, have the employee sign for it, and count again at close. Where possible, have a second person verify the count or do a blind count in which the cashier does not know the expected total in advance.",
+    "Make deposits regularly, keep excess cash in a drop safe and avoid letting a single person handle every step of collecting, counting and depositing. Separating those duties is among the oldest and most effective internal controls."
+   ],
+   "bullets": [
+    "Counted starting drawer signed by the employee",
+    "Blind closing counts verified by a second person",
+    "Cash drops to a safe during the shift",
+    "Deposits made by someone other than the counter"
+   ]
+  },
+  {
+   "h2": "Use technology as a deterrent",
+   "paragraphs": [
+    "Cameras above registers, receipts printed for every sale and customer-facing displays that show the amount all make skimming harder. Posting a sign such as \"Your receipt is required\" encourages customers to watch. Some businesses use mystery shoppers occasionally, which can reveal both theft and training gaps.",
+    "Encouraging card payments reduces the amount of cash at risk. MCCPS offers programs, including Zero Processing Fees for eligible merchants, that can make card acceptance cost-neutral through a compliant dual-pricing or cash-discount approach. Rules vary by state and card network, so confirm current requirements and display proper signage before changing prices."
+   ]
+  },
+  {
+   "h2": "Write policies and handle problems carefully",
+   "paragraphs": [
+    "Put your expectations in writing: how to handle voids, refunds, discounts, employee purchases and cash shortages. Have employees sign that they have read the policy. Clear rules remove the excuse of misunderstanding and make enforcement fairer.",
+    "If you suspect theft, avoid confronting anyone on a hunch. Gather evidence quietly, document dates, amounts and reports, and talk to your attorney before taking action. Employment law, wrongful accusation risk and police reporting all require care. This is general information, not legal advice.",
+    "Remember that controls protect honest employees as much as the business. When every sale, refund and void is logged by login, a good employee is protected from suspicion if the drawer comes up short, because the records show exactly what happened. Frame the controls that way when you introduce them, so they feel like fairness rather than distrust."
+   ]
+  },
+  {
+   "h2": "Build a culture where honesty is easy",
+   "paragraphs": [
+    "Employees steal for many reasons, including pressure, opportunity and a belief that nobody will notice. You cannot remove pressure, but you can remove opportunity, pay fairly where you can and treat staff well. Businesses with engaged teams and consistent controls tend to see fewer problems.",
+    "If you want a second pair of eyes on your reporting, ask what your payment dashboard can show. A free, no-obligation statement analysis from MCCPS reviews your processing costs, and its support team can explain which reports your terminal or POS can generate for refunds and voids."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Skimming cash, voids after payment and fake refunds are the classic register schemes.",
+  "Give each employee a unique login and limit permissions by role.",
+  "Review exception reports for voids, refunds and discounts every day.",
+  "Use counted drawers, blind counts and separation of duties for cash.",
+  "Document policies, and consult an attorney before acting on suspicion."
+ ],
+ "faq": [
+  {
+   "q": "What are the most common ways employees steal at the POS?",
+   "a": "Common methods include not ringing cash sales, voiding transactions after payment, issuing fake refunds to a personal card, giving unauthorized discounts and loading gift cards without payment. Role-based permissions and daily exception reports make these much harder to hide. Revisit the question at least once a year, because equipment, rules and pricing change."
+  },
+  {
+   "q": "Which POS reports help catch theft?",
+   "a": "Review reports on voids, refunds, discounts, no-sale drawer opens and cash over or short by employee and shift. Look for patterns rather than single events. Comparing sales totals with batch and cash counts helps pinpoint where the gap appears. When in doubt, ask for the answer in writing before you commit to anything."
+  },
+  {
+   "q": "Should every employee have their own login?",
+   "a": "Yes. Shared logins make it impossible to trace actions to a person. Unique logins or PINs, combined with limited permissions, create accountability and protect honest employees from being blamed for someone else's actions. Disable access when someone leaves. Your accountant or attorney can confirm how this applies to your circumstances."
+  },
+  {
+   "q": "What should I do if I suspect an employee is stealing?",
+   "a": "Document what you see, preserve reports and footage and avoid accusing anyone without proof. Speak with your attorney before disciplinary action or police involvement because employment and defamation issues can arise. Fix the control gap whatever the outcome. Start small, measure what happens, and adjust from there."
+  },
+  {
+   "q": "Does accepting more cards reduce theft?",
+   "a": "Card sales create an electronic record in your batch and settlement reports, so they are harder to pocket than cash. Having less cash on hand also reduces exposure. Encouraging card use can help, though internal controls over refunds and voids still matter."
+  }
+ ],
+ "related": [
+  "retail-payment-tips",
+  "restaurant-payment-tips",
+  "payment-data-analytics",
+  "handle-refunds-and-returns",
+  "prevent-card-fraud",
+  "cash-vs-card-small-business"
+ ],
+ "icon": "shield",
+ "read_minutes": 7
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "ticketing-and-events",
+  "category": "industries",
+  "title": "Ticketing & Event Payment Processing",
+  "seo_title": "Ticketing & Event Payment Processing | MCCPS",
+  "meta_description": "Sell tickets online and at the door without crashes or surprise holds. A practical guide to payment processing for promoters, theaters and event organizers.",
+  "primary_keyword": "ticketing payment processing",
+  "keywords": ["event ticket payment processing", "online ticket sales merchant account", "door sales card reader", "promoter merchant account", "refunds for cancelled events", "ticket fraud chargebacks", "box office payment processing"],
+  "eyebrow": "Ticketing payments",
+  "dek": "On-sale rushes, door sales and cancelled shows each strain a payment setup differently. Here is how organizers can prepare for all three.",
+  "intro": [
+    "Ticket sales are lumpy. Nothing happens for weeks, then an on-sale opens and thousands of people hit the checkout page in the same ten minutes. Months later, the real chaos arrives at the door, when a line of guests wants to pay by card and every second counts.",
+    "Organizers also carry a risk most retailers do not: the product is a future date. If the show is postponed, the headliner cancels or weather intervenes, every sale becomes a potential refund or dispute. How you take payment, and how you handle money before the event happens, shapes both your cash flow and your exposure.",
+    "This guide covers the three moments that matter, the on-sale, the door and the aftermath, and the processing details behind each."
+  ],
+  "sections": [
+    {
+      "h2": "Surviving the on-sale rush",
+      "paragraphs": [
+        "Online ticket sales are card-not-present transactions, and an on-sale concentrates thousands of them into a short window. A checkout page that is slow or that double-submits creates duplicate charges, which turn into refund requests and angry messages. Make sure your payment page and gateway are built to handle bursts, and ask your provider what happens under load.",
+        "Fraud tends to cluster around hot events as well. Card-testing bots try small purchases to see which stolen cards work, and resellers may use stolen cards to buy tickets in bulk. Address verification, security code checks and velocity limits on purchases per card or per account are standard defenses. For more on that pattern, see our guide to card testing attacks."
+      ],
+      "bullets": [
+        "Limit tickets per order and per card",
+        "Require AVS and CVV on every online sale",
+        "Add a visible refund and exchange policy before the pay button",
+        "Show a clear descriptor so buyers recognize the charge",
+        "Email the receipt and ticket immediately after payment"
+      ]
+    },
+    {
+      "h2": "Door sales and the box office",
+      "paragraphs": [
+        "At the door, tap and chip transactions move quickly, and a handful of well-placed handheld readers beat a single terminal at a table. Plan for at least one more device than you think you need and a spare charged battery. If the venue has unreliable signal, test cellular backup well before doors open.",
+        "Card-present door sales cost less in interchange than online sales in most cases, which is one reason organizers push walk-up buyers toward the box office. Show prices clearly, include any fee in the quoted price where required, and give every buyer a receipt, either printed or by text or email."
+      ]
+    },
+    {
+      "h2": "Refunds, cancellations and postponements",
+      "paragraphs": [
+        "A cancelled event means returning money, and the easier you make it, the fewer disputes you receive. Refund to the original card whenever possible. A refund is a new transaction that goes back through the card network, and it may take several days to appear on the buyer's statement. Tell buyers that so they do not assume it failed and call their bank.",
+        "Say a promoter sold 800 tickets at $45 each, a $36,000 gross, before a show is postponed. If half the buyers want refunds and the funds have already been used for deposits and marketing, the promoter must cover $18,000 from other cash. That is why many organizers keep a cushion, hold ticket revenue until after the event where possible, or discuss funding options in advance. MCCPS can refer you to Fidelity Funding for business funding needs; MCCPS is not a lender."
+      ]
+    },
+    {
+      "h2": "Chargebacks in ticketing",
+      "paragraphs": [
+        "Disputes in ticketing usually fall into three groups: the buyer says they did not make the purchase, the event did not happen as described, or they were not given what they paid for. Your best evidence is a clean record: the order, the IP address, the delivery of the ticket, and proof that it was scanned at entry. Scan logs are powerful, because a ticket scanned at the gate is difficult to dispute as undelivered.",
+        "If an event is cancelled and you have announced a refund process, direct buyers to it publicly and respond to disputes with that evidence. Issuers often side with the merchant when a refund was offered and the buyer ignored it, though outcomes are never guaranteed."
+      ]
+    },
+    {
+      "h2": "Fees, service charges and the cost of acceptance",
+      "paragraphs": [
+        "Ticket buyers are used to seeing a service fee on top of the face value. If you add one, the rules about disclosure, naming and display vary by state and card network, and surcharging on credit cards is regulated separately. Show the full price early in checkout and confirm current requirements with your attorney and your processor.",
+        "Behind the scenes, your cost on a ticket depends on card type and on whether the sale is online or in person. A statement analysis helps separate those. MCCPS offers a free, no-obligation review in which we go through two months of statements line by line, and our team can discuss compliant ways to manage card costs, including dual pricing, where allowed."
+      ]
+    },
+    {
+      "h2": "Funding timing and reporting",
+      "paragraphs": [
+        "Promoters often need money before the show, to pay artists and vendors, which makes funding speed and reserves a major conversation. Some processors hold a portion of ticket revenue until the event takes place, since that is when the service is delivered. Ask about this early, and ask whether next-day funding is available for your account.",
+        "A reporting dashboard that breaks out sales by event, day and channel helps you reconcile the box office, online sales and any outside ticketing partner. With free 24/7 technical support from MCCPS, a payment problem on show night has somewhere to go."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Prepare checkout for bursts and for card-testing bots on popular on-sales.",
+    "Door sales are card-present and faster with multiple handheld readers.",
+    "Refunds appear days later, so tell buyers what to expect.",
+    "Ticket scan logs and immediate receipts are strong dispute evidence.",
+    "Ask about reserves and funding timing before the first on-sale."
+  ],
+  "faq": [
+    {"q": "Why do ticket sales attract so much card fraud?", "a": "Tickets are easy to resell and often delivered digitally, which makes them attractive to people using stolen cards. Bots also test card numbers in small purchases. Using AVS, CVV, purchase limits and velocity rules reduces the risk, as does monitoring unusual patterns."},
+    {"q": "How long does a ticket refund take to reach the buyer?", "a": "You can submit a refund right away, but the buyer's bank decides how quickly it posts, often several business days. Tell the buyer in the confirmation message so they are not alarmed, and keep a record of the refund reference."},
+    {"q": "Can I hold ticket money until after the event?", "a": "A processor may place a reserve or delay funds on advance sales because the service has not yet been delivered. The terms depend on your account, volume and history. Ask about it at application so you can plan cash flow."},
+    {"q": "Do I need separate equipment for door sales?", "a": "Not necessarily. Many organizers use handheld readers that accept chip, tap and wallets, or smartphones with a reader. The key is to have enough devices, a charged spare, and a tested connection. MCCPS can often work with devices you already own."},
+    {"q": "Can I add a service fee on top of the ticket price?", "a": "Many organizers do, but disclosure rules vary and surcharges on cards are regulated by state and card network. Show the all-in price clearly, post required notices and verify current rules with your attorney and processor."}
+  ],
+  "related": ["event-venues", "accept-payments-online", "card-testing-attacks", "reduce-chargebacks", "accept-payments-at-events", "next-day-funding"],
+  "icon": "target",
+  "read_minutes": 6
+}

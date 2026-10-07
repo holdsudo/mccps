@@ -1,0 +1,122 @@
+{
+  "slug": "avs-and-cvv",
+  "category": "blog",
+  "title": "AVS and CVV Checks: Your First Fraud Defense",
+  "seo_title": "AVS and CVV Checks: Fraud Defense Basics | MCCPS",
+  "meta_description": "Address verification (AVS) and CVV checks are the simplest fraud filters for keyed and online payments. Learn the response codes and how to set rules.",
+  "primary_keyword": "AVS and CVV checks",
+  "keywords": [
+    "address verification service",
+    "CVV verification",
+    "AVS response codes",
+    "card not present fraud",
+    "CVV mismatch decline",
+    "fraud filters gateway",
+    "keyed transaction protection"
+  ],
+  "eyebrow": "Fraud basics",
+  "dek": "Two small checks that stop a surprising amount of card-not-present fraud, how to read their responses, and how strict to set your rules.",
+  "intro": [
+    "When someone types a card number into your website or reads it over the phone, you have no chip, no PIN and no face across the counter. What you do have are two inexpensive checks that ride along with the authorization: AVS and CVV. Used well, they filter out many amateur attempts before they cost you anything.",
+    "They are not perfect, and strict settings can turn away good customers. The skill is in knowing what each response means and deciding what to do about it."
+  ],
+  "sections": [
+    {
+      "h2": "What AVS checks",
+      "paragraphs": [
+        "The Address Verification Service compares the numeric parts of the billing address the customer enters, usually the street number and ZIP or postal code, against what the issuer has on file for the card. The issuer returns a code indicating whether the street, the ZIP, both or neither match.",
+        "AVS works best with U.S. issued cards. Cards from other countries often return unavailable or not supported codes, which is not a sign of fraud on its own. Remember also that a legitimate customer may have recently moved or made a typo, so a mismatch is a signal, not a verdict.",
+        "Where you collect these details matters. On an online form, label the fields clearly and use the right input types so mobile keyboards show numbers. A confusing checkout produces mistakes, and mistakes look like fraud to your rules. If your gateway returns specific reasons for declines, show customers a helpful message such as checking the billing ZIP or code rather than a generic failure."
+      ]
+    },
+    {
+      "h2": "What CVV checks",
+      "paragraphs": [
+        "The card verification value is the three or four digit code printed on the card, not stored in the magnetic stripe. The idea is that someone who only has a leaked database of card numbers will not have the code, since merchants are not allowed to store it after authorization.",
+        "The issuer returns a match, no match or not processed result. A CVV mismatch is a strong warning, especially on a first order. A match raises confidence that the person has the physical card or its details, but fraudsters who obtain full card data can supply it too."
+      ],
+      "bullets": [
+        "CVV is on the card face and should never be stored after authorization",
+        "A mismatch is a strong decline signal for high-value orders",
+        "Not processed usually means the issuer or card does not support it",
+        "A match does not prove the buyer is the cardholder"
+      ]
+    },
+    {
+      "h2": "Reading the response combinations",
+      "paragraphs": [
+        "The useful decisions come from combining the two. Full AVS match plus CVV match is the low-risk case. CVV match with a ZIP mismatch may be a cardholder who moved. CVV mismatch with an AVS mismatch together is a pattern worth declining or reviewing. A match on address but a failed CVV on a large order deserves a closer look.",
+        "Your gateway usually lets you set rules for each response: accept, hold for review, or decline. Many merchants start by declining on CVV mismatch and holding on AVS mismatch for review, then tune from the data. Responses vary by processor and issuer, so check your gateway's documentation for the exact codes."
+      ]
+    },
+    {
+      "h2": "A simple rule set to start with",
+      "paragraphs": [
+        "Imagine a small online store that sells mid-priced goods. A reasonable first policy: auto-decline CVV no-match, route AVS no-match on orders above a chosen dollar amount to manual review, and auto-accept the rest. Then watch two numbers, the share of fraud chargebacks and the share of legitimate customers who contact you after being declined.",
+        "If good customers are being blocked, loosen the AVS rule. If fraud is still slipping through, add review for first-time buyers shipping to a different address than billing. The right settings depend on your products, margins and customer base.",
+        "For phone orders, make AVS and CVV part of the script. Ask for the billing ZIP and the code every time, key them into the virtual terminal, and note the responses on the order. Employees sometimes skip those fields to save a few seconds, which quietly raises both fraud exposure and processing cost. A short checklist beside the keyboard keeps the habit consistent."
+      ],
+      "steps": [
+        "Collect billing ZIP and street number at checkout, plus the CVV.",
+        "Turn on AVS and CVV enforcement in your gateway.",
+        "Decline CVV mismatches and review high-value AVS mismatches.",
+        "Log every decline reason so you can analyze patterns.",
+        "Review weekly and adjust the thresholds."
+      ]
+    },
+    {
+      "h2": "Where AVS and CVV fall short",
+      "paragraphs": [
+        "These checks cannot stop a criminal who has complete card details, including the billing address and code, which are often sold together. They also do nothing against friendly fraud, where the true cardholder places an order and disputes it later. And they can generate false declines for international customers or recent movers.",
+        "That is why they are a first layer. Add velocity limits to block repeated attempts, 3-D Secure for risky transactions, device and IP signals, and clear billing descriptors. For keyed transactions in a store or over the phone, you can still run AVS and CVV through a virtual terminal.",
+        "Keep the evidence. If a fraud dispute does arrive, a record showing a full AVS match and a CVV match, along with the IP address, shipping address and delivery confirmation, strengthens your response. Without those records you are arguing from memory. Most gateways store the response codes with each transaction, so make sure your reporting retains them for as long as the dispute window might run."
+      ]
+    },
+    {
+      "h2": "Interchange and pricing implications",
+      "paragraphs": [
+        "Supplying AVS data on keyed card-not-present transactions can also matter for pricing, since some interchange categories for keyed or online sales require address data to qualify for better rates. If your statement shows many transactions downgraded to higher categories, missing AVS is one of several possible causes.",
+        "MCCPS can review your statements for downgrade patterns, and its team can help set up your gateway or virtual terminal so these checks run on every eligible transaction. Savings, if any, depend on your own statement analysis."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "AVS compares the billing address digits to the issuer's records.",
+    "CVV confirms the code printed on the card, which merchants must not store.",
+    "A CVV mismatch is a stronger warning than an AVS mismatch alone.",
+    "Combine responses and tune rules using your own decline and chargeback data.",
+    "These checks are a first layer, not a complete fraud solution."
+  ],
+  "faq": [
+    {
+      "q": "What does an AVS mismatch mean?",
+      "a": "It means the address or ZIP the customer typed does not match what the issuer has on file. It could be fraud, a recent move or a typo, so many merchants review the order rather than declining automatically."
+    },
+    {
+      "q": "Can I store the CVV for repeat billing?",
+      "a": "No. Card network and PCI rules prohibit storing the CVV after authorization. For repeat billing, use a token or card-on-file process instead."
+    },
+    {
+      "q": "Do AVS checks work on international cards?",
+      "a": "Often not. Many non-U.S. issuers do not support AVS, returning an unavailable code. Treat that as unknown rather than as a failure, and rely on other signals."
+    },
+    {
+      "q": "Should I decline every CVV mismatch?",
+      "a": "For most online merchants a mismatch is a reasonable decline trigger, but very high-volume or low-risk sellers may allow retries because customers do mistype. Tune using your own data."
+    },
+    {
+      "q": "Does AVS prevent chargebacks?",
+      "a": "It helps prevent some fraud-related chargebacks, but it cannot prevent disputes over delivery, quality or friendly fraud. Keep records of the AVS and CVV results as supporting evidence."
+    }
+  ],
+  "related": [
+    "fraud-prevention",
+    "3d-secure-explained",
+    "card-testing-attacks",
+    "virtual-terminal",
+    "prevent-card-fraud",
+    "chargeback-management"
+  ],
+  "icon": "shield",
+  "read_minutes": 6
+}

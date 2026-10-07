@@ -1,0 +1,137 @@
+{
+ "slug": "questions-to-ask-a-processor",
+ "category": "blog",
+ "title": "15 Questions to Ask a Payment Processor",
+ "seo_title": "15 Questions to Ask a Payment Processor | MCCPS",
+ "meta_description": "Fifteen questions to ask a payment processor before you sign: pricing model, fees, contract terms, funding speed, support, equipment and exit costs.",
+ "primary_keyword": "questions to ask a payment processor",
+ "keywords": [
+  "choosing a payment processor",
+  "processor quote questions",
+  "merchant services checklist",
+  "processing contract questions",
+  "compare payment processors",
+  "interchange plus questions",
+  "processor due diligence"
+ ],
+ "eyebrow": "Due diligence",
+ "dek": "The questions that separate a clear, fair offer from a quote designed to look good until the first statement arrives.",
+ "intro": [
+  "Most merchant services sales calls follow a script that emphasizes a low headline rate. The problem is that the rate alone tells you almost nothing about what you will pay. Equipment, monthly fees, compliance charges, reserve terms and contract length can change the real cost far more than a quarter of a percentage point.",
+  "The way to cut through is to ask specific questions and insist on written answers. A processor that welcomes detailed questions is usually one that expects to keep your business on its merits. One that dodges them is giving you information too.",
+  "Here are fifteen questions, grouped by theme, with notes on what a good answer sounds like. Take the list to every conversation and compare answers side by side."
+ ],
+ "sections": [
+  {
+   "h2": "Pricing: the five questions that decide your bill",
+   "paragraphs": [
+    "Start with the pricing model. Ask which one is being quoted: interchange-plus, tiered, flat-rate or a membership model. Then ask for the full fee schedule, including processor markup, per-transaction fees, monthly fees, gateway fees, statement fees and any compliance or regulatory fees. A complete list should be provided without prying.",
+    "Ask how rates can change. Can the processor raise its own markup mid-contract, and with how much notice? Ask what happens when card networks raise their fees, and how those pass through. Finally, ask for an estimated effective rate on your own volume, using your statements, not a generic example.",
+    "A short example shows why this matters. Suppose two quotes arrive for a business processing $40,000 a month. One advertises a lower percentage but adds a monthly fee, a gateway fee and an annual charge; the other shows a slightly higher percentage and nothing else. Only by totaling every dollar for a year, using your actual volume, do you see which is cheaper."
+   ],
+   "bullets": [
+    "1. Which pricing model is this quote based on?",
+    "2. What are all monthly, annual and per-item fees?",
+    "3. Can you raise any fee during the term, and how?",
+    "4. What would my effective rate be on my last two statements?",
+    "5. Are there minimums, and what happens in a slow month?"
+   ]
+  },
+  {
+   "h2": "Contract: the questions about commitment",
+   "paragraphs": [
+    "Ask for the contract length, renewal terms and cancellation process. Is there an early termination fee, and how is it calculated? Is there a liquidated damages clause? Ask whether the term restarts if you change equipment or amend the agreement.",
+    "Request the full agreement before signing, not just an application summary. Read it, or have an attorney do so. The terms that matter most are often on pages that a sales summary skips.",
+    "Also ask who the contract is with. Some agreements are with the sales company, others directly with a bank-sponsored processor. Knowing who holds your funds and who you call in a dispute is a basic part of understanding your risk."
+   ],
+   "bullets": [
+    "6. How long is the term and how does it renew?",
+    "7. What do I owe if I leave early, in writing?",
+    "8. Is the agreement personally guaranteed, and by whom?"
+   ]
+  },
+  {
+   "h2": "Funding and risk: when will the money arrive",
+   "paragraphs": [
+    "Ask about funding speed. Is next-day funding available, what is the cutoff time and how are weekends and holidays handled? Ask whether a reserve or hold may be applied and under what conditions. A processor should be able to describe, in plain terms, what triggers a review and how long one typically lasts.",
+    "Ask how chargebacks are handled: fees per dispute, the process for submitting evidence and what support you get. These items hit your cash flow just as directly as the rate.",
+    "Ask for an example of a typical review. If the processor can describe, step by step, how it handles an unusual month, you will know the process exists. If the answer is vague, assume the response will be vague when it happens to you."
+   ],
+   "bullets": [
+    "9. What are the funding times and cutoffs?",
+    "10. Under what circumstances could funds be held or reserved?",
+    "11. What does a chargeback cost and who helps me respond?"
+   ]
+  },
+  {
+   "h2": "Equipment and technology: what works with what",
+   "paragraphs": [
+    "Ask whether your existing terminals can be re-programmed to work with the new account. Owning your equipment is usually cheaper than leasing, and a lease can lock you in for years. If you need new hardware, ask whether it is purchased or leased, and what the buyout cost is.",
+    "Also ask about integration: does the provider support your POS, shopping cart or accounting system? Which gateways are available and can you use more than one? What happens to stored card tokens if you leave?",
+    "Request a sample of the monthly statement. A sample shows whether fees are itemized or lumped together. A statement you cannot read is a pricing structure you cannot audit, and that is almost never in the merchant's favor."
+   ],
+   "bullets": [
+    "12. Can my current terminals be used, and are any leases involved?",
+    "13. Which of my systems integrate directly?"
+   ]
+  },
+  {
+   "h2": "Support and security: who picks up the phone",
+   "paragraphs": [
+    "Ask when support is available and who answers. Is it a call center with a ticket number, or a person who knows your account? Test it before you sign by calling the support line. Ask about PCI compliance, including who helps you complete the self-assessment, and whether a non-compliance fee exists.",
+    "MCCPS offers free 24/7 technical support, personal customer service and PCI compliance help, and these are exactly the kinds of details worth confirming with anyone you consider.",
+    "Call the support line at an odd hour, say Sunday afternoon, and see who answers and how fast. A few minutes of testing before you sign tells you more than any brochure about what you will experience on the day a terminal fails during a rush."
+   ],
+   "bullets": [
+    "14. What support do I get, at what hours, from whom?",
+    "15. What PCI help is included and what fees apply for non-compliance?"
+   ]
+  },
+  {
+   "h2": "How to use the answers",
+   "paragraphs": [
+    "Put the answers side by side in a simple table: rate model, monthly total on your volume, term, exit cost, funding speed and support. A provider with a lower rate but a long term and a heavy exit cost may be more expensive than a slightly higher rate with freedom to leave.",
+    "Trust written commitments over verbal ones. If a salesperson promises something, ask to see it in the agreement. A free, no-obligation statement analysis is a reasonable way to begin a conversation; MCCPS will review your two most recent statements and explain what each line means. Call 844.826.6227 whenever you are ready."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Ask which pricing model is quoted and get every fee in writing.",
+  "Request an effective-rate estimate based on your own statements.",
+  "Understand term, renewal and exit costs before signing.",
+  "Ask about funding times, reserves and chargeback handling.",
+  "Confirm equipment, integrations and real support access."
+ ],
+ "faq": [
+  {
+   "q": "What is the single most important question?",
+   "a": "Probably what your total monthly cost would be on your actual volume, including all fees. A headline rate without that figure can mislead. Ask the processor to calculate it from your statements and put it in writing."
+  },
+  {
+   "q": "Should I worry if a processor will not give a quote?",
+   "a": "A quote requires seeing your statements or business details, so a short delay is normal. But refusing to provide a fee schedule or answers in writing is a warning sign. Walk away from anyone who will not be specific."
+  },
+  {
+   "q": "Is a lower rate always better?",
+   "a": "No. A low rate can come with high monthly fees, a long contract or leased equipment. Compare the total annual cost and the cost of leaving, not just the headline percentage."
+  },
+  {
+   "q": "Do I need an attorney to review the contract?",
+   "a": "Not always, but for larger accounts or personal guarantees, it is worth it. At minimum, read the termination, fee change and reserve sections carefully and ask about anything unclear."
+  },
+  {
+   "q": "When should I ask these questions?",
+   "a": "Before you sign anything, and again at renewal. Asking the same questions of your current processor can also reveal whether your terms are competitive or due for renegotiation."
+  }
+ ],
+ "related": [
+  "negotiate-processing-rates",
+  "processor-contract-red-flags",
+  "switch-payment-processors",
+  "free-statement-analysis",
+  "how-to-read-a-merchant-statement",
+  "interchange-plus-pricing"
+ ],
+ "icon": "chat",
+ "read_minutes": 6
+}

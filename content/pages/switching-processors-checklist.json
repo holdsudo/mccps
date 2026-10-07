@@ -1,0 +1,126 @@
+{
+ "slug": "switching-processors-checklist",
+ "category": "blog",
+ "title": "Switching Processors: A Checklist",
+ "seo_title": "Switching Payment Processors: A Step-by-Step Checklist | MCCPS",
+ "meta_description": "A practical checklist for switching payment processors: review your contract, compare statements, test equipment, plan the cutover and avoid funding gaps.",
+ "primary_keyword": "switching payment processors checklist",
+ "keywords": [
+  "change payment processor",
+  "switch merchant services",
+  "processor cutover",
+  "terminal reprogramming",
+  "early termination fee check",
+  "merchant account migration",
+  "switching gateways"
+ ],
+ "eyebrow": "Switching guide",
+ "dek": "A step-by-step plan for changing processors without a missed deposit, a dead terminal or a surprise bill on the way out.",
+ "intro": [
+  "Most owners who think about switching processors have a good reason: fees creep upward, support is slow, a statement stopped making sense. Yet many never act because they fear a gap in service, an expensive termination fee or a week of wrestling with equipment. Those fears are reasonable, and almost all of them can be managed with a plan.",
+  "A switch is really three projects running in parallel. One is contractual: understanding what you owe and when you can leave. One is technical: getting terminals, gateways and integrations talking to the new provider. One is operational: moving settlement and reporting without interrupting daily sales.",
+  "The checklist below walks through the order that tends to work best. Print it, hand it to whoever handles your back office and tick things off."
+ ],
+ "sections": [
+  {
+   "h2": "Before you do anything, read your current agreement",
+   "paragraphs": [
+    "Find your merchant agreement and any addenda, and look for the term length, renewal clause, early termination fee, notice requirements and equipment lease terms. Many agreements renew automatically unless you give written notice in a particular window. Missing that window can add another term, so note the dates in your calendar.",
+    "Ask your current processor for the full list of what you owe if you leave. Request it in writing. Some fees are real and some are negotiable, and you cannot tell which until you see the number.",
+    "If your agreement mentions a liquidated damages clause instead of a flat fee, ask how it is calculated. Some formulas multiply an average monthly fee by the remaining months, which can produce a large figure on a long contract. Knowing the formula up front helps you decide whether to wait out the term or negotiate a buyout."
+   ]
+  },
+  {
+   "h2": "Pull your statements and know your baseline",
+   "paragraphs": [
+    "Collect two to three months of statements and calculate your effective rate, which is total fees divided by card volume. Note your average ticket, monthly volume, card mix and chargeback count. Without this baseline, a competing quote is just a number you cannot compare.",
+    "MCCPS offers a free review of two months of statements, line by line, so you can see what you pay today and what an alternative could look like. Savings depend on that analysis; no honest provider can promise a figure before seeing your statements.",
+    "A hypothetical example: you process $50,000 a month and pay $1,650 in fees, an effective rate of 3.3 percent. A quote that looks like 2.5 percent on paper might not include a monthly fee, a gateway fee and a compliance charge. Compare total dollars, not headline percentages."
+   ]
+  },
+  {
+   "h2": "Audit your equipment and integrations",
+   "paragraphs": [
+    "List every terminal, reader, POS system, gateway connection, shopping cart plugin and recurring billing tool that touches payments. Note models, serial numbers and whether any are leased. Owned terminals can often be re-programmed to work with a new processor, which avoids buying new hardware; leased units usually need to be returned or paid off.",
+    "Check which systems store card data or tokens. Tokens held by your old gateway may not transfer automatically, which matters if you have customers on recurring plans.",
+    "Do not forget the software side. Accounting integrations, loyalty programs and appointment systems may be configured to the old gateway's credentials. Make a list of who owns each login so that nothing is overlooked during the cutover."
+   ],
+   "bullets": [
+    "Terminal models and whether they are owned or leased.",
+    "POS and gateway integrations and their API requirements.",
+    "Stored cards, tokens and recurring schedules.",
+    "Reports and exports you rely on for accounting."
+   ]
+  },
+  {
+   "h2": "Apply, get approved and negotiate terms",
+   "paragraphs": [
+    "Submit your application to the new provider with the information from your statements. Underwriting typically needs identification, a voided check and bank or processing statements. Ask for the full fee schedule, reserve terms, contract length, termination fee and equipment arrangements in writing before signing.",
+    "Do not close the old account yet. Overlapping accounts for a short time is the safest approach.",
+    "If you accept payments in several ways, ask the new provider to confirm each is supported: in-person, online, phone, mobile and recurring. Gaps are far easier to fix before you sign than after the old account is gone."
+   ]
+  },
+  {
+   "h2": "Plan the cutover",
+   "paragraphs": [
+    "Choose a quiet day and time, not a Friday evening or a holiday weekend. Program or install terminals, then run live test transactions with small amounts and refund them. Confirm each reaches the new processor and that settlement is set up to your bank account.",
+    "Update online checkouts, payment links and recurring billing last, after in-person tests pass. Keep the old setup available as a fallback for a few days.",
+    "Tell your staff what is changing and when. A one-page note covering new receipts, new support numbers and what to do if a terminal shows an unfamiliar message prevents confusion. Designate one person to log problems during the first week so patterns become visible quickly."
+   ],
+   "steps": [
+    "Back up reports and customer token data from the old system.",
+    "Program terminals and run test sales and refunds.",
+    "Switch gateways and checkout integrations in a quiet window.",
+    "Confirm the first batch and first deposit on the new account.",
+    "Watch for settlement times and amounts across a full week."
+   ]
+  },
+  {
+   "h2": "Close out the old account properly",
+   "paragraphs": [
+    "After the first deposits arrive and a month of activity looks right, send written notice of cancellation by the method your agreement requires, and keep proof. Return leased equipment with tracking. Ask for a final statement and confirm that no further fees will draw from your bank account.",
+    "Chargebacks can arrive months after a sale, so keep the old account reachable, or have a plan for responding to disputes on past sales. If you would like help with the transition, MCCPS provides free 24/7 technical support and personal service, and the initial analysis carries no obligation.",
+    "Finally, set a calendar reminder to review the first three statements on the new account. Compare them with the quote you were given. If anything differs, raise it right away while the relationship is new and the provider is motivated to put it right."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Read your contract and note renewal and notice dates first.",
+  "Know your effective rate before comparing quotes.",
+  "Inventory equipment and integrations, including stored tokens.",
+  "Run both accounts in parallel until the new one is proven.",
+  "Cancel in writing and plan for late chargebacks."
+ ],
+ "faq": [
+  {
+   "q": "How long does it take to switch processors?",
+   "a": "With documents ready, approval can take days and cutover a day or two, though complex integrations take longer. Plan for a few weeks overall, including a period when both accounts run side by side."
+  },
+  {
+   "q": "Will I lose my stored customer cards?",
+   "a": "Not necessarily, but tokens held by your old gateway may not move automatically. Ask both providers about token migration before switching, especially if you run subscriptions, to avoid asking customers to re-enter cards."
+  },
+  {
+   "q": "Can I keep my existing terminals?",
+   "a": "Often yes if you own them and they are re-programmable. Leased terminals typically must be returned or bought out. Ask for a compatibility check on each model before deciding to replace equipment."
+  },
+  {
+   "q": "What if I am in a contract with an early termination fee?",
+   "a": "Read the clause, get the payoff figure in writing and compare it with projected savings. Sometimes waiting for the term to end is cheaper; sometimes the savings exceed the fee. Some fees are negotiable."
+  },
+  {
+   "q": "Should I switch during a busy season?",
+   "a": "Generally no. Choose a quiet period so testing and troubleshooting do not collide with peak sales. Keep the old setup available as a fallback during the first days."
+  }
+ ],
+ "related": [
+  "switch-payment-processors",
+  "cancel-processor-contract",
+  "early-termination-fees",
+  "terminal-leasing-vs-buying",
+  "questions-to-ask-a-processor",
+  "audit-your-merchant-statement"
+ ],
+ "icon": "refresh",
+ "read_minutes": 6
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "set-up-recurring-payments",
+  "category": "use-cases",
+  "title": "Setting Up Recurring Payments",
+  "seo_title": "How to Set Up Recurring Card Payments | MCCPS",
+  "meta_description": "Set up recurring card payments for memberships, subscriptions and service plans: consent, card on file, retries, updater services and cancellation rules.",
+  "primary_keyword": "set up recurring payments",
+  "keywords": ["recurring credit card payments", "automatic billing for small business", "subscription billing setup", "card on file", "membership autopay", "failed payment retries", "recurring billing consent"],
+  "eyebrow": "Recurring billing",
+  "dek": "Automatic billing steadies cash flow, but it works best when consent, retries and cancellation are handled before the first charge.",
+  "intro": [
+    "Chasing the same customers for the same payment every month is a slow way to run a business. Gyms, cleaning services, maintenance plans, software subscriptions and club memberships all run on a predictable cycle, and that predictability is exactly what automatic billing is designed to capture.",
+    "Setting it up is mostly a matter of choices. How do customers agree, where is their card stored, what happens when a payment fails, and how easily can they cancel? Settle those questions up front and recurring billing becomes one of the calmest parts of your operation. Skip them and it becomes a source of disputes."
+  ],
+  "sections": [
+    {
+      "h2": "How recurring payments work",
+      "paragraphs": [
+        "The customer gives you their card once, and your gateway stores it securely as a token. On the billing date, your system submits a charge against that token for the agreed amount, with no number ever touching your own files. The charge is authorized and settled like any other card sale, only without the cardholder present, so the card networks classify it differently from a normal in-person transaction and require specific indicators on the first and subsequent charges.",
+        "You can run a fixed schedule, such as the first of each month, or a usage-based one in which the amount changes. Weekly, monthly, annual and installment plans with a set number of payments are all common. What matters is that each charge matches what the customer was told."
+      ]
+    },
+    {
+      "h2": "Get clear consent before the first charge",
+      "paragraphs": [
+        "Card network rules and consumer protection laws expect you to obtain the cardholder's agreement before storing a card and charging it repeatedly. In practice that means a written or electronic authorization that states the amount, the frequency, the start date, how to cancel and, for trials, when billing begins. Keep a record of when and how the customer agreed.",
+        "A clear authorization is also your strongest defense. When a customer disputes a charge they forgot about, a signed agreement and a reminder email can settle the matter quickly. Requirements vary, and some industries have extra notice rules, so confirm what applies to your business and ask your attorney if you have doubts."
+      ]
+    },
+    {
+      "h2": "Choosing your tools",
+      "paragraphs": [
+        "You can set up recurring billing in several places, and the right one depends on your volume and the system you already use."
+      ],
+      "bullets": [
+        "A gateway with built-in recurring billing, which stores tokens and runs schedules on its own.",
+        "Your POS or practice management software, if it integrates with your payment account and bills memberships directly.",
+        "A virtual terminal that can save cards and set up simple repeating charges for a handful of customers.",
+        "ACH bank payments for fixed monthly amounts, which often cost less than cards and fail differently."
+      ]
+    },
+    {
+      "h2": "Plan for failed payments",
+      "paragraphs": [
+        "No recurring program avoids declines. Cards expire, accounts run low and issuers flag a charge as suspicious. Treat failure as a normal event with a standard response, often called dunning. A common pattern is to retry after a few days, send a friendly email each time with a link to update the card and pause service only after a stated grace period.",
+        "Card account updater services reduce the problem at the source. When a customer's card is replaced or renewed, participating issuers send the new number or expiry date to the network, and your stored token can be refreshed without bothering the customer. Ask whether updater is included in your account, since it can notably cut involuntary cancellations."
+      ]
+    },
+    {
+      "h2": "Make cancellation easy",
+      "paragraphs": [
+        "It sounds counterintuitive, but a simple cancellation route protects you. Customers who cannot find the cancel button often call their bank instead, and a chargeback costs more than a lost subscription. Offer a clear way to pause, change plans or cancel, send a reminder before annual renewals and confirm every cancellation in writing."
+      ]
+    },
+    {
+      "h2": "Launch checklist",
+      "paragraphs": [
+        "Before charging your first customer, run through the following:"
+      ],
+      "steps": [
+        "Write the terms: amount, schedule, start date, trial rules and cancellation process.",
+        "Capture the customer's authorization and save a copy.",
+        "Store the card through your gateway as a token rather than in your own records.",
+        "Test a charge, a failed charge and a refund before going live.",
+        "Set the retry schedule and the emails customers receive.",
+        "Make sure the billing descriptor is recognizable on statements.",
+        "Review the first cycle closely to catch mismatched amounts or dates."
+      ]
+    },
+    {
+      "h2": "Getting help",
+      "paragraphs": [
+        "MCCPS supports one-time and recurring payments, multiple gateways and integrations with many POS and management systems. If you are weighing cards against bank payments, or want to know what recurring volume costs you, the free statement analysis is a sensible first step, and support is available around the clock when a billing run misbehaves."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Recurring billing charges a stored token on a schedule, so card numbers stay off your systems.",
+    "Obtain and keep clear customer authorization stating amount, timing and cancellation.",
+    "Plan retries and customer emails for failed payments; account updater reduces them.",
+    "A simple cancellation path prevents chargebacks from frustrated customers.",
+    "ACH can be a lower-cost alternative for fixed monthly amounts."
+  ],
+  "faq": [
+    {"q": "Do I need the customer's permission to charge their card repeatedly?", "a": "Yes. Card network rules and consumer protection laws expect clear authorization that explains the amount, frequency, start date and how to cancel. Keep a record of when and how it was given. Rules can differ by state and industry, so check requirements for your business."},
+    {"q": "What happens when a recurring payment fails?", "a": "The charge is declined and nothing is collected. A good process retries after a few days, notifies the customer with a link to update their card and sets a grace period before pausing service. Account updater services can refresh expired or replaced cards automatically in many cases."},
+    {"q": "Is it safe to store customers' card details?", "a": "It is safe when the gateway stores them as tokens and you never keep the card number yourself. Tokens are useless to thieves outside your account. Storing numbers in spreadsheets or notes is not safe and brings PCI obligations you should avoid."},
+    {"q": "Can I change the amount of a recurring charge?", "a": "Yes, but tell the customer in advance and follow what your agreement says. Surprise increases cause disputes. For usage-based plans, state how the amount is calculated in the original terms, and send a receipt after each charge showing the breakdown."},
+    {"q": "Are recurring payments cheaper by ACH or card?", "a": "ACH bank payments typically cost less per transaction than cards, especially for larger amounts, but they take longer to clear and can be returned for reasons like insufficient funds. Cards are faster and more convenient. Many businesses offer both and let customers choose."}
+  ],
+  "related": ["recurring-billing", "subscription-businesses", "recurring-billing-best-practices", "account-updater", "gyms-and-fitness", "ach-processing"],
+  "icon": "refresh",
+  "read_minutes": 6
+}

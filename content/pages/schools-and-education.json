@@ -1,0 +1,92 @@
+{
+  "slug": "schools-and-education",
+  "category": "industries",
+  "title": "School & Education Payment Processing",
+  "seo_title": "School & Education Payment Processing | MCCPS",
+  "meta_description": "Collect tuition, payment plans, lunch balances and event fees by card or ACH. Learn how schools and training programs set up payment processing the right way.",
+  "primary_keyword": "school payment processing",
+  "keywords": ["tuition payment processing", "school payment plans", "accept credit cards for tuition", "private school merchant account", "online school payments", "tutoring center payment processing", "school fundraiser card payments"],
+  "eyebrow": "Education payments",
+  "dek": "Tuition plans, book fees, field trips and fundraisers all move money differently. Here is how schools and training programs can accept cards without surprises.",
+  "intro": [
+    "A private school business office rarely deals with one kind of payment. In September there are registration deposits and uniform orders. In the middle of the year there are monthly tuition installments, after-care fees, field trip money and a spring gala. Each of those arrives through a different channel, from a different kind of payer, and each one has its own failure modes: the declined card on the fifth of the month, the parent who pays the wrong child's invoice, the donor who wants a receipt for the auction.",
+    "The same is true for tutoring centers, music academies, driving schools, language programs and vocational training. They are small enough that one person handles the books, yet busy enough that a messy payment setup becomes a weekly time sink. Good payment processing for education is mostly about predictability: the right payer pays the right amount on the right date, and the money lands where you expect.",
+    "This page walks through the practical pieces, from tuition autopay to the front-office card reader, so you can decide what your school actually needs before you sign anything."
+  ],
+  "sections": [
+    {
+      "h2": "Start with the payment types, not the equipment",
+      "paragraphs": [
+        "Before choosing a terminal or portal, list every reason a family hands your school money. Most schools find they have four or five distinct flows: one-time fees (registration, application, testing), recurring tuition, small ad hoc purchases (lunch, spirit wear, field trips), donations, and occasionally large lump sums such as annual tuition paid in full.",
+        "Each flow suggests a method. One-time fees fit a payment link or an online form. Recurring tuition fits stored credentials charged on a schedule. Small purchases fit a counter reader or a mobile device at events. Donations may need a separate receipt workflow. Mapping this out first keeps you from buying a full point-of-sale system when a virtual terminal and a payment link would do the job."
+      ],
+      "bullets": [
+        "Registration and application fees, usually paid once online",
+        "Monthly or term-based tuition, usually recurring",
+        "Lunch, supplies, uniforms and field trips, usually small tickets",
+        "Fundraisers, galas and tournaments, usually event-based",
+        "Annual paid-in-full tuition, a large single card or ACH payment"
+      ]
+    },
+    {
+      "h2": "Tuition plans: card on file versus ACH",
+      "paragraphs": [
+        "Spreading a year of tuition across ten or twelve installments is the single biggest convenience you can offer families, and it is also the biggest source of collection headaches if it is done by hand. With a card-on-file arrangement, the parent authorizes your school to charge a stored token on a set date. The actual card number lives with a secure vault, not in your spreadsheet, which keeps most of your PCI burden light.",
+        "ACH bank debits are the other common choice for large recurring amounts. Bank transfers typically cost less per transaction than cards, which matters when a single installment runs well over a thousand dollars. The trade-off is speed of failure notice: a returned ACH payment can take days to surface, while a card decline is known immediately. Many schools offer both and let families choose, nudging larger balances toward ACH.",
+        "Whichever you pick, get written authorization that spells out the amount, the schedule and how a parent can cancel or update the method. That paper trail is what you point to if a payment is later disputed."
+      ]
+    },
+    {
+      "h2": "What a declined installment really costs you",
+      "paragraphs": [
+        "Say a school bills 150 families $900 on the first of each month. If six cards fail in a given month, that is $5,400 delayed, and someone on staff spends hours emailing, calling and re-running payments. Multiply by a school year and the labor is meaningful even before you count late-fee disputes.",
+        "Automated retry rules help, as do reminders that go out a few days before a card on file expires. Some gateways offer an account-updater service that refreshes stored card details when the issuing bank reissues a card. Asking your processor whether updater and retry logic are available is far more useful than asking about the headline rate alone."
+      ]
+    },
+    {
+      "h2": "Events, concession stands and the front office",
+      "paragraphs": [
+        "School payments are seasonal and bursty. A home football game, a book fair or a spring concert can produce a few hundred transactions in two hours, often at small ticket sizes. For those moments a smartphone or tablet reader that accepts tap and chip is much faster than cash and a cash box, and it reduces counting errors afterward.",
+        "At the front office, a countertop terminal or a virtual terminal on the bookkeeper's computer handles walk-in payments and phone payments. Because those are keyed or card-present transactions, the interchange cost can differ noticeably. MCCPS can often work with terminals you already own, provided they can be re-programmed, so you do not have to replace equipment just to change providers."
+      ],
+      "bullets": [
+        "Test your reader on the venue's Wi-Fi or cellular signal before the event",
+        "Decide in advance how refunds at the event will be handled",
+        "Keep a simple sales log by item so you can reconcile to the batch report",
+        "Assign one person to close out the batch after the event"
+      ]
+    },
+    {
+      "h2": "Understanding the fees that apply to education",
+      "paragraphs": [
+        "Every card payment carries interchange set by the card networks, plus assessments and the processor's own markup. For tuition, the average ticket is large, so even a small difference in effective rate is real money. Say you collect $400,000 a year by card at a 2.9% effective rate: that is $11,600 in fees. If your statement reveals avoidable add-ons, trimming them is straightforward arithmetic.",
+        "Some schools consider passing along a portion of card costs through a surcharge, a convenience fee or a cash-discount style program. Rules differ by state and by card network, and require clear disclosure and signage at the point of payment. Confirm current requirements with your attorney and your processor before launching one, and note that public and nonprofit schools may face additional policy constraints.",
+        "MCCPS offers a free statement analysis in which we review two months of processing statements line by line. For a school, that usually surfaces whether tuition payments are being billed at the most favorable categories and whether monthly or PCI fees are reasonable."
+      ]
+    },
+    {
+      "h2": "Funding, reporting and getting set up",
+      "paragraphs": [
+        "Schools run on cash flow that follows the academic calendar, so settlement timing matters. Next-day funding can be available, which helps when payroll or a vendor bill lands right after a big tuition run. A reporting dashboard that breaks out deposits by day and by payment type makes reconciliation with your accounting software far less painful, and it is the document your auditor or board treasurer will ask for.",
+        "If you need working capital beyond card revenue, for example to bridge a building project, MCCPS can refer you to Fidelity Funding; MCCPS itself is not a lender. When you are ready to compare your current setup, the free analysis is a no-obligation way to see where you stand, and our support team is available around the clock if a reader acts up on the night of the big event."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "List every payment flow a family touches before choosing equipment.",
+    "Recurring tuition works best with written authorization and a clear retry and card-update process.",
+    "Offer ACH for large installments, since bank transfers usually cost less than cards.",
+    "Any surcharge or convenience fee needs proper disclosure, and rules vary by state and card network.",
+    "A free statement analysis shows whether your current fees fit how your school actually takes payments."
+  ],
+  "faq": [
+    {"q": "Can a school accept credit cards for tuition?", "a": "Yes. Private schools, tutoring centers and training programs commonly accept cards through a merchant account, either through a payment link, a virtual terminal, or stored credentials for installments. Many also accept ACH. The right mix depends on ticket size, how many families pay by plan, and whether you want to share card costs with payers under the rules that apply to you."},
+    {"q": "How do tuition payment plans work with cards?", "a": "The parent authorizes your school in writing to charge a stored card on set dates. The card is tokenized in a secure vault so your staff never keeps the number. Each installment runs as a separate transaction, and failures can trigger automatic retries and reminders. Keep the authorization on file in case a payment is later disputed."},
+    {"q": "Is it legal to charge a fee for paying tuition by card?", "a": "It depends. Surcharging, convenience fees and cash-discount programs are regulated differently by state and by card network, and they require clear disclosure and signage. Public institutions may have extra policy limits. Confirm current requirements with your attorney and processor before adding any fee to a tuition payment."},
+    {"q": "What if a parent disputes a tuition charge?", "a": "The parent can contact their card issuer, which opens a chargeback. You can respond with the signed enrollment agreement, the payment authorization, the fee schedule and proof of services. Clear terms, consistent receipts and a refund policy that families have acknowledged make these disputes much easier to resolve."},
+    {"q": "Do we need PCI compliance as a school?", "a": "Yes, any organization that accepts cards must follow PCI standards. How much work that is depends on how you accept payments. Using a hosted payment page and tokenized storage typically shrinks your scope considerably. MCCPS offers PCI compliance help so the annual questionnaire does not fall on one overworked staff member."}
+  ],
+  "related": ["daycare-centers", "recurring-billing", "ach-processing", "accept-payments-at-events", "nonprofits", "invoicing-and-payment-links"],
+  "icon": "book",
+  "read_minutes": 6
+}

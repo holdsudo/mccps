@@ -1,0 +1,121 @@
+{
+  "slug": "interchange-plus-pricing",
+  "category": "solutions",
+  "title": "Interchange-Plus Pricing Explained",
+  "seo_title": "Interchange-Plus Pricing: Transparent Processing | MCCPS",
+  "meta_description": "Interchange-plus pricing separates the card network's cost from the processor's markup so you can see what you pay. Learn how it works and when it fits.",
+  "primary_keyword": "interchange-plus pricing",
+  "keywords": [
+    "interchange plus",
+    "transparent processing pricing",
+    "cost-plus pricing",
+    "processor markup",
+    "interchange fees",
+    "tiered vs interchange plus",
+    "merchant statement transparency"
+  ],
+  "eyebrow": "Pricing model",
+  "dek": "The pricing structure that shows you exactly which part of every fee belongs to the banks and which part belongs to your processor.",
+  "intro": [
+    "Ask three merchants how they are charged and you may get three different answers, none of them complete. One says 2.9% flat. Another says there are qualified and non-qualified rates. A third has no idea and just looks at the total on the statement. The model behind your pricing determines how much of your real cost is visible to you, and how much hides in the averages.",
+    "Interchange-plus is the model most associated with transparency. It does not guarantee a lower bill by itself, but it makes the bill readable, and readability is the precondition for negotiating."
+  ],
+  "sections": [
+    {
+      "h2": "The three layers of a card fee",
+      "paragraphs": [
+        "Every card transaction carries three kinds of cost. Interchange is set by the card networks and paid to the issuing bank. It varies by card type, entry method and merchant category. Assessments are small network fees. The third layer is the processor's markup, the part that pays for the processor's service and profit.",
+        "Interchange-plus pricing lists these separately. Your statement shows the actual interchange on each transaction, then adds a fixed markup, commonly expressed as a small percentage plus a per-transaction amount."
+      ]
+    },
+    {
+      "h2": "What 'plus' means in practice",
+      "paragraphs": [
+        "The 'plus' is the processor's margin: a percentage over interchange and often a few cents per item. Because the markup is stated, you can compare it directly with another offer. If two processors quote different markups, the lower one is cheaper on identical volume, regardless of card mix.",
+        "Hypothetically, a debit card transaction might carry low interchange and a rewards credit card might carry much higher interchange. Under interchange-plus, you pay the real difference plus the same markup on each. Under a flat rate, you pay the same percentage on both, which can overcharge the cheap card and undercharge the expensive one.",
+        "Per-item fees deserve their own look. A markup of a small percentage plus a few cents per transaction behaves differently for a coffee shop with thousands of small tickets than for a contractor with a handful of large ones. Run both components against your own average ticket before deciding which offer is better."
+      ],
+      "bullets": [
+        "Interchange: passed through at actual cost",
+        "Assessments: network fees, usually passed through",
+        "Markup: the processor's fixed percentage and per-item fee",
+        "Statement detail by card type and category"
+      ]
+    },
+    {
+      "h2": "How it compares with tiered and flat-rate",
+      "paragraphs": [
+        "Tiered pricing sorts transactions into qualified, mid-qualified and non-qualified buckets with different rates. The processor decides what falls where, which makes it hard to verify. Flat-rate charges one percentage for everything, which is simple but can be expensive on larger volume or lower-cost cards.",
+        "Interchange-plus sits between them in complexity but has the clearest audit trail. Our dedicated guides on tiered pricing and flat-rate versus interchange-plus go through the comparison in more detail."
+      ]
+    },
+    {
+      "h2": "When it tends to pay off",
+      "paragraphs": [
+        "Merchants with steady volume, a mix of debit and credit, or larger average tickets often benefit most from the transparency, since the savings on lower-cost cards add up. Very small or occasional sellers may prefer the simplicity of flat pricing even if the effective rate is higher.",
+        "Say you process $40,000 a month with $1,240 in total fees, a 3.1% effective rate. If true interchange and assessments on your mix come to $880, the $360 gap is processor markup and fees, about 0.9% of volume. That is your negotiating target, and you only see it clearly with a transparent model.",
+        "Be wary of any quote that shows only the markup and says nothing about monthly minimums, gateway charges or compliance fees. Ask for a full written schedule of fees and compare it line by line with your current statement. A transparent model only helps when the whole fee list is transparent too."
+      ]
+    },
+    {
+      "h2": "Fees that still need attention",
+      "paragraphs": [
+        "Interchange-plus does not erase other charges. Monthly fees, statement fees, PCI program fees, gateway fees, batch fees and equipment leases can add cost whatever the pricing model. Read every line item and ask what each one covers.",
+        "Also check whether the markup is fixed for the contract or can be changed, and how notice is given. A great initial markup that rises quietly after six months is not a great deal."
+      ]
+    },
+    {
+      "h2": "Reading your statement under this model",
+      "paragraphs": [
+        "A good statement lists interchange by category, such as card-present consumer credit or keyed commercial, with volume, rate and fee for each. Compare the volume shown to your own sales records, and check that card-present sales are not being charged as keyed.",
+        "The reporting and analytics dashboard in PayPilot by MCCPS shows effective rate and card mix over time, so you can watch the number that matters. Our effective rate guide explains the calculation.",
+        "Over time, track how your interchange mix changes. A growing share of keyed or online sales, or more rewards cards, raises the pass-through portion even when your markup holds steady. Knowing which part moved prevents you from blaming the wrong party."
+      ]
+    },
+    {
+      "h2": "How MCCPS can help",
+      "paragraphs": [
+        "MCCPS offers a free, no-obligation savings analysis that reviews two months of your processing statements line by line. The team can show how your current structure compares with interchange-plus or with a program like Zero Processing Fees, where rules vary by state and card network and proper disclosure is required. Savings depend on the review, and nothing is promised in advance.",
+        "Free 24/7 technical support and personal customer service come with the account. Call 844.826.6227 to start the conversation."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Interchange-plus separates network costs from the processor's markup.",
+    "The stated markup makes offers directly comparable.",
+    "Other fees still matter regardless of pricing model.",
+    "Your effective rate shows whether any model is working for you."
+  ],
+  "faq": [
+    {
+      "q": "Is interchange-plus always cheaper?",
+      "a": "Not always. It is the most transparent model, and it often favors merchants with steady volume and varied card mix, but small sellers may do better with simpler pricing. Compare your effective rate under each option."
+    },
+    {
+      "q": "Who sets interchange?",
+      "a": "The card networks publish interchange schedules, and issuing banks receive the fees. Processors cannot change them, though they choose how to pass them on. Rates vary by card type, entry method and merchant category."
+    },
+    {
+      "q": "What is a good markup?",
+      "a": "It depends on volume, risk and services. Rather than chase a number, compare written offers on identical volume and check for other monthly fees. A specialist can review your statement."
+    },
+    {
+      "q": "Can my markup change during the contract?",
+      "a": "Possibly. Read the agreement for rate-change clauses and notice requirements. Ask for the markup to be fixed for a defined period and for changes to require written notice."
+    },
+    {
+      "q": "How do I find out what I pay now?",
+      "a": "Divide total fees by total card volume to get your effective rate, then review each line. The free MCCPS statement analysis does this line by line and shows how your pricing model affects the result."
+    }
+  ],
+  "related": [
+    "flat-rate-vs-interchange-plus",
+    "tiered-pricing-explained",
+    "interchange-explained",
+    "effective-rate-explained",
+    "processor-markup-explained",
+    "move-off-flat-rate-processing"
+  ],
+  "icon": "dollar",
+  "read_minutes": 7
+}

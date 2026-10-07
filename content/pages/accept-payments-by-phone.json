@@ -1,0 +1,88 @@
+{
+  "slug": "accept-payments-by-phone",
+  "category": "use-cases",
+  "title": "Taking Card Payments Over the Phone",
+  "seo_title": "Take Credit Card Payments Over the Phone | MCCPS",
+  "meta_description": "Take card payments by phone safely with a virtual terminal: what to collect, how to cut fees and fraud, and how to protect card data after the call ends.",
+  "primary_keyword": "accept credit card payments over the phone",
+  "keywords": ["virtual terminal", "mail order telephone order", "MOTO payments", "take card payments by phone", "keyed card transactions", "phone order processing", "secure phone payments"],
+  "eyebrow": "Phone orders",
+  "dek": "A caller is ready to pay. Here is how to take the card, process it correctly and keep the number from lingering where it should not.",
+  "intro": [
+    "A customer calls to reorder, pay an invoice or book a service, and reads out sixteen digits while you scribble them on whatever paper is nearby. It works, which is why so many businesses still do it, and it is also how card numbers end up on sticky notes, in email drafts and in desk drawers.",
+    "Phone payments are legitimate and common, but they sit in a category with its own costs and risks. Because the card is not physically presented, the sale is a keyed, card-not-present transaction. Handling it well comes down to a proper tool, a short routine for each call and a clear rule about what happens to the card details afterward."
+  ],
+  "sections": [
+    {
+      "h2": "What a virtual terminal does",
+      "paragraphs": [
+        "A virtual terminal is a secure web page that works like a card machine without the machine. You log in from a computer, type the card number, expiration date, security code and billing details, and send the transaction for authorization just as a countertop terminal would. The approval or decline comes back in seconds and the sale joins your normal batch.",
+        "Many virtual terminals also let you send a receipt by email, save a card for later with the customer's permission, issue refunds and run reports. If you already have a merchant account, adding one is usually straightforward, and it can sit alongside your in-person and online sales so everything settles together."
+      ]
+    },
+    {
+      "h2": "How the cost compares with in-person sales",
+      "paragraphs": [
+        "Keyed transactions are generally assessed at higher interchange than chip or tap payments, because the issuer cannot confirm the physical card was present. You can narrow the gap by supplying the billing postal code and security code on every call, which lets the address verification service and the code check run. Transactions that pass those checks tend to qualify for better categories than those that skip them.",
+        "Say you take $8,000 a month by phone. If those sales are priced even half a percentage point higher than your in-person sales, that is a $40 difference every month, hypothetically speaking. It adds up, and it is worth seeing separately on your statement rather than blended into one total."
+      ]
+    },
+    {
+      "h2": "A routine for every call",
+      "paragraphs": [
+        "Consistency prevents most mistakes. Use the same sequence each time so staff do not improvise."
+      ],
+      "steps": [
+        "State the total amount, what it is for and your refund policy before asking for the card.",
+        "Enter the card number directly into the virtual terminal, not onto paper.",
+        "Collect the expiration date, security code, billing postal code and the cardholder's name.",
+        "Read back the amount and confirm the customer agrees before submitting.",
+        "Send an emailed receipt or confirmation so the charge is recognizable on their statement.",
+        "Note an authorization reference in your own records, never the card number."
+      ]
+    },
+    {
+      "h2": "Keeping card data safe",
+      "paragraphs": [
+        "The biggest phone-payment risk is not the call itself but what is left behind. Card data written on paper, saved in a spreadsheet or typed into notes is stored in a way that falls squarely under PCI rules and creates real exposure if lost. Establish a firm rule: numbers go into the payment system only. If a number is written during a connection problem, it is shredded as soon as the transaction is entered.",
+        "Call recording deserves a careful look too. If your phone system records calls, it may capture spoken card numbers and security codes, which the card industry does not permit you to store after authorization. Pause recording during payment, use a system that redacts it, or consider sending a payment link instead so the customer enters the card themselves."
+      ]
+    },
+    {
+      "h2": "Alternatives that reduce risk",
+      "paragraphs": [
+        "Several options keep card numbers out of your hands entirely."
+      ],
+      "bullets": [
+        "Send a secure payment link by text or email while the customer is still on the line.",
+        "Store a tokenized card on file with permission for repeat customers, so later orders need no spoken digits.",
+        "Use a terminal or software that supports pay-by-phone entry on the customer's own keypad.",
+        "Offer ACH for larger, repeat business payments where bank transfers cost less than cards."
+      ]
+    },
+    {
+      "h2": "Protecting yourself from fraud and disputes",
+      "paragraphs": [
+        "Phone orders attract fraud because the buyer is unseen. Be cautious about large first-time orders shipped to a different address, rush requests with unusual quantities and callers who offer several cards after declines. When a charge is disputed, your evidence is the paper trail: the order details, the authorization, the receipt, delivery confirmation and any written agreement. Keep them for the period your processor and card network rules require.",
+        "MCCPS can add a virtual terminal to your account, help you choose a safer approach for card storage and review your statements to see exactly what keyed sales cost you. Call 844.826.6227 to talk it through, and ask about the free savings analysis while you are at it."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A virtual terminal lets you key phone orders into a secure page and settle them with your other sales.",
+    "Keyed sales cost more than chip or tap, but supplying postal code and security code helps.",
+    "Never write card numbers on paper or in notes; enter them straight into the system.",
+    "Check whether call recording captures spoken card data, which cannot be stored.",
+    "Payment links and tokens keep card details away from your staff altogether."
+  ],
+  "faq": [
+    {"q": "Is it legal to take credit card payments over the phone?", "a": "Yes. Mail order and telephone order sales are an established category. You need a merchant account that permits them, you must follow card network and PCI rules for protecting data, and you should keep records of each order. Confirm with your processor that phone sales are enabled on your account."},
+    {"q": "Do I need special equipment?", "a": "Typically you only need a computer or tablet and a virtual terminal login from your processor. A countertop terminal can also accept keyed entry, but a virtual terminal is easier for dedicated phone sales. Some businesses add a card reader too, so in-person and phone sales share the same account."},
+    {"q": "Can I save a customer's card for next time?", "a": "Yes, with their permission. The gateway stores the card as a token rather than a number, and you charge the token on later orders. Tell the customer what you will charge and when, and record their consent. This is far safer than keeping numbers in your own files."},
+    {"q": "Why was my phone sale declined?", "a": "Common causes include a mistyped number, a wrong security code or postal code, insufficient funds or an issuer's fraud rule. Re-check the details with the customer before retrying, and avoid repeated attempts, which can look like card testing. If the decline persists, ask for another card or payment method."},
+    {"q": "What should I do with the card number after the sale?", "a": "Nothing, because it should not be stored. After authorization, you may not keep the security code, and any retained card number must be protected under PCI rules. Use tokens for repeat billing, destroy any paper right away and keep only the transaction reference and order details."}
+  ],
+  "related": ["virtual-terminal", "card-present-vs-card-not-present", "tokenization-explained", "invoicing-and-payment-links", "prevent-card-fraud", "pci-compliance"],
+  "icon": "phone",
+  "read_minutes": 6
+}

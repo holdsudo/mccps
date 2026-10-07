@@ -1,0 +1,126 @@
+{
+ "slug": "statement-analysis-sales-tool",
+ "category": "blog",
+ "title": "Using Statement Analysis to Win Merchants",
+ "seo_title": "Using Statement Analysis to Win Merchants | MCCPS",
+ "meta_description": "A statement analysis is the most credible tool an agent has. Learn how to collect statements, spot issues, present findings honestly and earn trust.",
+ "primary_keyword": "statement analysis for agents",
+ "keywords": [
+  "merchant statement analysis",
+  "effective rate calculation",
+  "agent sales tactic",
+  "statement review presentation",
+  "processing fee audit",
+  "sales discovery",
+  "merchant trust"
+ ],
+ "eyebrow": "Agent tactics",
+ "dek": "Offering to read a merchant statement is a better opening than any sales pitch. It proves you know the subject and puts facts on the table.",
+ "intro": [
+  "Owners rarely say no to someone who offers to explain a confusing document for free. A merchant statement is exactly that kind of document: dense, inconsistent from provider to provider and full of terms that most people have never had explained. When an agent reads it carefully and talks it through, the dynamic of the sale changes from persuasion to help.",
+  "This article describes a statement analysis workflow for agents: how to ask for the documents, what to extract, how to present findings without overselling and how to turn a review into a relationship. It deliberately avoids promising any particular result, because the whole point is that the numbers lead and you follow."
+ ],
+ "sections": [
+  {
+   "h2": "Why the analysis works as a sales tool",
+   "paragraphs": [
+    "The statement is evidence. Unlike claims about rates, it shows what the merchant actually paid last month. Starting there removes the guessing and reduces the merchant's suspicion that you are simply trying to get a signature.",
+    "It also positions you as an advisor. Many merchants cannot say what their effective rate is, which fees are negotiable or whether they pay for services they do not use. When you give them that information, they remember who helped them understand it, even if they do not switch right away. MCCPS builds its own free savings analysis around this idea, reviewing two months of statements line by line."
+   ]
+  },
+  {
+   "h2": "Ask for the right documents",
+   "paragraphs": [
+    "Request the two most recent full monthly statements, not just the summary page. Two months show a pattern and smooth out odd spikes. If the business is seasonal, ask for a busy month as well. Ask the merchant to send them securely and explain how you will protect the information.",
+    "Statements contain partial card numbers, bank details and business data. Use secure upload or email practices recommended by your program, share the documents only with those who need them and delete files when no longer needed. Handling a merchant's data carefully is part of your credibility."
+   ],
+   "bullets": [
+    "Two full months of statements, all pages",
+    "A busy month for seasonal businesses",
+    "Any equipment lease or software agreement",
+    "Contract or fee schedule if the merchant has it"
+   ]
+  },
+  {
+   "h2": "Extract the key numbers",
+   "paragraphs": [
+    "Start with total card volume and total fees to calculate the effective rate. If a merchant processed $40,000 and paid $1,240 in fees, the effective rate is 3.1 percent. Then break the fees into categories: interchange and assessments, processor markup, per-transaction fees, monthly fees, PCI charges, and miscellaneous items.",
+    "Note the pricing structure: flat-rate, tiered, interchange-plus or something else. Count transactions and compute the average ticket. Look at the mix of card-present and card-not-present sales, debit and credit, and any large share of rewards or business cards, which tend to carry higher interchange. These details explain why one merchant's cost differs from another's."
+   ]
+  },
+  {
+   "h2": "Look for common problem areas",
+   "paragraphs": [
+    "Patterns repeat. Tiered statements sometimes push a large share of transactions into higher categories. Some merchants pay PCI non-compliance fees because they never finished the questionnaire. Others carry duplicate gateway charges, unused monthly minimums, statement fees that crept up or equipment leases that far exceed the cost of the device.",
+    "Flag these as observations and questions, not accusations. There may be a reason for a charge, and the merchant may value a service. Your job is to explain what you see and let the owner decide."
+   ],
+   "bullets": [
+    "PCI non-compliance fees",
+    "High downgrade or non-qualified volume",
+    "Monthly minimums and unused add-on services",
+    "Equipment leases with long terms",
+    "Annual or batch fees that are hard to find"
+   ]
+  },
+  {
+   "h2": "Present findings honestly",
+   "paragraphs": [
+    "Walk the owner through the results in plain language, one page at a time. Show the effective rate, explain each category, and say what is normal and what looks unusual. Use a worked, clearly hypothetical illustration if needed, and never state a savings figure as a guarantee.",
+    "Be explicit about uncertainty. Final costs depend on the merchant's actual card mix, volume and the pricing they choose. It is often best to give a range of possibilities, or to say that the analysis can show where costs come from and what options exist, without claiming a precise outcome until an application and underwriting are complete."
+   ]
+  },
+  {
+   "h2": "Offer options, not pressure",
+   "paragraphs": [
+    "Based on the analysis, there may be several paths: staying put and fixing a few items, moving to transparent interchange-plus pricing or considering a dual-pricing or cash-discount program such as Zero Processing Fees for eligible businesses. Rules for these programs vary by state and card network and require disclosure and signage, so confirm current requirements before recommending.",
+    "Check contract terms before suggesting a switch. If an early termination fee outweighs the benefit, say so and suggest waiting. That honesty is what makes referrals possible. Our guides on early termination fees and terminal leasing traps will help you explain the costs."
+   ]
+  },
+  {
+   "h2": "Follow through and build the relationship",
+   "paragraphs": [
+    "Send a short written summary after the meeting with the key numbers and next steps. If the merchant is not ready, set a reminder to check back when the contract nears its end or when their volume changes. If they proceed, guide them through the application and make sure they know whom to call for support.",
+    "Track each analysis in a simple log: date, business type, effective rate, main findings and result. Over time, this teaches you which patterns show up in your market and sharpens your questions. Agents interested in MCCPS's program can learn how its free analysis process and support work by calling 844.826.6227."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "Offering a statement review shifts the conversation from pitch to help.",
+  "Collect two full months and protect the merchant's data carefully.",
+  "Compute effective rate, pricing structure, average ticket and fee categories.",
+  "Present observations and options honestly; never guarantee savings.",
+  "Document each analysis and follow up on contract timing."
+ ],
+ "faq": [
+  {
+   "q": "What documents do I need for a statement analysis?",
+   "a": "Ask for the two most recent complete monthly statements, including every page, plus any contract, fee schedule or equipment lease the merchant has. For seasonal businesses, request a peak month too. Handle all documents securely and delete them when no longer needed."
+  },
+  {
+   "q": "How do I calculate a merchant's effective rate?",
+   "a": "Divide total fees paid in the month by total card sales processed that month. For instance, $1,240 in fees on $40,000 of volume is 3.1 percent. Include every fee on the statement, such as monthly, PCI and gateway charges, to see the true cost."
+  },
+  {
+   "q": "Should I tell merchants how much they will save?",
+   "a": "Avoid guaranteeing a figure. Savings depend on card mix, volume and pricing, and cannot be known until the analysis and underwriting are complete. Present what you see, offer possible scenarios and be honest about what you cannot yet determine. Check the details against your own agreement, since terms differ between providers."
+  },
+  {
+   "q": "What if the merchant's current rates are fair?",
+   "a": "Say so. A candid conclusion builds trust, and the merchant may refer others or return later. You can still point out smaller fixes, like dropping unused services, and stay in touch for when their contract ends or volume changes. A quick call to your processor can confirm how this works on your specific account."
+  },
+  {
+   "q": "Does MCCPS offer a statement analysis?",
+   "a": "Yes. MCCPS provides a free, no-obligation savings analysis in which the team reviews two months of processing statements line by line. Any savings depend on the findings. Merchants and agents can call 844.826.6227 to ask about it. Write the answer down so every manager and employee gives customers the same explanation."
+  }
+ ],
+ "related": [
+  "selling-merchant-services",
+  "free-statement-analysis",
+  "audit-your-merchant-statement",
+  "how-to-read-a-merchant-statement",
+  "effective-rate-explained",
+  "independent-sales-agent-guide"
+ ],
+ "icon": "file",
+ "read_minutes": 7
+}

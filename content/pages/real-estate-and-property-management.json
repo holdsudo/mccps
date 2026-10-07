@@ -1,0 +1,83 @@
+{
+  "slug": "real-estate-and-property-management",
+  "category": "industries",
+  "title": "Property Management Payment Processing",
+  "seo_title": "Property Management Payment Processing | MCCPS",
+  "meta_description": "Rent collection by ACH and card, recurring payments, security deposits and trust accounting: what property managers need from payment processing.",
+  "primary_keyword": "property management payment processing",
+  "keywords": ["rent payment processing", "collect rent online", "ACH rent collection", "landlord credit card processing", "security deposit payments", "property manager merchant account", "recurring rent autopay"],
+  "eyebrow": "Property payments",
+  "dek": "Rent is the most predictable payment there is, and the one with the most rules around where the money must go.",
+  "intro": [
+    "If you manage rental properties, you handle a stream of recurring payments that landlords and tenants both depend on. Rent arrives on the first, late fees on the sixth, and maintenance charges or utilities fall in between. For tenants, rent is usually the biggest bill of the month, and for owners it is the income that pays the mortgage.",
+    "What makes property management different from other recurring-billing businesses is that you are often handling money that is not yours. Rent belongs to the owner, security deposits are held for the tenant, and each may need to live in a separate account under local rules. Your payment processing must keep that separation clean.",
+    "Below we look at how rent collection works, how cards and bank transfers differ for large recurring amounts, and what to ask your provider."
+  ],
+  "sections": [
+    {
+      "h2": "ACH versus card for rent",
+      "paragraphs": [
+        "Rent is a large payment, so the choice of method has real cost consequences. A tenant who pays $1,800 by credit card at a 3% processing cost would generate $54 in fees on a single payment. Bank transfers by ACH usually cost a small fraction of that, which is why most landlords prefer them for rent.",
+        "Tenants sometimes prefer cards, for rewards, for float, or because their bank balance is short that week. Some property managers accept cards and pass on the cost through a convenience fee. If you do, disclosure matters and the rules vary by state and by card network, so confirm what is allowed before adding a fee. Our guide on convenience fees explains the difference between that and a surcharge."
+      ],
+      "bullets": [
+        "Offer ACH autopay as the default option",
+        "Accept debit or credit as a fallback for short months",
+        "Disclose any fee clearly before the tenant confirms payment",
+        "Send automatic receipts to tenants and owners"
+      ]
+    },
+    {
+      "h2": "Autopay and late payments",
+      "paragraphs": [
+        "Recurring rent works best when the tenant authorizes a monthly debit in writing. The authorization should say the amount, the date, how to cancel and what happens if a payment fails. Returned ACH payments can take several days to surface, so build your late-fee process around that delay, and notify tenants promptly when a payment bounces.",
+        "For cards, expired numbers are the common failure point. A card updater service, available through some gateways, refreshes stored details when a bank reissues a card. Reminders a few days ahead of the due date remain the cheapest way to improve on-time payment."
+      ]
+    },
+    {
+      "h2": "Security deposits and trust accounts",
+      "paragraphs": [
+        "Many jurisdictions regulate how security deposits must be held, sometimes in a separate account and sometimes with interest. Property managers may also operate under real estate license rules that require trust or escrow accounts for client funds. These are legal and accounting questions that vary by state, so talk to your attorney, broker or accountant about the structure.",
+        "From a payments standpoint, make sure your processor can route funds to the correct account for each type of payment, and that your reports separate rent, deposits and fees by property and owner. Mixing them in one deposit is a common source of bookkeeping headaches and compliance concerns."
+      ]
+    },
+    {
+      "h2": "Application fees, move-in costs and maintenance charges",
+      "paragraphs": [
+        "Move-in is a cluster of payments: application fee, first month's rent, security deposit, pet fee and sometimes a key deposit. Collecting them through an online portal lets applicants pay from their phone and gives you a record. Application fees are card-not-present sales, so use AVS and CVV and confirm the applicant's identity.",
+        "Maintenance and repair charges billed to tenants, such as for damage beyond normal wear, should be itemized with supporting documentation. A tenant who receives a vague charge is more likely to dispute it with their bank than a tenant who sees the invoice and photos."
+      ]
+    },
+    {
+      "h2": "Commercial and association payments",
+      "paragraphs": [
+        "Commercial tenants and homeowners' associations pay larger amounts and sometimes prefer bank transfers or commercial cards. For commercial rent, an ACH debit is typical. For association dues, recurring debits work well, and you can offer one-time card payments for special assessments.",
+        "Say an association collects $250 monthly dues from 300 households. That is $75,000 a month; if even a third of owners pay by card at 3%, that is about $750 in fees. Deciding who bears that cost is a policy question for the board, and a processor can help model the options."
+      ]
+    },
+    {
+      "h2": "Reporting, security and support",
+      "paragraphs": [
+        "Owners want statements that show what was collected, on which date and from whom. Your processing reports should align to property and owner so month-end reconciliation is straightforward. Tenant data is sensitive, so use tokenization for stored payment methods and keep card data out of spreadsheets and email.",
+        "MCCPS offers a free, no-obligation statement analysis, recurring payment tools, ACH processing, PCI compliance help and free 24/7 technical support. If you need funding for property improvements or working capital, we can refer you to Fidelity Funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "ACH usually costs much less than cards for large recurring rent payments.",
+    "Written autopay authorization reduces disputes and clarifies failure handling.",
+    "Security deposits and client funds may be subject to trust account rules; consult your attorney.",
+    "Disclose any convenience fee clearly; rules vary by state and card network.",
+    "Reports should separate rent, deposits and fees by property and owner."
+  ],
+  "faq": [
+    {"q": "Is it better to collect rent by ACH or card?", "a": "ACH is usually less expensive on large recurring amounts, while cards offer convenience and instant confirmation. Many managers set ACH as the default and accept cards as a backup, with any card-related fee clearly disclosed and checked against state and card network rules."},
+    {"q": "Can I charge tenants a fee to pay rent by card?", "a": "Possibly, but convenience fees and surcharges are regulated differently by state and card network, and require clear disclosure. Some states restrict or limit them. Confirm current requirements with your attorney and processor before adding a fee."},
+    {"q": "Do security deposits have to be held separately?", "a": "Many jurisdictions require specific handling, such as a separate account or interest. This is a legal question that varies by location, so consult your attorney or broker. Your processing setup should be able to direct funds appropriately."},
+    {"q": "How do I reduce late rent payments?", "a": "Offer autopay, send reminders before the due date, make paying easy from a phone, and enforce late fees consistently as the lease allows. Card updater tools can also help prevent failures from expired cards."},
+    {"q": "Can property managers accept payments for multiple owners?", "a": "Yes, but your system should track payments by property and owner and route funds in line with your management agreements and any trust accounting rules. Ask your processor about reporting and account structure."}
+  ],
+  "related": ["ach-processing", "recurring-billing", "convenience-fees-explained", "professional-services", "set-up-recurring-payments", "collect-overdue-invoices"],
+  "icon": "building",
+  "read_minutes": 6
+}

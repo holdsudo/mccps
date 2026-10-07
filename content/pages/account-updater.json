@@ -1,0 +1,122 @@
+{
+  "slug": "account-updater",
+  "category": "blog",
+  "title": "Card Account Updater: Fewer Failed Payments",
+  "seo_title": "Card Account Updater: Fewer Failed Payments | MCCPS",
+  "meta_description": "Card account updater refreshes expired or reissued cards on file so recurring payments keep working. See how it works, what it costs and its limits.",
+  "primary_keyword": "card account updater",
+  "keywords": [
+    "account updater service",
+    "automatic card updater",
+    "expired cards on file",
+    "involuntary churn",
+    "network tokens",
+    "recurring payment declines",
+    "card reissue update"
+  ],
+  "eyebrow": "Recurring",
+  "dek": "How the updater service quietly swaps old card details for new ones, what it can and cannot fix, and whether it is worth turning on.",
+  "intro": [
+    "A card reaches its expiration date, or gets replaced after a fraud alert, and the customer carries on with their life. Your system still has the old details. The next recurring charge fails, the customer may not even notice, and a subscription that should have lasted for years ends over something no one decided.",
+    "Account updater services exist to close that gap. Done well, they recover a good deal of revenue that would otherwise vanish quietly."
+  ],
+  "sections": [
+    {
+      "h2": "The problem it solves",
+      "paragraphs": [
+        "Cards change constantly. They expire, get lost, get compromised, or are reissued when a customer switches banks or products. Each change leaves merchants holding stale credentials. For businesses with stored cards, billing memberships, subscriptions, installment plans or service contracts, those stale cards translate directly into declined payments.",
+        "Customers rarely update their details everywhere. Even a diligent customer may forget your business when they replace a card. That is involuntary churn: customers who did not choose to leave but were lost to a payment failure.",
+        "Consider how this shows up in daily operations. A gym front desk receives a handful of calls each month from members whose cards failed, each call taking several minutes of staff time. A medical or dental practice with payment plans may chase patients over small balances. Account updater does not eliminate those conversations, but it removes the most avoidable ones, the ones caused by a routine card replacement rather than a real payment problem."
+      ]
+    },
+    {
+      "h2": "How account updater works",
+      "paragraphs": [
+        "Card issuers participate in updater programs run by the card networks. When a card is reissued, the issuer reports the new number, expiration date or closure status. Merchants enrolled through their processor or gateway submit their stored cards for checking, either in a batch before billing or automatically in real time.",
+        "The service returns updates: a new expiration date, a new account number, a notice that the account is closed, or a note to contact the cardholder. The gateway then updates the stored credentials, and you charge the card as normal. The customer never has to do anything."
+      ],
+      "bullets": [
+        "Issuers report card changes to the network",
+        "Your gateway checks stored cards against those updates",
+        "Responses include new expiry, new number or closed account",
+        "Stored credentials are refreshed before the charge"
+      ]
+    },
+    {
+      "h2": "What it can and cannot fix",
+      "paragraphs": [
+        "Account updater only works where the issuer and network participate, and where the card is a type covered by the program. Coverage is strong for many major issuers but not complete, and some cards or regions are not covered. It does not help with insufficient funds, fraud blocks or customers who cancelled their cards without replacement.",
+        "It also does not replace good dunning. Think of it as the first layer that prevents many failures, with retries, reminders and a customer portal handling the rest. Ask your provider for coverage details and the typical update rate for businesses like yours; do not assume a particular figure.",
+        "Be careful with expectations about response data. A returned note that an account is closed does not mean the customer left; it often means they got a new card from a different issuer. Reach out with a friendly message asking for new details instead of canceling the account immediately, since the relationship may be perfectly healthy."
+      ]
+    },
+    {
+      "h2": "Network tokens as a related approach",
+      "paragraphs": [
+        "Network tokens are issued by the card network and linked to the cardholder's account rather than to a particular card number. When the underlying card is reissued, the token can continue to work because the network updates the mapping. Some merchants use network tokens in place of, or alongside, account updater.",
+        "Both approaches aim at the same goal: keeping stored credentials current without bothering the customer. Your gateway can tell you which methods it supports and whether using them changes approval rates or fees."
+      ]
+    },
+    {
+      "h2": "Costs and a simple value check",
+      "paragraphs": [
+        "Providers may charge per update, per inquiry or a monthly fee, and some include the service at no extra cost. Check your agreement. To judge value, estimate how many stored cards are replaced in a year, then compare the cost to the revenue you would otherwise lose.",
+        "A hypothetical example: you have 2,000 stored cards at $40 a month. If 3% become stale in a given month, that is 60 cards, or $2,400 of monthly billing at risk. If the updater refreshes even half, you protect $1,200 a month, about $14,400 a year, against a modest service fee. These figures are illustrative only; your results depend on your customer base."
+      ],
+      "steps": [
+        "Ask your gateway whether account updater or network tokens are available.",
+        "Confirm the fees and how and when updates are applied.",
+        "Enroll your stored cards and set the update timing before billing runs.",
+        "Review the update log for closed accounts and contact those customers.",
+        "Track failed payment rates before and after to measure the change."
+      ]
+    },
+    {
+      "h2": "Putting it in your workflow",
+      "paragraphs": [
+        "Run updates ahead of your billing cycle so refreshed details are ready when charges go out. Review accounts flagged as closed, since those customers need to be contacted for a new card. Keep sending pre-expiration notices as a backup, because not every card will be covered.",
+        "MCCPS works with multiple gateways and supports recurring payments, so it can help you find out which updater options match your setup. A free statement analysis can also reveal how many declines you see and what they cost. Availability and pricing depend on your gateway and processor.",
+        "It also pays to document your process: who reviews the update log, how often, and what message goes to customers with closed accounts. Without an owner, the log sits unread, and the benefit shrinks. A short monthly review takes minutes and keeps the program tied to actual revenue results."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Account updater refreshes stored cards when issuers report a reissue or expiration.",
+    "It reduces involuntary churn but does not fix insufficient funds or all cards.",
+    "Network tokens offer a related way to keep credentials current.",
+    "Run updates before the billing cycle and review closed-account flags.",
+    "Weigh any fees against the revenue at risk from stale cards."
+  ],
+  "faq": [
+    {
+      "q": "What is a card account updater?",
+      "a": "It is a service that checks the cards you have on file against issuer updates and automatically refreshes expired, reissued or replaced card details so recurring charges continue without the customer acting."
+    },
+    {
+      "q": "Does account updater catch every card change?",
+      "a": "No. Coverage depends on the issuer, network and card type. Some cards are not covered, so keep pre-expiration reminders and a customer portal as backups."
+    },
+    {
+      "q": "Is there a fee for account updater?",
+      "a": "It varies. Some providers charge per update or monthly, and others include it. Check your agreement and compare the cost against the revenue lost to expired cards."
+    },
+    {
+      "q": "How is account updater different from a network token?",
+      "a": "Updater refreshes stored card details after changes. A network token is a stand-in issued by the network that can keep working when the card is reissued. Some setups use both."
+    },
+    {
+      "q": "Will customers be notified of updates?",
+      "a": "Usually not. The update happens in the background. You may still want to tell customers when a card is closed or when a payment fails and they need to provide new details."
+    }
+  ],
+  "related": [
+    "recurring-billing",
+    "recurring-billing-best-practices",
+    "tokenization-explained",
+    "set-up-recurring-payments",
+    "subscription-businesses",
+    "gyms-and-fitness"
+  ],
+  "icon": "refresh",
+  "read_minutes": 6
+}

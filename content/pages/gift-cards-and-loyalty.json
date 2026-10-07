@@ -1,0 +1,122 @@
+{
+  "slug": "gift-cards-and-loyalty",
+  "category": "solutions",
+  "title": "Gift Cards and Loyalty Programs",
+  "seo_title": "Gift Cards & Loyalty Programs for Merchants | MCCPS",
+  "meta_description": "An educational look at gift card and loyalty programs: how they work, what they do for retention and cash flow, and questions to ask about your setup.",
+  "primary_keyword": "gift card and loyalty programs",
+  "keywords": [
+    "gift card program",
+    "loyalty program for small business",
+    "customer retention",
+    "stored value cards",
+    "rewards program",
+    "repeat customers",
+    "gift card breakage"
+  ],
+  "eyebrow": "Retention",
+  "dek": "Gift cards bring in new customers and cash up front. Loyalty rewards keep existing customers coming back. Availability depends on your setup.",
+  "intro": [
+    "A good gift card is a small advertisement that someone else pays to hand out. A good loyalty program turns a once-in-a-while customer into a regular. Both are old ideas, and both are simpler to run today than they used to be, since the card or phone number a customer already uses can double as their account.",
+    "This page is educational. Whether a particular program is available to you depends on your POS, your processing setup and your agreement, so ask a specialist about your business before assuming anything."
+  ],
+  "sections": [
+    {
+      "h2": "How gift cards work",
+      "paragraphs": [
+        "A gift card is a stored-value instrument. A customer buys a card for a set amount, either physical or digital, and the value is tracked in a database. When the card is redeemed, the system deducts from the balance. The purchase itself is a card transaction, but the redemption is not, which is why cards can reduce your processing cost on redemption sales.",
+        "Closed-loop cards work only at your business, while open-loop cards carry a network logo and work anywhere. Small merchants typically use closed-loop. Consider how the cards will be sold: at the register, online or both.",
+        "Digital cards deserve a look too. They can be sent by email or text within minutes, which suits last-minute gifts and customers who live far away. A physical card still sells well at the counter, where a rack or a staff suggestion at checkout can lift sales."
+      ]
+    },
+    {
+      "h2": "What gift cards do for your business",
+      "paragraphs": [
+        "They bring in cash before the goods or service are delivered, which helps in slower seasons. Recipients are often new customers, and many spend more than the card's face value. Say you sell $5,000 in gift cards before the holidays and half is redeemed in January. You have $5,000 in hand and a pipeline of visits to come.",
+        "There is also the matter of unredeemed balances. Rules about expiration, fees and how unredeemed funds must be handled vary by state and by federal law, and are legal questions. Consult your attorney or accountant before writing terms."
+      ],
+      "bullets": [
+        "Cash collected before service or delivery",
+        "New customers introduced by the recipient",
+        "Redemption sales that avoid card-processing fees",
+        "Seasonal spikes around holidays and events",
+        "Physical or digital delivery options"
+      ]
+    },
+    {
+      "h2": "How loyalty programs work",
+      "paragraphs": [
+        "Loyalty programs record purchases against a customer, often identified by phone number, email or a card, and give a reward when a threshold is met. Examples include points per dollar, a free item after a number of visits, or tiers with growing benefits.",
+        "The best programs are simple. A customer who needs a spreadsheet to understand the rewards will not bother. Pick one reward that feels attainable, show progress on the receipt or screen, and make redemption easy for staff.",
+        "Pair the program with a way to enroll customers at the moment of sale, such as a phone number entered at checkout or a QR code on the receipt. The fewer steps required, the more customers join. Staff should be trained to mention the program once, naturally, without making every transaction a sales pitch."
+      ]
+    },
+    {
+      "h2": "Choosing between points, visits and tiers",
+      "paragraphs": [
+        "Visit-based programs suit businesses where each purchase is similar in size, such as coffee shops and salons. Points per dollar suit businesses with varied tickets, like retail. Tiers suit businesses with strong repeat behavior and a story to tell about status.",
+        "Run the math on cost. If a reward is worth five dollars and customers earn it after spending two hundred, you are returning about two and a half percent of sales. That is a hypothetical figure, but it shows how to judge whether the program pays for itself in repeat visits."
+      ]
+    },
+    {
+      "h2": "Integration and data",
+      "paragraphs": [
+        "Programs work best when connected to your POS, so balances update automatically and staff do not have to track anything by hand. Ask whether gift card and loyalty features are built into your POS, offered by a separate provider or available through your processing setup.",
+        "The data matters as well. Knowing who your repeat customers are, how often they visit and what they buy lets you send relevant offers rather than blanket discounts. Respect privacy laws and your customers' consent when collecting contact information.",
+        "Think about reporting from the start: how many cards were sold, how many were redeemed, average balance remaining and how repeat customers differ from first-timers. Those few numbers tell you whether the program is worth continuing and where to adjust it."
+      ]
+    },
+    {
+      "h2": "Risks to manage",
+      "paragraphs": [
+        "Gift cards attract fraud. Criminals buy cards with stolen credit cards, and sometimes drain balances through guessing or social engineering. Limit purchases by amount for new customers, keep cards behind the counter and watch for large, rapid purchases.",
+        "Make sure your policy covers lost cards, refunds and how balances are handled when a business closes or changes hands. A written policy protects you and your customers."
+      ]
+    },
+    {
+      "h2": "Asking MCCPS about your setup",
+      "paragraphs": [
+        "MCCPS integrates with almost any POS, smartphone or terminal, and offers a reporting and analytics dashboard in PayPilot by MCCPS to help you understand your sales. Gift card and loyalty availability depends on your setup, so ask a specialist what fits your equipment and your business.",
+        "The free, no-obligation statement analysis is a good way to start a conversation. Call 844.826.6227 and ask about programs that work with your existing POS."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Gift cards collect cash up front and introduce new customers.",
+    "Loyalty programs reward repeat visits; keep them simple.",
+    "Rules about balances and expiration vary, so consult an attorney.",
+    "Availability depends on your setup, so ask a specialist."
+  ],
+  "faq": [
+    {
+      "q": "Do gift cards cost less to process?",
+      "a": "The purchase is a normal card sale, but redemption is not a card payment, so it avoids card fees at that point. Overall cost depends on your program provider and setup. Ask a specialist about specifics."
+    },
+    {
+      "q": "Can I set an expiration date on gift cards?",
+      "a": "Rules on expiration and fees vary by state and federal law and change over time. This is a legal question, so consult your attorney or accountant before setting terms."
+    },
+    {
+      "q": "What makes a loyalty program succeed?",
+      "a": "Simplicity and a reward customers actually want. Make progress visible, keep redemption easy and price the reward so the program is sustainable. Review results after a few months."
+    },
+    {
+      "q": "Are gift cards risky for fraud?",
+      "a": "They can be, because criminals use stolen cards to buy them. Set purchase limits, monitor unusual activity and use standard fraud tools such as AVS and CVV for online sales."
+    },
+    {
+      "q": "Will it work with my POS?",
+      "a": "It depends on the system and provider. Some POS platforms include these features, others use add-ons. Availability depends on your setup, so a specialist can check your equipment."
+    }
+  ],
+  "related": [
+    "gift-card-programs",
+    "customer-loyalty-with-payments",
+    "retail-pos",
+    "coffee-shops",
+    "payment-data-analytics",
+    "holiday-season-payments-prep"
+  ],
+  "icon": "heart",
+  "read_minutes": 6
+}

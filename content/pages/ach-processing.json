@@ -1,0 +1,120 @@
+{
+  "slug": "ach-processing",
+  "category": "solutions",
+  "title": "ACH and eCheck Processing",
+  "seo_title": "ACH & eCheck Processing for Businesses | MCCPS",
+  "meta_description": "Collect payments directly from bank accounts with ACH and eCheck processing. Understand timing, returns, authorization rules and where it beats cards.",
+  "primary_keyword": "ACH processing",
+  "keywords": [
+    "eCheck processing",
+    "ACH payments for business",
+    "bank transfer payments",
+    "ACH vs credit card",
+    "recurring ACH debits",
+    "ACH returns",
+    "bank account payments"
+  ],
+  "eyebrow": "Bank payments",
+  "dek": "Pull money straight from a customer's bank account for large invoices, rent, dues and recurring bills, often at lower cost than cards.",
+  "intro": [
+    "Card payments are wonderful for speed and convenience, but they are not always the right tool. A $9,000 contractor invoice or a $1,800 monthly rent payment can carry a card fee that feels out of proportion to the work involved. Bank-to-bank payments through the ACH network offer another route, and for many businesses it is the cheaper one.",
+    "ACH processing, sometimes called eCheck, moves money between bank accounts using routing and account numbers instead of card numbers. This page explains how it works, where the trade-offs sit, and how to add it without creating new headaches."
+  ],
+  "sections": [
+    {
+      "h2": "How an ACH payment moves",
+      "paragraphs": [
+        "With an ACH debit, the customer gives you permission to withdraw a specific amount from their checking or savings account. You submit the request through your payment system, which batches it and sends it into the ACH network. The customer's bank receives the instruction and, if all goes well, releases the funds to you.",
+        "Unlike a card, there is no instant approval that guarantees payment. Some systems offer account verification at entry to confirm the account exists and is open, but a verified account can still lack sufficient funds when the debit is presented. That is the central difference to keep in mind."
+      ]
+    },
+    {
+      "h2": "Timing and what to expect",
+      "paragraphs": [
+        "ACH is not instant. Debits commonly take a few business days to settle, and weekends and bank holidays add more time. Faster options exist in some setups, but timing varies by network rules, cutoff times and your account configuration.",
+        "A return can arrive days after you thought a payment was complete, typically for insufficient funds, a closed account, or a customer disputing an unauthorized debit. Returns have their own windows, and unauthorized-debit claims can come back for a longer period than ordinary returns. Build your delivery and release policies around that delay, particularly for goods that ship the same day."
+      ]
+    },
+    {
+      "h2": "Where ACH makes the most sense",
+      "paragraphs": [
+        "ACH shines on high-ticket and predictable payments. Property managers collect rent, service companies bill monthly plans, B2B suppliers settle invoices, and membership organizations collect dues. In each case the amount is meaningful and the customer is known, so the speed of a card matters less than the savings.",
+        "Say you collect a $6,000 invoice. A card payment at a typical rate would cost an amount in proportion to the total, while an ACH debit is typically a modest flat or small percentage fee. Compare actual quotes, though, because pricing varies by provider and volume.",
+        "Before you move customers to ACH, ask what they prefer. Some will happily share bank details for a large invoice, and others will worry about security. Explain that you never see the details if you use a hosted payment page, and that the page encrypts what they type. A little reassurance at the right moment lifts adoption considerably."
+      ],
+      "bullets": [
+        "Rent and recurring service plans",
+        "Large B2B invoices and progress billing",
+        "Membership dues and tuition",
+        "Deposits on high-ticket jobs",
+        "Payroll-adjacent or vendor-style payments"
+      ]
+    },
+    {
+      "h2": "Authorization is not optional",
+      "paragraphs": [
+        "ACH rules require a valid authorization from the account holder before you debit. For one-time web payments, that means clear on-screen consent. For recurring debits, it means a written or electronic agreement covering the amount, the frequency and how to cancel. Keep these records for as long as the rules require.",
+        "Weak authorization is the usual root of an unauthorized-debit return. A short confirmation email after sign-up, with the schedule and amount spelled out, is cheap insurance. Check current NACHA requirements with your processor or attorney, since details change."
+      ]
+    },
+    {
+      "h2": "Managing returns and risk",
+      "paragraphs": [
+        "Treat returns as part of the cost of doing business. Return fees can apply, and repeated returns on the same account suggest you should switch the customer to another method. For new or unknown customers, consider starting with a card, then offering ACH after a track record.",
+        "Limits on volume and ticket size may apply to your account as part of risk management. A reasonable process includes retry rules, customer notification when a debit fails, and a clear policy for late payments. Protect yourself by confirming account ownership where possible."
+      ]
+    },
+    {
+      "h2": "ACH alongside cards",
+      "paragraphs": [
+        "Most merchants offer both. Cards cover urgent and low-ticket sales, and ACH covers large or repeating ones. A payment page can show both options, and a customer who sees a lower price or simply a convenient link for bank payment will often choose it on a large invoice.",
+        "If you pass any processing cost on to the customer through a cash discount, surcharge or convenience fee, rules vary by state and card network, and clear disclosure is required. Confirm the current requirements before changing how you present payment options."
+      ]
+    },
+    {
+      "h2": "Adding ACH with MCCPS",
+      "paragraphs": [
+        "ACH can be set up alongside your card processing so reports, recurring schedules and invoicing live in one place. The reporting and analytics dashboard in PayPilot by MCCPS shows what is paid by card versus bank transfer. Terms, limits and pricing depend on your underwriting and setup, so a specialist will confirm what is available for your business.",
+        "Free 24/7 technical support and personal customer service are part of the package. Request the free statement analysis, and the team can show where larger payments might move to ACH to reduce your overall cost."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "ACH moves money between bank accounts and often costs less than cards.",
+    "Settlement takes days, and returns can arrive after the fact.",
+    "Written or electronic authorization is required before debiting.",
+    "Offer cards for speed and ACH for large or recurring payments."
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between ACH and eCheck?",
+      "a": "They are closely related. ACH is the network that moves money between banks. eCheck usually refers to a web-based payment where a customer enters bank details to pay online, which is then processed over the ACH network."
+    },
+    {
+      "q": "How long does an ACH payment take?",
+      "a": "Typically a few business days to settle, with weekends and holidays adding time. Some setups offer faster options. Returns can arrive later, so build your policies around the delay rather than assuming a debit is final on day one."
+    },
+    {
+      "q": "Is ACH cheaper than a credit card?",
+      "a": "Frequently, especially on large payments, because ACH fees are usually flat or a small percentage. Actual cost depends on your provider and volume. Compare real quotes and include return fees in the comparison."
+    },
+    {
+      "q": "What happens if a debit is returned?",
+      "a": "The funds are taken back and you may be charged a return fee. Contact the customer for another payment method. Repeated returns on the same account suggest switching to a card or requiring prepayment."
+    },
+    {
+      "q": "Do I need the customer's signature?",
+      "a": "You need valid authorization, which can be electronic. For recurring debits, record the amount, frequency and cancellation terms. Check current NACHA rules with your processor or an attorney for specifics."
+    }
+  ],
+  "related": [
+    "ach-vs-credit-card",
+    "recurring-billing",
+    "process-b2b-payments",
+    "real-estate-and-property-management",
+    "checks-vs-cards",
+    "invoicing-and-payment-links"
+  ],
+  "icon": "cash",
+  "read_minutes": 7
+}

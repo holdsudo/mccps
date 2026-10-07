@@ -1,0 +1,125 @@
+{
+  "slug": "quick-service-restaurants",
+  "category": "industries",
+  "title": "Quick-Service Restaurant Payment Processing",
+  "seo_title": "Quick-Service Restaurant Payments & Kiosks | MCCPS",
+  "meta_description": "Quick-service restaurant payment processing for fast counters, kiosks, online ordering and drive-thru lanes. Compare costs and get a free statement review.",
+  "primary_keyword": "quick-service restaurant payment processing",
+  "keywords": [
+    "QSR payments",
+    "self-order kiosk payments",
+    "drive-thru card processing",
+    "online ordering payments",
+    "fast food merchant account",
+    "QSR POS integration",
+    "order ahead payments"
+  ],
+  "eyebrow": "Industry payments",
+  "dek": "Where seconds are the product: payments for counters, kiosks, drive-thru lanes and online orders in one connected system.",
+  "intro": [
+    "In a quick-service restaurant, speed is part of what the customer buys. A drive-thru lane that moves a car every 40 seconds earns more than one that takes a minute, and a counter that handles a rush without a pile-up keeps people coming back. Payments sit directly in that path.",
+    "A QSR rarely has one place where it takes money. There is the counter, the kiosk, the drive-thru window, a phone app, perhaps third-party delivery. Each channel has different mechanics and costs, and your processing setup should treat them as parts of one business, not as four separate accounts."
+  ],
+  "sections": [
+    {
+      "h2": "Counters and the cost of seconds",
+      "paragraphs": [
+        "At the counter, contactless is the fastest option, followed by a chip dip and then a swipe. Customers who tap spend less time at the reader, and the staff member does not need to hand back a card. A reader with a clear screen and a loud confirmation tone also reduces second taps and double charges.",
+        "Think about order accuracy at the same time. A POS that sends the total to the card reader automatically avoids a typed amount, which is one of the most common mistakes at a busy counter. Every mis-keyed charge is a refund, a receipt and a minute of a manager's time."
+      ]
+    },
+    {
+      "h2": "Self-order kiosks",
+      "paragraphs": [
+        "Kiosks shift the order-taking from staff to the customer, which can free labor for the kitchen. Payment hardware on a kiosk needs to be built for unattended use: it should accept chip, tap and PIN debit, it should be tamper resistant, and it should have good privacy shielding for PIN entry.",
+        "From a security standpoint, unattended terminals are a common target for skimming devices, so a daily physical inspection is a sensible habit. Check with your processor about the appropriate PCI questionnaire for unattended payment devices, and keep software patched. MCCPS offers PCI compliance help if you are unsure which requirements apply to your setup."
+      ],
+      "bullets": [
+        "Inspect kiosk card readers daily for loose or added parts.",
+        "Use encrypted readers so card data never touches the kiosk software.",
+        "Provide a clear way to cancel or call for help.",
+        "Make sure receipts can be printed or sent by email or text."
+      ]
+    },
+    {
+      "h2": "Drive-thru and handheld lanes",
+      "paragraphs": [
+        "A drive-thru adds weather, noise and distance. Some stores use a handheld wireless terminal at the window; others use a mounted reader on a swing arm. Handhelds also support line-busting, where an employee takes payment at the car during peak times, which can substantially shorten waits.",
+        "Connectivity in the lane matters. A device that loses its connection mid-sale creates a backed-up line quickly, so wired or strong Wi-Fi coverage at the window and an alternate cellular option are worth the setup. Make sure the devices can survive temperature swings and the occasional drop."
+      ]
+    },
+    {
+      "h2": "Online and order-ahead payments",
+      "paragraphs": [
+        "Online and app orders are card-not-present sales. They typically cost more per transaction than in-person payments because the card is not physically present, so fraud risk is higher. They also tend to produce bigger average tickets, because shoppers can browse the whole menu without pressure.",
+        "Tie your online ordering platform to your POS so orders print at the kitchen display automatically and appear in the same sales report. Store card tokens for repeat customers so returning guests can check out in one tap, and ask your processor about card account updater services so saved cards keep working when a bank reissues them."
+      ]
+    },
+    {
+      "h2": "Putting the numbers in context",
+      "paragraphs": [
+        "Say a store sells 400 tickets a day, 70 percent on cards, at an average of $11. That is about 280 card sales and $3,080 a day, or roughly $92,000 a month. At a 2.9 percent effective rate that is $2,668 in fees monthly, per location. A half-point difference is about $460 a month, and for a multi-unit operator the gap multiplies fast.",
+        "That is why a consolidated reporting dashboard helps. Seeing card volume, average ticket, declines and chargebacks by store lets you spot the location whose fees look different from the rest and ask why."
+      ],
+      "steps": [
+        "Pull the last two months of processing statements for each location.",
+        "Calculate effective rate per store.",
+        "Compare per-item fees and monthly extras across stores.",
+        "Check how kiosk, online and counter sales are each priced.",
+        "Ask for a review of any location that stands out."
+      ]
+    },
+    {
+      "h2": "Delivery orders and third-party reconciliation",
+      "paragraphs": [
+        "Many quick-service restaurants also receive orders through outside delivery platforms. Those sales do not run through your own terminal; the platform collects the payment and remits it to you, usually less its own commission. That matters for reconciliation, because your card deposits will not match your total sales unless you separate the channels in your reports. Keep delivery revenue on its own line and compare it with the payouts you actually receive. Look out for adjustments and refunds that the platform deducts from later payouts. Your own online ordering, by contrast, runs through your processor and is subject to your processing rates, so compare the all-in cost of each channel, not just the headline commission or percentage."
+      ]
+    },
+    {
+      "h2": "Reducing cost and getting started",
+      "paragraphs": [
+        "Many QSR owners explore a cash discount or dual pricing arrangement to offset card costs. MCCPS offers its Zero Processing Fees program, a compliant program intended to bring card-processing cost to $0. Rules vary by state and card network, require clear signage on menus, kiosks and receipts, and should be confirmed before launch.",
+        "To see where you stand, ask for the free savings analysis, in which MCCPS reviews two months of statements line by line with no obligation. Savings depend on what the review finds. MCCPS can integrate with most POS systems, keep re-programmable terminals you already own and provide free 24/7 technical support, which matters for a business open early and late."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "In a QSR, payment speed directly affects throughput.",
+    "Kiosks need tamper-resistant, encrypted, unattended-capable readers.",
+    "Handheld terminals can shorten drive-thru waits.",
+    "Online orders cost more per transaction but often raise average ticket size.",
+    "Compare effective rates by location and channel."
+  ],
+  "faq": [
+    {
+      "q": "What payment hardware works for a self-order kiosk?",
+      "a": "Look for an unattended-capable reader that accepts chip, tap and PIN debit, with encryption and tamper protection. Confirm compatibility with your kiosk software and the right PCI requirements with your processor."
+    },
+    {
+      "q": "Why do online orders cost more to process?",
+      "a": "They are card-not-present, which carries more fraud risk, so interchange is generally higher. They can still be worthwhile if they raise your average ticket or bring in new customers. Compare actual costs on your statement."
+    },
+    {
+      "q": "How can I speed up my drive-thru payments?",
+      "a": "Use contactless-capable readers at the window, add handheld terminals for line-busting during peaks, and make sure your connection is reliable. Training staff to present the reader early also helps."
+    },
+    {
+      "q": "Can I use one merchant account for all my locations?",
+      "a": "Often yes, and many multi-unit operators prefer consolidated reporting by location. Ask how deposits, statements and reporting are structured so you can see each store separately."
+    },
+    {
+      "q": "Can a QSR add a fee for card payments?",
+      "a": "Some do through surcharging, cash discount or dual pricing, but rules vary by state and card network and require signage and disclosure. Confirm what applies before changing menu pricing."
+    }
+  ],
+  "related": [
+    "restaurants",
+    "restaurant-pos",
+    "multi-location-payments",
+    "integrate-payments-with-pos",
+    "restaurant-payment-tips",
+    "emv-chip-processing"
+  ],
+  "icon": "bolt",
+  "read_minutes": 6
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "pci-non-compliance-fee",
+  "category": "blog",
+  "title": "The PCI Non-Compliance Fee and How to Stop Paying It",
+  "seo_title": "PCI Non-Compliance Fee: What It Is & How to Stop It | MCCPS",
+  "meta_description": "A PCI non-compliance fee shows up when your annual validation is incomplete. Learn what triggers it, how to choose the right SAQ, and how to end the charge.",
+  "primary_keyword": "PCI non-compliance fee",
+  "keywords": [
+    "PCI non-compliance fee",
+    "PCI compliance fee merchant statement",
+    "SAQ A SAQ B SAQ P2PE",
+    "PCI self-assessment questionnaire",
+    "stop paying PCI fee",
+    "PCI program fee",
+    "PCI DSS small business"
+  ],
+  "eyebrow": "Compliance",
+  "dek": "It is usually a monthly penalty for paperwork that was never finished. The fix is typically an afternoon of honest answers.",
+  "intro": [
+    "Somewhere on your statement there may be a line labeled PCI non-compliance, PCI penalty or something similar, often a few dozen dollars a month. It can run for years without anyone noticing. In many cases, it exists for one reason: nobody completed the annual security questionnaire the processor asked for.",
+    "That does not necessarily mean your business is insecure. It means your provider has no record that you validated it. The charge is a lever to prompt action, and understanding it lets you remove the cost and, more importantly, close an actual gap."
+  ],
+  "sections": [
+    {
+      "h2": "What PCI compliance actually is",
+      "paragraphs": [
+        "PCI DSS is the Payment Card Industry Data Security Standard, a set of security requirements created by the card networks for any business that stores, processes or transmits card data. Acquirers are responsible for making sure their merchants meet it, so they pass an annual validation requirement down to you.",
+        "For most small businesses, validation means completing a self-assessment questionnaire, called an SAQ, and sometimes a network scan, then submitting an attestation that your answers are true. The details depend on how you accept cards."
+      ]
+    },
+    {
+      "h2": "Two different charges that get confused",
+      "paragraphs": [
+        "Statements frequently include two separate lines that sound alike but are not. The first is a PCI program or compliance fee, which pays for the provider's portal, scanning or support. The second is a non-compliance fee, which is a penalty charged when you have not completed validation.",
+        "You may owe the first without owing the second. If you see both, you might be paying for a program you are not using.",
+        "Be cautious with any provider that bills a non-compliance fee but offers no way to complete validation, or whose portal links no longer work. If you cannot reach a working process, contact your processor in writing, keep a record and ask for a waiver while the problem is fixed. Merchants are sometimes charged for failing a process the provider itself has not kept running.",
+        "It also helps to separate the penalty from the actual security work. Even with a clean attestation, good habits matter: keep terminals updated, restrict who can access payment systems, change default passwords and avoid storing card numbers anywhere, including spreadsheets, notebooks and emails."
+      ]
+    },
+    {
+      "h2": "Why it appears",
+      "paragraphs": [
+        "Non-compliance fees are most often triggered by an incomplete annual questionnaire. Other causes include a failed vulnerability scan for merchants who need one, an expired attestation or a questionnaire submitted for the wrong type of business.",
+        "Many merchants never received the request. It may have gone to an old email, been buried in a statement message or arrived from an unfamiliar portal. By the time the fee appears, months may have passed."
+      ],
+      "bullets": [
+        "No questionnaire submitted for the current year.",
+        "Attestation expired after twelve months.",
+        "Wrong questionnaire chosen for how you accept cards.",
+        "Failed or missing external vulnerability scan where one is required.",
+        "Login credentials for the compliance portal were never set up or were lost."
+      ]
+    },
+    {
+      "h2": "Picking the right questionnaire",
+      "paragraphs": [
+        "The SAQ you complete depends on how you handle card data. Merchants who accept cards only through a validated, encrypted point-to-point terminal, or who outsource all online payments to a hosted page, usually face shorter questionnaires. Merchants who key cards into a virtual terminal on their own computer or whose websites handle card data directly face longer ones.",
+        "Choosing the shortest form is tempting but wrong if it does not match your setup. Answer based on how card data actually moves through your business, and ask your provider or a qualified security professional if you are unsure. Your equipment choices matter: an encrypted terminal that never exposes card data to your network can simplify your compliance."
+      ]
+    },
+    {
+      "h2": "How to stop paying the fee",
+      "paragraphs": [
+        "The process is usually straightforward. Gather your credentials and the steps below, then work through them in one sitting."
+      ],
+      "steps": [
+        "Find the fee on your statement and note its exact name and amount.",
+        "Ask your processor which portal or vendor handles your validation and request login access.",
+        "Identify how you accept cards: terminal, POS, website, phone or mobile.",
+        "Complete the matching SAQ honestly and fix any gaps it reveals.",
+        "Run the external vulnerability scan if your setup requires one.",
+        "Sign and submit the attestation, then keep a copy.",
+        "Ask in writing that the non-compliance fee be removed going forward, and ask whether past charges can be credited."
+      ]
+    },
+    {
+      "h2": "Keeping it from coming back",
+      "paragraphs": [
+        "Set a calendar reminder about eleven months out to renew. Keep your attestation, scan results and a short note describing your card-handling process in one folder. Train staff not to write down or photograph card numbers, and keep software and devices updated.",
+        "Say you are paying a $30 monthly non-compliance fee. That is $360 a year, plus the underlying program fee if there is one. An hour of validation can end the penalty, which is a better trade than paying it for years.",
+        "MCCPS offers PCI compliance help and can walk you through the questionnaire, and its free statement analysis will flag compliance-related charges. Rules and requirements are set by the card networks and your acquirer and may change, so follow the instructions your provider gives you."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A PCI non-compliance fee is usually a penalty for failing to complete annual validation, not proof of a breach.",
+    "A PCI program fee and a non-compliance fee are different charges that can appear together.",
+    "Choose the self-assessment questionnaire that matches how card data actually flows through your business.",
+    "Completing and attesting once a year, and asking for the fee to be removed in writing, typically ends the charge."
+  ],
+  "faq": [
+    {
+      "q": "What is a PCI non-compliance fee?",
+      "a": "It is a recurring charge some processors bill when a merchant has not completed the annual PCI validation, typically a self-assessment questionnaire and sometimes a scan. It is a penalty for missing paperwork, and it usually stops once validation is completed and recorded."
+    },
+    {
+      "q": "Is the PCI compliance fee required?",
+      "a": "PCI validation is required by the card networks through your acquirer, but the specific fee your processor charges for a program or portal varies. Ask what the fee covers, whether you can complete validation another way and whether the program is optional."
+    },
+    {
+      "q": "Which SAQ do I need?",
+      "a": "It depends on how you accept cards. Using an encrypted terminal or an outsourced hosted payment page generally leads to shorter forms, while handling card data on your own systems leads to longer ones. Your provider's portal usually walks you through a series of questions to choose."
+    },
+    {
+      "q": "Can I get past non-compliance fees refunded?",
+      "a": "Sometimes. Once you are compliant, you can ask your provider to waive or credit past charges. Results vary by provider and contract, so ask in writing and be ready to show your completed attestation. Do not assume it will be granted."
+    },
+    {
+      "q": "Does paying a PCI fee make me compliant?",
+      "a": "No. Paying a fee does not satisfy validation. Compliance means meeting the requirements and completing the attestation. MCCPS can help you through PCI compliance and will flag related charges in a free statement review."
+    }
+  ],
+  "related": [
+    "pci-compliance",
+    "become-pci-compliant",
+    "hidden-fees-on-merchant-statements",
+    "payment-security-checklist",
+    "encryption-p2pe-explained",
+    "data-breach-response"
+  ],
+  "icon": "shield",
+  "read_minutes": 7
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "b2b-payment-trends",
+  "category": "blog",
+  "title": "Accepting Cards From Business Customers",
+  "seo_title": "Accepting Cards From Business Customers | MCCPS",
+  "meta_description": "How to accept corporate and purchasing cards from business customers: invoices, payment links, Level 2/3 data, large tickets, ACH options and fees.",
+  "primary_keyword": "accepting cards from business customers",
+  "keywords": [
+    "B2B card payments",
+    "corporate card acceptance",
+    "purchasing cards",
+    "B2B invoice payment links",
+    "large ticket card processing",
+    "business customers pay by card",
+    "virtual card payments"
+  ],
+  "eyebrow": "B2B",
+  "dek": "Why more business buyers want to pay by card, what changes when the buyer is a company, and how to set up your process so it pays off.",
+  "intro": [
+    "Business buyers have always paid by check, wire or bank transfer. More of them now ask a simple question when an invoice arrives: can I put this on the company card? For the supplier, saying yes can speed up payment and win business. Saying no can send the order to a competitor who will.",
+    "But B2B card acceptance is not the same as retail. Tickets are larger, buyers use different card types, and the fees behave differently. A little planning keeps the convenience from eating your margin."
+  ],
+  "sections": [
+    {
+      "h2": "Why business buyers pay by card",
+      "paragraphs": [
+        "For the buyer, cards offer speed, a clear record, control through spending limits and sometimes rewards or extended payment terms through the card statement. A purchasing manager can approve and pay in one step rather than cutting a check and waiting for the next payment run.",
+        "For the supplier, the benefit is quick, predictable payment. Instead of chasing an invoice that sits for 30 or 45 days, you receive funds in a day or two. That improvement in cash flow is often the real reason suppliers accept cards, even though the fees are higher than a bank transfer.",
+        "There is a competitive angle too. When two suppliers offer similar products and one accepts cards while the other insists on a check, the card option removes friction for the buyer. Even if the buyer eventually pays by bank transfer, having the choice signals that you are easy to do business with, which matters most when a purchasing manager is in a hurry and needs to close out an order before month end."
+      ]
+    },
+    {
+      "h2": "The types of cards you will see",
+      "paragraphs": [
+        "Business customers may pay with small business credit cards, corporate cards issued to employees, purchasing cards designed for company procurement, fleet cards, government purchasing cards and virtual cards generated for a single payment. Each is a commercial card, usually priced under commercial interchange categories that can differ from consumer rates.",
+        "Virtual cards deserve a mention. Some buyers' accounts payable software pays suppliers by issuing a one-time card number by email or portal. You process it like any card-not-present payment, often through a virtual terminal or invoice link. Accepting them can speed collections from larger customers."
+      ],
+      "bullets": [
+        "Small business credit cards and corporate cards",
+        "Purchasing cards for procurement",
+        "Fleet cards for fuel and vehicle expenses",
+        "Government purchasing cards",
+        "One-time virtual cards from AP automation"
+      ]
+    },
+    {
+      "h2": "Large tickets and how fees behave",
+      "paragraphs": [
+        "A retail swipe might be $40. A B2B invoice might be $4,000 or $40,000. At a percentage-based rate, fees on large invoices add up quickly. Say a $20,000 invoice carries a 2.7% effective rate. The fee is $540. The same sale by ACH might cost a small flat amount. That is a hypothetical example, but the pattern is real, which is why many suppliers manage which invoices go to cards.",
+        "Level 2 and Level 3 data can reduce interchange on qualifying commercial card sales, and large-ticket interchange categories exist for some card types and amounts. How much of that reaches you depends on your pricing model. Interchange-plus arrangements pass these differences through more directly than flat or tiered ones.",
+        "Another factor is how often these payments occur. Repeat B2B customers who order every month are good candidates for cards on file, with proper consent, or for scheduled ACH debits. The more routine the payment, the less each transaction needs staff attention, and the lower the chance that an invoice sits unpaid because it was forgotten."
+      ]
+    },
+    {
+      "h2": "Invoices, payment links and virtual terminals",
+      "paragraphs": [
+        "The easiest way to accept cards from a business customer is to attach a payment link or button to the invoice. The buyer clicks, enters card details or uses a saved card, and the payment posts against the invoice. A virtual terminal lets your staff key in a card number provided by phone or email, and can include purchase order numbers and tax amounts.",
+        "Good invoice hygiene helps. Include the purchase order number, clear line items and tax. Buyers' AP departments often need those details to approve the payment, and the same data supports Level 2 and 3 submission."
+      ],
+      "steps": [
+        "Add a card payment option to invoices and your accounts receivable process.",
+        "Include purchase order numbers and itemized detail.",
+        "Use a virtual terminal or payment link that supports AVS and CVV.",
+        "Capture Level 2 and Level 3 data where your platform allows.",
+        "Offer ACH for very large invoices and decide when to steer buyers toward it."
+      ]
+    },
+    {
+      "h2": "Pricing choices for B2B",
+      "paragraphs": [
+        "Some suppliers absorb the card fee as a cost of doing business. Others set a policy that encourages ACH or check for large payments, and accept cards for smaller ones. Some use a surcharge or a dual pricing program, but rules vary by state and card network, including limits on commercial or debit cards, disclosure and signage requirements. Confirm current requirements before adding any such charge to invoices.",
+        "Whatever approach you choose, communicate it in your terms and on the invoice. A buyer who is surprised by a fee at payment time is more likely to dispute or delay."
+      ]
+    },
+    {
+      "h2": "Risk, disputes and getting started",
+      "paragraphs": [
+        "B2B transactions have their own risks. Large, one-off orders from new customers draw fraud attempts. Verify new buyers, use AVS and CVV, and consider a deposit or ACH for the first large order. Keep purchase orders, signed delivery receipts and correspondence, which are the evidence you need if a dispute arises.",
+        "MCCPS offers B2B Level 2 and Level 3 processing, one-time and recurring payments, and a free statement analysis that shows how much of your volume is commercial cards and what you pay on it. The team can also help you decide how to structure card and ACH options for larger invoices.",
+        "Before you roll out card acceptance for business customers, look at your last twelve months of invoices. Note the average amount, the largest ones, how long each took to collect and what share came from repeat customers. That history helps you decide where cards add value and where a different method is smarter."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Business buyers increasingly want to pay suppliers by card.",
+    "Commercial cards include corporate, purchasing, fleet, government and virtual cards.",
+    "Fees on large invoices add up, so decide which invoices go to cards versus ACH.",
+    "Level 2/3 data and interchange-plus pricing can improve B2B card economics.",
+    "Keep purchase orders and delivery records to support disputes."
+  ],
+  "faq": [
+    {
+      "q": "Should I accept credit cards for B2B invoices?",
+      "a": "Often yes, because it speeds payment and meets buyer expectations. Weigh the fees against the cash flow benefit, and consider steering very large invoices to ACH."
+    },
+    {
+      "q": "What is a purchasing card?",
+      "a": "A purchasing card is a commercial card issued to a company's employees for procurement. It carries spending controls and often supports detailed data like purchase order numbers, which relates to Level 2 and Level 3 submissions."
+    },
+    {
+      "q": "How do I accept a virtual card payment?",
+      "a": "Process it like any keyed card-not-present payment, typically through a virtual terminal or invoice portal. Include invoice or purchase order details when your system supports it."
+    },
+    {
+      "q": "Can I add a fee for card payments from businesses?",
+      "a": "Possibly, but surcharge and dual pricing rules vary by state and card network, and have requirements for disclosure. Confirm current rules before adding any fee to invoices."
+    },
+    {
+      "q": "How do I reduce fees on large B2B card payments?",
+      "a": "Submit Level 2 and Level 3 data where eligible, use a pricing model that passes through interchange savings, and offer ACH for the largest invoices."
+    }
+  ],
+  "related": [
+    "process-b2b-payments",
+    "level-2-3-data-explained",
+    "ach-vs-credit-card",
+    "b2b-wholesale",
+    "large-ticket-transactions",
+    "invoicing-and-payment-links"
+  ],
+  "icon": "briefcase",
+  "read_minutes": 7
+}

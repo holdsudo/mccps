@@ -1,0 +1,116 @@
+{
+  "slug": "surcharge-rules-by-state",
+  "category": "blog",
+  "title": "Credit Card Surcharge Rules: What to Check in Your State",
+  "seo_title": "Credit Card Surcharge Rules: What to Check by State | MCCPS",
+  "meta_description": "Surcharge rules differ by state and card network and change often. Here is a practical checklist of what to verify before adding a credit card surcharge.",
+  "primary_keyword": "credit card surcharge rules by state",
+  "keywords": [
+    "surcharge laws by state",
+    "is credit card surcharging legal",
+    "surcharge cap",
+    "surcharge disclosure requirements",
+    "card network surcharge rules",
+    "surcharge signage",
+    "surcharging debit cards"
+  ],
+  "eyebrow": "Compliance",
+  "dek": "There is no single national answer. This is a checklist of what to confirm for your state and your card networks before charging a customer a surcharge.",
+  "intro": [
+    "Few topics generate as much confident misinformation as surcharging. You will find articles declaring it legal everywhere, illegal in several states, capped at a specific number or unrestricted. The honest answer is that the rules depend on where you operate, which cards you accept and which networks' policies apply to you, and all of those can change.",
+    "This article does not tell you what the law is in any particular state. Instead, it explains the kinds of rules that exist, who sets them and how to verify what applies to your business today, so you can have an informed conversation with your processor and your attorney."
+  ],
+  "sections": [
+    {
+      "h2": "Why there is no single rule",
+      "paragraphs": [
+        "Surcharging is governed by several overlapping layers. State laws may allow it, restrict it or prohibit it, and some states have changed their positions over time or been affected by litigation. Card networks have their own written rules for merchants who surcharge, which apply on top of state law and can be stricter. Your agreement with your processor adds a third layer, because your acquirer may have its own requirements for registration and disclosure.",
+        "Where the layers conflict, the most restrictive generally controls what you can do. A practice that is allowed under your state's law might still violate your processor's or a network's rules, and the reverse is also true."
+      ]
+    },
+    {
+      "h2": "What the rules typically cover",
+      "paragraphs": [
+        "Even though details vary, the topics that rules address are fairly consistent. When you research your own location, these are the questions to answer, and the answers should come from current primary sources rather than from a blog post.",
+        "Write down the answers and the date you checked them. If your program is ever questioned, a record of what you verified and when is far more useful than a memory.",
+        "Be wary of anything that sounds too final. Statements such as surcharging is banned in a given state, or capped at a certain percent everywhere, may reflect a rule that has been changed, challenged or superseded. Even official summaries can lag behind recent developments. The safest habit is to note the source and date of everything you rely on, and to refresh it before any major change to your pricing.",
+        "Also remember that your own contract may restrict you beyond what the law requires. Some processors do not support surcharging on certain account types, or require you to use specific software or signage templates. Ask early, because the answer can shape which approach is practical at all."
+      ],
+      "bullets": [
+        "Whether surcharging is allowed at all in your state, and for which payment types.",
+        "Whether there is a cap on the amount or percentage, and how it is calculated.",
+        "What advance notice must be given to your acquirer and the card networks.",
+        "How the surcharge must be disclosed at the entrance, at the point of sale and on the receipt.",
+        "Whether debit cards, prepaid cards and business cards are treated differently.",
+        "Whether the surcharge may be shown as a separate line item and how it must be labeled.",
+        "Special rules for online, phone and recurring payments."
+      ]
+    },
+    {
+      "h2": "Where to find reliable answers",
+      "paragraphs": [
+        "Start with the card networks' own merchant rules, which are published and updated periodically. Ask your processor or acquirer for their surcharging requirements in writing, since they enforce them. For state law, consult your state's statutes or attorney general's consumer protection guidance, or speak with a business attorney who knows your jurisdiction.",
+        "Trade associations and your state's small business resources sometimes summarize the landscape, but treat summaries as leads rather than conclusions, and check the date. A summary from last year may already be out of date."
+      ]
+    },
+    {
+      "h2": "Operating across state lines",
+      "paragraphs": [
+        "Multi-state and online sellers face a harder question: whose rules apply? Often the answer depends on where the customer is, where the business is located or both, and there is not always a clear rule. Some businesses simplify by applying the most conservative standard across all locations or by choosing a program that does not rely on surcharging at all.",
+        "If you take payments over the phone or on the web from customers in several states, raise this explicitly with your attorney. It is a place where assumptions fail quietly."
+      ]
+    },
+    {
+      "h2": "Alternatives if surcharging is restricted",
+      "paragraphs": [
+        "If surcharging turns out to be unavailable or impractical for you, other approaches exist. Negotiating a lower markup or moving to interchange-plus can reduce cost without any customer-facing change. A properly structured dual-pricing or cash-discount program is treated differently from a surcharge by many networks and states, although it has its own disclosure requirements and its own limits.",
+        "None of these is a loophole. Each has rules, and each should be checked against current requirements. The point is that surcharging is one tool among several, and the best fit depends on where you operate and who your customers are."
+      ]
+    },
+    {
+      "h2": "A practical checklist before you start",
+      "paragraphs": [
+        "First, confirm in writing with your processor what they require and whether they support surcharging for your account. Second, verify your state's current position with an attorney or official source. Third, check network notice and cap requirements. Fourth, prepare signage, receipts and staff scripts. Fifth, test the setup on a few transactions before rolling it out.",
+        "MCCPS can help with the practical side. Its free, no-obligation statement analysis shows what card acceptance currently costs you, and its team can walk through compliant program options on a call. They will not tell you what your state's law says, which is a question for your attorney, but they can show you what the numbers look like under different structures."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Surcharge rules come from state law, card network rules and your processor agreement, and the strictest applies.",
+    "Laws and network policies change, so verify current requirements from primary sources and record the date.",
+    "Typical rule topics include caps, advance notice, disclosure, debit treatment and receipt labeling.",
+    "If surcharging is restricted, other compliant pricing approaches may exist, with their own rules."
+  ],
+  "faq": [
+    {
+      "q": "Is credit card surcharging legal in my state?",
+      "a": "It depends on your state and on network rules, and both can change. Some states allow it with conditions, and others restrict it. This article cannot say what applies to you today, so check your state's current law with an attorney or official source, and confirm your processor's requirements."
+    },
+    {
+      "q": "Is there a maximum surcharge amount?",
+      "a": "Card networks commonly set caps for credit card surcharges, and some states add their own limits. The exact figures change, so confirm the current cap from your processor and the networks' published rules rather than relying on a number you saw online."
+    },
+    {
+      "q": "Do I have to tell my processor I am surcharging?",
+      "a": "Generally yes. Networks expect merchants to notify their acquirer and the networks before they begin, and processors usually have their own enrollment or approval steps. Ask your processor for the process and timeline before changing your prices or receipts."
+    },
+    {
+      "q": "What must my signage say?",
+      "a": "Requirements typically include notice at the entrance and at the point of sale, and a clear explanation of the amount or percentage and which payments it applies to. Exact wording and placement vary, so follow your processor and network guidance and consult an attorney for your state."
+    },
+    {
+      "q": "Can MCCPS tell me what the law is in my state?",
+      "a": "MCCPS is not a law firm and cannot give legal advice. It can review your statements for free, explain how compliant pricing programs work and help you set up whatever you decide is allowed. For legal questions, consult an attorney or your state's official resources."
+    }
+  ],
+  "related": [
+    "cash-discount-vs-surcharge",
+    "dual-pricing-explained",
+    "surcharging-programs",
+    "pass-fees-to-customers",
+    "convenience-fees-explained",
+    "zero-processing-fees"
+  ],
+  "icon": "scale",
+  "read_minutes": 7
+}

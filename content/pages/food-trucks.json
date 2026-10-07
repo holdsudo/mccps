@@ -1,0 +1,104 @@
+{
+  "slug": "food-trucks",
+  "category": "industries",
+  "title": "Food Truck Payment Processing",
+  "seo_title": "Food Truck Payment Processing | MCCPS",
+  "meta_description": "Food truck payment processing with mobile readers, offline mode and event-day volume in mind. Learn what to look for and request a free statement analysis.",
+  "primary_keyword": "food truck payment processing",
+  "keywords": ["mobile credit card reader", "food truck POS", "offline card payments", "festival payment processing", "mobile merchant account", "tap to pay food truck", "food truck fees"],
+  "eyebrow": "Industry payments",
+  "dek": "Spotty signal, a line out the window and a festival that pays your month: how a truck should take cards.",
+  "intro": [
+    "A food truck lives and dies by the lunch rush and the weekend event. You might do most of your yearly revenue in a handful of festival days, working out of a window with a generator humming and a cell signal that fades every time the crowd grows. Your payment setup has to work in exactly those conditions.",
+    "Food truck payment processing is built around mobility, speed and resilience. The sections below cover the reader types, what to do when the signal drops, how to prepare for event-day volume and how to keep fees from eating a business that already runs on thin margins."
+  ],
+  "sections": [
+    {
+      "h2": "Choosing mobile hardware",
+      "paragraphs": [
+        "Most trucks choose between three types of reader: a small Bluetooth chip-and-tap reader that pairs with a phone or tablet, a standalone wireless terminal with its own cellular or Wi-Fi connection, and a tap-to-phone option that turns an NFC-enabled smartphone into a reader. Each has trade-offs in cost, battery life and how fast the line can move.",
+        "A pairing that works at a desk can behave differently in a cramped truck. Test your setup in the truck itself, with the generator running and the crowd noise around you, before the first big event. Keep chargers and a backup reader on board, because a dead battery during a rush is the most common failure."
+      ],
+      "bullets": [
+        "Bluetooth readers are compact and inexpensive but depend on a phone's data connection.",
+        "Wireless terminals carry their own connectivity and usually include a printer.",
+        "Tap-to-phone is light and fast, with fewer accessories to lose.",
+        "Whatever you pick, accept chip, tap and magstripe, not just one."
+      ]
+    },
+    {
+      "h2": "What happens when the signal drops",
+      "paragraphs": [
+        "Festival fields and crowded lots are notorious for weak cell service. If the reader cannot reach the processor, a normal transaction fails. Some systems offer an offline mode that stores the card data securely and submits it when connection returns. That keeps the line moving but means the card is not approved in real time, so a declined card is discovered later and you are left with an unpaid sale.",
+        "Use offline mode with limits. Cap the ticket size you will accept offline, and keep a note of how many offline sales you ran, so you can reconcile them when the connection returns. Better, carry a mobile hotspot on a different carrier from your phone, or put a cellular router in the truck. Redundancy is cheap compared with a lost hour at peak sales."
+      ]
+    },
+    {
+      "h2": "Preparing for event-day volume",
+      "paragraphs": [
+        "Say your truck does $1,200 on an ordinary day but $7,500 at a weekend festival, mostly on cards. That surge can trigger risk controls at a processor, such as a temporary hold or a limit review, because it looks different from your usual pattern. It is sensible to tell your processor about big events ahead of time and ask about your monthly volume limits.",
+        "Think about line speed too. Pre-set your menu in the POS, use large item buttons, and consider a second reader so two staff members can take payments at once. Printing receipts is optional; offering email or text receipts saves paper and time."
+      ],
+      "steps": [
+        "Charge all devices and pack spare cables the night before.",
+        "Confirm your menu and prices in the POS.",
+        "Test a tap payment and a chip payment before opening.",
+        "Set up a hotspot as backup connectivity.",
+        "Close the batch at the end of the day and compare to your count."
+      ]
+    },
+    {
+      "h2": "Tips, taxes and the daily close",
+      "paragraphs": [
+        "Most truck customers expect a tip screen or a jar. A tip screen on the reader keeps card tips attached to the right shift and makes payout straightforward. Decide in advance how tips are shared among staff, and confirm the reporting rules with your accountant.",
+        "Sales tax can vary by event location or city, so check that your POS applies the correct rate where you are parked. A clean daily batch close gives you a total you can reconcile against orders, and the reporting dashboard from MCCPS makes it easier to compare locations and events side by side."
+      ]
+    },
+    {
+      "h2": "Keeping fees under control",
+      "paragraphs": [
+        "Because trucks sell small tickets at high speed, per-transaction fees matter. If you process 1,500 card sales a month at an average of $14, that is $21,000 in volume. At a 3.0 percent effective rate you pay $630; a plan with a lower effective rate saves money in direct proportion. Watch for monthly minimums too, since many trucks have slow winter months.",
+        "Some operators use a cash discount or dual pricing program, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. These programs have rules that vary by state and card network and require clear signage and disclosure, so a menu board change should only follow a check of current requirements."
+      ]
+    },
+    {
+      "h2": "Next steps for your truck",
+      "paragraphs": [
+        "If your current reader is tied to a long contract, it helps to know what you are signed up for before changing anything. MCCPS offers a free, no-obligation savings analysis that reviews two months of your statements line by line, and savings depend on what the review finds. Many existing re-programmable readers can be kept, and next-day funding and free 24/7 technical support are available.",
+        "That support matters on a truck. When the reader will not connect on a Saturday morning at the market, you want a real person to answer, not a ticket queue."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Test mobile readers inside the truck, with the generator and crowd noise on.",
+    "Offline mode keeps sales moving but carries decline risk, so limit it.",
+    "Tell your processor about big event days so volume spikes do not trigger holds.",
+    "Per-transaction fees matter on small tickets; check your effective rate.",
+    "Carry a backup reader and a second connection."
+  ],
+  "faq": [
+    {
+      "q": "What is the best card reader for a food truck?",
+      "a": "It depends on your connectivity and volume. Bluetooth readers are compact and cheap, wireless terminals bring their own connection, and tap-to-phone is lightweight. Many trucks carry two types for redundancy. Test whichever you choose inside the truck before an event."
+    },
+    {
+      "q": "Can I take card payments without internet?",
+      "a": "Some systems support offline mode, which stores the transaction and submits it later. Because the card is not approved in real time, some sales may decline afterward. Limit offline ticket sizes and carry a backup hotspot when possible."
+    },
+    {
+      "q": "Will a big festival weekend cause my account to be frozen?",
+      "a": "A sudden jump in volume can trigger a review at some processors. Tell your processor ahead of big events, and ask about your volume limits and hold policies so you are not surprised."
+    },
+    {
+      "q": "How do I handle tips on a food truck?",
+      "a": "Use a tip prompt on the reader so card tips are recorded with the sale, and decide how tips are distributed. Check with your accountant about reporting and payroll treatment of tips."
+    },
+    {
+      "q": "Can a food truck pass card fees to customers?",
+      "a": "Some businesses do via surcharging, cash discount or dual pricing, but rules vary by state and card network and require signage and disclosure. Confirm current requirements for the places where you operate."
+    }
+  ],
+  "related": ["accept-payments-on-the-go", "accept-payments-at-events", "mobile-payments", "offline-payments", "farmers-markets-and-vendors", "restaurants"],
+  "icon": "truck",
+  "read_minutes": 6
+}

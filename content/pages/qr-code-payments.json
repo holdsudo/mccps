@@ -1,0 +1,125 @@
+{
+ "slug": "qr-code-payments",
+ "category": "blog",
+ "title": "QR Code Payments for Small Businesses",
+ "seo_title": "QR Code Payments for Small Businesses | MCCPS",
+ "meta_description": "How QR code payments work for small businesses: static and dynamic codes, table and counter use, fees, fraud risks like fake stickers, and setup tips.",
+ "primary_keyword": "QR code payments",
+ "keywords": [
+  "QR code pay at table",
+  "dynamic QR code",
+  "static QR code payment",
+  "scan to pay",
+  "QR code fraud",
+  "contactless QR checkout",
+  "QR menu ordering"
+ ],
+ "eyebrow": "Scan to pay",
+ "dek": "Where scan-to-pay fits at a counter, a table or a market stall, and how to use it without inviting trouble.",
+ "intro": [
+  "A printed square on a counter, a table tent or a receipt now invites customers to pick up their phone and pay. QR code payments appeal to businesses because they need little hardware and fit places where a terminal is awkward: outdoor markets, delivery handoffs, tableside service or a pop-up with a spotty connection.",
+  "But a QR code is only an entry point. What happens after the scan, which payment page opens, how the card is processed and how the money reaches you, depends on the platform behind it. Treat the code as a link in a chain, and each link needs attention.",
+  "This guide covers how QR payments work, how to set them up well and the security habits that keep customers and your business safe."
+ ],
+ "sections": [
+  {
+   "h2": "What actually happens when someone scans",
+   "paragraphs": [
+    "The customer's camera reads the code and opens a web address or an app screen. That page shows an amount or lets the customer enter one, and offers payment options such as a card or a mobile wallet. When the customer confirms, the payment is authorized and settled through your merchant account like any card-not-present transaction.",
+    "In other words, the QR code replaces typing a web address. It does not change the card network rules, the fees or the dispute process.",
+    "For a business that already has a terminal, QR payments add a path rather than replace one. They shine for the occasional customer who prefers their phone, for groups splitting a check and for situations where a handheld terminal would need to be carried around. The question is whether the addition is worth the setup effort for your volume."
+   ]
+  },
+  {
+   "h2": "Static versus dynamic codes",
+   "paragraphs": [
+    "A static code always opens the same page. It is simple and cheap to print, but the customer must enter the amount, which invites mistakes. A dynamic code is generated for a specific transaction, with the amount, order number and expiry baked in. It is displayed on a screen or printed on a check.",
+    "Dynamic codes reduce errors and fraud because each one is tied to a sale. Static codes suit donations, tips or fixed-price items. For most retail and restaurant uses, dynamic is the safer choice.",
+    "Privacy is worth a sentence. A scan opens a page in the customer's browser, so tell them plainly what the page does and keep the experience free of unexpected sign-ups. Customers who feel tricked into an account will remember it."
+   ],
+   "bullets": [
+    "Static: fixed destination, customer enters amount, easy to copy or replace.",
+    "Dynamic: unique per sale, includes amount and reference, can expire.",
+    "Printed on receipts or shown on a customer-facing screen.",
+    "Linked to your POS so payments close the check automatically."
+   ]
+  },
+  {
+   "h2": "Good places to use QR payments",
+   "paragraphs": [
+    "Pay-at-the-table is a natural fit: the check shows a code, the guests scan and pay, and the server is freed. Markets, trade shows and food stalls can use a code when a terminal is impractical. Delivery and field service can place a code on an invoice or door hanger.",
+    "They are less ideal when the customer base has older phones or limited data, or in places with poor reception. Keep a card reader or other option available.",
+    "Consider accessibility. Some customers have difficulty scanning because of vision, dexterity or an older device, and others may not have data service in your location. A staffed alternative at the counter keeps the experience fair to everyone."
+   ]
+  },
+  {
+   "h2": "Fees and pricing",
+   "paragraphs": [
+    "Most QR payments through a card gateway are priced like other card-not-present payments, which tend to cost more than chip or tap. Hypothetically, a $60 table payment at 3 percent costs $1.80. Confirm with your processor how QR payments are classified on your statement.",
+    "Some QR methods run on bank transfer or wallet systems with different fee structures. Which options exist depends on your region and provider. Compare total cost, funding time and dispute rights before promoting a particular one.",
+    "Lighting and print quality matter more than you expect. A glossy sticker under harsh light or a code smaller than a coin can fail to scan and frustrate customers. Test every placement at the time of day it will actually be used."
+   ]
+  },
+  {
+   "h2": "Security: fake stickers and other tricks",
+   "paragraphs": [
+    "The most common QR scam is simple: someone sticks a counterfeit code over yours, and customers unknowingly pay a stranger. Inspect your printed codes regularly, use tamper-resistant materials and place them where staff can see them. Dynamic codes displayed on a screen are harder to swap.",
+    "Make the payment page show your business name so customers can confirm they are paying you. Tell customers where your official codes are and warn them about codes found elsewhere.",
+    "Keep your records tidy. Map every code to a location, purpose and owner, with a date of issue. If a code is retired, make sure it is removed from the field and the destination page is disabled, so old stickers cannot become a liability."
+   ],
+   "steps": [
+    "Check printed codes at open and close each day.",
+    "Use laminated or tamper-evident holders.",
+    "Prefer dynamic codes shown on a screen or receipt.",
+    "Make sure the payment page displays your business name.",
+    "Train staff to report any altered or missing code at once."
+   ]
+  },
+  {
+   "h2": "Setting up and testing",
+   "paragraphs": [
+    "Ask your processor whether QR payments are supported on your account and how they tie to your POS. Create a test code, scan it from a few phone models and complete a small payment. Verify that the amount, receipt and settlement all behave correctly.",
+    "MCCPS supports a range of terminals, gateways and mobile payments, and the free statement analysis can show how card-not-present volume is priced for you today. Free 24/7 technical support helps if a code stops working at a busy moment."
+   ]
+  }
+ ],
+ "key_takeaways": [
+  "A QR code is an entry point; the processor behind it sets fees and rules.",
+  "Dynamic codes tied to a sale are safer than static ones.",
+  "Table, market and field service uses fit best.",
+  "Inspect codes for counterfeit stickers regularly.",
+  "Keep a card reader as a backup for customers without a good connection."
+ ],
+ "faq": [
+  {
+   "q": "Is a QR payment a card payment?",
+   "a": "Often yes: the code opens a payment page and the customer pays by card or wallet, which is processed as card-not-present. Some QR methods use bank transfers instead, with different fees."
+  },
+  {
+   "q": "Are QR payments safe?",
+   "a": "They can be, with hosted payment pages and dynamic codes. The main risk is counterfeit codes, so inspect printed ones regularly and show your business name on the payment page."
+  },
+  {
+   "q": "Do I need special hardware?",
+   "a": "Generally no. You need a merchant account and a platform that creates codes, plus a way to display or print them. A card reader is still useful as a backup."
+  },
+  {
+   "q": "Will customers prefer scanning over tapping?",
+   "a": "Many prefer tapping because it is faster. QR works best where a terminal is awkward. Offer both and see what your customers choose."
+  },
+  {
+   "q": "Can I put a QR code on my receipt or invoice?",
+   "a": "Yes, a dynamic code on a receipt or invoice can let customers pay or tip later. Make sure it is tied to the specific transaction and expires after a sensible window."
+  }
+ ],
+ "related": [
+  "payment-links-guide",
+  "accept-payments-at-events",
+  "accept-payments-on-the-go",
+  "mobile-wallets-explained",
+  "contactless-payments-guide",
+  "farmers-markets-and-vendors"
+ ],
+ "icon": "phone",
+ "read_minutes": 6
+}

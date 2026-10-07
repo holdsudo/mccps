@@ -1,0 +1,83 @@
+{
+  "slug": "hotels-and-lodging",
+  "category": "industries",
+  "title": "Hotel & Lodging Payment Processing",
+  "seo_title": "Hotel & Lodging Payment Processing | MCCPS",
+  "meta_description": "How hotels, inns and B&Bs handle pre-authorizations, incidentals, deposits and PMS integration. A practical guide to lodging payment processing.",
+  "primary_keyword": "hotel payment processing",
+  "keywords": ["hotel merchant account", "pre-authorization hotel", "PMS payment integration", "bed and breakfast payment processing", "incidental holds", "lodging credit card processing", "no-show fee processing"],
+  "eyebrow": "Lodging payments",
+  "dek": "Pre-auths, incidentals, deposits and no-shows: how hotels and inns keep card payments clean from reservation to checkout.",
+  "intro": [
+    "A hotel never knows the final bill at the moment a guest hands over a card. The room rate is known, but the minibar, the restaurant charge, a late checkout and a damaged lamp are not. So lodging runs on a different payment rhythm from a retail shop: authorize first, adjust through the stay, and settle at the end.",
+    "That rhythm creates some of the most misunderstood items on a merchant statement, including holds that tie up a guest's available credit and incremental authorizations that quietly pile up. Whether you run a forty-room property, a seasonal inn or a three-room bed and breakfast, understanding the mechanics saves you from guest complaints and from avoidable fees.",
+    "This guide covers how lodging payments flow, how they connect to your property management system, and what to ask of a processor before you commit."
+  ],
+  "sections": [
+    {
+      "h2": "How a pre-authorization works at check-in",
+      "paragraphs": [
+        "At check-in the front desk typically submits an authorization request for the expected room charges plus an amount for incidentals. This does not move money. It asks the guest's bank to set aside that amount against the card's available credit or, for debit cards, against the account balance. The hold stays until you complete the transaction at checkout or the authorization expires.",
+        "Guests with debit cards feel this most, because the held amount can drop their spendable balance for days. Being open about it at check-in, ideally with the hold amount printed on the registration card, heads off a lot of calls to the front desk. When the final bill is posted, you capture the actual total and release the unused portion."
+      ]
+    },
+    {
+      "h2": "Incidentals and incremental authorizations",
+      "paragraphs": [
+        "Long stays or heavy charges to the room can exceed the original hold. Instead of surprising the guest at checkout, most lodging systems send incremental authorizations as the folio grows, adding to the hold rather than replacing it. This protects the property from declined cards at the end of a stay and keeps the final capture within what the issuer has already approved.",
+        "Your processor and PMS need to support this behavior and to track each authorization against the right reservation. If they do not, you may end up with orphaned holds that linger on a guest's card after departure, which is a frequent source of one-star reviews that mention being charged twice when, in fact, a hold simply had not dropped off."
+      ],
+      "bullets": [
+        "Confirm the hold amount and policy during check-in",
+        "Use incremental authorizations rather than one oversized hold",
+        "Void or release unused authorizations promptly at checkout",
+        "Keep folio detail so you can answer a dispute with itemized charges"
+      ]
+    },
+    {
+      "h2": "Connecting payments to your PMS",
+      "paragraphs": [
+        "Your property management system holds the reservation, the folio and the guest profile. Payments should flow through it rather than beside it, so that a card swiped at the front desk, a charge from the restaurant and a deposit taken online all land on the right folio. When processing is integrated, the PMS can sync authorizations, post captures, and reconcile the nightly batch automatically.",
+        "MCCPS integrates with almost any POS or software, and often with terminals a property already owns if they can be re-programmed. Before changing processors, ask your PMS vendor which gateways it supports so that you do not lose integrations you depend on. Keeping the PMS in the loop also supports night-audit, where the day is closed out and totals are verified."
+      ]
+    },
+    {
+      "h2": "Advance deposits, no-shows and cancellations",
+      "paragraphs": [
+        "Online bookings and phone reservations are card-not-present, which carries a higher fraud and dispute profile than a card dipped at the desk. Many properties take a deposit equal to the first night or a percentage of the stay at booking, and charge the balance on arrival. Your cancellation policy should be displayed during booking and repeated in the confirmation email.",
+        "No-show fees are lawful in many cases when the guest agreed to them, but disputes are common. If a guest claims they never agreed, the strongest evidence is the booking confirmation, the policy text they accepted, and the date and time stamps. Say you charge a first-night no-show fee of $180 and a guest disputes it; having the acceptance record on file is what usually carries the response."
+      ]
+    },
+    {
+      "h2": "Food, spa and other revenue centers",
+      "paragraphs": [
+        "Most hotels operate several mini businesses under one roof: a restaurant or breakfast room, a bar, a gift shop, perhaps a spa or event space. Each has different ticket sizes and different cost categories. A coffee in the lobby is a small-ticket card-present sale; a wedding block deposit is a large ticket that may be keyed in or paid by link.",
+        "Treat these as separate flows even if they share a merchant account, and use reports that break revenue out by outlet. For wedding and conference business, a quote and invoice process with payment links and installment deposits is cleaner than collecting card numbers by email, which you should never do. For B2B bookings from corporate travel buyers, Level 2 and Level 3 data on purchasing cards can lower interchange cost."
+      ]
+    },
+    {
+      "h2": "Costs, compliance and getting a review",
+      "paragraphs": [
+        "Lodging statements often contain a mix of card-present and card-not-present sales, rewards and travel cards, and corporate cards. That mix determines your effective rate. Say a property processes $120,000 a month at a 2.8% effective rate; that is $3,360 in fees, so even a modest correction is worth examining.",
+        "Because lodging stores guest data in the PMS, PCI scope deserves attention; tokenization and point-to-point encryption reduce what your systems touch. Any program that adds a fee to a guest folio, such as a surcharge, requires proper disclosure and depends on state and card network rules, so confirm what is currently allowed before adding one. MCCPS offers a free, no-obligation statement analysis and around-the-clock support, which matters in a business that never closes."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Pre-authorizations hold funds rather than move them; capture happens at checkout.",
+    "Incremental authorizations avoid end-of-stay declines but need PMS support to track.",
+    "Integration with your PMS keeps folios, deposits and batches reconciled.",
+    "Keep acceptance records for deposits and no-show fees to answer disputes.",
+    "Review your statement mix, since card type and entry method drive your effective rate."
+  ],
+  "faq": [
+    {"q": "Why does a hotel hold more than the room rate?", "a": "The hold usually covers the room charges plus an estimate for incidentals like room service or parking. It is an authorization, not a charge, and the unused portion is released after checkout. How quickly the guest sees it drop depends on their bank, and debit cards often take longer than credit."},
+    {"q": "Can a small inn use a mobile card reader?", "a": "Yes, many small properties and B&Bs use a smartphone or portable terminal alongside a virtual terminal for phone and online reservations. Check that your setup supports pre-authorizations and later captures if you hold funds at check-in, since not every basic reader handles that."},
+    {"q": "How should I handle a no-show charge?", "a": "Only charge if the policy was clearly disclosed and accepted at booking. Keep the confirmation, the policy text and the time stamp. Charge the card on file for the amount stated, send a receipt, and expect that some guests may dispute it with their bank."},
+    {"q": "Does my processor need to integrate with my PMS?", "a": "Integration is strongly recommended, because it posts payments to the correct folio, syncs authorizations and simplifies night audit. Before switching, confirm your PMS supports the gateway involved. MCCPS integrates with a wide range of systems and can advise on compatibility."},
+    {"q": "Can I add a resort fee or card surcharge to a folio?", "a": "Resort and mandatory fees have their own disclosure rules, and card surcharges are regulated by state and card network. Both require clear disclosure. Verify current requirements with your attorney and processor before adding either one."}
+  ],
+  "related": ["travel-agencies", "event-venues", "restaurants", "take-deposits-and-prepayments", "integrate-payments-with-pos", "chargeback-reason-codes"],
+  "icon": "building",
+  "read_minutes": 6
+}

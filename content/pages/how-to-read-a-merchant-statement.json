@@ -1,0 +1,118 @@
+{
+  "slug": "how-to-read-a-merchant-statement",
+  "category": "blog",
+  "title": "How to Read a Merchant Statement",
+  "seo_title": "How to Read a Merchant Statement, Section by Section | MCCPS",
+  "meta_description": "A merchant statement hides your true cost in dense tables. Learn each section, which numbers to pull, and how to calculate your effective rate in minutes.",
+  "primary_keyword": "how to read a merchant statement",
+  "keywords": [
+    "merchant statement explained",
+    "credit card processing statement",
+    "read processing statement",
+    "merchant statement sections",
+    "statement summary fees",
+    "interchange section",
+    "processing statement audit"
+  ],
+  "eyebrow": "Statement skills",
+  "dek": "Statements are designed to be filed, not read. Here is how to get the five numbers that matter out of eight dense pages.",
+  "intro": [
+    "Your processing statement arrives monthly, usually as a PDF, and runs from two pages to ten. Most owners glance at the deposit total, if that, and move on. The statement is, however, the only complete record of what you paid to accept cards, and inside it are the answers to questions you have probably been asking.",
+    "Formats differ between providers, but nearly every statement contains the same building blocks under different names. Once you can find them, comparing months and providers becomes straightforward."
+  ],
+  "sections": [
+    {
+      "h2": "Start with the summary page",
+      "paragraphs": [
+        "The first page typically shows the statement period, your merchant ID, total sales volume, number of transactions, refunds, chargebacks, total fees and net deposits. Some providers display fees in a single total, and others split them into categories.",
+        "Write down two numbers right away: gross card volume and total fees. Dividing fees by volume gives your effective rate, which is the most useful single metric. If your statement does not show total fees clearly, add up the section totals yourself."
+      ]
+    },
+    {
+      "h2": "The card brand and volume breakdown",
+      "paragraphs": [
+        "Next you will usually find a table of sales by card brand and sometimes by card type: credit, debit, rewards, commercial. This shows the mix of cards your customers use, which drives your interchange costs.",
+        "Look for the share of debit versus credit and any large volume in categories labeled keyed, manual or card-not-present. A heavy keyed share suggests an acceptance issue or a type of business that naturally takes phone orders."
+      ]
+    },
+    {
+      "h2": "The fee sections",
+      "paragraphs": [
+        "Fees are grouped differently depending on your pricing model. On an interchange-plus statement, you will see separate lines for interchange, network assessments and the processor's markup. On a tiered statement, you will see qualified, mid-qualified and non-qualified buckets. On a flat-rate statement, one rate applies to all volume. Regardless of format, the pieces below should be present in some form.",
+        "Check each against your agreement. Rates and fixed amounts should match what you signed.",
+        "Do not skip the fine print messages at the end or the cover page. Providers often announce fee changes, rate adjustments, new compliance requirements or changes to their terms in a short notice that is easy to overlook. If your contract allows changes with notice, those messages may be the only warning you receive. Read them each month, and keep them with the statement.",
+        "If your statement uses abbreviations or codes you do not recognize, ask for a glossary. Reputable providers will provide one. If they cannot or will not explain a charge in plain language, treat that as a flag to look more closely."
+      ],
+      "bullets": [
+        "Discount or processing fees: the percentage-based charges on sales.",
+        "Per-item or authorization fees: fixed cents per transaction, sometimes charged on declines too.",
+        "Interchange and assessments: pass-through costs, itemized or bundled.",
+        "Monthly fees: account, statement, gateway, support and minimum charges.",
+        "Compliance fees: PCI program charges and any non-compliance penalty.",
+        "Event fees: chargebacks, retrievals, ACH returns and batch fees.",
+        "Equipment fees: terminal rental, software and lease payments."
+      ]
+    },
+    {
+      "h2": "Interchange detail pages",
+      "paragraphs": [
+        "If your statement is itemized, later pages will list interchange categories with volume, transaction count, the rate and the dollar amount for each. This is where you can see how much of your volume qualified for the best categories and how much landed in costlier ones.",
+        "Scan for outliers: a category with a high rate and substantial volume, or odd-sounding categories with names such as standard, non-qualified or downgrade. A downgrade can mean a data field was missing or a batch was late, and it is often fixable."
+      ]
+    },
+    {
+      "h2": "Doing the math",
+      "paragraphs": [
+        "Take a hypothetical statement showing $42,000 in volume, 900 transactions and $1,176 in total fees. The effective rate is 2.8%, and the average ticket is about $47. Now break the fees out: perhaps $780 in interchange and assessments, $250 in markup and per-item fees, $95 in monthly and compliance charges and $51 in other items. Each piece can be compared against your agreement and against a competing quote.",
+        "If any line surprises you, ask your provider to explain it in writing. Common surprises include fees added after signing, minimums charged because volume dipped and fees with names that sound like pass-through costs but are not."
+      ]
+    },
+    {
+      "h2": "What to do next",
+      "paragraphs": [
+        "Keep a simple log of month, volume, fees and effective rate. A change of more than a few tenths of a percentage point without a change in your sales mix is worth investigating. Keep copies of at least a year of statements, since some fee disputes depend on seeing when something started.",
+        "If reading the statements is not how you want to spend an evening, MCCPS will do it for you. Its free, no-obligation analysis reviews two months of statements line by line and explains each piece. Whether savings are available depends on what the review finds, and nothing is promised in advance.",
+        "A final habit worth building is comparing a statement against your own sales records. Your point-of-sale reports or accounting software should show card sales for the month. If the statement's volume is noticeably different, find out why: timing, refunds, tips, a terminal that settled on a different batch or sales processed through another account can all explain gaps, but a mismatch you cannot explain is worth raising with your provider.",
+        "Tips deserve a special look for restaurants, salons and service businesses. Tip adjustments usually settle after the initial authorization, and fees apply to the final amount. Make sure the volume on your statement includes tips, and that your cost calculations do the same."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Pull two numbers from the summary first: gross card volume and total fees, then divide for your effective rate.",
+    "Statement formats differ, but all contain volume, fees by category, and event and compliance charges.",
+    "Interchange detail pages reveal downgrades and costly categories that may be fixable.",
+    "Log your statements monthly so changes are spotted early and fees are compared over time."
+  ],
+  "faq": [
+    {
+      "q": "What is the most important number on a merchant statement?",
+      "a": "Your effective rate, which equals total fees divided by gross card volume. It includes every cost, so it is the best number for comparing months and providers. Quoted rates and individual line items are less useful on their own."
+    },
+    {
+      "q": "Why does my statement have so many pages?",
+      "a": "Itemized statements list volume and fees by card brand, card type and interchange category, which adds up quickly. Bundled statements are shorter but show less detail. If you cannot tell what you are paying for, ask for a more detailed report or a full breakdown."
+    },
+    {
+      "q": "How do I find out if I am being overcharged?",
+      "a": "Compare each fee to your signed agreement, check pass-through costs against published schedules and calculate your effective rate. Then get a written quote for your volume from another provider. A free statement review from MCCPS can do this comparison for you."
+    },
+    {
+      "q": "What is a downgrade on my statement?",
+      "a": "It is a sale billed at a more expensive category than the best one available, often due to missing data, late settlement or keyed entry. Many downgrades can be reduced by fixing terminal settings, collecting address and security code data and closing batches daily."
+    },
+    {
+      "q": "How many months of statements should I keep?",
+      "a": "At least a year is a good practice, and your accountant may want more for tax purposes. Having a history lets you see when a fee began or a rate changed, which helps in any discussion with your provider or when comparing quotes."
+    }
+  ],
+  "related": [
+    "effective-rate-explained",
+    "hidden-fees-on-merchant-statements",
+    "audit-your-merchant-statement",
+    "free-statement-analysis",
+    "interchange-explained",
+    "statement-analysis-sales-tool"
+  ],
+  "icon": "file",
+  "read_minutes": 6
+}

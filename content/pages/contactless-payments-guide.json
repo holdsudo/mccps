@@ -1,0 +1,121 @@
+{
+  "slug": "contactless-payments-guide",
+  "category": "blog",
+  "title": "Contactless Payments: A Merchant Guide",
+  "seo_title": "Contactless Payments Guide for Merchants | MCCPS",
+  "meta_description": "How contactless NFC payments work, what you need to accept tap cards and phones, how limits and security behave, and how it affects speed and cost.",
+  "primary_keyword": "contactless payments for merchants",
+  "keywords": [
+    "accept contactless payments",
+    "NFC payments",
+    "tap to pay terminal",
+    "contactless card limit",
+    "contactless security",
+    "tap card reader",
+    "mobile wallet payments"
+  ],
+  "eyebrow": "Tap to pay",
+  "dek": "What happens when a customer taps, what equipment you need, and how contactless fits with chip, wallets and everyday checkout speed.",
+  "intro": [
+    "A customer holds a card or phone near your terminal, you hear a beep, and the sale is done in a second or two. That small moment is contactless payment, and customers increasingly expect it. If your terminal does not accept it, some will assume your business is behind the times, and a few will pay cash or go elsewhere.",
+    "Behind that beep is a short, structured exchange of data. Knowing how it works helps you decide on equipment, answer customer questions about safety, and set up your counter to take advantage of it."
+  ],
+  "sections": [
+    {
+      "h2": "How a tap actually works",
+      "paragraphs": [
+        "Contactless uses near-field communication, or NFC, a short-range radio technology that works over a few centimeters. The card or phone has an antenna and a chip. When it comes close to the terminal's reader, it powers the chip briefly and begins a conversation.",
+        "The terminal and the chip exchange details, the chip produces a one-time cryptogram for the transaction, and the terminal sends the authorization request to the processor and card network. The issuer approves or declines. Because the cryptogram is unique each time, copying the data from one tap does not let a thief reproduce a valid payment."
+      ]
+    },
+    {
+      "h2": "Cards versus phones and watches",
+      "paragraphs": [
+        "Contactless comes in two forms. Physical cards display a wave-style symbol and use the card's own chip. Mobile wallets on phones and watches use a tokenized version of the card number stored on the device, plus on-device authentication such as a fingerprint, face scan or passcode. To the merchant both look like a tap, but the wallet version typically adds another layer of security.",
+        "Wallet payments also help with higher-value purchases because the customer has already unlocked the device, which can serve as a built-in verification step. Your terminal does not need special settings for each wallet; it needs a compliant NFC reader and current software.",
+        "From a practical standpoint, the main difference you will notice is on the receipt and in reports. Wallet transactions are tokenized, so the card number shown is often a device-specific number rather than the last four digits printed on the customer's plastic card. That can confuse refunds if staff ask the customer to show the card. Teach your team that a refund goes back to the same payment method, and that the customer may need to present the same phone or watch."
+      ],
+      "bullets": [
+        "Contactless cards use the physical card's chip",
+        "Phone and watch wallets use a device-specific token",
+        "Wallets add biometric or passcode authentication",
+        "Both are processed like card-present transactions"
+      ]
+    },
+    {
+      "h2": "Limits, PINs and verification",
+      "paragraphs": [
+        "Many contactless transactions below a certain amount are approved without a PIN or signature. That threshold is set by the issuer, the network and sometimes the country, and it can change, so there is no single number to rely on. When the amount is higher or the issuer wants extra verification, the terminal may ask the customer to insert the chip and enter a PIN.",
+        "As a merchant, you should not need to override these prompts. If the terminal asks for a PIN, simply let the customer follow the prompts. If a tap declines, trying the chip insertion is a normal next step."
+      ]
+    },
+    {
+      "h2": "What equipment you need",
+      "paragraphs": [
+        "To accept tap payments, your terminal needs an NFC reader and software certified with your processor. Many newer terminals include this by default, while older swipe-only or chip-only models do not. Some smartphone-based setups also accept taps by using the phone's own NFC antenna, which suits mobile businesses.",
+        "Placement matters more than people expect. A reader mounted at the wrong angle or hidden behind a counter edge slows customers down. Put the terminal where customers can tap without reaching or handing it over, and check that the reader surface is visible. MCCPS can often keep a terminal you already own if it supports contactless and can be re-programmed, so check before buying anything new."
+      ]
+    },
+    {
+      "h2": "Speed, cost and customer experience",
+      "paragraphs": [
+        "Contactless can shorten each checkout by several seconds, which adds up in a busy lunch line or a convenience store rush. It also reduces card handling, which some customers prefer. Faster lines can raise your throughput without adding staff.",
+        "On cost, contactless transactions are generally card-present, which is often priced more favorably than card-not-present. Specific interchange categories vary by card type and network, so the effect on your fees depends on your pricing structure. Your processing statement shows how these transactions are categorized, and a free statement analysis from MCCPS can help you see it.",
+        "If you run a business with a lot of small purchases, such as a coffee counter, bakery or food truck, the time savings are most visible. Even a few seconds saved per customer can mean a shorter line at peak times. If your average ticket is small, also review how your pricing structure treats small transactions, since a fixed per-transaction fee matters more when tickets are low."
+      ]
+    },
+    {
+      "h2": "Rolling it out at your counter",
+      "paragraphs": [
+        "Turning on contactless is mostly about signage, staff habits and testing. Put a tap symbol near the terminal, train staff to say tap or insert, and run a few real test transactions. If you offer tips or run a dual pricing program, check that the prompts and receipts still display correctly, and remember that disclosure rules for pricing programs vary by state and card network.",
+        "Finally, watch for tap failures. Phone cases, multiple cards in a wallet and damaged cards can interfere. A quick reminder to tap one card at a time resolves most problems."
+      ],
+      "steps": [
+        "Confirm your terminal has an NFC reader and is enabled for contactless.",
+        "Test taps with a card, a phone and a watch.",
+        "Mount the terminal where customers can tap without handing it over.",
+        "Add signage showing the contactless symbol.",
+        "Train staff on fallback to chip insertion when a tap fails."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Contactless uses NFC and a one-time cryptogram, so copied tap data cannot be reused.",
+    "Wallets add device authentication on top of the card token.",
+    "No-PIN limits are set by issuers and networks and can change.",
+    "An NFC-capable terminal and correct placement are the main requirements.",
+    "Contactless speeds checkout and is processed as card-present."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a new terminal for contactless?",
+      "a": "You need a terminal with an NFC reader. Many new models include one, while older models may not. Some existing terminals can be updated or re-programmed, so check your model before replacing it."
+    },
+    {
+      "q": "Is contactless payment secure?",
+      "a": "Contactless uses chip cryptography that creates a unique code for each transaction, so intercepted data cannot be reused. Wallet payments add device authentication. No payment method is risk free, but taps are considered secure."
+    },
+    {
+      "q": "Why does a tap sometimes ask for a PIN?",
+      "a": "Issuers and networks require extra verification for some amounts or after a number of consecutive taps. The terminal will prompt the customer to insert the card and enter a PIN."
+    },
+    {
+      "q": "Is there a maximum contactless amount?",
+      "a": "Limits for no-verification taps are set by issuers and networks and vary. Larger amounts may still work with a PIN, or via a phone wallet that verifies the user."
+    },
+    {
+      "q": "Do contactless payments cost more?",
+      "a": "They are processed as card-present, whose rates depend on card type and your pricing structure. Contactless itself does not typically add a separate fee, but review your statement to be sure."
+    }
+  ],
+  "related": [
+    "tap-to-pay",
+    "mobile-wallets-explained",
+    "emv-liability-shift",
+    "upgrade-to-emv-and-contactless",
+    "accept-apple-pay-and-google-pay",
+    "credit-card-terminals"
+  ],
+  "icon": "phone",
+  "read_minutes": 6
+}

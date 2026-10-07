@@ -1,0 +1,123 @@
+{
+  "slug": "batch-settlement-explained",
+  "category": "blog",
+  "title": "Batch Settlement Explained",
+  "seo_title": "Batch Settlement Explained: Closing Your Batch | MCCPS",
+  "meta_description": "What happens when you close a batch? Learn how authorization, capture, batching and settlement work, plus tips for tips, voids and common batch errors.",
+  "primary_keyword": "batch settlement",
+  "keywords": [
+    "close batch credit card terminal",
+    "batch settlement process",
+    "auto close batch",
+    "batch out of balance",
+    "authorization vs capture",
+    "tip adjust batch",
+    "settlement report"
+  ],
+  "eyebrow": "Operations",
+  "dek": "A walk through the life of a card sale from approval to your bank, with clear guidance on what closing a batch actually does.",
+  "intro": [
+    "Every night, in countless small businesses, someone presses a button labeled settle or close batch. Many have never been told what it does, only that they should. It is one of the most important routine steps in card acceptance, and mistakes here show up as missing deposits, extra fees and tangled reconciliations.",
+    "Knowing what happens inside the batch lets you troubleshoot quickly and set up your closing routine so it protects both your cash flow and your processing costs."
+  ],
+  "sections": [
+    {
+      "h2": "The life of a card sale",
+      "paragraphs": [
+        "A sale begins with authorization. The terminal sends card data and amount to the issuer through your processor, and the issuer responds with an approval code and places a hold on the cardholder's available funds. Nothing is paid to you at this point.",
+        "Next comes capture, which marks the authorization as ready to be collected. In many setups for retail, authorization and capture happen together. In restaurants and hotels they may be separate, since a tip or final charge is added later. Captured transactions collect in an open batch until you close it."
+      ]
+    },
+    {
+      "h2": "What closing the batch does",
+      "paragraphs": [
+        "Closing the batch, also called settling, submits all captured transactions to your processor as a single file. The processor groups them by card network and sends them for clearing. The networks calculate amounts owed between issuers and your processor, and funds flow to your bank account on the funding schedule.",
+        "The batch is the unit of settlement. It carries totals for sales, refunds and counts, which your processor checks. If the terminal's totals and the host's totals disagree, the batch is out of balance, and funding can be delayed until the discrepancy is fixed.",
+        "Visa, Mastercard, Discover and American Express each have their own settlement paths, and some are routed through different channels, which is why you may see separate deposit lines or amounts on certain days. This is normal and does not mean sales are missing. Your statement and settlement reports list totals by card brand so you can verify each."
+      ],
+      "bullets": [
+        "Authorization: issuer approves and holds funds",
+        "Capture: transaction is marked for collection",
+        "Batch: captured transactions grouped for settlement",
+        "Settlement: batch sent and funds move through the networks",
+        "Funding: deposit arrives in your bank account"
+      ]
+    },
+    {
+      "h2": "Manual versus automatic batching",
+      "paragraphs": [
+        "Some terminals require you to close the batch yourself at the end of the day. Others close automatically at a time you choose. Automatic closing is more reliable, since a forgotten manual close can leave a day of sales unsettled and delay your deposit.",
+        "Whichever you use, choose a time that fits your business. A restaurant may close after the last tab, but before the processor cutoff. A retail store may close shortly after the doors lock. Make sure all tip adjustments and voids are completed first, since changes after settlement are harder.",
+        "Think of the closing time as a daily deadline. If your batch closes at 11:30 p.m. and the processor's cutoff is earlier, your sales for that day roll into the next business day. A shop owner who thinks deposits are late might simply be closing a few hours after the cutoff every day. Moving the auto-close earlier by an hour can fix the problem without any other changes."
+      ]
+    },
+    {
+      "h2": "Tips, adjustments and voids",
+      "paragraphs": [
+        "In tipped businesses, the order matters. The original authorization is for the check amount; the tip is added afterward through adjustment before the batch closes. Once a batch is settled, adding a tip may not be possible, or may require a new transaction. If you adjust many tickets, review the total before closing.",
+        "A void can cancel a transaction while it remains in the open batch, so the sale never settles and the customer's hold typically drops off. After the batch closes, the correction becomes a refund, which is a separate transaction. This is why catching mistakes before closing is cleaner."
+      ],
+      "steps": [
+        "Finish tip adjustments and voids for the day.",
+        "Run the terminal or POS sales report and note the total.",
+        "Close the batch and wait for the approval message.",
+        "Print or save the settlement report.",
+        "Match the settlement total to your sales report."
+      ]
+    },
+    {
+      "h2": "Common batch problems",
+      "paragraphs": [
+        "A batch can fail if the terminal loses connectivity, if a transaction is malformed, or if the host and terminal totals do not match. Another common problem is a terminal that settles but does not display confirmation, leaving you unsure whether it went through. The settlement report, or a message from your processor portal, resolves this.",
+        "Pending items matter too. Authorizations that were never captured will expire, and the cardholder's hold falls off, but you will not be paid. Look for open authorizations on high-value sales, and capture them before they expire."
+      ]
+    },
+    {
+      "h2": "Reconciliation and fees",
+      "paragraphs": [
+        "A good habit is to reconcile three numbers: your POS sales, your batch total and your bank deposit. Differences usually come from refunds, fees, chargebacks and timing. For example, if the batch shows $3,200 in sales and $200 in refunds, you would expect the net to be $3,000 before fees. A hypothetical difference of a few dollars may be fees netted out of the deposit.",
+        "Batch practice can affect cost as well. Settling late may cause some transactions to expire or be downgraded to higher interchange categories, depending on the card type and network rules. MCCPS offers a free statement analysis and 24/7 support, and the team can help you set up auto-close and read your batch reports.",
+        "If you use multiple terminals or registers, each may have its own batch. Make sure every device closes, and that you account for all of them in your reconciliation. A forgotten tablet in the back office can quietly hold a day of sales for a week before anyone notices the shortfall."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Authorization holds funds; the batch settlement is what actually moves them to you.",
+    "Closing a batch sends all captured sales to the processor as one unit.",
+    "Auto-close at a steady time prevents forgotten batches and delayed deposits.",
+    "Complete tips and voids before closing; afterward they become refunds.",
+    "Reconcile POS, batch and deposit totals daily."
+  ],
+  "faq": [
+    {
+      "q": "What does it mean to close a batch?",
+      "a": "It means sending all captured card transactions to your processor for settlement. Once the batch is accepted, the funds begin moving to your bank account on your funding schedule."
+    },
+    {
+      "q": "Do I have to close my batch every day?",
+      "a": "Generally yes. Many terminals can do this automatically. Settling regularly keeps funding timely and reduces the risk that authorizations expire before they are collected."
+    },
+    {
+      "q": "What does batch out of balance mean?",
+      "a": "It means the totals on your terminal do not match what the processor's host calculated. It can delay funding until corrected, so contact support if you see it."
+    },
+    {
+      "q": "Can I add a tip after the batch closes?",
+      "a": "Usually not on the original transaction. Tip adjustments are typically done before settlement. After closing, a new charge or other process may be needed."
+    },
+    {
+      "q": "Why are some transactions not in my batch?",
+      "a": "They may be authorized but never captured, or they may have been voided. Check your open authorizations and terminal reports for transactions that did not complete."
+    }
+  ],
+  "related": [
+    "next-day-funding-explained",
+    "next-day-funding",
+    "tipping-on-card-terminals",
+    "how-credit-card-processing-works",
+    "credit-card-terminals",
+    "how-to-read-a-merchant-statement"
+  ],
+  "icon": "file",
+  "read_minutes": 6
+}

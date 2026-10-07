@@ -1,0 +1,125 @@
+{
+  "slug": "car-dealerships",
+  "category": "industries",
+  "title": "Car Dealership Payment Processing",
+  "seo_title": "Car Dealership Payment Processing | MCCPS",
+  "meta_description": "Car dealership payment processing for deposits, service lane tickets, card limits and ACH on big purchases. Review your fees with a free statement analysis.",
+  "primary_keyword": "car dealership payment processing",
+  "keywords": [
+    "auto dealer credit card processing",
+    "vehicle deposit card payment",
+    "dealership service department payments",
+    "ACH for car purchases",
+    "high ticket card processing",
+    "dealer merchant account",
+    "card limits large purchase"
+  ],
+  "eyebrow": "Industry payments",
+  "dek": "Deposits on a vehicle, a busy service lane and purchases that outgrow a card limit: payments for the dealership floor and the back shop.",
+  "intro": [
+    "A dealership runs several businesses under one roof: vehicle sales, a service department, parts, sometimes detailing and accessories. Each uses card payments differently. The sales desk sees a few very large transactions, the service lane sees a steady flow of mid-sized tickets, and the parts counter looks like a small retail shop.",
+    "Car dealership payment processing is therefore less about one setup than about matching the right tool to each department. This page covers the high-value side, such as deposits and purchases that outgrow a card limit, as well as the everyday service-lane payments that keep the lights on."
+  ],
+  "sections": [
+    {
+      "h2": "Taking deposits on a vehicle",
+      "paragraphs": [
+        "A customer who wants to hold a car while arranging financing or travel often leaves a deposit. Cards are convenient for this, but deposits raise policy questions. Is the deposit refundable? For how long is the vehicle held? What happens if financing falls through? Put the answers in a signed agreement before taking the payment, because deposit disputes are among the most common complaints a dealership sees.",
+        "If a deposit is refundable, refund it to the original card rather than writing a check. A fast, clean refund costs far less than a chargeback, which adds fees and can affect your standing with your processor. Check with your attorney on how deposit rules apply to sales in your state."
+      ],
+      "bullets": [
+        "Write the refund terms and hold period into the deposit agreement.",
+        "Collect the signature and the cardholder's ID details per your policy.",
+        "Refund to the same card, not to cash or check.",
+        "Keep a copy of the vehicle details tied to the payment."
+      ]
+    },
+    {
+      "h2": "Card limits and what happens on big purchases",
+      "paragraphs": [
+        "Purchase prices for vehicles are far above what most consumer cards allow. Even a customer with a high limit may find a large charge declined by the issuer. Beyond limits, dealers also have their own considerations: a large card payment costs the dealership a percentage of the ticket, which on a major purchase can exceed the margin on the deal.",
+        "Many dealerships therefore limit card use on the vehicle price itself to a deposit or a down payment, and take the balance through financing, a bank wire, a cashier's check or ACH. Whatever policy you choose, apply it consistently, post it clearly and confirm that it matches your merchant agreement and any local rules."
+      ]
+    },
+    {
+      "h2": "ACH and bank transfers",
+      "paragraphs": [
+        "ACH debits and bank transfers cost far less than cards for large amounts, because ACH is typically priced as a small flat fee rather than a percentage. The trade-offs are timing and risk: ACH payments take days to clear and can be returned for insufficient funds or an unauthorized claim, so the vehicle should not be released until funds have actually cleared.",
+        "A written authorization from the account holder is essential for any ACH debit. MCCPS supports ACH and eCheck processing and can help you weigh when it makes sense compared with cards. For wires and certified funds, follow your dealership's standard release policy."
+      ],
+      "steps": [
+        "Agree on the payment method and amount in writing.",
+        "Obtain a signed authorization for any ACH debit.",
+        "Wait for confirmation that the funds have cleared.",
+        "Release the vehicle and paperwork once cleared.",
+        "Keep a record of the payment and authorization."
+      ]
+    },
+    {
+      "h2": "The service lane and parts counter",
+      "paragraphs": [
+        "The service department is where most card volume lives. Repair orders run from an oil change to a four-figure repair, and customers expect to pay at pickup. A counter terminal with contactless acceptance and an itemized invoice keeps pickup quick, and a handheld or mobile device lets an advisor take payment at the car.",
+        "Integration with your dealer management or shop software makes a difference: the repair order total should flow to the terminal and the approval should post back to the account. Fleet customers and local businesses may use corporate cards, which can earn lower interchange if you send Level 2 or Level 3 data. MCCPS supports B2B enhanced data processing."
+      ]
+    },
+    {
+      "h2": "Fraud and verification on large payments",
+      "paragraphs": [
+        "Vehicles are attractive targets for fraud, and large card payments are a classic route. A stolen card used for a deposit, followed by a chargeback weeks later, is a loss you cannot easily recover. Verify identity against the card, use the chip or PIN where the card is present, and be cautious about third-party payers or cards that do not match the buyer.",
+        "For payments taken over the phone, require CVV and billing address, and consider extra steps for unusually large amounts. Keep copies of the signed documents. A strong record is your evidence if a payment is later disputed. Seek your attorney's advice on any policy affecting consumer rights."
+      ]
+    },
+    {
+      "h2": "Multi-lane operations and reconciliation",
+      "paragraphs": [
+        "A dealership with sales, service, parts and body shop departments needs to reconcile card activity across several lanes. Ideally each department has its own batch or reporting identifier so that deposits can be matched to the right ledger. Without that structure, the controller spends the end of the month untangling one lump deposit. Ask your processor whether you can report by department or location, and whether your dealer management system can post payments automatically. Clear separation also helps spot issues quickly, such as an unusual number of refunds in one department, and gives managers better data for staffing and pricing decisions."
+      ]
+    },
+    {
+      "h2": "Reviewing cost and getting help",
+      "paragraphs": [
+        "Say your service and parts departments process $120,000 a month on cards at a 2.8 percent effective rate, or $3,360 in fees. On deposits of a few thousand dollars each, a single transaction can cost more than a week of oil-change margins. Understanding which charges come from interchange and which from markup is the first step.",
+        "Some dealers consider a cash discount or dual pricing program, but vehicle sales can involve specific state and manufacturer rules, so any pricing structure should be reviewed carefully. Rules vary by state and card network and require disclosure. MCCPS offers a free statement analysis that reviews two months of statements line by line, with savings depending on what is found, plus next-day funding and free 24/7 support."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Put deposit terms in writing before taking a card payment.",
+    "Card limits and fees often make cards better for deposits than for full vehicle prices.",
+    "ACH costs less for large amounts but takes time to clear; do not release a vehicle early.",
+    "The service lane has the most card volume and benefits from integration and Level 2 data.",
+    "Verify identity and keep records on any large card payment."
+  ],
+  "faq": [
+    {
+      "q": "Can a customer buy a car with a credit card?",
+      "a": "It is up to the dealership's policy and the customer's card limit. Many dealers accept cards for deposits or down payments, and use financing, wire or ACH for the balance. Apply your policy consistently."
+    },
+    {
+      "q": "How do I reduce chargeback risk on a deposit?",
+      "a": "Use a signed agreement that states the refund terms, verify the cardholder, and refund promptly when the terms say you should. Keep documentation tied to the payment."
+    },
+    {
+      "q": "Is ACH safe for big payments?",
+      "a": "It can be, if you have written authorization and wait for funds to clear before releasing the vehicle. ACH can be returned, so timing is essential. MCCPS can discuss how ACH fits your process."
+    },
+    {
+      "q": "Does the service department need a different setup than sales?",
+      "a": "Often yes in practice. Service benefits from counter and handheld terminals integrated with repair orders, while sales needs flexible handling for deposits and large payments. One merchant account can often cover both."
+    },
+    {
+      "q": "Can a dealership add a fee for card payments?",
+      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure. Vehicle sales can involve additional rules, so confirm with your advisor."
+    }
+  ],
+  "related": [
+    "auto-repair-shops",
+    "ach-processing",
+    "take-deposits-and-prepayments",
+    "large-ticket-transactions",
+    "level-2-and-level-3-processing",
+    "fraud-prevention"
+  ],
+  "icon": "car",
+  "read_minutes": 6
+}

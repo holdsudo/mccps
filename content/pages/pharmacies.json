@@ -1,0 +1,83 @@
+{
+  "slug": "pharmacies",
+  "category": "industries",
+  "title": "Pharmacy Payment Processing",
+  "seo_title": "Pharmacy Payment Processing & HSA/FSA Cards | MCCPS",
+  "meta_description": "Independent pharmacies need HSA/FSA acceptance, copay handling, and clean POS integration. Learn how pharmacy payment processing really works.",
+  "primary_keyword": "pharmacy payment processing",
+  "keywords": ["pharmacy merchant account", "HSA FSA card acceptance pharmacy", "IIAS pharmacy", "pharmacy copay processing", "independent pharmacy POS", "pharmacy credit card fees", "prescription payment processing"],
+  "eyebrow": "Pharmacy payments",
+  "dek": "Copays, HSA and FSA cards and front-of-store sales: how independent pharmacies keep payments accurate and compliant.",
+  "intro": [
+    "For an independent pharmacy, the payment that matters most is often small and routine: a copay at pickup. Yet the same counter also handles over-the-counter products, vitamins, mobility aids, greeting cards, delivery orders and sometimes durable medical equipment that costs hundreds of dollars.",
+    "Behind that variety sits an unusual rule set. Customers pay with health savings and flexible spending cards that are only valid for eligible health expenses, and card networks require that the merchant verify eligibility at the register. The pharmacy management system, the front-of-store POS and the card reader all have to agree on what was bought.",
+    "This guide explains how those systems interact and what to ask a processor before you sign."
+  ],
+  "sections": [
+    {
+      "h2": "Copays and the pharmacy management system",
+      "paragraphs": [
+        "The prescription side of the counter runs through your pharmacy management system, which adjudicates claims with the insurer or pharmacy benefit manager and calculates what the patient owes. That amount, the copay, is then collected by cash or card. If the card reader is integrated, the amount passes directly to the terminal, avoiding retyping errors and speeding up the line.",
+        "Integration also helps with reconciliation. At the end of the day, you want the prescriptions filled, the copays collected and the card batch to line up. Ask your software vendor which payment gateways and devices they support before changing processors, because pharmacy software tends to be selective."
+      ]
+    },
+    {
+      "h2": "HSA and FSA cards and IIAS",
+      "paragraphs": [
+        "Health savings account and flexible spending account cards can only be used for qualified medical expenses. To enforce this at a retail location, card networks and the relevant industry standards require merchants to use an Inventory Information Approval System, commonly called IIAS. The system compares each item in the basket against an eligibility list and tells the card network which portion is eligible.",
+        "If your POS is not IIAS-certified, an HSA or FSA card swiped for a basket that includes ineligible items may be declined, or you may risk losing the ability to accept those cards. A pharmacy with a mixed basket, such as a prescription, a thermometer and a bag of chips, needs software that splits tender correctly. Our guide on HSA and FSA card acceptance explains the basics."
+      ],
+      "bullets": [
+        "Confirm that your POS is certified for IIAS",
+        "Keep the eligible-item list updated in your inventory system",
+        "Support split tender between HSA/FSA and another card or cash",
+        "Keep itemized receipts, since account holders may need them for substantiation"
+      ]
+    },
+    {
+      "h2": "Front-of-store sales and mixed baskets",
+      "paragraphs": [
+        "Front-of-store merchandise carries a different margin and a different customer mindset than prescriptions. Customers browse, impulse-buy and compare. Your payment setup should be quick enough that adding a bag of cough drops to a copay does not add a minute to the visit.",
+        "Say a pharmacy runs $80,000 a month through cards at a 2.3% effective rate. That is $1,840 in fees. Because pharmacy margins are tight, particularly on generics and on reimbursement-controlled items, the cost of card acceptance deserves the same scrutiny as any other expense. A line-by-line statement review can show whether the pricing structure fits mostly small copays and small retail sales."
+      ]
+    },
+    {
+      "h2": "Delivery, mail-order and phone payments",
+      "paragraphs": [
+        "Many independents distinguish themselves with delivery, mail-order refills and phone-in payments. These are card-not-present transactions, and because they involve health information, you must pay attention both to payment data security and to privacy rules. Take payments through a virtual terminal or secure link rather than writing card numbers on prescription paperwork.",
+        "A card on file for refills can make life easier for patients, provided they have given clear consent. Keep records of that consent, and do not store card data in your pharmacy software unless it is tokenized. Payment information and protected health information are separate regulatory worlds, but both deserve care."
+      ]
+    },
+    {
+      "h2": "Reducing costs without hurting patients",
+      "paragraphs": [
+        "Pharmacies serve patients who are sensitive to price, and some of them are on fixed incomes. Passing card costs on to patients through a surcharge or convenience fee can create friction and, depending on the state and card network, may be restricted or require specific disclosure. Debit cards are treated differently from credit under many surcharging rules. Confirm current requirements before considering such a program.",
+        "A more neutral first step is a statement review. MCCPS offers a free, no-obligation analysis that looks for avoidable charges, such as PCI fees or non-optimal pricing categories, without changing what your patients see at the counter. We can often keep terminals you already own if they can be re-programmed."
+      ]
+    },
+    {
+      "h2": "Security, compliance and support",
+      "paragraphs": [
+        "Card data must be handled according to PCI standards, and pharmacies should keep it out of the same systems that hold patient records wherever possible. P2PE and tokenization reduce the amount of card data that ever touches your network. Our PCI compliance help walks you through the annual questionnaire.",
+        "When a card reader stops working at a busy pickup window, you need an answer fast. MCCPS provides free 24/7 technical support, a reporting dashboard for daily reconciliation, and next-day funding where available. If you need business funding for a second location or inventory, we can refer you to Fidelity Funding; MCCPS is not a lender."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Integrated copay collection reduces errors and keeps reconciliation tidy.",
+    "HSA and FSA acceptance depends on IIAS-certified software.",
+    "Mixed baskets need correct split tender between eligible and ineligible items.",
+    "Take card-not-present refills through secure links or terminals.",
+    "Review your statement before considering any patient-facing fee."
+  ],
+  "faq": [
+    {"q": "Can a pharmacy accept HSA and FSA cards?", "a": "Yes, if the POS meets the required eligibility verification standards, commonly called IIAS. The system compares items in the basket to a list of eligible products and tells the card network how much is eligible. Without it, HSA and FSA transactions may be declined or put your acceptance at risk."},
+    {"q": "What happens if an HSA card is used for non-eligible items?", "a": "A correctly configured POS will split the basket, charging only eligible items to the HSA or FSA card and requiring another form of payment for the rest. That protects the account holder and your ability to keep accepting these cards."},
+    {"q": "Can I charge a convenience fee for card payments at a pharmacy?", "a": "Surcharging and convenience fees are regulated by state and card network, often with disclosure and signage requirements, and debit is handled differently from credit. Confirm current rules with your attorney and processor before adding any fee."},
+    {"q": "Is it safe to store patients' cards for refills?", "a": "It can be, if the patient consents and the card is stored as a token in a secure vault rather than in your pharmacy software. Keep a record of consent and limit who can run stored cards."},
+    {"q": "Does my payment processor have to work with my pharmacy software?", "a": "Integration is strongly recommended for copays and mixed baskets. Pharmacy software vendors support specific gateways and devices, so check compatibility before switching. MCCPS can review your setup and advise."}
+  ],
+  "related": ["hsa-fsa-card-acceptance", "medical-practices", "veterinary-clinics", "integrate-payments-with-pos", "pci-compliance", "retail-stores"],
+  "icon": "heart",
+  "read_minutes": 6
+}

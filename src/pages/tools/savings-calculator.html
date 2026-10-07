@@ -1,0 +1,35 @@
+<!--{"title":"Credit Card Processing Savings Calculator | MCCPS","desc":"Estimate what credit card processing costs you per year and how much a lower rate or the Zero Processing Fees dual-pricing program could save. Free and instant.","nav":"tools","scripts":["tools.js"]}-->
+<section class="page-hero" style="padding-bottom:clamp(48px,7vw,80px)">
+  <div class="hero__bg" aria-hidden="true"><div class="aurora"><i></i><i></i><i></i><i></i></div><div class="hero__grid"></div></div>
+  <div class="container"><nav class="crumbs fade-up" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/tools/">Tools</a><span>/</span><span>Savings calculator</span></nav>
+  <h1 class="h1 fade-up d1">Processing savings calculator</h1><p class="lead fade-up d2">See what accepting cards costs you each year — and what a lower rate or Zero Processing Fees could change.</p></div>
+</section>
+<section class="section section--tight"><div class="container">
+<div class="tool-wrap" id="savings">
+  <div class="tool-panel">
+    <h2>Your numbers</h2>
+    <div class="slider-field"><div class="top"><label for="s-vol">Monthly card volume</label><output>$40,000</output></div><input id="s-vol" type="range" min="5000" max="1000000" step="5000" value="40000" data-fmt="money"></div>
+    <div class="slider-field"><div class="top"><label for="s-rate">Your current effective rate</label><output>3.2%</output></div><input id="s-rate" type="range" min="1.5" max="5" step="0.05" value="3.2" data-fmt="pct"></div>
+    <p class="field__hint" style="margin-top:8px">Don’t know it? <a class="link-arrow" href="/tools/processing-fee-calculator/">Find your effective rate</a></p>
+    <div class="slider-field"><div class="top"><label for="s-cut">Scenario: rate lowered by</label><output>0.5%</output></div><input id="s-cut" type="range" min="0.1" max="1.5" step="0.05" value="0.5" data-fmt="pct"></div>
+  </div>
+  <div class="tool-out" aria-live="polite">
+    <div class="big" id="o-now">—</div><div class="lbl">What you pay per year today · <b id="o-mo">—</b>/month</div>
+    <div class="kv">
+      <div><b id="o-lower">—</b><span>Per year at the lower rate</span></div><div><b id="o-lower-save">—</b><span>Saved per year</span></div>
+      <div><b id="o-zero">$0</b><span>With Zero (dual pricing)*</span></div><div><b id="o-zero-save">—</b><span>Potential yearly savings</span></div>
+    </div>
+    <div class="bar-viz"><i id="bar-now" style="background:#1E7DF0;width:100%"></i></div>
+    <div class="bar-viz" style="margin-top:8px"><i id="bar-lower" style="background:#43A047"></i></div>
+    <div class="bar-legend"><span style="--c:#1E7DF0">Today</span><span style="--c:#43A047">Lower rate</span></div>
+    <a class="btn btn--white btn--lg" id="o-go" href="/free-analysis/">Get my real numbers {{i:arrow}}</a>
+    <p class="tool-note">Illustrative only — not a quote. *Dual-pricing programs shift processing cost to card-paying customers and are subject to card-network rules and state law. Your free analysis shows your actual costs and options.</p>
+  </div>
+</div>
+<div class="prose" style="margin:72px auto 0">
+  <h2>How this estimate works</h2>
+  <p>Your <strong>effective rate</strong> is total processing fees divided by total card volume. Multiply your monthly volume by that rate and by twelve, and you have your annual cost of accepting cards. Lowering the processor’s markup changes that number; a compliant <a href="/solutions/zero-processing-fees/">Zero Processing Fees</a> program can move it toward $0.</p>
+  <p>Want the real figure? Send two statements for a <a href="/free-analysis/">free line-by-line analysis</a>, or learn more in <a href="/blog/effective-rate-explained/">effective rate explained</a> and <a href="/blog/hidden-fees-on-merchant-statements/">hidden fees on merchant statements</a>.</p>
+</div>
+</div></section>
+{{cta-band}}

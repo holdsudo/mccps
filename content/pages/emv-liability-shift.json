@@ -1,0 +1,121 @@
+{
+  "slug": "emv-liability-shift",
+  "category": "blog",
+  "title": "The EMV Liability Shift Explained",
+  "seo_title": "EMV Liability Shift Explained for Merchants | MCCPS",
+  "meta_description": "The EMV liability shift moved counterfeit card fraud costs to the party with the weaker technology. Learn how it works and what it means for your business.",
+  "primary_keyword": "EMV liability shift",
+  "keywords": [
+    "EMV liability shift explained",
+    "counterfeit card fraud chargeback",
+    "EMV chip card merchants",
+    "chip and PIN liability",
+    "fallback transaction EMV",
+    "card-present fraud",
+    "EMV compliance"
+  ],
+  "eyebrow": "Fraud",
+  "dek": "Who pays when a counterfeit card is used in your store, and why a chip reader is as much a financial decision as a technical one.",
+  "intro": [
+    "For decades, if someone cloned a magnetic stripe card and used it at your counter, the card issuer usually absorbed the loss. Then the card networks changed the rules, and the cost of that fraud started to follow the technology. Today, whether you take a chip card by dipping it or by swiping can decide who pays.",
+    "That rule change is called the EMV liability shift. It is not a fee or a mandate to buy equipment. It is a way of assigning responsibility, and understanding it helps you decide what your terminal setup is really worth."
+  ],
+  "sections": [
+    {
+      "h2": "What EMV is and why it exists",
+      "paragraphs": [
+        "EMV, named for Europay, Mastercard and Visa, is the standard behind chip cards. A magnetic stripe stores static data, so anyone who copies it can make a working counterfeit. A chip generates a unique cryptogram for each transaction. A copied chip transaction cannot be replayed, which makes cloning far harder.",
+        "That technical difference is why networks pushed adoption. They wanted counterfeit fraud at the point of sale to fall, and a rule that assigns the loss to the party that did not upgrade is a strong nudge."
+      ]
+    },
+    {
+      "h2": "How the liability shift works",
+      "paragraphs": [
+        "The basic principle is simple: in a counterfeit card-present fraud dispute, liability falls to whichever side, issuer or merchant, is using the less secure technology. If the card has a chip and the merchant's terminal cannot read chips, the merchant is generally responsible for the fraud. If the merchant's terminal reads chips but the issuer sent a stripe-only card, the issuer carries it.",
+        "When both sides use chip technology and the transaction is processed as a proper chip transaction, the fraud typically stays with the issuer. The shift applies to counterfeit fraud on card-present transactions. It does not cover every kind of loss. Card-not-present fraud, friendly fraud, and disputes about goods and services are handled under other rules. Details differ by network and change over time, so confirm current rules with your provider.",
+        "It helps to remember who the parties are. The issuer is the bank that gave the cardholder the card. The acquirer is the side that processes your payments. When a fraud dispute arises, the network rules look at the technology each side had in place, not at who was more careful. That is why a single device decision can change the outcome of a dispute months later."
+      ],
+      "bullets": [
+        "Chip card plus chip-enabled terminal and chip read: liability usually stays with the issuer",
+        "Chip card plus terminal that only swipes: counterfeit fraud typically falls to the merchant",
+        "Stripe-only card plus chip terminal: issuer typically carries counterfeit liability",
+        "Card-not-present fraud is governed by different rules"
+      ]
+    },
+    {
+      "h2": "A hypothetical example",
+      "paragraphs": [
+        "Say a customer buys $800 of merchandise with a counterfeit card made from stolen stripe data. Your shop still uses a swipe-only reader. The real cardholder disputes the charge, the issuer files a chargeback citing counterfeit fraud, and because the real card has a chip you could not read, the chargeback stands. You lose the merchandise, the $800, and typically a chargeback fee.",
+        "Run the same sale on a chip-enabled terminal and the counterfeit card has no valid chip data. The terminal would prompt for a swipe fallback or reject the card. If you accept fallback on a chip card, you may reclaim exposure, which is why many terminals flag or decline fallback transactions. This is a simplified scenario meant to illustrate the principle."
+      ]
+    },
+    {
+      "h2": "Where merchants still get hurt",
+      "paragraphs": [
+        "Owning a chip reader does not automatically protect you. Common gaps include terminals that have chip hardware but are configured incorrectly, staff who swipe chip cards because it is faster, and fallback transactions that are approved after a failed chip read. Each one can put a counterfeit dispute back on your side of the ledger.",
+        "Gas pay-at-the-pump and some unattended terminals have had different timelines for EMV adoption, so exposure varies by industry. If you operate unattended or automated fuel equipment, ask your provider which rules apply to you now."
+      ]
+    },
+    {
+      "h2": "Making the shift work for you",
+      "paragraphs": [
+        "Treat chip acceptance as a procedure, not just a device. Train staff to insert the card, leave it in until the terminal prompts removal, and avoid swiping a chip card unless the terminal itself instructs fallback. Review your terminal's fallback settings and decline them where the system allows.",
+        "Also confirm that your terminal supports contactless, since tap transactions use similar cryptograms and speed up lines. Combine this with other defenses such as address checks for keyed entry, which cover the cases chips do not.",
+        "Keep records. If a counterfeit-fraud chargeback arrives and you believe the transaction was a valid chip read, the transaction data may show it. Your processor can help you pull the authorization details, which is often the deciding factor when disputing the claim. Retaining receipts and terminal logs for a reasonable period also supports your case."
+      ],
+      "steps": [
+        "Confirm your terminal reads EMV chip and is certified with your processor.",
+        "Test a chip card and verify the transaction is marked as a chip read.",
+        "Disable or limit fallback to swipe if your system allows it.",
+        "Train staff to insert chip cards and never to swipe them by habit.",
+        "Review chargebacks for counterfeit codes and look for patterns."
+      ]
+    },
+    {
+      "h2": "What to do if your equipment is outdated",
+      "paragraphs": [
+        "If you still use a swipe-only terminal, upgrading is generally worth considering, though costs vary. Some merchants can keep their device by having it re-programmed if it already supports chip; others need replacement. MCCPS can review your current terminal, and a free statement analysis shows what you pay today so you can weigh the upgrade against processing costs.",
+        "Rules around liability shift evolve and differ by card network, so confirm current requirements with your provider or an advisor before making equipment decisions."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "The EMV liability shift assigns counterfeit card-present fraud losses to the party with the weaker technology.",
+    "A chip reader helps only if staff use it correctly and fallback is limited.",
+    "It does not cover card-not-present fraud or friendly fraud.",
+    "Swipe-only terminals leave you exposed on counterfeit chip card disputes.",
+    "Confirm current network rules with your provider."
+  ],
+  "faq": [
+    {
+      "q": "What is the EMV liability shift?",
+      "a": "It is a rule set by card networks that assigns counterfeit card-present fraud losses to the party, issuer or merchant, that has not adopted chip technology. If you cannot process a chip card and it is counterfeited, you may be liable."
+    },
+    {
+      "q": "Is EMV mandatory for merchants?",
+      "a": "Networks did not legally require merchants to buy chip readers, but the liability shift creates a strong financial reason to do so. Check with your provider for current network requirements in your industry."
+    },
+    {
+      "q": "Does EMV stop online fraud?",
+      "a": "No. Chip technology protects card-present transactions. Online and phone payments need other tools such as address verification, CVV checks and 3-D Secure."
+    },
+    {
+      "q": "What is a fallback transaction?",
+      "a": "It happens when a chip card cannot be read and the terminal falls back to swiping the stripe. Fallback transactions are riskier, so many merchants limit or decline them."
+    },
+    {
+      "q": "Do contactless payments count as EMV?",
+      "a": "Contactless chip transactions use similar EMV cryptography, so they carry comparable protection. Your terminal needs an NFC reader and proper configuration."
+    }
+  ],
+  "related": [
+    "emv-chip-processing",
+    "upgrade-to-emv-and-contactless",
+    "prevent-card-fraud",
+    "card-present-vs-card-not-present",
+    "chargeback-reason-codes",
+    "contactless-payments-guide"
+  ],
+  "icon": "shield",
+  "read_minutes": 6
+}

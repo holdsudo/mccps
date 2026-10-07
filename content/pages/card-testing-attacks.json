@@ -1,0 +1,126 @@
+{
+  "slug": "card-testing-attacks",
+  "category": "blog",
+  "title": "Card Testing Attacks on Online Stores",
+  "seo_title": "Card Testing Attacks: Prevention Guide | MCCPS",
+  "meta_description": "Card testing attacks use your checkout to check stolen card numbers. Learn how to recognize them and block them with velocity limits and bot defenses.",
+  "primary_keyword": "card testing attacks",
+  "keywords": [
+    "card testing fraud",
+    "carding attack checkout",
+    "velocity limits gateway",
+    "bot checkout protection",
+    "small test transactions",
+    "CAPTCHA checkout",
+    "gateway fraud rules"
+  ],
+  "eyebrow": "Fraud",
+  "dek": "How criminals use your store to validate stolen cards, the warning signs in your reports, and the layered defenses that shut it down.",
+  "intro": [
+    "Imagine you open your gateway report on Monday and see hundreds of tiny declined transactions, each for a dollar or two, from card numbers that look nothing alike. You have not had a sales surge. You have been used as a card-checking service.",
+    "Card testing, also called carding, is one of the most common attacks on small online stores. It rarely steals from you directly, but it can cost you in fees, damaged processing standing and, if some tests succeed, chargebacks later."
+  ],
+  "sections": [
+    {
+      "h2": "What card testing is",
+      "paragraphs": [
+        "Criminals who have bought a batch of stolen card numbers need to know which ones still work. The easiest way is to run small purchases on a real website and see which approve. Approved cards are then used for larger purchases elsewhere or sold at a higher price.",
+        "They use automated scripts to submit thousands of attempts quickly, often through a donation form, a low-priced product page or a payment link. Your site is the testing ground because it has a working payment form and few defenses.",
+        "Attackers favor merchants who look easy: no CAPTCHA, no velocity limits, and error messages that reveal why a card failed. Detailed responses such as invalid CVV or expired card help them refine guesses, so use generic decline messages on public pages while keeping the detail in your private logs."
+      ]
+    },
+    {
+      "h2": "Warning signs in your reports",
+      "paragraphs": [
+        "The pattern is distinctive once you know it. Look for a burst of small authorizations, a high decline rate, many different cards from similar IP addresses or none that repeat, unusual guesses at expiration dates or CVV values, and sequential or random-looking names and emails. Your approval rate may drop sharply for the day or hour.",
+        "Sometimes the scripts target a specific product, like a one-dollar item or a free trial, because small amounts attract less attention. Sometimes they hit an unprotected API endpoint rather than your visible checkout page."
+      ],
+      "bullets": [
+        "Sudden spike in small-dollar authorization attempts",
+        "Approval rate collapses while volume surges",
+        "Many cards, few repeat customers",
+        "Failed CVV or expiration date patterns",
+        "Odd email addresses and names in the orders",
+        "Traffic from unusual regions or a narrow range of IPs"
+      ]
+    },
+    {
+      "h2": "What it costs you",
+      "paragraphs": [
+        "Every attempt is typically an authorization that may carry a per-transaction fee, even when declined. Say a bot makes 5,000 attempts at a hypothetical 10 cents each. That is $500 in fees for sales you never made. Gateways may add their own fees or throttle your account.",
+        "The bigger risk is reputational. A processor that sees an abnormal decline rate may review your account, hold funds or terminate it. Successful tests can also lead to fraud chargebacks weeks later when the real cardholders notice.",
+        "There are indirect costs too. Staff spend time sorting through reports, support teams field questions from real cardholders who see odd charges, and legitimate customers may get blocked by the defensive rules you put in place under pressure. Planning your defenses in calm conditions avoids panicked decisions later."
+      ]
+    },
+    {
+      "h2": "Layered defenses",
+      "paragraphs": [
+        "No single tool stops determined attackers, but combining several raises the cost enough that they move on. Velocity limits cap the number of attempts per IP address, email or device in a time window. CAPTCHA or invisible bot detection on checkout pages blocks simple scripts. Requiring an account or an email confirmation before checkout slows automation.",
+        "Set a minimum order amount if your business allows it, since criminals prefer tiny charges. Enforce AVS and CVV checks so wrong guesses decline instantly. Block high-risk regions where you do not sell. Limit retries after failure to a handful per session.",
+        "Think about the way each layer fails. CAPTCHA can be solved by services, IP limits can be dodged by rotating addresses, and CVV checks do not stop attackers who have full card details. That is exactly why the layers work as a group: an attacker has to beat several controls at once, and most will move on to an easier target."
+      ],
+      "steps": [
+        "Enable velocity rules on IP, email, card and device in your gateway.",
+        "Add CAPTCHA or bot detection to checkout and payment forms.",
+        "Turn on AVS and CVV enforcement.",
+        "Set alerts for sudden spikes in declines or attempts.",
+        "Restrict or protect payment API endpoints and donation forms.",
+        "Consider a reasonable minimum order amount."
+      ]
+    },
+    {
+      "h2": "Responding to an attack in progress",
+      "paragraphs": [
+        "If you spot an attack, act fast. Turn on stricter rules, temporarily disable the targeted form or product, and block offending IP ranges. Contact your gateway or processor so they know you are handling it, and ask whether they can add protections on their side.",
+        "After the burst ends, watch for chargebacks over the next weeks. Preserve logs showing the attack. They may help explain the pattern if your processor questions your decline rate or if fraud disputes follow.",
+        "Keep a short playbook handy: who has authority to turn off the checkout, which dashboard shows live attempts, how to reach your gateway's support line, and who updates your team. Practicing the sequence once makes the real event much calmer."
+      ]
+    },
+    {
+      "h2": "Making it a routine",
+      "paragraphs": [
+        "Review your decline rates weekly and your gateway's fraud settings quarterly. Anything that accepts card data, including donation pages, payment links and invoices, needs protection. Do not leave old test forms online.",
+        "MCCPS works with multiple gateways and can help you review fraud settings and reporting, and its free 24/7 support can help when something looks wrong. A statement analysis will show unusual patterns in your fees as well. Recommended thresholds depend on your sales, so tune them to your business."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Card testing uses small transactions on your site to validate stolen cards.",
+    "Spikes in small declined attempts and a falling approval rate are the signature.",
+    "Velocity limits, bot defenses and AVS/CVV enforcement work best together.",
+    "Attacks can cost fees and put your merchant account under review.",
+    "Protect every form that accepts card data, including donations and payment links."
+  ],
+  "faq": [
+    {
+      "q": "What is a card testing attack?",
+      "a": "It is when criminals use automated scripts to run small transactions on a website to find out which stolen card numbers are valid. Approved cards are later used for larger fraud."
+    },
+    {
+      "q": "How do I know if my store is being tested?",
+      "a": "Watch for sudden bursts of small-dollar authorization attempts, a sharp drop in approval rate and many different cards with few repeat customers. Check your gateway logs for matching IP patterns."
+    },
+    {
+      "q": "Do I pay for declined test transactions?",
+      "a": "Often yes, since processors and gateways may charge per authorization attempt, approved or not. Costs vary by agreement, so review your fee schedule."
+    },
+    {
+      "q": "Will CAPTCHA stop card testing?",
+      "a": "It helps against simple bots but not against every attacker. Combine it with velocity limits, AVS and CVV enforcement and monitoring for best results."
+    },
+    {
+      "q": "Can card testing get my account closed?",
+      "a": "A high decline rate can trigger a review by your processor. Responding quickly, adding defenses and communicating with your provider helps protect your account."
+    }
+  ],
+  "related": [
+    "fraud-prevention",
+    "avs-and-cvv",
+    "3d-secure-explained",
+    "prevent-card-fraud",
+    "accept-payments-online",
+    "payment-gateway"
+  ],
+  "icon": "bolt",
+  "read_minutes": 6
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "friendly-fraud",
+  "category": "blog",
+  "title": "Friendly Fraud: What It Is and How to Fight It",
+  "seo_title": "Friendly Fraud: Causes and Prevention | MCCPS",
+  "meta_description": "Friendly fraud happens when a real customer disputes a legitimate charge. Learn why it happens, how to spot it and the steps that reduce it.",
+  "primary_keyword": "friendly fraud",
+  "keywords": [
+    "friendly fraud chargebacks",
+    "first-party fraud",
+    "cardholder dispute abuse",
+    "billing descriptor clarity",
+    "chargeback prevention",
+    "recognize charge dispute",
+    "customer remorse chargeback"
+  ],
+  "eyebrow": "Fraud",
+  "dek": "Why legitimate customers sometimes dispute purchases they made, the usual causes, and a practical prevention plan.",
+  "intro": [
+    "The word fraud suggests a stranger with a stolen card. But a large share of disputes merchants face come from real customers who actually made the purchase. The industry calls it friendly fraud, though there is nothing friendly about the lost revenue, the fee and the hit to your chargeback ratio.",
+    "Importantly, not all friendly fraud is deliberate. Many cases are honest confusion. A customer sees a name they do not recognize on a statement, or a family member made the purchase, and the quickest route to resolve it seems to be calling the bank. Understanding the causes helps you separate what you can prevent from what you can only document."
+  ],
+  "sections": [
+    {
+      "h2": "What counts as friendly fraud",
+      "paragraphs": [
+        "Friendly fraud, sometimes called first-party misuse, covers disputes where the cardholder or someone with their permission made the purchase, yet the cardholder claims it was unauthorized or that something went wrong. It includes buyer's remorse, forgotten subscriptions, unrecognized descriptors, family purchases and, in some cases, intentional abuse.",
+        "From the issuer's view, it arrives as a normal fraud or consumer dispute. You will often see a reason code for unauthorized transaction or for goods not received, which is why it is easy to mistake for ordinary fraud."
+      ]
+    },
+    {
+      "h2": "Why customers do it",
+      "paragraphs": [
+        "Most of the time the cause is friction. The merchant's descriptor on the statement is different from the brand name the customer knows. A free trial converted to a paid subscription and the customer never noticed. The refund process was hard to find, so the chargeback felt easier. A teenager used a parent's card in an app.",
+        "A smaller portion is intentional. A customer receives the goods, then claims they never arrived, hoping the bank will credit them. Whatever the motive, your response is the same: keep clear records and make legitimate resolution simple.",
+        "Consider how many sales happen on impulse. A customer buys at midnight, wakes up, sees the charge and feels regret. Calling the bank is faster than finding your return policy, particularly if your policy lives three clicks deep in the footer. The easier you make it to ask for a refund, the more of those regrets turn into simple refunds instead of chargebacks with fees attached."
+      ],
+      "bullets": [
+        "Unrecognized billing descriptor on the statement",
+        "Forgotten trials or subscriptions",
+        "Purchases made by family members or household users",
+        "Hard-to-find refund or cancellation process",
+        "Buyer's remorse or unmet expectations",
+        "Intentional claims after receiving goods or services"
+      ]
+    },
+    {
+      "h2": "Spotting the signs",
+      "paragraphs": [
+        "Clues that a dispute may be friendly fraud include a customer with a history of previous successful orders, a matching IP address and device, delivery confirmed to the customer's usual address, and a CVV and AVS match at the time of sale. Logs showing the customer logged into an account and used the service are strong indicators.",
+        "Patterns across customers matter too. A spike in chargebacks right after a promotional campaign, or from one product category, may reveal an unclear offer rather than criminal activity.",
+        "It also helps to compare disputes against order history. If a customer has placed six orders over a year without issue and then disputes one, an honest mix-up is more likely than a criminal scheme. If a first-time buyer ships to a freight forwarder and disputes immediately, the picture is different. Keeping both kinds of records lets you respond appropriately to each."
+      ]
+    },
+    {
+      "h2": "Prevention that works",
+      "paragraphs": [
+        "The strongest defenses are about clarity. Use a billing descriptor that matches your public name and includes a phone number or website if allowed. Send an email receipt immediately, and send a reminder before any trial converts or subscription renews. Make cancellation and refunds easy to find; a customer who can solve the problem with you directly is less likely to call the bank.",
+        "Be fair on policies. Display your return terms at checkout and ask the customer to accept them. For digital products or services, keep logs of access and use. Hypothetically, a software seller with 500 subscribers might cut unrecognized charge disputes simply by changing the descriptor from a legal entity name to the brand name and adding a support number.",
+        "For subscription businesses, a short email a few days before renewal, showing the amount and a one-click way to cancel, can feel generous but typically reduces disputes. A hypothetical subscription box with 1,000 members could see fewer surprise charges simply because members are reminded. The goal is not to hide the renewal, but to make it impossible to be surprised."
+      ],
+      "steps": [
+        "Align the statement descriptor with your public brand name.",
+        "Send instant confirmation emails with order details.",
+        "Send renewal and trial-ending reminders before billing.",
+        "Publish a clear, easy refund and cancellation process.",
+        "Respond to customer messages quickly, ideally within a business day.",
+        "Keep delivery, usage and communication records."
+      ]
+    },
+    {
+      "h2": "Responding when it happens",
+      "paragraphs": [
+        "If a dispute arrives, contact the customer if appropriate. A friendly message explaining the charge, with the receipt attached, often resolves honest confusion, and the customer may withdraw the dispute. Do not pressure; just provide the facts and an easy way to ask for a refund.",
+        "If the customer does not withdraw, prepare a representment with your evidence. Match the evidence to the code, include proof of delivery or use, and show that the customer agreed to your terms. See the guide on winning chargebacks for the process."
+      ]
+    },
+    {
+      "h2": "Getting help and watching the numbers",
+      "paragraphs": [
+        "Track the share of disputes you believe are friendly fraud, using your notes on each case. If it is a meaningful share, invest in clearer communication before investing in complicated tools. Where tools help, such as order-confirmation services and card-on-file reminders, test them against your results.",
+        "MCCPS offers chargeback management support and a free statement analysis that can show how many disputes you receive and what they cost. Your actual risk depends on your products, customers and processes."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Friendly fraud means a real customer disputes a legitimate purchase, intentionally or not.",
+    "Unrecognized descriptors and forgotten subscriptions drive many cases.",
+    "Clear communication and easy refunds prevent more disputes than any tool.",
+    "Keep logs, delivery proof and agreed terms to support representment.",
+    "Contact the customer early; honest confusion often resolves itself."
+  ],
+  "faq": [
+    {
+      "q": "Is friendly fraud illegal?",
+      "a": "Deliberately making a false dispute can have legal consequences, but many cases are honest mistakes. For any matter with legal implications, consult an attorney rather than assuming intent."
+    },
+    {
+      "q": "How can I tell friendly fraud from real fraud?",
+      "a": "Look at the evidence: previous orders from the same customer, matching device and IP, delivery to a known address, account activity and AVS and CVV results. Real fraud usually lacks these ties to a known customer."
+    },
+    {
+      "q": "Does a clear billing descriptor help?",
+      "a": "Yes. Many disputes arise because customers do not recognize the name on their statement. A descriptor that matches your brand and includes a contact number reduces confusion."
+    },
+    {
+      "q": "Should I contact a customer who filed a dispute?",
+      "a": "Often yes, politely. A message with the receipt and an offer to help can clear up confusion. If it is already in process, the customer may still need to withdraw the dispute with their bank."
+    },
+    {
+      "q": "Can I win friendly fraud chargebacks?",
+      "a": "Often, when you have strong evidence of the customer's involvement. Success depends on the reason code, the quality of your records and the network's rules."
+    }
+  ],
+  "related": [
+    "chargeback-reason-codes",
+    "how-to-win-a-chargeback",
+    "reduce-chargebacks",
+    "chargeback-management",
+    "refund-vs-chargeback",
+    "recurring-billing-best-practices"
+  ],
+  "icon": "users",
+  "read_minutes": 6
+}

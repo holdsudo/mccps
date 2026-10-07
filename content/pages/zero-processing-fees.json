@@ -1,0 +1,118 @@
+{
+  "slug": "zero-processing-fees",
+  "category": "solutions",
+  "title": "Zero Processing Fees Program",
+  "seo_title": "Zero Processing Fees Program for Merchants | MCCPS",
+  "meta_description": "See how a compliant dual pricing or cash discount program can bring card processing cost to $0, what disclosures apply, and how MCCPS reviews fit.",
+  "primary_keyword": "zero processing fees",
+  "keywords": [
+    "zero fee credit card processing",
+    "dual pricing program",
+    "cash discount program",
+    "no cost credit card processing",
+    "eliminate processing fees",
+    "cash discounting compliance",
+    "credit card fee program"
+  ],
+  "eyebrow": "Pricing program",
+  "dek": "How a dual-pricing or cash-discount structure can shift card costs off your bottom line, and the rules you need to respect to do it properly.",
+  "intro": [
+    "Most business owners treat card processing as a tax on sales: a few percent that quietly comes off every ticket. On $60,000 of monthly card sales, even a modest effective rate adds up to a four-figure monthly bill. The Zero Processing Fees program exists for owners who look at that number and ask whether it has to be paid by the business at all.",
+    "The program is built on a compliant dual-pricing or cash-discount structure. Done properly, the cost of accepting cards can be brought to $0 for the merchant. Done sloppily, it can violate card network rules or state requirements. This page explains the mechanics and the guardrails so you can decide whether it suits your business."
+  ],
+  "sections": [
+    {
+      "h2": "What dual pricing and cash discounting mean",
+      "paragraphs": [
+        "In a dual-pricing arrangement, a business displays two prices for the same item: a standard price and a lower price for customers paying with cash or another non-card method. The card price is simply the listed price, and the cash price reflects the savings from avoiding card-acceptance cost.",
+        "Cash discounting is the closely related idea phrased as a reward: the listed price is the card price, and customers who pay with cash or debit-style methods receive a reduction. Which framing is used, and which payment types qualify, depends on card network rules and the law where you operate, so it is not something to improvise at the register."
+      ]
+    },
+    {
+      "h2": "How the Zero Processing Fees program works",
+      "paragraphs": [
+        "Under the program, your POS or terminal is configured to show and calculate both prices. The difference between them is designed to cover what the processor charges on card payments, so the amount you receive after fees equals the amount you would have collected in cash.",
+        "A worked example, clearly hypothetical: an item has a cash price of $100.00. The card price is set so that after the processing cost on a card sale, you still keep roughly $100.00. The customer sees both numbers before paying and chooses. Your net on either choice is intended to be the same, which is how the cost of processing reaches $0 for the business."
+      ],
+      "bullets": [
+        "Prices are shown to the customer before they pay",
+        "The system calculates the card price automatically",
+        "Receipts itemize the price difference clearly",
+        "Reporting separates cash-price and card-price sales"
+      ]
+    },
+    {
+      "h2": "Rules vary by state and card network",
+      "paragraphs": [
+        "This is the part owners should not skip. Card networks publish their own requirements for discounting and fee programs, and states take different positions on how price differences may be presented. Requirements also change over time. Nothing here is a statement of what any particular state allows today.",
+        "Proper disclosure is non-negotiable. That generally means clear signage at the entrance and register, price displays that show both amounts, receipts that identify the program, and online checkout text that explains the difference before payment. Confirm current requirements with your processor, your attorney or the relevant state agency before launching."
+      ]
+    },
+    {
+      "h2": "Questions to settle before you switch it on",
+      "paragraphs": [
+        "Walk through the customer experience at each point where a price appears: the menu or shelf tag, the register display, the receipt, and, if you sell online, the cart and checkout page. A mismatch between any two of them is what draws complaints, so consistency matters more than clever wording. Train the person at the register to explain the program in one calm sentence, such as: the lower price is for cash, and the listed price covers card acceptance.",
+        "Also decide how you will handle refunds, tips and sales tax under the two prices, and make sure your accountant understands how the reports separate them. Ask how the program treats debit cards, since the networks and states can handle debit differently from credit. These are details a specialist should settle with you in writing before launch, not after the first customer asks."
+      ]
+    },
+    {
+      "h2": "Who tends to benefit, and who should think twice",
+      "paragraphs": [
+        "Businesses with healthy card volume and thin margins often feel the effect most: restaurants, auto shops, retailers, service companies and professionals billing in four-figure invoices. The larger the average ticket, the more noticeable the cost of a percentage-based fee.",
+        "It is a less natural fit when your customers strongly expect one posted price, when your category is tightly regulated, or when price transparency is already contentious. Some owners also worry about how customers react to a card price. Testing the idea with clear signage and staff who can explain it in one sentence usually settles that concern faster than speculation does."
+      ]
+    },
+    {
+      "h2": "How it compares with surcharging and absorbing the cost",
+      "paragraphs": [
+        "Surcharging adds a fee to card transactions at checkout and is governed by separate rules that differ on credit versus debit, caps and notification. Absorbing the cost means leaving prices alone and accepting a lower margin. Dual pricing sits between them: the price display itself carries the difference.",
+        "Each approach has trade-offs in customer perception, paperwork and risk. The right one depends on your industry, your state and your own comfort. A specialist can walk through all three using your actual numbers rather than generic claims."
+      ]
+    },
+    {
+      "h2": "Getting started with MCCPS",
+      "paragraphs": [
+        "The starting point is the free, no-obligation savings analysis. MCCPS reviews two months of your processing statements line by line, identifies what you pay today, and shows whether the Zero Processing Fees program, a lower-cost pricing model or a simple cleanup of junk fees fits better. Savings depend entirely on that analysis, and no outcome is promised in advance.",
+        "If the program makes sense, setup includes configuring pricing in your POS or terminal, preparing signage, and walking your staff through how to explain it. Existing re-programmable terminals can often be kept, and free 24/7 technical support covers the rollout. Call 844.826.6227 or send your statements when you are ready."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "The program uses compliant dual pricing or cash discounting to offset card cost.",
+    "Disclosure and signage are required; rules vary by state and card network.",
+    "Savings depend on your own statement review, never a blanket promise.",
+    "Confirm current requirements before launching any pricing program."
+  ],
+  "faq": [
+    {
+      "q": "Is the Zero Processing Fees program legal?",
+      "a": "Dual pricing and cash discount programs are widely used, but legality and required wording depend on card network rules and your state, and both can change. Disclosure must be clear. Confirm current requirements with your processor and an attorney before implementing."
+    },
+    {
+      "q": "Will my customers be charged a fee?",
+      "a": "Customers see two prices and pick the payment method. The card price is the listed price in a dual-pricing setup, and the lower price applies to cash or qualifying non-card payments. It should never be a surprise at the register, which is why signage and receipts matter."
+    },
+    {
+      "q": "Do I need new equipment?",
+      "a": "Often not. MCCPS can frequently keep re-programmable terminals you already own and configure the pricing in your POS or terminal. Whether your hardware qualifies is checked during the setup review."
+    },
+    {
+      "q": "Can every type of business use it?",
+      "a": "Not necessarily. Eligibility depends on your industry, state rules and how you sell. Some categories are better suited than others. A specialist reviews your situation before recommending the program."
+    },
+    {
+      "q": "How do I find out what I would save?",
+      "a": "Request the free statement analysis. MCCPS reviews two months of statements line by line and shows your current cost, then explains how the program or another pricing model would apply. Results depend on your volume and card mix."
+    }
+  ],
+  "related": [
+    "offer-cash-discount",
+    "dual-pricing-explained",
+    "cash-discount-vs-surcharge",
+    "surcharging-programs",
+    "free-statement-analysis",
+    "pass-fees-to-customers"
+  ],
+  "icon": "dollar",
+  "read_minutes": 6
+}

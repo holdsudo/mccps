@@ -1,0 +1,95 @@
+{
+  "slug": "accept-credit-cards-for-the-first-time",
+  "category": "use-cases",
+  "title": "Accepting Credit Cards for the First Time",
+  "seo_title": "Accept Credit Cards for the First Time | MCCPS",
+  "meta_description": "Taking cards for the first time? See the steps from merchant account to first deposit, what to prepare, what to ask, and how to avoid common beginner costs.",
+  "primary_keyword": "accept credit cards for the first time",
+  "keywords": ["start accepting credit cards", "how to accept credit cards", "merchant account setup", "small business card processing", "first card terminal", "credit card acceptance checklist"],
+  "eyebrow": "Getting started",
+  "dek": "A plain-English walkthrough from choosing a setup to seeing your first card deposit land in your bank account.",
+  "intro": [
+    "For a lot of owners the day comes suddenly. A customer asks if you take cards, a larger job requires one, or you simply notice that people reach for their phones instead of their wallets. Until then, cash, checks and bank transfers were enough, and the world of terminals, merchant accounts and interchange sounded like someone else's problem.",
+    "The good news is that accepting cards is a well-worn path. The less good news is that the first decisions you make, often under time pressure, can lock you into equipment leases and pricing that are hard to undo. This guide lays out the steps in order and flags the places beginners tend to get caught."
+  ],
+  "sections": [
+    {
+      "h2": "What actually happens when a customer pays by card",
+      "paragraphs": [
+        "A card payment is a short conversation between several parties. Your terminal or website sends the card details to your processor, which asks the customer's issuing bank whether to approve the sale. That is authorization, and it takes a few seconds. Later, usually at the end of the day, your approved sales are grouped into a batch and sent for settlement, and the money moves, minus fees, to your business bank account.",
+        "Understanding this helps you see why you need two things: a merchant account, which is the arrangement that lets you receive card funds, and a way to capture the card, which can be a countertop terminal, a mobile reader, a payment page or a virtual terminal for keying in numbers."
+      ]
+    },
+    {
+      "h2": "Choose how you will take cards",
+      "paragraphs": [
+        "Match the method to where your customers actually pay. Someone running a storefront needs a chip and contactless terminal, a service business traveling to clients wants a mobile reader or invoices with payment links, and a business that sells by phone needs a virtual terminal. Many businesses need two of these, and a good setup lets all of them settle into the same account with one set of reports.",
+        "Hardware is worth a pause. Some processors will tell you that you must buy or lease new equipment. In many cases a terminal you already own can be reprogrammed to work with a new account, which MCCPS does regularly. Ask before you sign for anything."
+      ]
+    },
+    {
+      "h2": "What to prepare before you apply",
+      "paragraphs": [
+        "Underwriters want to know who you are and what you sell. Having the following ready speeds approval and reduces back-and-forth:"
+      ],
+      "bullets": [
+        "Legal business name, structure and tax ID, plus a business bank account that matches.",
+        "A government ID for the owner or principal.",
+        "A voided check or bank letter for deposits.",
+        "A description of what you sell, your typical ticket size and an estimate of monthly card volume.",
+        "A website or a clear description of how customers buy, including refund and delivery policies if you sell online."
+      ]
+    },
+    {
+      "h2": "Questions that protect a new merchant",
+      "paragraphs": [
+        "New businesses are often shown the most complicated pricing because they do not yet have a statement to compare. Slow the conversation down and ask how you are billed, not just how much. What is the pricing model, and is there a monthly minimum? Are there statement, gateway or annual fees? Is equipment sold or leased, and can the lease be cancelled? What is the term, does it renew automatically, and what does it cost to leave?",
+        "Be especially wary of anything non-cancellable. A terminal lease that runs for years can cost several times the device's value, and it continues even if you close the account. Pricing questions also deserve a written answer, because verbal promises do not appear on your statement."
+      ]
+    },
+    {
+      "h2": "Set up, test and train",
+      "paragraphs": [
+        "Once you are approved, the sequence is short."
+      ],
+      "steps": [
+        "Receive or reprogram your terminal, or activate your mobile reader or payment page.",
+        "Run a small live test transaction on your own card and confirm it appears in your reporting.",
+        "Check the receipt: business name, contact details and return policy should read correctly.",
+        "Confirm how and when batches close, and which cutoff gets you funded the next business day.",
+        "Show your staff how to handle tips, refunds, voids and declines.",
+        "Post acceptance signage so customers know which cards and wallets you take."
+      ]
+    },
+    {
+      "h2": "Plan for the first few months",
+      "paragraphs": [
+        "Your first deposits will teach you more than any brochure. Match each deposit to your sales, so you recognize the fee deductions and learn the rhythm of your funding schedule. Keep an eye on your PCI obligations from day one; completing the self-assessment questionnaire on time avoids a recurring penalty fee that many beginners pay without realizing it.",
+        "As you grow, revisit the arrangement. A month of real statements shows your true effective rate and card mix, which makes it much easier to judge whether the pricing you started with still fits. If you would rather not guess, MCCPS offers a free, no-obligation review of two months of statements, along with free 24/7 technical support when something goes wrong at the register."
+      ]
+    },
+    {
+      "h2": "Common first-time mistakes",
+      "paragraphs": [
+        "The most frequent ones are signing a long lease for a basic terminal, accepting a low headline rate without learning the monthly fees, ignoring PCI until a penalty shows up, and failing to close batches regularly. None is fatal, and all are easy to avoid with a little preparation. Call 844.826.6227 if you want a person to talk through your situation before you commit to anything."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "You need a merchant account plus a method to capture cards: terminal, mobile reader, payment page or virtual terminal.",
+    "Ask how you are billed, including monthly fees, equipment terms and contract length, not only the rate.",
+    "An existing terminal can often be reprogrammed, which avoids buying or leasing new hardware.",
+    "Run a live test, check receipts and learn your batch cutoff before the first real customer.",
+    "Complete PCI paperwork early to avoid avoidable penalty fees."
+  ],
+  "faq": [
+    {"q": "How long does it take to start accepting credit cards?", "a": "Simple applications can be approved quickly, sometimes within a day or two, while businesses that need extra underwriting review take longer. Preparing your documents in advance is the biggest time saver. If you keep an existing terminal, reprogramming can shorten the hardware step as well."},
+    {"q": "Do I need a business bank account?", "a": "Generally yes. Card funds are deposited to an account that matches your business name and tax ID, and underwriters usually ask for a voided check or bank letter. Some sole proprietors can use accounts in their own name, but rules vary by provider, so confirm before applying."},
+    {"q": "What does it cost to start?", "a": "Costs vary by provider and setup. Expect a percentage and per-transaction fee on each sale, possibly monthly or gateway fees, and equipment if you need it. Ask for every fee in writing. MCCPS does not publish rates here because they depend on your business, so request a free analysis for specifics."},
+    {"q": "Can I accept cards without a terminal?", "a": "Yes. You can use a payment link, an online payment page, a virtual terminal on a computer, or a smartphone reader. Which is best depends on whether customers pay in person, online or over the phone. Card-present payments generally cost less than keyed ones."},
+    {"q": "When will I see the money from my first sale?", "a": "Timing depends on your batch cutoff and your funding schedule. Standard funding often takes a business day or two, and next-day funding is available through MCCPS. Weekends and holidays can add a day, so watch your first few deposits to learn the pattern."}
+  ],
+  "related": ["open-a-new-business", "credit-card-processing", "credit-card-terminals", "how-credit-card-processing-works", "what-is-a-merchant-account", "terminal-lease-traps"],
+  "icon": "rocket",
+  "read_minutes": 6
+}

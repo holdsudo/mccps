@@ -1,0 +1,122 @@
+{
+  "slug": "chargeback-management",
+  "category": "solutions",
+  "title": "Chargeback Management for Merchants",
+  "seo_title": "Chargeback Management & Dispute Help | MCCPS",
+  "meta_description": "Understand how chargebacks work, how to respond with strong evidence, and how to keep your dispute ratio low. A practical merchant guide to representment.",
+  "primary_keyword": "chargeback management",
+  "keywords": [
+    "chargebacks",
+    "dispute management",
+    "representment",
+    "chargeback reason codes",
+    "reduce chargebacks",
+    "chargeback ratio",
+    "win chargeback disputes"
+  ],
+  "eyebrow": "Disputes",
+  "dek": "A chargeback is a bank-forced refund with a fee attached. Handling them well is mostly about preparation done long before the dispute arrives.",
+  "intro": [
+    "A customer calls their bank and says they do not recognize a charge. Weeks after you shipped the order, your processor notifies you that the money has been pulled back, and a dispute fee has been added. That is a chargeback, and it is among the most frustrating events in running a card-accepting business.",
+    "You cannot eliminate disputes, but you can make them rarer and win more of the ones that do land. This page walks through the lifecycle of a chargeback, how to respond, and the habits that keep your ratio healthy."
+  ],
+  "sections": [
+    {
+      "h2": "How a chargeback unfolds",
+      "paragraphs": [
+        "The cardholder contacts the issuing bank and disputes a transaction. The issuer assigns a reason code, provisionally credits the cardholder and sends the dispute to your processor, which debits your account and notifies you. You then have a limited window, often a few weeks, to respond with evidence.",
+        "If you respond, the case goes back to the issuer, which reviews your evidence. In some cases there is a further round, and rarely, an arbitration decided by the card network. Winning returns your funds, though it does not always refund the fee. If you do not respond in time, you lose by default."
+      ]
+    },
+    {
+      "h2": "The common reasons customers dispute",
+      "paragraphs": [
+        "Disputes fall into broad categories: fraud (the cardholder says they did not make the purchase), product or service problems (not received, not as described, defective), processing errors (duplicate charge, wrong amount) and authorization issues. Reason codes vary by network, but the buckets are consistent.",
+        "A surprising number are not fraud at all. A customer who forgot a subscription, did not recognize your billing descriptor or could not reach you to ask for a refund often takes the shortest route, which is calling the bank."
+      ],
+      "bullets": [
+        "Fraud or unrecognized charge",
+        "Item or service not received",
+        "Not as described or defective",
+        "Duplicate or incorrect amount",
+        "Cancelled subscription or refund not given"
+      ]
+    },
+    {
+      "h2": "Building a winning response",
+      "paragraphs": [
+        "Evidence is everything, and it has to match the reason code. For a not-received claim, send tracking with delivery confirmation and any signature. For a fraud claim in person, send the signed receipt, chip authorization data and any ID checks. For a service dispute, send the signed agreement, communications and proof the work was done.",
+        "Write a short, factual cover letter that summarizes the timeline and points to each document. Keep emotion out. Issuers review hundreds of cases, so clear organization helps. Submit before the deadline, not on it.",
+        "Timing is part of the evidence. Responding on day two with a tidy packet looks organized, while a last-hour scramble often leaves out a key document. Keep a template cover letter for each common reason code so you only fill in details, and note which responses succeeded so you can repeat what works."
+      ]
+    },
+    {
+      "h2": "Prevention is cheaper than representment",
+      "paragraphs": [
+        "Clear descriptors, prompt refunds and responsive support prevent a lot of disputes. Put your phone number and a plain business name on the billing descriptor so customers recognize charges. Send order confirmations, shipping notices and receipts. State your return policy at checkout and on receipts.",
+        "Refunding quickly when a customer asks is often cheaper than fighting a chargeback. A refund costs you the sale amount; a chargeback costs the sale amount, a dispute fee and a mark against your ratio. Our guide to refunds versus chargebacks covers that math."
+      ]
+    },
+    {
+      "h2": "Keeping your ratio healthy",
+      "paragraphs": [
+        "Processors and networks monitor your chargeback ratio, the share of transactions that result in disputes. Hypothetically, 10 chargebacks on 1,000 transactions is a 1% ratio. Thresholds vary, but sustained high ratios can lead to fees, reserves, monitoring programs or even account termination.",
+        "Track your ratio monthly and treat spikes as signals. A rising rate may point to a fulfillment problem, a misleading product description, a fraud wave or a billing descriptor change. Fixing the cause helps more than winning individual cases.",
+        "It also helps to separate genuine fraud from friendly fraud when you review disputes. Fraud calls for stronger front-end screening, while friendly fraud calls for clearer communication, descriptors and refund handling. Treating them as one problem leads to the wrong fix."
+      ]
+    },
+    {
+      "h2": "Alerts, tools and records",
+      "paragraphs": [
+        "Some programs notify you of a dispute early so you can refund before it becomes a formal chargeback. Whether these are available depends on your setup, so ask. Strong fraud tools such as AVS, CVV and 3-D Secure help on the front end by shifting liability or declining risky orders.",
+        "Keep records for at least as long as the dispute window runs: signed receipts, delivery proof, communication logs and refund policies. A shared folder organized by order number makes responses fast.",
+        "Retention schedules deserve a decision too. Many disputes arrive well after the sale, so deleting records early removes your best evidence. Decide how long to keep receipts, shipping data and messages, and apply it consistently, while still respecting privacy and PCI rules about card data itself."
+      ]
+    },
+    {
+      "h2": "Support from MCCPS",
+      "paragraphs": [
+        "MCCPS provides free 24/7 technical support and personal customer service, and the reporting and analytics dashboard in PayPilot by MCCPS helps you spot dispute trends. A specialist can walk through a recent chargeback with you and explain what evidence would have mattered.",
+        "Request the free statement analysis and ask for a review of your chargeback fees and ratio along with your processing rates. If your business is considered higher risk, the team can talk about what to expect and how to prepare."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A chargeback pulls funds back and usually adds a dispute fee.",
+    "Evidence must match the reason code and arrive before the deadline.",
+    "Clear descriptors and quick refunds prevent many disputes.",
+    "Monitor your chargeback ratio monthly and fix root causes."
+  ],
+  "faq": [
+    {
+      "q": "How long do I have to respond to a chargeback?",
+      "a": "Usually a limited window, often a few weeks from notification, but it varies by network and processor. Missing it means losing by default. Check the notice carefully and submit evidence early."
+    },
+    {
+      "q": "Can I win every dispute?",
+      "a": "No. Success depends on the reason code, the quality of your evidence and how issuers apply the rules. Strong documentation improves your odds, but prevention is more reliable than representment."
+    },
+    {
+      "q": "Should I refund instead of fighting?",
+      "a": "Often, yes, for smaller amounts or clear customer service failures. A refund avoids the dispute fee and keeps your ratio down. Fight when evidence is strong and the amount justifies the effort."
+    },
+    {
+      "q": "What is a chargeback ratio?",
+      "a": "It is the share of your transactions that result in disputes, commonly measured monthly. High ratios can trigger monitoring, fees or reserves. Keep track and address the causes if it rises."
+    },
+    {
+      "q": "Does a chargeback mean fraud?",
+      "a": "Not necessarily. Many disputes come from forgotten purchases, unclear descriptors or unresolved service issues. Responding with evidence and improving communication can reduce them."
+    }
+  ],
+  "related": [
+    "reduce-chargebacks",
+    "how-to-win-a-chargeback",
+    "chargeback-reason-codes",
+    "refund-vs-chargeback",
+    "friendly-fraud",
+    "fraud-prevention"
+  ],
+  "icon": "scale",
+  "read_minutes": 7
+}

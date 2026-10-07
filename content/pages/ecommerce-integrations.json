@@ -1,0 +1,123 @@
+{
+  "slug": "ecommerce-integrations",
+  "category": "solutions",
+  "title": "E-commerce Platform Integrations",
+  "seo_title": "E-commerce Payment Integrations & Plugins | MCCPS",
+  "meta_description": "Connect your online store to a payment gateway through cart plugins, hosted checkout or API. Learn how integration affects security, fees and conversions.",
+  "primary_keyword": "ecommerce payment integrations",
+  "keywords": [
+    "shopping cart payment plugin",
+    "ecommerce gateway integration",
+    "hosted checkout",
+    "payment API",
+    "online store payments",
+    "checkout integration",
+    "website payment setup"
+  ],
+  "eyebrow": "Online selling",
+  "dek": "How your shopping cart talks to your payment gateway decides how safe, fast and flexible your checkout is.",
+  "intro": [
+    "You built the store, photographed the products and wrote the descriptions. Then you reach the payment step and discover that your cart supports a short list of gateways, each with its own fees, setup and quirks. This is the point where many online sellers choose whatever is easiest, then live with the consequences.",
+    "Integration is the technical connection between your store and the services that take the money. It affects your security obligations, your conversion rate and how easily you can change providers later. Here is how to think about it."
+  ],
+  "sections": [
+    {
+      "h2": "Three ways a cart connects to payments",
+      "paragraphs": [
+        "The simplest is a hosted checkout, where the customer is sent to the provider's secure page to pay and then returned to your store. The second is an embedded form or hosted fields, where the payment fields appear in your page but are served from the provider, so card data never touches your server. The third is a direct API integration, where your own code handles the form and sends data to the gateway.",
+        "Hosted pages carry the least security burden but offer less control over design. Embedded fields balance control and security. Direct API gives complete control and the heaviest compliance responsibility.",
+        "Whichever route you take, check how orders appear in your admin. The payment status, transaction ID and refund option should be visible on each order, so customer service can answer a question without logging into a second system."
+      ]
+    },
+    {
+      "h2": "Plugins and built-in connectors",
+      "paragraphs": [
+        "Popular carts and website builders offer plugins or native settings for many gateways. A plugin can often be installed in minutes with API keys supplied by your provider. Check that it is actively maintained, compatible with your cart version and supports the features you need, such as saved cards and refunds from the admin panel.",
+        "Plugins break when platforms update. Keep a test order routine after every major update, and subscribe to the plugin's release notes. MCCPS supports multiple gateways, so if your cart prefers a particular one, there is a good chance it can be used."
+      ],
+      "bullets": [
+        "Supported cart version and active maintenance",
+        "Refunds and voids from the admin",
+        "Saved cards and tokenization",
+        "Subscriptions and recurring billing",
+        "Support for wallets and 3-D Secure"
+      ]
+    },
+    {
+      "h2": "Security and PCI scope",
+      "paragraphs": [
+        "How you integrate determines which self-assessment questionnaire applies. Hosted pages and hosted fields keep card data off your server, shrinking your PCI scope. Collecting card numbers in your own code expands it considerably.",
+        "Whatever you choose, use HTTPS everywhere, keep your cart and plugins updated, restrict admin access and use strong passwords with multi-factor authentication. Tokenization lets you store a reference to the card for repeat purchases without holding the number."
+      ]
+    },
+    {
+      "h2": "Checkout experience and conversion",
+      "paragraphs": [
+        "Every extra field, redirect or confusing error costs sales. An embedded form that keeps customers on your domain generally feels more trustworthy than a redirect to an unfamiliar page, though a well-branded hosted page can work well. Offer wallets and express options for mobile shoppers.",
+        "Be clear about shipping costs and taxes before the final step. Say 100 shoppers reach payment and 70 complete the purchase. Improving that to 75 on a store with a $60 average order adds $300 per hundred visitors. Small changes matter, which is why our checkout optimization guide is worth a read.",
+        "Mobile checkout deserves its own test. Many online sales now happen on phones, where tiny fields and pop-ups cause abandonment. Place an order on a real phone, on both Wi-Fi and cellular, and note every moment of friction. Autofill, a numeric keypad for card fields and one-tap wallet buttons all help."
+      ]
+    },
+    {
+      "h2": "Fraud tools in the integration",
+      "paragraphs": [
+        "Card-not-present sales are exposed to fraud, so your integration should pass the data fraud tools need: billing address for AVS, security code, customer IP and device information. Make sure error messages from declines are handled gracefully, not shown as cryptic codes.",
+        "Add rate limits and CAPTCHA to the payment form to blunt card testing attacks. Configure rules to review or decline risky orders, and adjust over time as you learn your own patterns.",
+        "Do not forget the unglamorous scenarios: partial refunds, split shipments, canceled orders after authorization and expired authorizations. Know how your cart and gateway handle each, because the first time you meet them should not be with an upset customer on the phone."
+      ]
+    },
+    {
+      "h2": "Keeping your options open",
+      "paragraphs": [
+        "Avoid arrangements that tie your store to one payment provider forever. Look for carts that support multiple gateways and standard tokenization practices. Ask how you can export stored customer tokens if you ever switch, since losing them can mean asking every subscriber to re-enter a card.",
+        "Keep your own records of API keys, test credentials and plugin versions. When something breaks at 2 a.m., a one-page runbook is gold.",
+        "Webhooks are worth understanding too. They are the messages a gateway sends your store to confirm a payment or report a dispute, and when they fail, orders can sit unpaid or unfulfilled. Ask your developer or plugin vendor how failures are retried and logged."
+      ]
+    },
+    {
+      "h2": "Getting connected with MCCPS",
+      "paragraphs": [
+        "MCCPS supports multiple gateways, one-time and recurring payments, and offers free 24/7 technical support, so integration questions get answered when they arise. A specialist can match your cart to a workable setup and walk through testing.",
+        "To see where you stand on pricing, request the free statement analysis. Savings depend on the review, and no result is promised in advance."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Hosted checkout, embedded fields and direct API trade control for security.",
+    "Plugins need maintenance and testing after cart updates.",
+    "Integration choices determine PCI scope and conversion rate.",
+    "Choose setups that let you change providers without losing tokens."
+  ],
+  "faq": [
+    {
+      "q": "Which integration method is safest?",
+      "a": "Hosted checkout pages and hosted fields keep card data off your server, which reduces risk and PCI scope. Direct API integration offers the most control but carries the heaviest responsibility."
+    },
+    {
+      "q": "Will my cart work with a different gateway?",
+      "a": "Many carts support several gateways via plugins or built-in settings. Compatibility depends on your platform and version. MCCPS supports multiple gateways, and a specialist can confirm options for your store."
+    },
+    {
+      "q": "How do I test my checkout?",
+      "a": "Use your provider's test mode with test card numbers, then run a small real transaction and refund it before launch. Repeat after plugin or cart updates."
+    },
+    {
+      "q": "Can I save cards for repeat customers?",
+      "a": "Yes, using tokenization, where the gateway stores the card and gives you a reference. Get customer consent and follow PCI guidelines. Ask about exporting tokens if you switch providers."
+    },
+    {
+      "q": "Why are my online declines high?",
+      "a": "Causes include fraud rules set too strictly, mismatched billing details, expired cards or integration errors. Review decline reasons in reporting and adjust settings. Support can help interpret codes."
+    }
+  ],
+  "related": [
+    "payment-gateway",
+    "ecommerce",
+    "ecommerce-checkout-optimization",
+    "accept-payments-online",
+    "tokenization-explained",
+    "card-testing-attacks"
+  ],
+  "icon": "cart",
+  "read_minutes": 6
+}

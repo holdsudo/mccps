@@ -1,0 +1,122 @@
+{
+  "slug": "pci-compliance",
+  "category": "solutions",
+  "title": "PCI Compliance Help for Merchants",
+  "seo_title": "PCI Compliance Help for Small Business | MCCPS",
+  "meta_description": "Understand PCI DSS, choose the right SAQ, run scans and avoid non-compliance fees. MCCPS offers PCI compliance help for merchants of every size.",
+  "primary_keyword": "PCI compliance",
+  "keywords": [
+    "PCI DSS",
+    "PCI compliance help",
+    "PCI self-assessment questionnaire",
+    "SAQ",
+    "PCI non-compliance fee",
+    "vulnerability scan",
+    "card data security"
+  ],
+  "eyebrow": "Security",
+  "dek": "The annual card-security paperwork that most owners dread is manageable once you know which questionnaire applies to you.",
+  "intro": [
+    "Somewhere on your merchant statement, there may be a line labeled PCI non-compliance, charging you a monthly fee for something you never knew you had to do. It is one of the most common surprises in small business processing, and it exists because the rules around card data security are real and widely ignored.",
+    "PCI compliance is the process of showing you protect cardholder data. It is not a certificate someone hands you; it is a recurring set of tasks. Here is what it covers, how to find the right questionnaire, and how to keep it from becoming a fee."
+  ],
+  "sections": [
+    {
+      "h2": "What PCI DSS is",
+      "paragraphs": [
+        "PCI DSS stands for Payment Card Industry Data Security Standard. It is a set of requirements created by the major card networks to reduce card fraud and data theft. Any business that accepts, stores, processes or transmits card data is expected to meet it, no matter how small.",
+        "Your acquirer or processor passes the obligation to you through your merchant agreement. Compliance is validated by completing a self-assessment questionnaire, and in some cases by passing network scans, once a year.",
+        "Compliance is not the same as security, but it is a solid baseline. The requirements cover areas such as firewalls, access control, secure configuration, monitoring and written policies, scaled to how much card data you actually touch."
+      ]
+    },
+    {
+      "h2": "Which questionnaire applies",
+      "paragraphs": [
+        "The self-assessment questionnaire, or SAQ, comes in several versions depending on how you take payments. A shop using standalone terminals that never touch your computer network typically has a short form. An e-commerce site that sends customers to a hosted payment page has a different short form. A business that keys cards into its own systems or stores card data has a longer, tougher one.",
+        "Choosing the wrong SAQ is a common mistake that either leaves gaps or wastes time. Your processor can help you identify the right one based on equipment and workflow, and MCCPS offers PCI compliance help to walk you through it."
+      ],
+      "bullets": [
+        "Standalone, encrypted terminals with no network link",
+        "Terminals or readers connected to the internet",
+        "E-commerce with a hosted or embedded payment page",
+        "Virtual terminal entry from a computer",
+        "Systems that store, process or transmit card data"
+      ]
+    },
+    {
+      "h2": "The practical controls behind the paperwork",
+      "paragraphs": [
+        "The questionnaire reflects real habits. Use strong, unique passwords and change vendor defaults. Keep software updated, restrict who can access payment systems, and never store full card numbers or security codes in notebooks or spreadsheets. Segment your payment equipment from guest Wi-Fi. Physically secure terminals so nobody can swap them or install a skimmer.",
+        "Encryption and tokenization reduce how much you have to protect. When card data is encrypted at the point of capture and replaced with tokens afterward, your own systems hold little of value, which shortens the questionnaire and lowers risk.",
+        "A good starting inventory lists every place card data could appear: terminals, your POS computer, a website checkout, a phone-order workflow, paper forms, email and old backup files. Anything on that list either needs protection or needs to be removed. Many owners discover paper authorization forms or screenshots stored years ago that no longer serve any purpose, and deleting them reduces both risk and effort."
+      ]
+    },
+    {
+      "h2": "Scans and annual validation",
+      "paragraphs": [
+        "Merchants with internet-facing systems may need quarterly vulnerability scans from an approved vendor. The scan probes your network from outside and reports weaknesses to fix. If you only use standalone terminals, you may not need one, but confirm that rather than assume.",
+        "Mark your calendar for the annual attestation. Missing the deadline is the usual way merchants end up paying non-compliance fees. A recurring reminder and a documented checklist turn it into a small yearly task.",
+        "Keep your completed questionnaire, scan reports and a note of who filed them in one folder. If a processor, bank or insurer ever asks for proof, you will have it in minutes. It also makes next year's filing faster, since most answers will not change unless your equipment or workflow does."
+      ]
+    },
+    {
+      "h2": "The non-compliance fee",
+      "paragraphs": [
+        "Some processors charge a monthly fee until you file the questionnaire. Hypothetically, a $30 monthly fee is $360 a year, paid for doing nothing. Others charge a separate PCI program fee even when you are compliant, so read your statement closely.",
+        "Filing promptly typically stops the non-compliance charge, though what applies depends on your agreement. Our guide to the PCI non-compliance fee explains how to find it and challenge it. The free MCCPS statement analysis looks for these lines as part of its review."
+      ]
+    },
+    {
+      "h2": "What happens if there is a breach",
+      "paragraphs": [
+        "If card data is compromised, you may face forensic investigations, fines passed down from the networks and costs to notify customers. Being able to show you followed the standard before the incident can matter. This is not legal advice; consult your attorney and your insurer about obligations that apply to your business.",
+        "Prevention beats cleanup. Reduce the data you hold, protect what remains, and train staff to spot phishing and suspicious devices at the counter."
+      ]
+    },
+    {
+      "h2": "PCI help from MCCPS",
+      "paragraphs": [
+        "MCCPS provides PCI compliance help, from identifying the right questionnaire to guiding you through the answers. Equipment choices such as encrypted terminals, EMV readers and tokenized gateways can lower your burden, and free 24/7 technical support is there when a question comes up.",
+        "Request the free statement analysis and a specialist will also check whether you are paying for PCI in ways you do not need to."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "PCI DSS applies to every business that accepts card payments.",
+    "The right SAQ depends on how you take cards.",
+    "Encryption and tokenization shrink your compliance workload.",
+    "File on time to avoid recurring non-compliance fees."
+  ],
+  "faq": [
+    {
+      "q": "Do small businesses really need to be PCI compliant?",
+      "a": "Yes. The requirement applies to any business that accepts card payments, regardless of size. Smaller merchants usually complete a shorter questionnaire. Your merchant agreement likely requires it, and failing to file can trigger fees."
+    },
+    {
+      "q": "How often do I have to validate compliance?",
+      "a": "Typically once a year with a self-assessment questionnaire, and quarterly scans if your setup requires them. Confirm timing with your processor, and set a calendar reminder so you do not miss it."
+    },
+    {
+      "q": "What is an SAQ?",
+      "a": "A self-assessment questionnaire, the form where you attest to how you protect card data. Different versions fit different payment setups. Choosing the right one depends on your equipment and how card data flows."
+    },
+    {
+      "q": "Does PCI compliance guarantee I will not be breached?",
+      "a": "No. It reduces risk and shows due diligence, but no standard eliminates it. Combine compliance with good habits, updated systems and trained staff."
+    },
+    {
+      "q": "Why am I paying a PCI fee?",
+      "a": "It may be a non-compliance charge for not filing, or a program fee your processor adds. Review your statement and agreement, then ask your processor to explain. The free MCCPS analysis flags these lines."
+    }
+  ],
+  "related": [
+    "become-pci-compliant",
+    "pci-non-compliance-fee",
+    "encryption-p2pe-explained",
+    "tokenization-explained",
+    "payment-security-checklist",
+    "data-breach-response"
+  ],
+  "icon": "shield",
+  "read_minutes": 7
+}

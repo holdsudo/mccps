@@ -1,0 +1,96 @@
+{
+  "slug": "reduce-chargebacks",
+  "category": "use-cases",
+  "title": "Reducing Chargebacks in Your Business",
+  "seo_title": "How to Reduce Chargebacks | MCCPS",
+  "meta_description": "Cut chargebacks with clear descriptors, fast refunds, good records and sensible fraud checks. Learn why customers dispute charges and how to prevent it.",
+  "primary_keyword": "reduce chargebacks",
+  "keywords": ["prevent chargebacks", "chargeback prevention for small business", "billing descriptor", "dispute rate", "friendly fraud", "chargeback reason codes", "chargeback ratio"],
+  "eyebrow": "Dispute prevention",
+  "dek": "Most chargebacks are not elaborate fraud. They are confusion, silence or a missing receipt, which makes them largely preventable.",
+  "intro": [
+    "A chargeback arrives as a notice that a customer has disputed a charge and the bank has pulled the money back, along with a fee, while you scramble to prove the sale was legitimate. Even when you win, you have spent time and paid a fee for the privilege. When you lose, you lose the sale, the goods and the fee together.",
+    "It helps to remember how these disputes start. A cardholder who does not recognize a charge, cannot reach you, or feels ignored often finds it easier to call the bank than to email you. Your goal is to make the better choice obvious: answer fast, refund fairly and leave a clear trail. This guide covers the practices that reduce chargebacks before they happen."
+  ],
+  "sections": [
+    {
+      "h2": "Why disputes happen",
+      "paragraphs": [
+        "Chargebacks fall into a handful of families. Some are true fraud, where a stolen card was used and the real owner disputes the charge. Some are service disputes: the item never arrived, was not as described or was cancelled without a refund. Some are processing errors, such as duplicate charges or an amount different from what was agreed. And some are so-called friendly fraud, where a genuine customer disputes a legitimate sale out of forgetfulness, regret or a misunderstanding.",
+        "Each reason code the issuer assigns points to a different fix, which is why reading the code on every dispute is worthwhile. If most of yours say the cardholder did not recognize the transaction, the problem may be your billing descriptor rather than your product."
+      ]
+    },
+    {
+      "h2": "Make every charge recognizable",
+      "paragraphs": [
+        "The billing descriptor is the name that appears on the customer's statement. If it shows a parent company, an abbreviation or a processor's name, the customer may fail to match it to your business weeks later. Use a name customers know, add a phone number or website where the format allows, and make sure it matches what appears on your signage and receipts.",
+        "Receipts reinforce this. Email or text a confirmation immediately after the sale that includes the business name, amount, date, a short description and a way to reach you. Customers who can see what they bought are less likely to dispute it."
+      ]
+    },
+    {
+      "h2": "Practices that prevent disputes",
+      "paragraphs": [
+        "A small set of habits removes a large share of chargebacks:"
+      ],
+      "bullets": [
+        "State your refund, cancellation and delivery policies clearly at checkout and on receipts, and get an acknowledgement for deposits and custom work.",
+        "Refund quickly when a customer asks; a refund costs less than a chargeback and stops the dispute before it begins.",
+        "Respond to messages and calls promptly so the bank is not the first stop.",
+        "Ship with tracking and signatures on higher-value items, and keep proof of delivery.",
+        "Authorize and capture at the right time, and avoid charging before you can fulfil the order.",
+        "Use address and security code checks and 3-D Secure for riskier online orders."
+      ]
+    },
+    {
+      "h2": "Know your numbers",
+      "paragraphs": [
+        "Card networks and processors track your dispute ratio, the share of transactions that result in a chargeback. A ratio that creeps above the thresholds set by the networks can bring monitoring programs, extra fees, reserves or even account closure. The exact thresholds change, so ask your processor what applies to you rather than relying on a figure you saw elsewhere.",
+        "Suppose you handle 1,000 sales in a month and receive 4 disputes. That is a 0.4 percent dispute ratio in this hypothetical example. Track it monthly, sorted by reason code, product and sales channel, so patterns stand out. A single product or a single marketing channel often accounts for most of the trouble."
+      ]
+    },
+    {
+      "h2": "When a dispute arrives anyway",
+      "paragraphs": [
+        "You usually have a limited window to respond, so act as soon as the notice arrives. Gather the evidence that matches the reason code, which typically includes the order and authorization details, the signed or electronically accepted terms, proof of delivery, communication with the customer and evidence the card was present or verified. Present it clearly and concisely. Not every dispute is worth contesting; weigh the amount, your odds and the time required.",
+        "Keep a log of outcomes. Over a few months it shows which evidence wins and which policies need rewriting."
+      ]
+    },
+    {
+      "h2": "Steps to put in place this month",
+      "paragraphs": [
+        "Prioritize the cheap, high-impact items first."
+      ],
+      "steps": [
+        "Check how your business name appears on a real statement and fix it if it is unclear.",
+        "Turn on automatic email or text receipts.",
+        "Publish plain refund and cancellation terms and link them at checkout.",
+        "Enable security code and postal code checks on card-not-present sales.",
+        "Create a folder or system for storing order proof for every sale.",
+        "Review last quarter's disputes by reason code and pick the top cause to fix."
+      ]
+    },
+    {
+      "h2": "Support when you need it",
+      "paragraphs": [
+        "MCCPS helps merchants understand their dispute reports, tighten descriptors and receipts and set up fraud controls matched to how they sell. If chargebacks are already straining your account, call 844.826.6227 to talk through options, and ask for the free statement analysis to see what disputes and related fees are costing you."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Many chargebacks come from unrecognized charges, silence and missing records, not elaborate fraud.",
+    "A clear descriptor and instant receipts head off confusion.",
+    "Refunding promptly is cheaper than losing a dispute.",
+    "Track your dispute ratio by reason code and channel to find the real cause.",
+    "Keep order, delivery and consent evidence for every sale so you can respond within the deadline."
+  ],
+  "faq": [
+    {"q": "What is a chargeback?", "a": "A chargeback occurs when a cardholder disputes a charge with their issuing bank, which then reverses the payment and debits your account while the dispute is investigated. You can contest it by submitting evidence. Fees often apply whether you win or lose, so prevention is usually cheaper than fighting."},
+    {"q": "How many chargebacks is too many?", "a": "Card networks and processors watch the ratio of disputes to transactions, and exceeding their thresholds can trigger monitoring programs, fees or reserves. The exact limits change and vary by program, so ask your processor what applies. As a rule, keep your ratio as low as you can and investigate any rise."},
+    {"q": "Should I refund instead of waiting for a dispute?", "a": "Usually yes. A refund returns the customer's money without the extra fee, the dispute count and the risk of damaging your standing. Where the customer is clearly wrong, you can decline, but explain your reasoning and keep the records. Respond quickly either way."},
+    {"q": "Can I stop all chargebacks?", "a": "No. Some customers will always dispute, and genuine fraud will occasionally succeed. You can reduce the volume sharply with clear descriptors, receipts, fast service and fraud checks, and you can improve your odds of winning the ones that arrive by keeping good evidence."},
+    {"q": "What evidence helps win a dispute?", "a": "The most useful evidence matches the reason given: signed or accepted terms, order and authorization records, tracking and delivery proof, communication history and proof that the card was present or verified. Submit it clearly and before the deadline. Incomplete or late evidence is a frequent reason merchants lose."}
+  ],
+  "related": ["chargeback-management", "chargeback-reason-codes", "how-to-win-a-chargeback", "friendly-fraud", "refund-vs-chargeback", "prevent-card-fraud"],
+  "icon": "shield",
+  "read_minutes": 6
+}

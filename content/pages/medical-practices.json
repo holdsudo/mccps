@@ -1,0 +1,125 @@
+{
+  "slug": "medical-practices",
+  "category": "industries",
+  "title": "Medical Practice Payment Processing",
+  "seo_title": "Medical Practice Payment Processing | MCCPS",
+  "meta_description": "Medical practice payment processing for copays, HSA/FSA cards, payment plans and patient privacy. Learn how it works and request a free statement analysis.",
+  "primary_keyword": "medical practice payment processing",
+  "keywords": [
+    "patient payment processing",
+    "copay collection",
+    "HSA FSA card acceptance",
+    "medical payment plans",
+    "healthcare merchant account",
+    "PCI compliance medical office",
+    "card on file patients"
+  ],
+  "eyebrow": "Healthcare payments",
+  "dek": "Copays at the front desk, balances after insurance and cards on file: a payment setup that respects both patients and privacy.",
+  "intro": [
+    "Medical billing is slow by nature. Insurance pays what it pays weeks after the visit, and the patient owes the rest. The practices that stay healthy financially are often the ones that collect the patient's share early and reliably, without making the front desk feel like a collections office.",
+    "Medical practice payment processing covers the copay at check-in, the balance statement that comes later, and the payment plan for a larger procedure. It also covers the privacy side: payment data and health information are handled under different rules, and keeping them separate is part of running a careful practice."
+  ],
+  "sections": [
+    {
+      "h2": "Collecting copays at check-in",
+      "paragraphs": [
+        "The easiest dollar to collect is the one due when the patient is standing at your desk. A copay is typically a fixed amount stated on the insurance card, so a quick tap or dip at check-in avoids a later bill. Collecting at the start of the visit also leaves a record that the patient paid before services were provided.",
+        "Where possible, integrate your payment terminal with your practice management system so the amount and the patient account match automatically. Typing an amount into a standalone terminal invites mistakes and reconciliation work. MCCPS can integrate with almost any POS or software and often keep terminals you already own."
+      ]
+    },
+    {
+      "h2": "HSA and FSA cards",
+      "paragraphs": [
+        "Patients increasingly pay with health savings or flexible spending account cards. These cards run like debit cards but restrict spending to eligible medical expenses. A medical practice generally qualifies as an eligible merchant by its category, so these cards work for copays and balances without special handling.",
+        "Retailers selling over-the-counter items have extra requirements around itemized eligibility, but a practice collecting for medical services is straightforward. Ask your processor to confirm that your account is set up to accept these cards, and train front-desk staff to recognize them so a patient is never told to use a different method."
+      ],
+      "bullets": [
+        "Accept HSA and FSA cards the same way as any debit card.",
+        "Provide itemized receipts patients can submit for reimbursement.",
+        "Keep records of services provided in case of an account audit by the patient.",
+        "Check your merchant category code with your processor."
+      ]
+    },
+    {
+      "h2": "Payment plans and cards on file",
+      "paragraphs": [
+        "When a procedure leaves a patient with a bill of several hundred dollars, a payment plan often means the difference between being paid slowly and being paid at all. With the patient's written authorization, you can keep a tokenized card on file and charge agreed installments on set dates. The plan terms should be in writing: the amount, the dates, and how the patient can stop or change it.",
+        "Be careful and transparent. Charging without clear prior consent leads to disputes and damages trust. Some states regulate payment plans and interest, and healthcare providers may have additional rules, so check with your attorney or your state association before you build a plan program. For larger needs, some patients look at third-party patient financing, which is separate from MCCPS processing."
+      ],
+      "steps": [
+        "Explain the balance and the proposed schedule to the patient.",
+        "Obtain written authorization to charge the card on file.",
+        "Store the card as a token, not as written digits.",
+        "Charge on the agreed dates and send a receipt each time.",
+        "Contact the patient promptly if a payment fails."
+      ]
+    },
+    {
+      "h2": "Privacy, PCI and keeping data separate",
+      "paragraphs": [
+        "Health information and card data fall under different rules. Patient health information is governed by privacy law, while card data is governed by the PCI standard. Your payment receipt should not describe a diagnosis or treatment in detail; a generic service description is usually enough. Ask your compliance advisor what your practice should print on receipts and statements.",
+        "For PCI, use encrypted card readers and avoid storing card numbers in charts, spreadsheets or paper forms. A tokenized card-on-file approach keeps real numbers out of your own systems. MCCPS provides PCI compliance help, and the self-assessment questionnaire that applies to you depends on how you take payments."
+      ]
+    },
+    {
+      "h2": "Phone, portal and statement payments",
+      "paragraphs": [
+        "Many patients prefer to pay a balance from home. A secure online payment link on a statement or in a patient portal can speed up collection. Payments by phone, taken through a virtual terminal, are card-not-present and should follow secure procedures; staff should never write a card number on paper.",
+        "Faster collection has a tangible effect. If your practice has $40,000 a month in patient balances and collects them a week sooner, you carry less receivable. Next-day funding also helps ensure that card payments become available promptly, which is useful for payroll and supplies."
+      ]
+    },
+    {
+      "h2": "Front-desk workflow and reconciliation",
+      "paragraphs": [
+        "A good payment workflow is one the front desk can follow while the phone is ringing. Decide when payments are collected, who can issue refunds and how end-of-day totals are compared with your practice management system. At close, run the batch, print the report and match card totals to the posted payments. Differences usually come from a payment applied to the wrong account or a refund posted on a different day. A short written checklist taped near the terminal helps new staff, and limiting refund authority to a manager reduces errors. Review declined payments each week so that balances do not slip through the cracks."
+      ]
+    },
+    {
+      "h2": "Reviewing your costs",
+      "paragraphs": [
+        "Say your practice takes $50,000 a month on cards with a 2.8 percent effective rate. That is $1,400 in fees. Card-present copays typically cost less than keyed or online payments, so the way you collect shows up in the number. Read the statement for per-item charges, monthly fees and any PCI non-compliance fees.",
+        "Some practices consider offsetting card fees through surcharging, cash discount or dual pricing, but healthcare can involve additional state and payer rules, and card network requirements apply. Rules vary, disclosure is required, and you should confirm current requirements with your advisor first. MCCPS offers a free statement analysis that reviews two months of statements line by line, with savings depending on what it finds. Support is free and available 24/7."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Collect copays at check-in to avoid later billing work.",
+    "HSA and FSA cards generally process like debit cards for medical services.",
+    "Written authorization and clear schedules make payment plans work.",
+    "Keep health information off payment receipts and card data out of charts.",
+    "Integrated terminals reduce keying errors and reconciliation time."
+  ],
+  "faq": [
+    {
+      "q": "Can a medical office accept HSA and FSA cards?",
+      "a": "Yes. They process like debit cards and are accepted for eligible medical expenses. Confirm your account setup with your processor and provide itemized receipts so patients can submit for reimbursement."
+    },
+    {
+      "q": "Is it safe to keep a patient's card on file?",
+      "a": "It is when the card is tokenized through a PCI-compliant system and the patient has authorized the charges in writing. Never keep card numbers in charts or spreadsheets."
+    },
+    {
+      "q": "What should a payment receipt show at a medical practice?",
+      "a": "Keep it simple: date, amount, practice name and a general description. Avoid diagnosis or treatment detail. Ask your compliance advisor for guidance on what your practice should include."
+    },
+    {
+      "q": "How can a practice reduce unpaid patient balances?",
+      "a": "Collect copays at check-in, send clear statements with an online payment link, and offer written payment plans for larger balances. Quick, polite follow-up on failed payments helps too."
+    },
+    {
+      "q": "Can a practice charge a fee for card payments?",
+      "a": "Maybe, but surcharging and similar programs depend on state law, payer contracts and card network rules and require disclosure. Confirm current requirements with your advisor before adding any fee."
+    }
+  ],
+  "related": [
+    "dental-practices",
+    "hsa-fsa-card-acceptance",
+    "telehealth",
+    "pci-compliance",
+    "invoicing-and-payment-links",
+    "veterinary-clinics"
+  ],
+  "icon": "heart",
+  "read_minutes": 6
+}
