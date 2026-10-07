@@ -1,0 +1,127 @@
+{
+  "slug": "open-a-new-business",
+  "category": "use-cases",
+  "title": "Payments Setup for a New Business",
+  "seo_title": "Payment Setup Checklist for a New Business | MCCPS",
+  "meta_description": "A practical payments checklist for opening a new business: accounts, paperwork, hardware, pricing questions, PCI and the first-month review.",
+  "primary_keyword": "payment setup for a new business",
+  "keywords": [
+    "new business merchant account",
+    "startup payment processing",
+    "opening day payments checklist",
+    "business bank account for card payments",
+    "new business card terminal",
+    "payment processing for startups",
+    "merchant account approval"
+  ],
+  "eyebrow": "New business",
+  "dek": "Before the doors open, make sure customers can pay you, you can get the money and nothing in the contract surprises you later.",
+  "intro": [
+    "In the weeks before you open there are a hundred urgent tasks, and payments tend to land near the bottom of the list until the week of launch. By then you are rushed, the first processor who calls back looks very appealing and the contract goes unread. That is how new businesses end up in a four-year equipment lease for a basic terminal.",
+    "A short, orderly checklist avoids that. This guide follows the order in which things naturally need to happen: the entity and bank account, the method of taking payment, the pricing and contract questions, the security basics and the first-month review. None of it is complicated, and doing it early gives you leverage."
+  ],
+  "sections": [
+    {
+      "h2": "Foundation: entity, tax ID and bank account",
+      "paragraphs": [
+        "Card processors approve a business, not an idea. Set up your legal structure, obtain your tax identification number and open a business bank account in the same name before applying for a merchant account. The bank account receives your deposits, and mismatched names between the application, the tax ID and the account are a frequent reason for delay.",
+        "Keep your business finances separate from the start. Mixing personal and business funds complicates bookkeeping, taxes and any later funding application. If you will need working capital, MCCPS refers merchants to Fidelity Funding, though funding decisions are not made by MCCPS and a processing history helps the conversation."
+      ]
+    },
+    {
+      "h2": "Decide how customers will pay",
+      "paragraphs": [
+        "Map the real ways you will be paid. A storefront needs a chip and contactless terminal. A mobile or on-site service needs a reader or tap-to-phone. A website needs a gateway and hosted checkout, and phone orders need a virtual terminal. Services often add invoices with payment links. Build a list, because it determines the equipment, the account features and the integration work.",
+        "If you already own a re-programmable terminal, ask whether it can be used rather than buying another. MCCPS regularly keeps existing equipment in service, and it integrates with almost any POS or smartphone."
+      ]
+    },
+    {
+      "h2": "What the application will ask for",
+      "paragraphs": [
+        "Gather these items before you apply, so approval is not delayed:"
+      ],
+      "bullets": [
+        "Legal business name, address, entity type and tax ID.",
+        "Owner identification and ownership details.",
+        "Bank account details through a voided check or bank letter.",
+        "A description of products or services, typical ticket size and expected monthly card volume.",
+        "Your website, policies for refunds and delivery, and sometimes a lease or business license."
+      ]
+    },
+    {
+      "h2": "Pricing and contract questions",
+      "paragraphs": [
+        "A new business has no processing history, so quotes are based on estimates. Ask for the pricing model in writing, the full list of monthly and annual fees, the contract term, whether it renews automatically and what it costs to leave. Ask whether equipment is purchased or leased and whether a lease can be cancelled. A low advertised rate with a long, rigid contract is not a bargain.",
+        "Be realistic about your volume estimate. Overstating it may produce a quote you cannot keep, and understating it can trigger holds when sales exceed your approved levels. Provide honest numbers and explain seasonality."
+      ]
+    },
+    {
+      "h2": "Security and compliance from day one",
+      "paragraphs": [
+        "Use encrypted, EMV and contactless-capable equipment, and keep card numbers out of your own notes, emails and spreadsheets. Complete the PCI self-assessment questionnaire within the timeframe your processor sets, since an overlooked requirement turns into a recurring non-compliance fee. Set unique logins for everyone, and decide in advance who can issue refunds.",
+        "If you take deposits or sell online, put your policies in writing and post them. Clear terms are cheaper than disputes.",
+        "One more habit is worth building from the start: keep a simple payments folder. Save your merchant agreement, pricing schedule, equipment paperwork, PCI attestation and the contact details for support. When a question comes up months later, such as the length of a term or who owns a terminal, you will have the answer in minutes. New owners rarely regret documentation, and they often regret its absence when a renewal date quietly passes."
+      ]
+    },
+    {
+      "h2": "The opening checklist",
+      "paragraphs": [
+        "Work through these in order before launch day:"
+      ],
+      "steps": [
+        "Form the business and open the business bank account.",
+        "List every way you will accept payment and choose the matching tools.",
+        "Collect documents and apply for the merchant account.",
+        "Review the pricing, term and equipment agreements before signing.",
+        "Install or reprogram terminals and test live transactions on a real card.",
+        "Set up logins, receipts, signage and refund procedures.",
+        "Schedule your PCI questionnaire and note the due date."
+      ]
+    },
+    {
+      "h2": "After the first month",
+      "paragraphs": [
+        "Your first statement is the real test. Calculate your effective rate, check that card-present sales were priced as such and confirm deposits match your sales less fees. Look for fees you did not expect. MCCPS offers a free, no-obligation analysis of your first two months of statements, and free 24/7 support for questions along the way. Call 844.826.6227 whenever you are ready."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Set up the legal entity, tax ID and matching business bank account before applying.",
+    "List every channel through which you will be paid so the setup fits your business.",
+    "Read pricing, term, renewal and equipment lease details before signing anything.",
+    "Complete PCI paperwork on time to avoid an avoidable penalty fee.",
+    "Review your first two statements and calculate your effective rate."
+  ],
+  "faq": [
+    {
+      "q": "Can a brand-new business get a merchant account?",
+      "a": "Yes. Underwriters can approve new businesses, using information about the owners, the business model and expected volume instead of a processing history. Accurate documentation and realistic estimates speed approval. Some business types face extra review, so describe what you sell clearly."
+    },
+    {
+      "q": "How long should I allow before opening?",
+      "a": "Allow at least a couple of weeks for applications, equipment and testing, longer if you need website integration. Simple approvals can come quickly, but delays happen when documents are missing. Starting early also gives you time to compare quotes calmly."
+    },
+    {
+      "q": "Do I need to buy a terminal?",
+      "a": "Not necessarily. You might use a smartphone reader, tap-to-phone, a virtual terminal or an existing re-programmable terminal. If you do need one, compare buying with leasing, and avoid long non-cancellable leases. Match the device to where and how customers pay."
+    },
+    {
+      "q": "What should I ask about the contract?",
+      "a": "Ask about the pricing model, every monthly and annual fee, the term length, automatic renewal, early termination fees, equipment terms and funding schedule. Get answers in writing. A reputable provider will explain each line plainly without pressure."
+    },
+    {
+      "q": "When should I review my fees?",
+      "a": "After your first full month, then again after two or three. Early statements reveal your real card mix and ticket size, which determine your effective rate. If costs differ from the quote, ask for an explanation or a second opinion through a statement analysis."
+    }
+  ],
+  "related": [
+    "accept-credit-cards-for-the-first-time",
+    "payments-for-startups",
+    "merchant-account-approval",
+    "what-is-a-merchant-account",
+    "terminal-leasing-vs-buying",
+    "working-capital-for-merchants"
+  ],
+  "icon": "rocket",
+  "read_minutes": 6
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "cancel-processor-contract",
+  "category": "use-cases",
+  "title": "Getting Out of a Processor Contract",
+  "seo_title": "How to Cancel a Processor Contract | MCCPS",
+  "meta_description": "Want out of your merchant processing contract? Learn how to read the term, early termination fees, auto-renewal and lease clauses, and how to exit cleanly.",
+  "primary_keyword": "cancel merchant processing contract",
+  "keywords": ["early termination fee", "cancel merchant account", "processor contract auto renewal", "terminal lease cancellation", "exit payment processor", "contract liquidated damages", "switch without penalty"],
+  "eyebrow": "Contract exit",
+  "dek": "Before you can leave a processor, you have to know what you signed. The exit cost is in the paperwork, not the sales pitch.",
+  "intro": [
+    "Most owners do not think about their processing contract until something goes wrong: a rate that crept up, a service call that went nowhere, a new quote that looks far better. Then they dig out the agreement and find several dozen pages of terms they never read, including a paragraph about early termination that nobody mentioned.",
+    "Leaving is often possible and sometimes straightforward, but it works best when you approach it as a project. First learn precisely what the contract says, then calculate the real cost of staying and of going, and then follow the cancellation process to the letter so the old account does not quietly keep billing you. This guide covers each step. It is general information, not legal advice."
+  ],
+  "sections": [
+    {
+      "h2": "Find the clauses that matter",
+      "paragraphs": [
+        "Pull your merchant agreement, any equipment lease and every amendment you have signed. Look for the initial term, how it renews, how and when you must give notice, early termination fees, and any liquidated damages formula. Also look for separate documents: a terminal or software lease is often a different contract with a different company and its own term.",
+        "Pay attention to the language around renewal. Many contracts renew automatically for a further term unless you give written notice within a specific window before the end date, sometimes thirty, sixty or ninety days. Missing that window can extend your commitment for years, which is why dates deserve a calendar entry the day you sign."
+      ]
+    },
+    {
+      "h2": "Understand the costs of leaving",
+      "paragraphs": [
+        "Exit costs take several forms, and they stack. The documents may include a flat early termination fee, a charge based on a number of months of expected fees, or a liquidated damages formula tied to your average monthly processing. Add to that any unpaid equipment lease balance, a closure or account cancellation fee, a PCI non-compliance charge still outstanding and the final statement fees.",
+        "Say your contract imposes a flat $495 fee and you have 20 months left on a $60-a-month terminal lease. In this hypothetical, leaving costs $495 plus $1,200, or $1,695, before any other charges. Compare that figure with the savings you expect from changing, over the same period, to decide whether to leave now or at the end of the term."
+      ]
+    },
+    {
+      "h2": "Possible reasons you may have leverage",
+      "paragraphs": [
+        "Sometimes the contract itself offers a way out. Look for these:"
+      ],
+      "bullets": [
+        "Material changes to your pricing or terms that you were not properly notified of, which may be addressed in the agreement's change-of-terms clause.",
+        "Service failures, such as repeated unresolved outages, if the contract gives you a remedy.",
+        "Fees billed that do not match the signed agreement.",
+        "An agreement signed on the basis of statements that the written contract contradicts.",
+        "Fee waivers that a new provider offers to cover exit costs when you switch."
+      ]
+    },
+    {
+      "h2": "Ask before you assume",
+      "paragraphs": [
+        "A call to your current provider is worth making, since retention departments sometimes lower rates or waive fees to keep an account. Ask what it would cost to leave today, and also what they would do to keep you. Request the answer by email so you have it in writing.",
+        "Be cautious with promises made by a new provider to pay your termination fee. Get the offer in writing, understand the conditions, and check whether the offer covers equipment leases as well, which are the larger obligation in many cases. Where substantial money or a dispute is involved, speak with an attorney before you act."
+      ]
+    },
+    {
+      "h2": "Closing the old account correctly",
+      "paragraphs": [
+        "Terminating properly matters as much as deciding to terminate. Send written notice by the method the contract specifies, usually certified mail or a defined email address, and keep proof of delivery. Do not close the account before the new one is live and tested, since you will have no way to take cards. After the cutover, confirm the final settlement and watch the bank account for ongoing monthly debits that sometimes continue after cancellation."
+      ]
+    },
+    {
+      "h2": "An exit sequence",
+      "paragraphs": [
+        "Use this order to avoid surprises."
+      ],
+      "steps": [
+        "Collect the merchant agreement, equipment lease and all amendments.",
+        "Note the term end date, renewal terms and notice window.",
+        "Total the cost to leave, including leases and fees.",
+        "Get a written quote or comparison from the new provider.",
+        "Set up and test the new account before ending the old one.",
+        "Send written cancellation notice and keep proof of delivery.",
+        "Monitor your bank account and statements for ongoing charges."
+      ]
+    },
+    {
+      "h2": "Where MCCPS can help",
+      "paragraphs": [
+        "MCCPS can review your agreement and statements during its free, no-obligation analysis and help you plan a migration that avoids downtime, often using the terminals you already own. Savings and exit costs depend on your specific documents. Call 844.826.6227 to talk it through."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Read the merchant agreement and any separate equipment lease for term, renewal, notice and exit fees.",
+    "Auto-renewal windows can extend a commitment if you miss the notice date.",
+    "Add up termination fees, lease balances and closure charges before deciding.",
+    "Ask your current provider for exit costs and retention offers in writing.",
+    "Test the new account before sending notice, and watch for lingering charges."
+  ],
+  "faq": [
+    {"q": "Can I cancel my merchant account at any time?", "a": "Sometimes, but often with a cost. Many agreements have a fixed term, automatic renewal and an early termination fee. Your rights depend on the specific contract. Read it carefully, ask the provider for the cost in writing and consider speaking with an attorney if the amounts are large."},
+    {"q": "What is an early termination fee?", "a": "It is a charge for ending the agreement before the term is over. It may be a flat sum, a multiple of monthly fees or a liquidated damages formula. Terms vary widely, so check how yours is calculated and whether it is separate from any equipment lease."},
+    {"q": "Does a terminal lease end when I close my account?", "a": "Usually not. Equipment leases are commonly separate contracts with a third-party leasing company, and many are non-cancellable for the full term. You may owe the remaining payments even after your processing ends. Check the lease terms and ask whether a buyout is possible."},
+    {"q": "When should I give notice?", "a": "Follow the notice window in your contract, which might be thirty to ninety days before the end of the term, delivered in the specified manner. If you are mid-term, plan the cutover first. Mark the renewal date on your calendar so you do not miss it again."},
+    {"q": "Will a new processor pay my termination fee?", "a": "Some offer to cover or reimburse it, but terms vary and the offer should be in writing. Check conditions, caps and whether equipment leases are included. Evaluate the overall cost of the new arrangement, not just the incentive, before agreeing."}
+  ],
+  "related": ["early-termination-fees", "switch-payment-processors", "switching-processors-checklist", "terminal-lease-traps", "processor-contract-red-flags", "terminal-leasing-vs-buying"],
+  "icon": "file",
+  "read_minutes": 6
+}

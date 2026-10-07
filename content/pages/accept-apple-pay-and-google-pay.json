@@ -1,0 +1,126 @@
+{
+  "slug": "accept-apple-pay-and-google-pay",
+  "category": "use-cases",
+  "title": "Accepting Apple Pay and Google Pay",
+  "seo_title": "Accept Apple Pay & Google Pay Payments | MCCPS",
+  "meta_description": "Add Apple Pay and Google Pay to your business: what your terminal needs, how wallet tokens work, online wallet buttons, cost, security and setup issues.",
+  "primary_keyword": "accept Apple Pay and Google Pay",
+  "keywords": [
+    "mobile wallet payments",
+    "NFC terminal",
+    "tap to pay on phone",
+    "Apple Pay for business",
+    "Google Pay for merchants",
+    "digital wallet acceptance",
+    "contactless wallet"
+  ],
+  "eyebrow": "Mobile wallets",
+  "dek": "Customers who pay with a phone or watch expect it to just work. For most businesses, it is a setting and a sign rather than a project.",
+  "intro": [
+    "A customer holds a phone near your terminal and nothing happens. They try again, shrug and pull out a card, or they walk out. As wallet payments become routine, those small failures are lost sales and a small mark against how modern your business seems.",
+    "The good news is that accepting Apple Pay and Google Pay rarely requires special programs or separate agreements. It generally rides on the same contactless technology your terminal already uses for tap cards, and online it depends on your gateway. This guide explains what to check, how the security model works and what to tell your staff."
+  ],
+  "sections": [
+    {
+      "h2": "How wallet payments work",
+      "paragraphs": [
+        "When a customer adds a card to a mobile wallet, the card network generates a device-specific token that stands in for the real number. At checkout the phone sends that token, plus a one-time cryptogram, over near-field communication to your terminal. Your terminal passes it to the processor like any other card payment, and the issuer recognizes the token and approves or declines.",
+        "Because the real card number is never shared with you, a stolen record from your system is useless to a criminal. The customer also usually authenticates with a fingerprint, face scan or passcode on the device, which adds protection beyond a plain tap card. To you, the sale looks like a card-present contactless transaction."
+      ]
+    },
+    {
+      "h2": "What your terminal needs",
+      "paragraphs": [
+        "Wallet acceptance depends on the contactless reader, not on a special program. Check the following:"
+      ],
+      "bullets": [
+        "The terminal has an NFC contactless reader, which most devices sold in recent years include.",
+        "Contactless is enabled in the settings; some terminals ship with it switched off.",
+        "Software and firmware are up to date so the latest wallet and card network requirements are supported.",
+        "If you use a POS integration, the contactless option is passed through to the payment device.",
+        "Signage shows the contactless symbol so customers know they can tap."
+      ]
+    },
+    {
+      "h2": "No terminal? Use the phone",
+      "paragraphs": [
+        "Modern smartphones can act as the reader. Tap-to-phone software uses the phone's NFC antenna to accept contactless cards and wallets with no extra hardware, which suits mobile businesses and low-volume sellers. Availability depends on the phone model, operating system and provider, so confirm that your device and region are supported.",
+        "If you already own an older terminal that cannot do contactless, a small add-on reader or a replacement may be the answer, and some older devices can be reprogrammed. MCCPS checks existing equipment first, so you do not buy something you do not need."
+      ]
+    },
+    {
+      "h2": "Online and in-app wallet buttons",
+      "paragraphs": [
+        "On a website, wallet payments appear as a button at checkout that lets the customer approve with their device instead of typing card details. This can speed up mobile checkout and reduce typing errors. The button is enabled through your payment gateway and, for Apple Pay on the web, may require domain verification. Your gateway documentation or support team can walk through it.",
+        "Wallet transactions online are card-not-present, but because they carry device authentication they are generally harder to defraud than typed numbers. Pricing is still based on the underlying card and your pricing plan."
+      ]
+    },
+    {
+      "h2": "Cost and common issues",
+      "paragraphs": [
+        "There is generally no separate fee for the wallet itself; the transaction is priced like the card behind it. A tap sale is card-present, so it often costs less than a keyed one. If your statement shows wallet transactions priced oddly, ask for a review.",
+        "When a tap fails, the usual culprits are a contactless reader that is switched off, a customer holding the phone too far away, a phone case that interferes, an outdated terminal or a payment device placed behind glass. Move the reader within easy reach and train staff to suggest holding the phone close to the screen until the terminal confirms.",
+        "For businesses with several registers or employees, standardize the customer-facing moment. Decide where the reader sits, what the screen says and what staff say when a customer taps, so the experience is the same at every lane. Small touches, such as angling the reader toward the customer and clearing clutter around it, make taps succeed on the first try. Each failed attempt slows the line, so a minute spent on layout pays back all day."
+      ]
+    },
+    {
+      "h2": "Rollout steps",
+      "paragraphs": [
+        "A short checklist gets you ready."
+      ],
+      "steps": [
+        "Confirm your terminal has contactless and that it is enabled.",
+        "Update software and firmware to the latest version.",
+        "Test with an Apple Pay and a Google Pay transaction on a real device.",
+        "Enable wallet buttons in your online gateway if you sell online.",
+        "Post contactless signage and brief staff.",
+        "Review the next statement to confirm pricing."
+      ]
+    },
+    {
+      "h2": "Need a hand?",
+      "paragraphs": [
+        "MCCPS supports EMV and contactless acceptance, works with a wide range of terminals and phones, and provides free 24/7 technical support when a tap will not register. A free statement analysis shows how your tap and wallet sales are being priced. Call 844.826.6227 to get started."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Wallet payments use tokens and one-time cryptograms, so real card numbers are not shared.",
+    "Acceptance depends on an enabled NFC contactless reader, not a separate program.",
+    "A compatible smartphone with tap-to-phone software can serve as a reader.",
+    "Online wallet buttons are enabled through your payment gateway.",
+    "Wallet sales are priced like the underlying card, and tap sales are card-present."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a special terminal for Apple Pay?",
+      "a": "You need a terminal with an NFC contactless reader that is enabled, which most modern devices have. The same reader accepts Google Pay and tap cards. Older terminals may need replacement, an add-on reader or reprogramming, and a compatible smartphone can also work with tap-to-phone software."
+    },
+    {
+      "q": "Do Apple Pay and Google Pay cost extra?",
+      "a": "Generally there is no separate wallet fee. The sale is priced like the underlying card under your pricing plan. Because tap payments are card-present, they are typically less costly than keyed transactions. Check your statement to confirm how they are priced."
+    },
+    {
+      "q": "Are mobile wallet payments secure?",
+      "a": "Yes, they are among the more secure methods. The wallet uses a device-specific token and a one-time cryptogram instead of the real card number, and customers authenticate with biometrics or a passcode. This lowers the value of any data that could be stolen from your system."
+    },
+    {
+      "q": "Why does a customer's tap not work?",
+      "a": "Common reasons include contactless being disabled on the terminal, the phone being held too far away, a thick case or metal object interfering, or outdated software. Ask the customer to hold the device close and still. If problems persist, test with another device and contact support."
+    },
+    {
+      "q": "Can I accept wallet payments on my website?",
+      "a": "Yes, through your payment gateway. Wallet buttons let customers approve with their device rather than typing card details. Apple Pay on the web may require domain verification, and Google Pay needs configuration. Your gateway's support can guide the setup and test it with you."
+    }
+  ],
+  "related": [
+    "tap-to-pay",
+    "mobile-wallets-explained",
+    "contactless-payments-guide",
+    "upgrade-to-emv-and-contactless",
+    "tokenization-explained",
+    "payment-gateway"
+  ],
+  "icon": "phone",
+  "read_minutes": 6
+}

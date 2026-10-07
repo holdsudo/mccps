@@ -1,0 +1,95 @@
+{
+  "slug": "accept-international-cards",
+  "category": "use-cases",
+  "title": "Accepting International Cards",
+  "seo_title": "Accept International Credit Cards | MCCPS",
+  "meta_description": "Selling to customers abroad? See how international card acceptance works: cross-border fees, currency conversion, fraud risk, 3-D Secure and tourist sales.",
+  "primary_keyword": "accept international credit cards",
+  "keywords": ["cross-border card fees", "foreign card acceptance", "currency conversion for merchants", "international card fraud", "dynamic currency conversion", "tourist payments", "global ecommerce payments"],
+  "eyebrow": "Global sales",
+  "dek": "Foreign cards usually work on your existing account. What changes is the cost, the currency and the fraud profile.",
+  "intro": [
+    "Most merchants who start taking cards never think about where those cards come from. Then a tourist pays at the register, an overseas customer orders from your website or a buyer in another country asks to pay an invoice by card, and questions arise: will it work, what will it cost and who bears the currency risk?",
+    "The short answer is that a standard merchant account can usually accept cards issued abroad, since the networks are global. The details sit in cross-border fees, currency handling and fraud controls. Understanding them lets you welcome international customers without being surprised by your next statement."
+  ],
+  "sections": [
+    {
+      "h2": "How foreign cards are processed",
+      "paragraphs": [
+        "A card issued by a bank in another country still carries a Visa, Mastercard, American Express or Discover brand and travels the same authorization path. The difference is that the issuer is outside your country, and the network treats the transaction as cross-border or international. That classification can bring additional interchange or network fees, and the issuer may apply its own foreign transaction charges to the cardholder.",
+        "Your account must be enabled for the kinds of sales you make. Most are, but if you plan to sell heavily to overseas buyers, tell your processor in advance, because a sudden spike in international volume can prompt questions or holds."
+      ]
+    },
+    {
+      "h2": "What it costs you",
+      "paragraphs": [
+        "Cross-border transactions often incur higher fees than domestic ones. Network assessments tend to include an international component, and interchange for some foreign cards is higher. Depending on your pricing model, this may appear as a separate line or be buried in a blended rate, which is another argument for transparent pricing. If your plan is flat or tiered, ask whether foreign cards are treated as non-qualified.",
+        "Say you process $20,000 a month and 10 percent comes from foreign cards. If those carry an extra one percent in combined fees, that is $20 on the $2,000 of foreign volume, hypothetically. The sum is small at that scale but meaningful if international sales become a major channel. The way to know is to read your statement for international or cross-border lines."
+      ]
+    },
+    {
+      "h2": "Currency: who converts and when",
+      "paragraphs": [
+        "If you price in your own currency, the customer's bank converts the charge into their currency, using its own rate, and may add a foreign exchange fee. The customer sees an unfamiliar amount, which can cause confusion and sometimes disputes. A statement descriptor and receipt in your currency with a clear total help.",
+        "Dynamic currency conversion offers the customer the choice to pay in their home currency at the point of sale, with a conversion rate set by the provider. It can be convenient, but rates and fees vary, and card network rules require clear disclosure and customer consent. Multi-currency pricing on a website, where prices display and settle in other currencies, is another option. Either approach should be evaluated carefully for the fees and the net amount you receive."
+      ]
+    },
+    {
+      "h2": "Fraud and verification",
+      "paragraphs": [
+        "International online orders carry higher fraud risk, because address verification often does not work with non-domestic addresses and it is harder to confirm identity. Use these controls:"
+      ],
+      "bullets": [
+        "Require the security code on every card-not-present order.",
+        "Use 3-D Secure to authenticate the cardholder and shift liability for certain fraud disputes.",
+        "Review orders where billing and shipping countries differ, or where the IP location does not match the billing address.",
+        "Be cautious with high-value goods shipped abroad, forwarding addresses and requests to split a purchase across cards.",
+        "Block countries you do not serve, and use signed delivery for expensive shipments."
+      ]
+    },
+    {
+      "h2": "In-person sales to travelers",
+      "paragraphs": [
+        "For tourist-facing businesses, the key is a terminal that handles chip, PIN where required and contactless. Many foreign cards use chip-and-PIN rather than chip-and-signature, so make sure your terminal supports PIN entry, and train staff not to be thrown by a prompt for it. Mobile wallets are widely used by travelers and are accepted as long as contactless is enabled.",
+        "Tell the customer the amount in your currency and make the receipt clear, which reduces later confusion. If you offer currency conversion at the terminal, explain it plainly and never default the choice."
+      ]
+    },
+    {
+      "h2": "Getting set up",
+      "paragraphs": [
+        "A few steps prepare you for global customers."
+      ],
+      "steps": [
+        "Tell your processor you expect international sales and confirm your account supports them.",
+        "Review how your pricing plan treats foreign cards.",
+        "Decide on your currency approach: your own currency, conversion at the terminal or multi-currency pricing.",
+        "Enable security code checks and 3-D Secure online.",
+        "Make sure terminals support PIN and contactless.",
+        "Monitor international volume, disputes and decline rates monthly."
+      ]
+    },
+    {
+      "h2": "Where MCCPS fits",
+      "paragraphs": [
+        "MCCPS can review how your statements treat foreign cards, set up gateways with fraud tools and keep your existing terminals when they are compatible. Call 844.826.6227 and ask for the free savings analysis to see what cross-border sales really cost you."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A standard merchant account can usually accept foreign cards, but cross-border fees may apply.",
+    "Check whether your pricing plan treats foreign cards as non-qualified or adds separate lines.",
+    "Currency conversion needs clear disclosure, and the cardholder's bank may add its own fee.",
+    "Online international orders need extra fraud controls such as security codes and 3-D Secure.",
+    "Terminals should support PIN and contactless for travelers."
+  ],
+  "faq": [
+    {"q": "Can I accept cards issued outside the United States?", "a": "In most cases yes. Major card brands are global and your merchant account can process them as cross-border transactions. Tell your processor if you expect significant international volume, and review your pricing plan, since fees on foreign cards are often higher than on domestic cards."},
+    {"q": "Why are international card fees higher?", "a": "Cross-border transactions often carry additional network and interchange charges, reflecting added risk and processing complexity between countries. How this appears on your statement depends on your pricing model. Interchange-plus pricing shows the costs separately, while blended plans may hide them in a general rate."},
+    {"q": "What is dynamic currency conversion?", "a": "Dynamic currency conversion lets a customer pay in their home currency at the terminal or checkout, using a rate the provider sets. It must be disclosed clearly with the customer's consent. Rates and fees vary, so compare the total with simply charging in your currency before offering it."},
+    {"q": "Is it riskier to sell to customers abroad?", "a": "Online international sales tend to have higher fraud risk and harder verification, because address checks often do not work across borders. Use security codes, 3-D Secure, order review and sensible shipping rules. In-person sales with chip and PIN or contactless are much safer."},
+    {"q": "Do I need a separate account for foreign sales?", "a": "Usually not, but your account must be approved for the types of sales you make. If you plan to sell heavily abroad or in multiple currencies, discuss it with your processor before launching, as it may affect approvals, holds and which gateway features you need."}
+  ],
+  "related": ["international-cards-fees", "3d-secure-explained", "payment-gateway", "ecommerce", "fraud-prevention", "travel-agencies"],
+  "icon": "card",
+  "read_minutes": 6
+}

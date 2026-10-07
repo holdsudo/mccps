@@ -1,0 +1,121 @@
+{
+  "slug": "move-off-flat-rate-processing",
+  "category": "use-cases",
+  "title": "Moving Off Flat-Rate Processing",
+  "seo_title": "When to Move Off Flat-Rate Processing | MCCPS",
+  "meta_description": "Flat-rate pricing is simple, but it can cost more as you grow. Learn the break-even math, what changes under interchange-plus and how to switch smoothly.",
+  "primary_keyword": "move off flat-rate processing",
+  "keywords": [
+    "flat rate vs interchange plus",
+    "outgrow flat-rate processing",
+    "flat rate processing too expensive",
+    "switch to interchange-plus",
+    "payment facilitator to merchant account",
+    "break even volume",
+    "effective rate"
+  ],
+  "eyebrow": "Switching models",
+  "dek": "Flat-rate processing is a good way to start. At some volume the simplicity starts costing real money, and the math tells you when.",
+  "intro": [
+    "Flat-rate pricing earns its popularity. There is one percentage, one small per-transaction fee, no statement to decipher and approval can be nearly instant. For a new business or one with very small, irregular volume, that simplicity is worth paying for.",
+    "The trade-off is that every card is priced the same, so low-cost cards subsidize expensive ones, and the markup stays fixed while your volume grows. Many businesses outgrow flat rate without noticing, because the bill rises in proportion to sales and never feels like a decision. This guide shows how to recognize that point and how to move without disrupting your operation."
+  ],
+  "sections": [
+    {
+      "h2": "What you are paying for under flat rate",
+      "paragraphs": [
+        "Under a flat-rate model, the provider charges a single blended percentage plus a fixed amount per transaction for most cards. Behind the scenes, the provider still pays interchange and network assessments at the real, varying costs, and keeps the difference. When your mix is cheap, such as debit cards and in-person chip sales, that difference is wide. When it is expensive, narrower.",
+        "Flat-rate providers often operate as payment facilitators, meaning you share a master account with many other businesses instead of holding your own. That makes onboarding quick, but it can also mean less control over holds, reserves and account decisions. These are trade-offs, not flaws, and the right choice depends on your situation."
+      ]
+    },
+    {
+      "h2": "The break-even math",
+      "paragraphs": [
+        "Compare your total flat-rate cost with an interchange-plus estimate using your own mix. Say you process $60,000 a month at a flat 2.9 percent plus 30 cents on 1,200 transactions. That is $1,740 plus $360, or $2,100, a 3.5 percent effective rate in this hypothetical. If your mix of interchange and a modest markup would total, say, 2.4 percent all in, the same volume would cost $1,440, a difference of $660 a month.",
+        "Those numbers are illustrative only. The real answer depends on how many of your cards are debit, how many are keyed, how large your tickets are and what markup you negotiate. That is why the comparison must use your statements, not an average."
+      ]
+    },
+    {
+      "h2": "Signs it is time to look",
+      "paragraphs": [
+        "Several signals suggest flat rate has stopped serving you:"
+      ],
+      "bullets": [
+        "Your monthly card volume has grown substantially since you signed up.",
+        "Your average ticket is large, so the per-transaction fee matters less and the percentage matters more.",
+        "Many of your sales are debit or in-person chip and tap, which are cheaper at the interchange level.",
+        "You have experienced a hold, reserve or account freeze that disrupted cash flow.",
+        "You want features such as Level 2 and Level 3 data, multiple gateways or custom funding that flat-rate plans rarely offer.",
+        "You sell high-ticket or B2B items where percentages add up."
+      ]
+    },
+    {
+      "h2": "What changes under interchange-plus",
+      "paragraphs": [
+        "Interchange-plus pricing separates the cost into the actual interchange for each transaction, the network assessments and a fixed, disclosed markup. Your statement is longer and requires reading, but every line is traceable. Cheap cards cost you less, expensive ones more, and your total tends to track your actual mix rather than a blended guess.",
+        "You also hold your own merchant account, which usually brings more flexibility: choice of gateways, enhanced data for commercial cards and negotiating power as you grow. In exchange you take on more responsibility, such as completing a PCI questionnaire and managing your own contract, which is why choosing a provider with strong support matters."
+      ]
+    },
+    {
+      "h2": "How to switch without disruption",
+      "paragraphs": [
+        "A planned move avoids gaps in your ability to take cards."
+      ],
+      "steps": [
+        "Collect two recent statements from your current provider.",
+        "Request a line-by-line comparison against an interchange-plus structure using your real card mix.",
+        "Check your current terms for cancellation requirements, equipment ownership and final fees.",
+        "Apply for the new merchant account and arrange hardware or software connections.",
+        "Test the new setup in parallel before cutting over.",
+        "Close or transition the old account at the right time and verify the final settlement."
+      ]
+    },
+    {
+      "h2": "Watch for the catches",
+      "paragraphs": [
+        "Make sure the new offer is genuinely lower once monthly fees, PCI charges, gateway fees and equipment costs are included. Confirm the contract term, renewal and termination terms in writing. Switching from a platform that bundles software with processing may mean replacing the software, so plan for that.",
+        "MCCPS offers a free, no-obligation statement analysis and reviews two months of your statements line by line. Savings depend on what the analysis shows, and flat rate is sometimes the right answer for smaller or irregular sellers. Call 844.826.6227 to see where you stand.",
+        "It helps to run the comparison more than once. Seasonal businesses should test a busy month and a slow month, because per-transaction fees weigh differently on small and large tickets. If you sell both in person and online, split the comparison by channel; the savings on card-present sales may be larger than on keyed ones. A decision based on several months of data holds up far better than one based on a single statement."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Flat rate charges the same blended price to every card, so costs rise with volume and mix.",
+    "The break-even depends on your debit share, ticket size and negotiated markup, not an average.",
+    "Interchange-plus shows each cost separately and rewards a favorable card mix.",
+    "A dedicated merchant account brings flexibility and responsibility.",
+    "Compare total cost including monthly fees and equipment before switching."
+  ],
+  "faq": [
+    {
+      "q": "Is flat-rate pricing always more expensive?",
+      "a": "No. For small or irregular volume, flat rate can be competitive and its simplicity has value. It tends to become more expensive as volume and ticket size grow, particularly with many debit and in-person transactions. Compare it with an interchange-plus estimate using your statements."
+    },
+    {
+      "q": "What is interchange-plus pricing?",
+      "a": "Interchange-plus passes through the actual interchange set by the card networks and issuing banks, adds network assessments and then a visible markup from the processor. Because each part is listed, you can see exactly what you pay and verify it on your statement."
+    },
+    {
+      "q": "Will I lose features if I leave a flat-rate provider?",
+      "a": "Possibly the bundled software, depending on the provider. Some flat-rate companies tie processing to their POS or invoicing tools. Check what you use, and plan replacements or integrations. Many POS systems work with other processors, which MCCPS supports."
+    },
+    {
+      "q": "How do I know how much I would save?",
+      "a": "Take your last two or three statements and have each fee compared with an interchange-plus quote using your actual card types and ticket sizes. This shows the real difference, which may be large, small or even negative. MCCPS provides this review free."
+    },
+    {
+      "q": "Can switching cause downtime?",
+      "a": "It need not. Set up and test the new account before closing the old one, and schedule the cutover during a slow period. Keep the old account active until you have confirmed that the new one processes and funds correctly, and check any exit terms first."
+    }
+  ],
+  "related": [
+    "flat-rate-vs-interchange-plus",
+    "interchange-plus-pricing",
+    "payment-facilitator-vs-merchant-account",
+    "switching-processors-checklist",
+    "effective-rate-explained",
+    "switch-payment-processors"
+  ],
+  "icon": "trend",
+  "read_minutes": 6
+}

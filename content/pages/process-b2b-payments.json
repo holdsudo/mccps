@@ -1,0 +1,125 @@
+{
+  "slug": "process-b2b-payments",
+  "category": "use-cases",
+  "title": "Processing B2B Payments",
+  "seo_title": "How to Process B2B Card & ACH Payments | MCCPS",
+  "meta_description": "Take business-to-business payments efficiently: Level 2 and 3 data, purchasing cards, ACH versus cards, invoicing and ways to keep large-ticket costs down.",
+  "primary_keyword": "process B2B payments",
+  "keywords": [
+    "B2B payment processing",
+    "Level 2 Level 3 processing",
+    "purchasing card acceptance",
+    "commercial card interchange",
+    "ACH for business payments",
+    "large ticket card payments",
+    "invoice payment links"
+  ],
+  "eyebrow": "B2B payments",
+  "dek": "When customers are businesses, tickets are larger and cards are different. A few data fields and a smart payment mix change what you pay.",
+  "intro": [
+    "Selling to other businesses feels different from selling to consumers. The invoices are bigger, the buyers have approval processes and the payment arrives by check, bank transfer or a corporate card. If you accept cards for these sales without any special setup, you may pay consumer-level costs on tickets that deserve better treatment.",
+    "B2B payments carry their own mechanics: enhanced transaction data that can lower interchange, corporate and purchasing cards that behave differently from consumer cards and a choice between cards and bank payments for large amounts. Understanding these lets you give customers the convenience they want without handing over a large slice of each invoice."
+  ],
+  "sections": [
+    {
+      "h2": "Why business cards are a different category",
+      "paragraphs": [
+        "Corporate, purchasing and fleet cards are issued to employees or departments for business spending. Interchange rates on commercial cards are often higher than on consumer debit, which makes plain acceptance expensive on large invoices. At the same time, the card networks offer lower interchange categories to merchants who send additional detail about the sale.",
+        "That detail is called Level 2 and Level 3 data. Level 2 adds fields such as tax amount and a customer reference or purchase order number. Level 3 adds line-item detail: product codes, descriptions, quantities, unit prices and shipping information. Submitting it correctly on eligible commercial card transactions can reduce the interchange you pay, and it gives the buyer's accounting team the information it wants for reconciliation."
+      ]
+    },
+    {
+      "h2": "What Level 2 and Level 3 require",
+      "paragraphs": [
+        "Eligibility depends on the card type and transaction, so not every B2B sale qualifies. When it does, your gateway and software must be able to capture and pass the data. A few practical points:"
+      ],
+      "bullets": [
+        "Collect the customer's purchase order or reference number at the time of the order.",
+        "Record sales tax separately and accurately, with a tax-exempt flag where applicable.",
+        "Capture item descriptions, quantities and unit prices in a structured way.",
+        "Confirm your gateway or integrated system supports sending Level 2 and Level 3 fields.",
+        "Check on your statement that eligible transactions were actually priced at the improved category."
+      ]
+    },
+    {
+      "h2": "Cards or bank payments",
+      "paragraphs": [
+        "Large invoices raise a straightforward question: is a card the right tool? Say you invoice a customer $12,000. At a 2.5 percent effective rate, that single payment costs you $300 in this hypothetical example. An ACH bank payment typically costs a small fraction of that, though it takes longer to settle and can be returned for insufficient funds.",
+        "Many B2B sellers offer both. Customers who value points, float or convenience can pay by card, while others use ACH for big invoices. Some merchants set a threshold above which they steer customers toward bank payments, a policy that must be applied consistently and clearly disclosed. Any pricing difference by payment method should be checked against state rules and card network requirements."
+      ]
+    },
+    {
+      "h2": "Making payment easy for business buyers",
+      "paragraphs": [
+        "A payment link in the invoice email is the single most effective change. The buyer's accounts payable contact can pay in a minute, by card or bank transfer, without finding your address or waiting for a check to clear the mailroom. Add your remittance details, the invoice number and any purchase order reference so the payment can be matched.",
+        "For recurring supply arrangements, a stored payment method with the buyer's authorization can bill automatically on delivery or on a schedule. Keep written terms that state the amount, timing and how to dispute an error."
+      ]
+    },
+    {
+      "h2": "Credit risk, disputes and records",
+      "paragraphs": [
+        "Business customers dispute charges less often than consumers, but large tickets make each dispute costly. Keep signed quotes, purchase orders, delivery confirmations and correspondence for every order. Authorize the card before shipping, and be careful with split shipments and partial deliveries, which can complicate how and when you capture funds.",
+        "Know your processor's limits as well. Large single tickets can exceed your approved maximum ticket size, and a sudden jump may trigger a hold. Tell your processor in advance if you expect unusually large payments."
+      ]
+    },
+    {
+      "h2": "Putting it together",
+      "paragraphs": [
+        "Build your B2B payment process in logical order."
+      ],
+      "steps": [
+        "Review your statements to see how business card sales are currently priced.",
+        "Confirm your gateway supports Level 2 and Level 3 fields and enable them.",
+        "Add payment links and clear payment options to every invoice.",
+        "Decide when to encourage ACH for large amounts, and disclose any pricing differences carefully.",
+        "Set ticket size limits and notify your processor of expected large payments.",
+        "Keep order, delivery and consent records with each invoice."
+      ]
+    },
+    {
+      "h2": "Help from MCCPS",
+      "paragraphs": [
+        "MCCPS supports B2B Level 2 and Level 3 processing, ACH and invoicing tools, and integrates with many systems. A free statement analysis can show how your business card transactions are currently priced. Call 844.826.6227 to find out whether enhanced data could make a difference for you."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Commercial cards carry different interchange, and enhanced data can improve the category on eligible sales.",
+    "Level 2 adds tax and reference fields; Level 3 adds line-item detail.",
+    "ACH usually costs far less than cards on large invoices, though it settles more slowly.",
+    "Payment links on invoices speed up business customers' payments.",
+    "Tell your processor about unusually large tickets to avoid holds."
+  ],
+  "faq": [
+    {
+      "q": "What are Level 2 and Level 3 data?",
+      "a": "They are extra transaction details sent with eligible commercial card payments. Level 2 adds items like sales tax and a purchase order number. Level 3 adds line items with descriptions, quantities and prices. Providing them correctly can qualify the sale for a lower interchange category and helps buyers reconcile invoices."
+    },
+    {
+      "q": "Do all business card sales qualify for lower rates?",
+      "a": "No. Eligibility depends on the card type, the card network, your merchant category and whether the data was supplied accurately. Consumer cards do not qualify. Check your statement to confirm that eligible sales actually received the improved category rather than assuming it."
+    },
+    {
+      "q": "Should I accept cards for large invoices?",
+      "a": "It depends on your margin. Cards are convenient and fast but cost more than ACH on large amounts. Many sellers accept both, optimize eligible card sales with enhanced data and encourage bank payments for the biggest invoices, while following disclosure and pricing rules for any differences."
+    },
+    {
+      "q": "How do I take a payment from another company?",
+      "a": "Send an invoice with a payment link, take the details through a virtual terminal or use a stored payment method with authorization. Capture the purchase order number and tax details. The buyer can usually pay by corporate card or bank transfer, depending on the options you offer."
+    },
+    {
+      "q": "Can large B2B payments trigger a hold?",
+      "a": "Yes, a ticket far above your usual size can prompt a review or temporary hold. Tell your processor about expected large payments, make sure your approved ticket limits fit your business and keep supporting documents ready, such as the invoice and purchase order."
+    }
+  ],
+  "related": [
+    "level-2-and-level-3-processing",
+    "level-2-3-data-explained",
+    "b2b-wholesale",
+    "ach-vs-credit-card",
+    "b2b-payment-trends",
+    "large-ticket-transactions"
+  ],
+  "icon": "briefcase",
+  "read_minutes": 6
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "accept-tips",
+  "category": "use-cases",
+  "title": "Accepting Tips on Card Payments",
+  "seo_title": "How to Accept Tips on Card Payments | MCCPS",
+  "meta_description": "Set up tipping on card payments: on-screen prompts, tip adjust, pooling, payroll reporting and fees on tips. Keep staff paid fairly and records clean.",
+  "primary_keyword": "accept tips on card payments",
+  "keywords": ["tip adjust", "tipping on card terminals", "tip pooling", "credit card tips payroll", "tip prompt screen", "restaurant tip processing", "salon tips by card"],
+  "eyebrow": "Tipping",
+  "dek": "Tips on cards are part of your staff's pay, part of your processing volume and part of your paperwork. Here is how they flow.",
+  "intro": [
+    "Not long ago a tip meant a few bills left on the table. Now the customer taps a card, the terminal asks for a percentage and the money flows through the same system as the sale. That is convenient for everyone, and it makes tips easier to track, but it also changes the mechanics behind the scenes in ways owners do not always see.",
+    "Tips affect what you pay in processing fees, how and when your staff receive their money and what you must report. Setting them up well is about the terminal configuration, the payout process and the records you keep. This guide takes each piece in turn."
+  ],
+  "sections": [
+    {
+      "h2": "Where the tip is added",
+      "paragraphs": [
+        "There are two common approaches. In a pay-at-the-device flow, the terminal prompts the customer for a tip before the card is processed, so the authorized amount already includes it. This is typical for counter service, salons, delivery and mobile businesses, and it produces a single clean transaction.",
+        "In a tip-adjust flow, the card is authorized for the bill, the customer writes a tip on the receipt and staff later adjust the transaction to add it before the batch is closed. This is the traditional table-service model. It allows tips to be decided after the meal but creates an extra step, a deadline and a chance for errors, and some card networks limit how far above the original authorization a final amount may go."
+      ]
+    },
+    {
+      "h2": "Configuring the prompt",
+      "paragraphs": [
+        "A few settings shape customer behavior and your costs:"
+      ],
+      "bullets": [
+        "Suggested percentages: set options that suit your service level, often with a custom amount choice.",
+        "Dollar versus percentage options: smaller tickets may feel better with flat amounts.",
+        "Placement in the flow: before the card is presented for counter service, after the sale for table service.",
+        "Tip on tax or pre-tax amounts: decide which total the percentages are based on and tell customers.",
+        "No-tip options: a clear skip button keeps the prompt from feeling coercive."
+      ]
+    },
+    {
+      "h2": "Fees on tips",
+      "paragraphs": [
+        "Because the tip is part of the card transaction, interchange and processor fees apply to the full amount, including the tip. Say a customer pays a $100 bill and adds a $20 tip. The fee is calculated on $120. At a 2.9 percent effective rate that is about $3.48, versus $2.90 without the tip, a difference of 58 cents in this hypothetical.",
+        "Whether the business or the employee bears that cost is a policy decision with legal implications. Some businesses absorb it, others deduct a proportional share of the fee from card tips. Wage and tip laws vary by jurisdiction, so confirm what is allowed with your attorney or state labor department before deducting anything from tips."
+      ]
+    },
+    {
+      "h2": "Paying staff their tips",
+      "paragraphs": [
+        "Card tips are collected by the business and passed to employees, so you need a reliable process. Many businesses pay out tips from a daily or weekly report, others include them in regular payroll. Both approaches need records showing which tips belong to whom, which is easier when the POS ties tips to servers, stylists or drivers.",
+        "Tip pooling, where tips are shared among a group, has its own rules about who may participate and how. These vary by location and employee classification, so consult your accountant or counsel. Tip income is generally reportable, and employers may have withholding and reporting obligations, so ensure your payroll provider handles card tips correctly."
+      ]
+    },
+    {
+      "h2": "Avoiding common problems",
+      "paragraphs": [
+        "Unclosed batches are the classic trap in the tip-adjust model: if tips are not adjusted before the batch closes, they may be lost or require a separate transaction. Build a closing checklist, reconcile adjusted amounts against receipts and watch for unusual adjustments on a single employee's tickets, which can signal errors or abuse. Reports that list tips by employee and shift help here.",
+        "Disputes also arise when a customer later says they did not authorize the final amount. Keep the signed or electronically captured receipt on file. Where possible, prefer the pay-at-the-device flow, which reduces mistakes because the customer sees the total including the tip before paying."
+      ]
+    },
+    {
+      "h2": "Setting it up",
+      "paragraphs": [
+        "Follow a sequence to roll tipping out cleanly."
+      ],
+      "steps": [
+        "Decide whether your business suits pre-payment tip prompts or tip adjust.",
+        "Configure the terminal or POS with suggested amounts and a clear skip option.",
+        "Attach tips to the right employee in your system.",
+        "Define your payout schedule and how tips appear on payroll.",
+        "Train staff on adjusting tips, closing batches and handling questions.",
+        "Review tip reports weekly for the first month."
+      ]
+    },
+    {
+      "h2": "Support",
+      "paragraphs": [
+        "MCCPS works with many terminals and POS systems that handle tip prompts and adjustments, and offers a reporting dashboard. Reach the team at 844.826.6227, and ask for a free statement analysis to see how tip volume contributes to your processing costs."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Tips are added either at the device before payment or by adjusting the transaction afterward.",
+    "Processing fees apply to the full amount including the tip.",
+    "Check local wage and tip laws before deducting fees from employee tips.",
+    "Close and reconcile tip adjustments before the batch closes to avoid lost tips.",
+    "Tie tips to employees in your system for accurate payouts and reporting."
+  ],
+  "faq": [
+    {"q": "What is tip adjust?", "a": "Tip adjust is a feature that lets staff add a tip to a card transaction after the initial authorization, typically before the batch is closed. It suits table service, where the customer decides on a tip after the bill. Adjustments must be completed before settlement, and amount limits can apply."},
+    {"q": "Do I pay processing fees on tips?", "a": "Yes. The tip is part of the card transaction, so fees are calculated on the total. Whether the business or the employee absorbs that cost depends on your policy and local wage law. Check with an attorney or your state labor department before deducting fees from tips."},
+    {"q": "How do my employees get their card tips?", "a": "The business receives the card funds and pays tips out through payroll or a separate payout. You need records of which tips belong to which employee. Your payroll provider or accountant can advise on withholding and reporting for card tips."},
+    {"q": "Can customers tip after they leave?", "a": "Some systems allow post-payment tip links sent by text or email, but results vary and customers often skip them. Rules on adjusting after settlement differ by network, so confirm your system's approach. A tip prompt at the time of payment is the most reliable method."},
+    {"q": "Why did a tip get left off a card sale?", "a": "The most common reason is a tip-adjust step missed before the batch closed. Check that adjustments are entered before closing and that your terminal auto-close time does not occur before service ends. Reports by employee help find missed tips quickly."}
+  ],
+  "related": ["tipping-on-card-terminals", "restaurants", "salons-and-spas", "restaurant-pos", "bars-and-nightclubs", "batch-settlement-explained"],
+  "icon": "dollar",
+  "read_minutes": 6
+}

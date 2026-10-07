@@ -1,0 +1,95 @@
+{
+  "slug": "offer-cash-discount",
+  "category": "use-cases",
+  "title": "Offering a Cash Discount Program",
+  "seo_title": "Offer a Cash Discount Program Properly | MCCPS",
+  "meta_description": "How a cash discount or dual pricing program works, how to display prices and signage, and what to confirm about state and card network rules before launch.",
+  "primary_keyword": "cash discount program",
+  "keywords": ["dual pricing", "cash discount signage", "cash discount vs surcharge", "zero processing fees", "cash discount compliance", "card processing cost pass-through", "price display cash discount"],
+  "eyebrow": "Pricing program",
+  "dek": "A cash discount program changes who covers the cost of card acceptance. Done properly it is transparent to customers and simple for staff.",
+  "intro": [
+    "Every business that accepts cards already pays for the privilege, and most simply fold that cost into their prices, so customers who pay cash help cover the cost of customers who pay by card. A cash discount program makes that arrangement visible. Customers who pay with a bank card see one price, and those who pay with cash or an equivalent method see a lower one.",
+    "The idea is simple, but the details are not trivial. Rules on how prices are displayed, how the program is disclosed and what you can call it vary by state and card network. A program that is clear, consistent and documented works smoothly; one that is improvised can cause complaints and compliance trouble. Here is how to approach it carefully."
+  ],
+  "sections": [
+    {
+      "h2": "How the program works",
+      "paragraphs": [
+        "In a typical dual pricing setup, your posted or listed price is the card price, which already includes the cost of acceptance, and a discount is offered for cash. At the register, the system shows both totals. A customer paying with cash or another qualifying method pays the lower amount, while a customer paying by card pays the standard one.",
+        "MCCPS offers this through its Zero Processing Fees program, designed so that, when properly configured and accepted by customers, the net cost of card processing to the merchant can be brought to zero. Results depend on your customer mix, how many pay by card and how the program is configured, and rules vary by state and card network, so a statement review should come first."
+      ]
+    },
+    {
+      "h2": "How it differs from a surcharge",
+      "paragraphs": [
+        "A surcharge adds a fee to a credit card transaction at checkout, often shown as a percentage line item. A cash discount, by contrast, treats the card price as the regular price and gives cash customers a reduction. The two can look similar to a customer, but card network rules and state laws treat them differently, including rules about caps, disclosure and which card types can be targeted.",
+        "Convenience fees are a third concept, usually tied to a specific payment channel and subject to their own network rules. Do not assume terms are interchangeable. Check how each is defined where you operate, and consult an attorney if you are unsure."
+      ]
+    },
+    {
+      "h2": "Signage, receipts and disclosure",
+      "paragraphs": [
+        "Transparency is the backbone of a compliant program. Customers must know about the two prices before they decide how to pay, so disclosure belongs in several places:"
+      ],
+      "bullets": [
+        "Signs at the entrance and the register explaining the program in plain language.",
+        "Menus, price lists or online listings showing both prices or clearly stating which one applies.",
+        "Receipts that itemize the discount or show the card and cash totals, as your jurisdiction requires.",
+        "Website checkout pages and invoices, if the program applies to online or billed sales.",
+        "Staff scripts so cashiers can explain the program accurately and briefly."
+      ]
+    },
+    {
+      "h2": "Rules to confirm before launch",
+      "paragraphs": [
+        "Because requirements differ, treat these as questions to answer, not facts to assume. Does your state permit cash discount or dual pricing programs, and how must prices be displayed? Do card network rules affect how you handle debit cards, and are there limits on the size of the difference? What wording is required on signage and receipts? Are special categories, such as government payments or certain regulated industries, treated differently?",
+        "Get the answers from authoritative sources, your processor and, where it matters, a lawyer. Requirements change over time, so build a periodic review into your calendar rather than treating the launch as final."
+      ]
+    },
+    {
+      "h2": "Customer experience and sales impact",
+      "paragraphs": [
+        "Customers react more to surprise than to the policy itself. If they see the program on the menu and at the door, most simply choose their method and move on. If they discover it at the end, it feels like a trap. Train staff to be matter-of-fact, offer cash as an easy choice and avoid wording that sounds like a penalty.",
+        "Watch the outcome. Track the share of sales paid by cash versus card for the first months, along with complaints and average ticket. Some businesses see little change; others see more cash. Because every business has a different customer base, test with care and be prepared to adjust."
+      ]
+    },
+    {
+      "h2": "Rollout plan",
+      "paragraphs": [
+        "A staged launch keeps the process manageable."
+      ],
+      "steps": [
+        "Run a free statement analysis to see current card volume and effective rate.",
+        "Confirm the legal requirements in your state and for your card networks.",
+        "Configure your terminals or POS to show both prices and print compliant receipts.",
+        "Install signage and update menus, price lists and your website.",
+        "Train staff with a short, consistent explanation.",
+        "Monitor sales mix, complaints and statements for the first two months."
+      ]
+    },
+    {
+      "h2": "Next step",
+      "paragraphs": [
+        "MCCPS can walk through your numbers and show how a program would apply to your business, including whether it fits at all. Call 844.826.6227 to start with the free, no-obligation analysis, and ask about keeping your current terminals."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A cash discount program shows a lower price for cash and treats the card price as the standard price.",
+    "It is not the same as a surcharge or a convenience fee, and rules differ for each.",
+    "Rules vary by state and card network, so confirm current requirements before launching.",
+    "Clear signage, price display and receipts are essential to staying compliant and keeping customers' trust.",
+    "Results depend on your customer mix, so start with a statement analysis."
+  ],
+  "faq": [
+    {"q": "Is a cash discount program legal?", "a": "Cash discounts are widely permitted, but rules vary by state and card network, and they come with disclosure and display requirements. Do not assume your state is the same as another. Confirm current requirements with your processor and, if needed, an attorney before launching or changing prices."},
+    {"q": "What is dual pricing?", "a": "Dual pricing means showing two prices for the same item or sale: a card price and a lower cash price. The card price already includes processing costs. It is a way to present a cash discount at the register or on menus. Disclosure rules apply and differ by state and network."},
+    {"q": "Will customers be upset about it?", "a": "Most react well when the program is posted clearly before they pay and staff explain it calmly. Problems usually come from surprises at checkout. Use visible signage, show both prices and let the customer choose the method freely, then watch feedback in the first weeks."},
+    {"q": "Does the program apply to debit cards?", "a": "That depends on the program design, card network rules and local law. Debit and credit are often treated differently, and some programs apply the cash price only to non-card payments. Ask exactly how debit is handled in your setup and confirm it is consistent with current rules."},
+    {"q": "Can I keep my current terminal?", "a": "Often yes. Many re-programmable terminals can be configured to display dual pricing and print compliant receipts, and MCCPS works with a wide range of POS systems and devices. Share the model number and the team can tell you whether it qualifies before you buy anything new."}
+  ],
+  "related": ["zero-processing-fees", "dual-pricing-explained", "cash-discount-vs-surcharge", "surcharge-rules-by-state", "pass-fees-to-customers", "surcharging-programs"],
+  "icon": "dollar",
+  "read_minutes": 6
+}

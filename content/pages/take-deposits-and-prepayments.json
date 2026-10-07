@@ -1,0 +1,90 @@
+{
+  "slug": "take-deposits-and-prepayments",
+  "category": "use-cases",
+  "title": "Taking Deposits and Prepayments",
+  "seo_title": "Take Deposits & Prepayments by Card | MCCPS",
+  "meta_description": "Collect deposits and prepayments by card the safe way: pre-authorization versus capture, card on file, refund terms, disputes and clear customer agreements.",
+  "primary_keyword": "take deposits by credit card",
+  "keywords": ["card deposits", "prepayments by credit card", "pre-authorization vs capture", "card on file deposit", "no-show deposit", "deposit refund policy", "advance payment chargebacks"],
+  "eyebrow": "Advance payments",
+  "dek": "Money taken before the work is done protects you from no-shows and cash crunches, but it also carries the highest dispute risk. Terms matter.",
+  "intro": [
+    "A booking without a deposit is a promise, and promises are cheap. Event spaces, photographers, contractors, custom shops, travel sellers and appointment-based services all know the cost of an empty slot or a custom order nobody collects. Taking money in advance transfers some of that risk back to the customer.",
+    "It also creates a new category of risk for you. The customer has paid for something they have not received yet, and if plans change, they may call their bank. Whether a deposit protects your business or creates a dispute depends on three things: how you take it, what the customer agreed to and how you handle changes. Let us look at each."
+  ],
+  "sections": [
+    {
+      "h2": "Authorize, capture or store",
+      "paragraphs": [
+        "There are three technical ways to secure a deposit. A pre-authorization places a hold on the customer's available credit for an amount, without moving money; you capture some or all of it later. Holds expire after a limited period that depends on the issuer and the card, so they suit short horizons like a hotel stay or a rental, not an event booked six months away.",
+        "A captured deposit is an actual sale: the funds settle to you now and you owe the service later. This is the most common choice for weddings, projects and custom orders. A card on file stores the customer's card as a token with their permission so you can charge a balance or a fee, such as a late-cancellation charge, at an agreed time. Many businesses combine them, capturing the deposit now and keeping the card on file for the balance."
+      ]
+    },
+    {
+      "h2": "Write the terms before you collect",
+      "paragraphs": [
+        "Clear terms are what turn a deposit into a defensible one. State the amount and what it covers, whether it is refundable and until when, what happens if the customer cancels or reschedules, and when the remaining balance is due. If you will charge the card on file for later amounts, say so explicitly and get the customer's agreement.",
+        "Present the terms where the customer can accept them electronically or sign them. Keep a copy with a timestamp. When a deposit is disputed months later, this agreement and the correspondence around it are your evidence, and a vague verbal understanding rarely wins."
+      ]
+    },
+    {
+      "h2": "What to include in your deposit policy",
+      "paragraphs": [
+        "A good policy is short and specific. Cover these points:"
+      ],
+      "bullets": [
+        "The deposit amount, expressed as a flat figure or share of the total.",
+        "Whether the deposit is applied to the final bill, and how.",
+        "A cancellation window with dates, and what portion is refundable inside and outside it.",
+        "Rules for rescheduling and force majeure events.",
+        "How and when the balance will be charged, and to which payment method.",
+        "Who to contact with questions, and how fast you will respond."
+      ]
+    },
+    {
+      "h2": "Disputes and how to reduce them",
+      "paragraphs": [
+        "Advance payments are among the most disputed because the customer's circumstances can change before you deliver. Typical complaints are services not rendered, cancellations not honored and charges not recognized. You cannot eliminate them but you can reduce them with recognizable billing descriptors, immediate email receipts, written terms, prompt answers to questions and fair handling of reasonable cancellations.",
+        "If the issue is a genuine change of plans, offering a partial refund or credit toward a future date is often cheaper than losing a chargeback plus its fee. When you do win disputes, it is usually because you can show the agreement, the date the customer accepted it and proof that you were ready to perform."
+      ]
+    },
+    {
+      "h2": "Practical setup",
+      "paragraphs": [
+        "Follow a repeatable process for each deposit."
+      ],
+      "steps": [
+        "Quote the full price and the deposit amount in writing.",
+        "Send the terms and obtain acceptance by signature or electronic confirmation.",
+        "Collect the deposit by payment link, virtual terminal or in person, and store the card on file if a later balance is expected.",
+        "Email a receipt that names the service, date and deposit amount.",
+        "Remind the customer before the balance is due and before any cancellation deadline.",
+        "Charge the balance as agreed and issue a final receipt."
+      ]
+    },
+    {
+      "h2": "Cash flow, funding and accounting notes",
+      "paragraphs": [
+        "A captured deposit usually settles on your normal funding schedule, which can be helpful for ordering supplies or reserving a vendor. Some processors review accounts that take large amounts in advance, particularly for businesses where delivery is far in the future, so describe your model honestly when you apply. Tax and accounting treatment of deposits and unearned revenue is a matter for your accountant, so consult your CPA on how to record them.",
+        "MCCPS supports payment links, virtual terminal entry and tokenized card storage, and the free statement analysis is a good way to see what advance payments currently cost you. Call 844.826.6227 to discuss the setup that fits how you book work."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Pre-authorizations hold funds briefly, captured deposits settle now and cards on file allow later charges.",
+    "Written, accepted terms are your best defense when a deposit is disputed.",
+    "Authorization holds expire, so they suit short horizons only.",
+    "Fair handling of cancellations is often cheaper than losing a chargeback.",
+    "Ask your accountant how to record deposits and unearned revenue."
+  ],
+  "faq": [
+    {"q": "What is the difference between a deposit and a pre-authorization?", "a": "A deposit captured as a sale moves money to you at settlement. A pre-authorization only places a temporary hold on the cardholder's available funds, and nothing is paid to you until you capture it. Holds expire after a period that varies by issuer, so they suit short timeframes."},
+    {"q": "Can I charge a customer's card later for the balance?", "a": "Yes, if the customer gave clear permission and the card is stored securely as a token. State the amount and timing in your terms and send a receipt for each charge. Charges that surprise the customer are a common cause of disputes."},
+    {"q": "How long can I hold a pre-authorization?", "a": "Duration varies by card network, issuer and merchant category, and some holds drop off in days. Do not assume a hold will last for weeks. For longer horizons, capture a deposit and store the card on file for the remainder, and confirm the timing rules with your processor."},
+    {"q": "What if a customer disputes their deposit?", "a": "Respond within the deadline with the signed or accepted terms, the order details, proof of your readiness to deliver and relevant communication. Fair refunds before a dispute often save fees. Chargeback outcomes depend on evidence, so keep records of every booking."},
+    {"q": "Are deposits taxable when I receive them?", "a": "Tax treatment depends on your accounting method, your jurisdiction and the nature of the payment. Deposits for future services are sometimes treated differently from earned revenue. This is a question for your CPA, who can advise how to record them in your situation."}
+  ],
+  "related": ["salons-and-spas", "event-venues", "photographers", "contractors", "recurring-billing", "refund-vs-chargeback"],
+  "icon": "lock",
+  "read_minutes": 6
+}

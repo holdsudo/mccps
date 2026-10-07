@@ -5,7 +5,15 @@
   "seo_title": "Accept Card Payments on the Go | MCCPS",
   "meta_description": "Take cards in the field with a mobile reader, tap-to-phone or wireless terminal. Compare setups, connectivity, receipts and costs for mobile businesses.",
   "primary_keyword": "accept payments on the go",
-  "keywords": ["mobile card reader", "accept credit cards on phone", "wireless terminal", "mobile payment processing", "field service payments", "tap to phone", "portable card terminal"],
+  "keywords": [
+    "mobile card reader",
+    "accept credit cards on phone",
+    "wireless terminal",
+    "mobile payment processing",
+    "field service payments",
+    "tap to phone",
+    "portable card terminal"
+  ],
   "eyebrow": "Mobile payments",
   "dek": "Whether you work from a truck, a client's driveway or a market stall, there is a mobile setup that fits how you really get paid.",
   "intro": [
@@ -43,7 +51,8 @@
       "h2": "Receipts, tips and records",
       "paragraphs": [
         "Customers expect proof of payment. Offer an emailed or texted receipt that carries your business name, the amount, the date and your contact details, which also reduces disputes by making the charge recognizable. If tips are part of your trade, set the terminal to prompt for one before the card is presented so the total is correct from the start.",
-        "Keep your records tidy by matching each day's mobile sales to the deposit that follows. A reporting dashboard that separates mobile sales from others makes bookkeeping easier and helps your accountant at tax time."
+        "Keep your records tidy by matching each day's mobile sales to the deposit that follows. A reporting dashboard that separates mobile sales from others makes bookkeeping easier and helps your accountant at tax time.",
+        "A practical habit is to end each day with a two-minute close-out. Check that every device synced, confirm the day's mobile total matches your own count of jobs or orders and note any declined or voided sales that need follow-up. Mobile businesses lose track of small amounts precisely because the work is scattered across locations. If you rely on helpers or drivers, give each person their own login so you can see who took which payment, and so a lost device never exposes your whole account."
       ]
     },
     {
@@ -68,13 +77,35 @@
     "Lock devices, update software and have a plan for a lost reader."
   ],
   "faq": [
-    {"q": "Can I accept credit cards with just my smartphone?", "a": "Yes, in two ways. Tap-to-phone software lets a compatible phone accept contactless cards and wallets with no extra hardware, and a small Bluetooth reader adds chip acceptance. You still need a merchant account and a payment app, and availability depends on your device and provider."},
-    {"q": "Do mobile payments cost more than a countertop terminal?", "a": "Not necessarily. Interchange depends on how the card is read, so a chip or tap sale on a mobile reader is generally priced as card-present, like a countertop terminal. Costs go up when you key in a number. Monthly fees and per-transaction fees vary by provider, so compare statements."},
-    {"q": "What happens if I lose signal during a sale?", "a": "The payment cannot be authorized without a connection. Some devices store the transaction and submit it later, but that leaves you exposed to declines after the customer has left. A cellular-capable device or a second connection source is the safer approach for areas with weak coverage."},
-    {"q": "Is it safe to take cards on a phone?", "a": "It can be, with the right setup. Use an encrypted reader or certified tap software, lock the phone, avoid unsecured Wi-Fi and keep apps updated. Never write card numbers down. Complete your PCI self-assessment so you know which controls apply to your setup."},
-    {"q": "Can I use a terminal I already own?", "a": "Often. Many terminals can be reprogrammed to work with a different processor, which avoids buying or leasing new hardware. Compatibility depends on the model and its encryption keys, so ask for a check before you assume you need a new device."}
+    {
+      "q": "Can I accept credit cards with just my smartphone?",
+      "a": "Yes, in two ways. Tap-to-phone software lets a compatible phone accept contactless cards and wallets with no extra hardware, and a small Bluetooth reader adds chip acceptance. You still need a merchant account and a payment app, and availability depends on your device and provider."
+    },
+    {
+      "q": "Do mobile payments cost more than a countertop terminal?",
+      "a": "Not necessarily. Interchange depends on how the card is read, so a chip or tap sale on a mobile reader is generally priced as card-present, like a countertop terminal. Costs go up when you key in a number. Monthly fees and per-transaction fees vary by provider, so compare statements."
+    },
+    {
+      "q": "What happens if I lose signal during a sale?",
+      "a": "The payment cannot be authorized without a connection. Some devices store the transaction and submit it later, but that leaves you exposed to declines after the customer has left. A cellular-capable device or a second connection source is the safer approach for areas with weak coverage."
+    },
+    {
+      "q": "Is it safe to take cards on a phone?",
+      "a": "It can be, with the right setup. Use an encrypted reader or certified tap software, lock the phone, avoid unsecured Wi-Fi and keep apps updated. Never write card numbers down. Complete your PCI self-assessment so you know which controls apply to your setup."
+    },
+    {
+      "q": "Can I use a terminal I already own?",
+      "a": "Often. Many terminals can be reprogrammed to work with a different processor, which avoids buying or leasing new hardware. Compatibility depends on the model and its encryption keys, so ask for a check before you assume you need a new device."
+    }
   ],
-  "related": ["mobile-payments", "tap-to-pay", "food-trucks", "home-services", "accept-payments-at-events", "credit-card-terminals"],
+  "related": [
+    "mobile-payments",
+    "tap-to-pay",
+    "food-trucks",
+    "home-services",
+    "accept-payments-at-events",
+    "credit-card-terminals"
+  ],
   "icon": "phone",
   "read_minutes": 6
 }

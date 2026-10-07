@@ -5,7 +5,15 @@
   "seo_title": "How to Set Up Recurring Card Payments | MCCPS",
   "meta_description": "Set up recurring card payments for memberships, subscriptions and service plans: consent, card on file, retries, updater services and cancellation rules.",
   "primary_keyword": "set up recurring payments",
-  "keywords": ["recurring credit card payments", "automatic billing for small business", "subscription billing setup", "card on file", "membership autopay", "failed payment retries", "recurring billing consent"],
+  "keywords": [
+    "recurring credit card payments",
+    "automatic billing for small business",
+    "subscription billing setup",
+    "card on file",
+    "membership autopay",
+    "failed payment retries",
+    "recurring billing consent"
+  ],
   "eyebrow": "Recurring billing",
   "dek": "Automatic billing steadies cash flow, but it works best when consent, retries and cancellation are handled before the first charge.",
   "intro": [
@@ -49,7 +57,8 @@
     {
       "h2": "Make cancellation easy",
       "paragraphs": [
-        "It sounds counterintuitive, but a simple cancellation route protects you. Customers who cannot find the cancel button often call their bank instead, and a chargeback costs more than a lost subscription. Offer a clear way to pause, change plans or cancel, send a reminder before annual renewals and confirm every cancellation in writing."
+        "It sounds counterintuitive, but a simple cancellation route protects you. Customers who cannot find the cancel button often call their bank instead, and a chargeback costs more than a lost subscription. Offer a clear way to pause, change plans or cancel, send a reminder before annual renewals and confirm every cancellation in writing.",
+        "Communication is the quiet half of recurring billing. Send a receipt after every charge, a notice before price changes and a reminder before annual renewals or the end of a free trial. Customers who feel informed rarely dispute a charge, and those who do are easy to answer because your messages prove they were told. Treat each automated email as part of the service, written in plain language, with your contact details and an easy route to pause or cancel."
       ]
     },
     {
@@ -82,13 +91,35 @@
     "ACH can be a lower-cost alternative for fixed monthly amounts."
   ],
   "faq": [
-    {"q": "Do I need the customer's permission to charge their card repeatedly?", "a": "Yes. Card network rules and consumer protection laws expect clear authorization that explains the amount, frequency, start date and how to cancel. Keep a record of when and how it was given. Rules can differ by state and industry, so check requirements for your business."},
-    {"q": "What happens when a recurring payment fails?", "a": "The charge is declined and nothing is collected. A good process retries after a few days, notifies the customer with a link to update their card and sets a grace period before pausing service. Account updater services can refresh expired or replaced cards automatically in many cases."},
-    {"q": "Is it safe to store customers' card details?", "a": "It is safe when the gateway stores them as tokens and you never keep the card number yourself. Tokens are useless to thieves outside your account. Storing numbers in spreadsheets or notes is not safe and brings PCI obligations you should avoid."},
-    {"q": "Can I change the amount of a recurring charge?", "a": "Yes, but tell the customer in advance and follow what your agreement says. Surprise increases cause disputes. For usage-based plans, state how the amount is calculated in the original terms, and send a receipt after each charge showing the breakdown."},
-    {"q": "Are recurring payments cheaper by ACH or card?", "a": "ACH bank payments typically cost less per transaction than cards, especially for larger amounts, but they take longer to clear and can be returned for reasons like insufficient funds. Cards are faster and more convenient. Many businesses offer both and let customers choose."}
+    {
+      "q": "Do I need the customer's permission to charge their card repeatedly?",
+      "a": "Yes. Card network rules and consumer protection laws expect clear authorization that explains the amount, frequency, start date and how to cancel. Keep a record of when and how it was given. Rules can differ by state and industry, so check requirements for your business."
+    },
+    {
+      "q": "What happens when a recurring payment fails?",
+      "a": "The charge is declined and nothing is collected. A good process retries after a few days, notifies the customer with a link to update their card and sets a grace period before pausing service. Account updater services can refresh expired or replaced cards automatically in many cases."
+    },
+    {
+      "q": "Is it safe to store customers' card details?",
+      "a": "It is safe when the gateway stores them as tokens and you never keep the card number yourself. Tokens are useless to thieves outside your account. Storing numbers in spreadsheets or notes is not safe and brings PCI obligations you should avoid."
+    },
+    {
+      "q": "Can I change the amount of a recurring charge?",
+      "a": "Yes, but tell the customer in advance and follow what your agreement says. Surprise increases cause disputes. For usage-based plans, state how the amount is calculated in the original terms, and send a receipt after each charge showing the breakdown."
+    },
+    {
+      "q": "Are recurring payments cheaper by ACH or card?",
+      "a": "ACH bank payments typically cost less per transaction than cards, especially for larger amounts, but they take longer to clear and can be returned for reasons like insufficient funds. Cards are faster and more convenient. Many businesses offer both and let customers choose."
+    }
   ],
-  "related": ["recurring-billing", "subscription-businesses", "recurring-billing-best-practices", "account-updater", "gyms-and-fitness", "ach-processing"],
+  "related": [
+    "recurring-billing",
+    "subscription-businesses",
+    "recurring-billing-best-practices",
+    "account-updater",
+    "gyms-and-fitness",
+    "ach-processing"
+  ],
   "icon": "refresh",
   "read_minutes": 6
 }

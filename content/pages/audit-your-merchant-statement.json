@@ -1,0 +1,128 @@
+{
+  "slug": "audit-your-merchant-statement",
+  "category": "use-cases",
+  "title": "Auditing Your Merchant Statement",
+  "seo_title": "How to Audit Your Merchant Statement | MCCPS",
+  "meta_description": "Audit your merchant statement line by line: effective rate, interchange versus markup, junk fees, downgrades and what to ask your processor to fix.",
+  "primary_keyword": "audit merchant statement",
+  "keywords": [
+    "merchant statement review",
+    "processing statement audit",
+    "hidden fees on merchant statement",
+    "effective rate calculation",
+    "downgrade fees",
+    "PCI fee on statement",
+    "statement analysis"
+  ],
+  "eyebrow": "Statement review",
+  "dek": "Your monthly statement contains everything you need to know about your costs. You just have to know where to look.",
+  "intro": [
+    "Merchant statements are not designed to be read. They run several pages, use unfamiliar terms, bury key numbers in the middle and differ from one processor to the next. Many owners glance at the deposit total, file the statement and never look again, which is exactly why mistakes and excess fees can persist for years.",
+    "An audit does not require a finance degree. With two or three statements, a calculator and a methodical approach, you can answer the questions that matter: what is my real cost, what am I paying for, and is any of it wrong? This guide takes you through the process in order."
+  ],
+  "sections": [
+    {
+      "h2": "Step one: calculate the effective rate",
+      "paragraphs": [
+        "Find the total processing fees for the month and the total card volume processed. Divide fees by volume. If the statement shows $2,480 in fees on $80,000 in volume, the effective rate is 3.1 percent in this hypothetical. Do this for each of the last two or three months to see whether it is stable or drifting upward.",
+        "Be sure the fees include everything: percentage charges, per-item fees, monthly fees, PCI fees, gateway charges and equipment rental, not only the processing line. A low advertised rate with a high total tells you the cost is hiding elsewhere."
+      ]
+    },
+    {
+      "h2": "Step two: identify the pricing model",
+      "paragraphs": [
+        "Look at how the fees are structured. Interchange-plus statements list actual interchange categories and a separate markup. Tiered statements group transactions into buckets with names like qualified, mid-qualified and non-qualified. Flat-rate statements show one blended rate. Subscription models charge a monthly fee plus close to interchange.",
+        "Why does it matter? Because each model hides different things. Tiered plans can send large shares of your volume into higher buckets without explanation. Flat plans mask the real cost of different card types. Knowing the model tells you what to scrutinize."
+      ]
+    },
+    {
+      "h2": "Step three: scan for problem lines",
+      "paragraphs": [
+        "Read down the fee list and flag anything you cannot explain. Common culprits include:"
+      ],
+      "bullets": [
+        "Downgrade or non-qualified surcharges on transactions that should have qualified, often due to missing data or late settlement.",
+        "PCI non-compliance or program fees that continue because the questionnaire was never completed.",
+        "Duplicate or unused gateway, statement, regulatory or annual fees.",
+        "Equipment rental or lease charges for devices you no longer use.",
+        "Minimum monthly fees charged on top of processing in a slow month.",
+        "Per-item fees that are higher than your contract states, or fees added without notice."
+      ]
+    },
+    {
+      "h2": "Step four: compare against your agreement",
+      "paragraphs": [
+        "Pull your merchant agreement and the pricing schedule. Check each rate and fee on the statement against what you signed. Providers do sometimes raise rates through notices of change that are easy to miss, so compare the current statement to the earliest one you have. If a fee appears that does not match, ask for the documentation that justifies it.",
+        "Also look at the mix. Calculate how much of your volume was keyed, how much was card-present and how much was online. Keyed and card-not-present sales cost more, so an unexpectedly high share may point to a terminal setup problem, such as chips failing to read or staff keying cards to save time."
+      ]
+    },
+    {
+      "h2": "Step five: decide what to do",
+      "paragraphs": [
+        "Your findings lead to one of a few actions. If a fee is wrong, request a correction and a refund of past overcharges where appropriate. If the structure is the issue, ask for a line-by-line quote on interchange-plus pricing using your real mix. If the contract blocks you, review the term, early termination fee and equipment lease before changing anything, because the exit cost can outweigh the savings.",
+        "Keep the audit repeatable. Check your effective rate each month and review the full statement quarterly. A recurring routine catches rate creep early.",
+        "Keep a running log as you audit. A simple spreadsheet with one row per month, showing volume, total fees, effective rate, the share of keyed transactions and any odd fees, makes patterns obvious within a quarter. If you later request a refund or a quote, the log is your evidence. It also protects against slow rate creep, which is hard to notice from one statement to the next but plain when months sit side by side."
+      ]
+    },
+    {
+      "h2": "A checklist you can follow",
+      "paragraphs": [
+        "Use this sequence each time."
+      ],
+      "steps": [
+        "Gather the last two or three statements and your agreement.",
+        "Compute total fees divided by total volume for each month.",
+        "Identify the pricing model and list all non-percentage fees.",
+        "Flag downgrades, PCI charges, duplicates and unused equipment.",
+        "Compare each rate and fee with the signed pricing schedule.",
+        "Ask your processor to explain or correct anything unclear.",
+        "Get a competing line-by-line quote before deciding whether to switch."
+      ]
+    },
+    {
+      "h2": "Let MCCPS do the heavy lifting",
+      "paragraphs": [
+        "If you would rather not do it alone, MCCPS offers a free, no-obligation savings analysis in which the team reviews two months of your processing statements line by line. What you could save depends entirely on what the statements show, and there is no pressure to switch. Call 844.826.6227 or send the statements to start."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Total fees divided by total card volume gives your effective rate, the key number for comparison.",
+    "Identify whether your plan is interchange-plus, tiered, flat or subscription before judging it.",
+    "Look for downgrades, PCI charges, duplicate fees and equipment you no longer use.",
+    "Compare each line with your signed agreement, and the latest statement with the earliest.",
+    "Check the exit costs before switching, then repeat the audit regularly."
+  ],
+  "faq": [
+    {
+      "q": "How do I calculate my effective rate?",
+      "a": "Add up every fee on the statement, including percentage charges, per-item fees, monthly and annual fees, PCI charges and equipment costs, then divide by your total card volume for the month. The result is your effective rate. Comparing it across months and offers is the most reliable cost check."
+    },
+    {
+      "q": "What is a downgrade fee?",
+      "a": "A downgrade, or non-qualified surcharge, occurs when a transaction is placed in a higher-cost category than it might have been, often because required data was missing, a card was keyed or the batch was settled late. On tiered plans these appear as qualified, mid-qualified and non-qualified lines."
+    },
+    {
+      "q": "How often should I review my statement?",
+      "a": "Check your effective rate every month and do a full line-by-line review at least quarterly. Review it immediately after any change in rates, equipment, software or business model. Regular checks catch rate increases and new fees early, before they cost a significant amount."
+    },
+    {
+      "q": "What if I find an error?",
+      "a": "Contact your processor with the statement, the relevant section of your agreement and a specific request, such as a correction or refund of overcharges. Put it in writing and keep the response. If they do not resolve it, consider getting a second opinion or escalating."
+    },
+    {
+      "q": "Will MCCPS charge for a statement review?",
+      "a": "No. MCCPS offers a free, no-obligation savings analysis in which it reviews two months of your processing statements line by line. Any savings depend on what the review reveals, and there is no commitment to switch. Call 844.826.6227 to begin."
+    }
+  ],
+  "related": [
+    "free-statement-analysis",
+    "how-to-read-a-merchant-statement",
+    "hidden-fees-on-merchant-statements",
+    "effective-rate-explained",
+    "lower-processing-fees",
+    "pci-non-compliance-fee"
+  ],
+  "icon": "target",
+  "read_minutes": 6
+}

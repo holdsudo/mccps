@@ -1,0 +1,94 @@
+{
+  "slug": "pass-fees-to-customers",
+  "category": "use-cases",
+  "title": "Passing Processing Fees to Customers",
+  "seo_title": "Pass Card Fees to Customers: Your Options | MCCPS",
+  "meta_description": "Compare surcharges, cash discounts and convenience fees for passing card costs to customers, with notes on disclosure, rules and customer reaction.",
+  "primary_keyword": "pass credit card fees to customers",
+  "keywords": ["surcharge vs cash discount", "convenience fee", "credit card surcharge", "recoup processing fees", "pass-through card fees", "price increase vs surcharge", "dual pricing"],
+  "eyebrow": "Fee recovery",
+  "dek": "Three different mechanisms are often lumped together. Knowing which is which keeps you compliant and keeps your customers.",
+  "intro": [
+    "When your processing statement tops a few thousand dollars a month, the question arrives on its own: why am I paying for this and my customer is not? It is a reasonable instinct. Card fees are a real operating cost, and many owners would like to share it with the people who choose to pay by card.",
+    "There are several ways to do that, and they are not interchangeable. A surcharge, a cash discount and a convenience fee follow different rules, work differently at the register and land differently with customers. Mixing them up is the fastest route to a complaint or a violation, so this guide separates them before comparing."
+  ],
+  "sections": [
+    {
+      "h2": "The three mechanisms",
+      "paragraphs": [
+        "A surcharge is an added fee on a card transaction, shown separately at checkout, typically calculated as a percentage of the sale. Card networks and some states regulate when it is allowed, how it is capped, how it must be disclosed and which card types it may apply to.",
+        "A cash discount, sometimes called dual pricing, flips the logic. The posted price is the card price, and customers who pay with cash or an equivalent method get a reduction. A convenience fee is a charge for using a specific payment channel, such as an online or phone payment in a business that otherwise takes payment in person, and it is subject to its own network rules. In every case, rules vary by state and card network, so confirm current requirements before you act."
+      ]
+    },
+    {
+      "h2": "Comparing them side by side",
+      "paragraphs": [
+        "The differences matter most in daily operation:"
+      ],
+      "bullets": [
+        "Surcharge: visible line item on card sales; usually tied to credit cards; network and state restrictions on amount and disclosure.",
+        "Cash discount or dual pricing: card price is the standard price; cash customers pay less; relies on clear price display and signage.",
+        "Convenience fee: tied to an alternative channel; limited to situations the network rules allow; often must be flat or tied to a service.",
+        "Plain price increase: not a pass-through at all, but the simplest approach, since every customer pays the same."
+      ]
+    },
+    {
+      "h2": "Doing the arithmetic first",
+      "paragraphs": [
+        "Before choosing, quantify what is at stake. Say you process $50,000 a month on cards at a 2.9% effective rate. That is $1,450 in fees, or $17,400 a year, in this hypothetical. If a program recovers half of it, that is meaningful, but only if customers do not defect or switch to cash in ways that hurt other costs.",
+        "Look at your card mix as well. Debit cards usually cost less than rewards credit cards, and rules sometimes treat them differently, so the savings from a pass-through program may be lower than the headline rate suggests. A statement analysis shows what share of your volume is debit, credit, keyed and card-present, which in turn shows what a program could realistically do."
+      ]
+    },
+    {
+      "h2": "Disclosure is not optional",
+      "paragraphs": [
+        "Whichever route you pick, customers need to know before they pay. That means visible signs at the entrance and the register, the program explained on menus or price lists, notices on your website and checkout pages and receipts that show the fee or discount as a clear line. Staff should know how to answer questions in a sentence or two without sounding defensive.",
+        "Keep documentation. A copy of your signage, your price lists and the date they were posted can be valuable if a customer complains or a regulator asks. Revisit your setup periodically because rules and network requirements change."
+      ]
+    },
+    {
+      "h2": "Customer reaction and competitive context",
+      "paragraphs": [
+        "Customers tolerate fees better when they are small, explained and avoidable. A dual pricing program lets them choose cash, while a surcharge can feel like a penalty if introduced without notice. Think about your competitors and your clientele: a local restaurant with many regulars may prefer a gentle approach, while a B2B supplier whose customers expect to pay by invoice may handle fees through terms and payment method choices.",
+        "Some businesses decide that raising prices modestly across the board is the cleanest answer. There is no universal winner; it depends on your margins, your audience and your comfort with the compliance details."
+      ]
+    },
+    {
+      "h2": "How to decide",
+      "paragraphs": [
+        "Work through the decision in order."
+      ],
+      "steps": [
+        "Gather two months of statements and compute your effective rate and card mix.",
+        "Check state and card network rules for each mechanism you are considering.",
+        "Choose the approach that fits your customers and your operations.",
+        "Configure your POS or terminals to apply it consistently and print compliant receipts.",
+        "Post signage and update your website, menus and invoices.",
+        "Track card share, complaints and net cost for two months, then adjust."
+      ]
+    },
+    {
+      "h2": "Where MCCPS can help",
+      "paragraphs": [
+        "MCCPS offers a Zero Processing Fees program built on compliant dual pricing, and can compare it with lowering your rate through interchange-plus pricing. Both start with the free, no-obligation savings analysis. Call 844.826.6227 to talk through which route suits your business."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Surcharges, cash discounts and convenience fees are different tools with different rules.",
+    "Rules vary by state and card network, so confirm current requirements before acting.",
+    "Do the math on your own statement; card mix changes what a pass-through can recover.",
+    "Disclosure through signage, price display and receipts is essential for every option.",
+    "A plain, modest price increase is a legitimate alternative to any pass-through."
+  ],
+  "faq": [
+    {"q": "Can I add a surcharge to every credit card sale?", "a": "Not necessarily. Surcharging is governed by card network rules and, in some places, state law, including limits on amount, disclosure requirements and card types. Some jurisdictions restrict or prohibit it. Confirm what applies where you operate and consult an attorney if you are uncertain before adding any fee."},
+    {"q": "Which is better, a surcharge or a cash discount?", "a": "Neither is better in every case. A surcharge adds a visible fee on card sales; a cash discount offers a lower cash price. Customer perception, local rules and your card mix all affect the outcome. Compare both against your statements and compliance requirements, then test and monitor."},
+    {"q": "Do customers dislike card fees?", "a": "Reaction varies. Customers tend to accept clearly disclosed, modest fees they can avoid, and resent surprises at the end of a transaction. Posting signs where customers can see them before ordering, and training staff to explain simply, usually reduces friction."},
+    {"q": "Is a convenience fee the same as a surcharge?", "a": "No. A convenience fee is generally tied to a specific payment channel and is subject to separate card network rules. A surcharge is a percentage-style fee added to card transactions. Do not label one as the other, and check the requirements for the option you intend to use."},
+    {"q": "Will I save money if I pass fees on?", "a": "Possibly, but results depend on how many customers pay by card, what share of your card volume qualifies and how customers respond. Debit and low-cost cards may not generate much recovery. A line-by-line statement review is the most reliable way to estimate the effect before you commit."}
+  ],
+  "related": ["surcharging-programs", "cash-discount-vs-surcharge", "convenience-fees-explained", "surcharge-rules-by-state", "offer-cash-discount", "zero-processing-fees"],
+  "icon": "scale",
+  "read_minutes": 6
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "multi-location-payments",
+  "category": "use-cases",
+  "title": "Payments for Multi-Location Businesses",
+  "seo_title": "Multi-Location Payment Processing | MCCPS",
+  "meta_description": "Run payments across several locations: one merchant account or many, consolidated reporting, funding, user permissions and consistent pricing and controls.",
+  "primary_keyword": "multi-location payment processing",
+  "keywords": [
+    "multiple location merchant account",
+    "consolidated payment reporting",
+    "franchise payment processing",
+    "chain store card processing",
+    "central funding",
+    "location-level reporting",
+    "multi-store POS payments"
+  ],
+  "eyebrow": "Growth and scale",
+  "dek": "A second or tenth location should add sales, not reconciliation headaches. The structure of your accounts decides which one you get.",
+  "intro": [
+    "Opening a second location is exciting, and the first month's bookkeeping is usually the reality check. Deposits arrive from different accounts, reports have to be merged by hand and nobody is quite sure which location earned what after fees. The payment setup that worked for a single storefront starts to creak.",
+    "Multi-location payment processing is mostly an organizational question. How many merchant accounts do you need, where does the money land, who can see and do what, and how do you keep pricing and security the same everywhere? Getting the structure right early saves repeated rework as you grow."
+  ],
+  "sections": [
+    {
+      "h2": "One account or many",
+      "paragraphs": [
+        "The basic choice is between a single merchant account that serves every location and separate accounts for each. A single account simplifies pricing, contracts and reporting, and fits when all locations are under the same legal entity and business type. Separate accounts, sometimes grouped under a parent, suit different legal entities, franchisees who must keep their own books, or locations whose businesses differ significantly.",
+        "Many chains use a hybrid: individual merchant identification numbers for each location, held under a common agreement and pricing. This provides location-level detail while keeping the pricing and contract consistent. Underwriting looks at the legal entity and its ownership, so discuss your structure honestly before applying."
+      ]
+    },
+    {
+      "h2": "Consolidated reporting you can use",
+      "paragraphs": [
+        "The most valuable feature for a growing operator is a view of all locations at once, with the ability to drill into any single one. You want to compare sales, average ticket, tips, refunds, voids and card mix by location, shift and employee. A reporting dashboard that does this turns payment data into management information instead of an end-of-month surprise.",
+        "Funding detail matters too. Deposits should be traceable back to their batches and locations, so your bookkeeper can match every bank credit without guesswork. Ask whether you can receive a combined deposit, separate deposits per location or both."
+      ]
+    },
+    {
+      "h2": "Consistency across sites",
+      "paragraphs": [
+        "Customers and staff should have the same experience at every site, and your controls should be equally uniform. Aim for the following:"
+      ],
+      "bullets": [
+        "The same pricing structure and fees at every location, negotiated once on combined volume.",
+        "Identical terminal models and software versions to ease training and support.",
+        "A single set of policies for refunds, voids, tips and cash discount or dual pricing programs, where used.",
+        "Unique employee logins, with permissions tied to role and location.",
+        "Matching receipts, billing descriptors and signage so customers recognize the brand."
+      ]
+    },
+    {
+      "h2": "Buying power and pricing",
+      "paragraphs": [
+        "Combined volume is leverage. Say three locations each process $30,000 a month; together they represent $90,000, which may support a better markup than any one site could negotiate alone. Pricing depends on risk, card mix and ticket size as well as volume, so no result is guaranteed, but you should never accept location-by-location pricing without checking whether a combined agreement would improve it.",
+        "Ask to see an interchange-plus comparison across all your sites. Differences in effective rates between locations often reveal problems, such as one site keying cards, missing address verification data or running on an old pricing plan."
+      ]
+    },
+    {
+      "h2": "Security and compliance at scale",
+      "paragraphs": [
+        "More terminals, more staff and more networks mean more exposure. Standardize your PCI approach: use encrypted terminals, keep a list of every device and its location, complete the self-assessment questionnaire for each merchant account and train managers on device inspection. When someone leaves, remove their access everywhere at once.",
+        "If a location closes, make sure its devices are retrieved, wiped or returned, and its merchant account is closed correctly so no monthly fees continue to accrue."
+      ]
+    },
+    {
+      "h2": "Adding a location smoothly",
+      "paragraphs": [
+        "Treat each opening as a repeatable process.",
+        "Do not forget the people side. Name a person who owns payments across the whole business, whether that is an owner, an operations lead or a bookkeeper, so there is a single contact when a deposit is late or a terminal fails at one site. Give managers the reports they need for their own location and nothing more. Clear ownership prevents the common pattern in which every location improvises its own fixes and the differences quietly pile up."
+      ],
+      "steps": [
+        "Decide whether the new site uses an existing merchant account or a new identification number.",
+        "Order or reprogram terminals so they match your standard configuration.",
+        "Set up users, permissions and reporting groups before opening day.",
+        "Test chip, tap, refund and tip flows on live cards.",
+        "Confirm the funding destination and how the new site appears in reports.",
+        "Review the first month's statement for fees and card mix against your other sites."
+      ]
+    },
+    {
+      "h2": "How MCCPS helps",
+      "paragraphs": [
+        "MCCPS offers a reporting and analytics dashboard, integration with most POS systems and terminals, and the ability to keep re-programmable equipment you already own. The free statement analysis can compare effective rates across locations. Call 844.826.6227 to discuss how to structure payments as you grow."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Choose between one account, separate accounts or a hybrid based on legal structure and reporting needs.",
+    "Consolidated dashboards with location-level drill-down replace manual month-end merging.",
+    "Standardize pricing, terminals, permissions and policies across every site.",
+    "Combined volume can strengthen your negotiating position, though results vary.",
+    "Maintain a device inventory and a PCI process that covers all locations."
+  ],
+  "faq": [
+    {
+      "q": "Can all my locations use one merchant account?",
+      "a": "Often, if they operate under the same legal entity and business type. A single account simplifies pricing and reporting, while separate accounts suit different entities or franchisees. Underwriters will want to know your structure, so describe each location and who owns it when you apply."
+    },
+    {
+      "q": "Will I get one combined deposit?",
+      "a": "That depends on your setup. Some arrangements deposit all locations into one bank account in a single credit, while others deposit by location. Ask which you prefer and make sure reports let your bookkeeper match each deposit to its batches."
+    },
+    {
+      "q": "How do I compare performance between locations?",
+      "a": "Use a dashboard that breaks out sales, average ticket, refunds, voids, tips and card mix by location. Differences in effective rate between sites can highlight problems like keyed transactions or missing verification data. Review them monthly and investigate the outliers."
+    },
+    {
+      "q": "Do franchisees need their own accounts?",
+      "a": "Frequently yes, because each franchisee is usually a separate legal entity with its own books and deposits. Many franchisors still negotiate shared pricing and standard equipment. Confirm the structure with your processor and legal advisor, since it affects underwriting and liability."
+    },
+    {
+      "q": "How should I handle PCI across many sites?",
+      "a": "Standardize on encrypted, certified devices, keep an inventory of terminals by location, complete the required questionnaire for each merchant account and train managers on inspecting devices. Remove access promptly when staff leave. A single documented process is easier to maintain than site-specific ones."
+    }
+  ],
+  "related": [
+    "payment-analytics-dashboard",
+    "omnichannel-payments",
+    "pos-systems",
+    "pci-compliance",
+    "payment-data-analytics",
+    "retail-stores"
+  ],
+  "icon": "building",
+  "read_minutes": 6
+}

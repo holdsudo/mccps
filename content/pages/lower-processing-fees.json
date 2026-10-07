@@ -3,9 +3,17 @@
   "category": "use-cases",
   "title": "How to Lower Credit Card Processing Fees",
   "seo_title": "How to Lower Credit Card Processing Fees | MCCPS",
-  "meta_description": "Learn the real levers for lowering credit card processing fees: pricing model, card mix, data quality, hardware and program design. Start with a free analysis.",
+  "meta_description": "Learn the real levers for lowering credit card processing fees: pricing model, card mix, data quality, hardware and program design. Get a free analysis.",
   "primary_keyword": "lower credit card processing fees",
-  "keywords": ["reduce credit card processing fees", "lower merchant account fees", "how to cut processing costs", "effective rate reduction", "interchange-plus pricing", "cash discount program", "merchant statement review"],
+  "keywords": [
+    "reduce credit card processing fees",
+    "lower merchant account fees",
+    "how to cut processing costs",
+    "effective rate reduction",
+    "interchange-plus pricing",
+    "cash discount program",
+    "merchant statement review"
+  ],
   "eyebrow": "Cost savings",
   "dek": "Most of what you pay is not negotiable, but a surprising amount of the rest is. Here is how to tell the difference and act on it.",
   "intro": [
@@ -84,13 +92,35 @@
     "Check contracts and terminal leases before switching, because exit costs can erase the savings."
   ],
   "faq": [
-    {"q": "What is a good effective rate for card processing?", "a": "It depends on your card mix, average ticket and how cards are accepted. Effective rates commonly land somewhere in the 2 to 4 percent range, but a business with large tickets and mostly debit can sit below that while a keyed, rewards-heavy one can sit above. Compare your own months against each other and against a line-by-line alternative rather than chasing a universal target."},
-    {"q": "Can I negotiate my current processor's rates?", "a": "Often yes, particularly the markup, monthly fees and per-item charges. Interchange and assessments are not negotiable because the networks set them. Bring recent statements, your volume and an alternative quote. If your processor will not move, you may still switch, but check the contract first for early termination fees and equipment leases."},
-    {"q": "Will lowering fees change how I get paid?", "a": "Not necessarily. Funding speed depends on your processor and bank, not on your rate. Many merchants keep their existing terminals and gain next-day funding at the same time, though availability depends on your account and the cutoff times of your batch. Ask about funding schedules explicitly when you compare offers."},
-    {"q": "Is a cash discount program the same as a surcharge?", "a": "No. A cash discount or dual pricing program posts prices that already include card costs and gives a lower price for non-card payment, while a surcharge adds a fee on top at checkout. Each has different rules by state and card network, with disclosure requirements. Confirm current rules for your location before choosing."},
-    {"q": "How long does it take to see lower fees after switching?", "a": "You typically see the difference on the first full statement after the change, since fees are totaled monthly. Run the effective rate calculation on that statement and again the following month, because card mix and ticket size vary and a single month can mislead."}
+    {
+      "q": "What is a good effective rate for card processing?",
+      "a": "It depends on your card mix, average ticket and how cards are accepted. Effective rates commonly land somewhere in the 2 to 4 percent range, but a business with large tickets and mostly debit can sit below that while a keyed, rewards-heavy one can sit above. Compare your own months against each other and against a line-by-line alternative rather than chasing a universal target."
+    },
+    {
+      "q": "Can I negotiate my current processor's rates?",
+      "a": "Often yes, particularly the markup, monthly fees and per-item charges. Interchange and assessments are not negotiable because the networks set them. Bring recent statements, your volume and an alternative quote. If your processor will not move, you may still switch, but check the contract first for early termination fees and equipment leases."
+    },
+    {
+      "q": "Will lowering fees change how I get paid?",
+      "a": "Not necessarily. Funding speed depends on your processor and bank, not on your rate. Many merchants keep their existing terminals and gain next-day funding at the same time, though availability depends on your account and the cutoff times of your batch. Ask about funding schedules explicitly when you compare offers."
+    },
+    {
+      "q": "Is a cash discount program the same as a surcharge?",
+      "a": "No. A cash discount or dual pricing program posts prices that already include card costs and gives a lower price for non-card payment, while a surcharge adds a fee on top at checkout. Each has different rules by state and card network, with disclosure requirements. Confirm current rules for your location before choosing."
+    },
+    {
+      "q": "How long does it take to see lower fees after switching?",
+      "a": "You typically see the difference on the first full statement after the change, since fees are totaled monthly. Run the effective rate calculation on that statement and again the following month, because card mix and ticket size vary and a single month can mislead."
+    }
   ],
-  "related": ["free-statement-analysis", "interchange-plus-pricing", "effective-rate-explained", "zero-processing-fees", "audit-your-merchant-statement", "negotiate-processing-rates"],
+  "related": [
+    "free-statement-analysis",
+    "interchange-plus-pricing",
+    "effective-rate-explained",
+    "zero-processing-fees",
+    "audit-your-merchant-statement",
+    "negotiate-processing-rates"
+  ],
   "icon": "trend",
   "read_minutes": 6
 }

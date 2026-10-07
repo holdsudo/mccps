@@ -1,0 +1,127 @@
+{
+  "slug": "become-pci-compliant",
+  "category": "use-cases",
+  "title": "Becoming PCI Compliant, Step by Step",
+  "seo_title": "How to Become PCI Compliant, Step by Step | MCCPS",
+  "meta_description": "A plain walkthrough of PCI DSS compliance for small merchants: picking the right SAQ, scans, policies, device security and avoiding the non-compliance fee.",
+  "primary_keyword": "become PCI compliant",
+  "keywords": [
+    "PCI DSS compliance small business",
+    "PCI self-assessment questionnaire",
+    "SAQ A SAQ B",
+    "PCI non-compliance fee",
+    "vulnerability scan",
+    "attestation of compliance",
+    "card data security"
+  ],
+  "eyebrow": "PCI compliance",
+  "dek": "PCI sounds like a legal maze, but for most small merchants it comes down to a questionnaire, a few settings and some consistent habits.",
+  "intro": [
+    "At some point a notice arrives: complete your PCI compliance or face a monthly fee. It is easy to ignore, and plenty of merchants pay the penalty for years without understanding what they are being asked to do. Others fill in the first questionnaire they find and hope for the best.",
+    "The Payment Card Industry Data Security Standard is a set of requirements for anyone who accepts card payments, designed to keep card data from being stolen. The scope is far lighter for a small shop with an encrypted terminal than for a company storing card numbers in a database. This guide explains the steps in order, so you can complete them once and keep them current. It is general information, and your processor will confirm what applies to you."
+  ],
+  "sections": [
+    {
+      "h2": "What PCI actually requires",
+      "paragraphs": [
+        "PCI DSS is maintained by the PCI Security Standards Council and enforced through contracts, not by a government regulator. Your merchant agreement obliges you to meet it, and your processor reports your status to the card networks. The standard covers areas such as network security, protecting stored data, access control, monitoring and having written policies.",
+        "How much applies depends on how you take cards. The less card data touches your systems, the shorter your requirements. A merchant who uses an encrypted terminal and never stores card data has a far smaller burden than one running an online checkout built on their own server."
+      ]
+    },
+    {
+      "h2": "Step 1: Identify how you handle cards",
+      "paragraphs": [
+        "List every channel: standalone terminal over a phone line or internet, terminal connected to a POS, mobile reader, virtual terminal, hosted online checkout or a custom payment page. Note whether any system you control stores, processes or transmits card numbers. This inventory drives which self-assessment questionnaire, or SAQ, you complete.",
+        "Common types include SAQ A for fully outsourced online payments, SAQ B for imprint machines or standalone dial-out terminals, SAQ P2PE for validated point-to-point encrypted solutions and SAQ C or D for more complex environments. Your processor or compliance portal can recommend the right one, but you remain responsible for answering truthfully."
+      ]
+    },
+    {
+      "h2": "Step 2: Reduce what you touch",
+      "paragraphs": [
+        "The most effective compliance strategy is to shrink the scope. These choices all help:"
+      ],
+      "bullets": [
+        "Use encrypted, EMV-capable terminals, ideally validated point-to-point encryption devices.",
+        "Use hosted payment pages or embedded fields so card numbers never reach your server.",
+        "Store tokens, not card numbers, for repeat billing and refunds.",
+        "Stop writing card numbers on paper, in email, in notes or in spreadsheets.",
+        "Separate payment devices from general office networks and guest Wi-Fi."
+      ]
+    },
+    {
+      "h2": "Step 3: Complete the questionnaire and scans",
+      "paragraphs": [
+        "Log in to your processor's compliance portal, select the SAQ type and answer each question honestly. Some answers will lead to tasks: changing default passwords on devices, updating software, writing a short security policy, or training staff. Complete them rather than answering yes aspirationally, because a false attestation is a liability if a breach occurs.",
+        "If your setup includes internet-facing systems, you may need quarterly external vulnerability scans from an approved scanning vendor. They check for open ports and known weaknesses. Fix whatever they report and rescan until the result passes. Merchants with only a standalone terminal on a dial-out connection often do not need scans."
+      ]
+    },
+    {
+      "h2": "Step 4: Build simple habits",
+      "paragraphs": [
+        "Compliance is not a one-time event; the questionnaire is renewed annually. Keep a list of terminals by serial number and location, and inspect them periodically for tampering. Use unique logins and remove accounts when staff leave. Keep software and firmware updated, use strong passwords with multi-factor sign-in on portals and write down what to do if you suspect a breach, including who to call.",
+        "These habits do more than satisfy the questionnaire; they reduce the chance of an incident that would cost far more than any fee.",
+        "If you have employees, make security a short, recurring conversation rather than a document nobody reads. A five-minute briefing when someone joins, covering device inspection, never writing down card numbers and who to tell about anything odd, goes a long way. Many incidents begin with a simple lapse, such as a terminal swapped by a stranger posing as a technician. Staff who know the routine are the cheapest control you will ever add."
+      ]
+    },
+    {
+      "h2": "Your action list",
+      "paragraphs": [
+        "Complete these in order:"
+      ],
+      "steps": [
+        "Write down every way you accept cards and where card data could be stored.",
+        "Confirm the correct SAQ type with your processor.",
+        "Replace or reconfigure anything that exposes card numbers.",
+        "Complete the questionnaire accurately and finish any tasks it raises.",
+        "Arrange external scans if your setup requires them.",
+        "Sign the attestation and submit it through the portal.",
+        "Calendar the annual renewal and quarterly scan dates."
+      ]
+    },
+    {
+      "h2": "The non-compliance fee and getting help",
+      "paragraphs": [
+        "Many processors charge a monthly non-compliance fee until you submit your attestation, and some also charge a separate PCI program fee. Check your statement. If you see one, completing the process usually stops it. MCCPS provides PCI compliance help, and its free statement analysis flags PCI-related charges. Call 844.826.6227 to get started, and for questions about your obligations consult your processor or a qualified security assessor."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "PCI DSS is a contractual standard for protecting card data, and your processor tracks your status.",
+    "Your requirements depend on how card data flows through your business.",
+    "Encrypted terminals, hosted payment pages and tokens shrink your scope dramatically.",
+    "Answer the questionnaire honestly and fix the items it raises.",
+    "Completing the attestation usually ends a recurring non-compliance fee."
+  ],
+  "faq": [
+    {
+      "q": "Do small businesses have to be PCI compliant?",
+      "a": "Yes, any business that accepts card payments is expected to comply, under its merchant agreement. The requirements scale with how you handle card data, so a small shop using an encrypted terminal has a much lighter load than a business storing card numbers. Your processor can help identify your category."
+    },
+    {
+      "q": "What is an SAQ?",
+      "a": "An SAQ, or self-assessment questionnaire, is a checklist merchants complete to attest that they meet PCI requirements. Different versions exist for different setups, such as SAQ A for fully outsourced online payments or SAQ B for standalone terminals. Choosing the right one matters, and your processor can advise."
+    },
+    {
+      "q": "Why am I being charged a PCI fee?",
+      "a": "Processors often charge a non-compliance fee until you complete the annual validation, and some charge a separate program fee. Check your statement for the line item and your portal for outstanding tasks. Finishing the questionnaire usually stops the non-compliance charge. Ask about any remaining fees."
+    },
+    {
+      "q": "How often do I need to renew?",
+      "a": "Validation is generally annual, and external vulnerability scans, if required, are usually quarterly. Mark the dates and keep records of your questionnaire, scans and policies. Changes to your setup, such as a new terminal or website checkout, may also affect your requirements."
+    },
+    {
+      "q": "Does compliance guarantee I will not be breached?",
+      "a": "No. Compliance reduces risk but cannot eliminate it. Think of it as a baseline. Combine it with good habits: encrypted devices, tokens, strong access controls and prompt updates. If you suspect a breach, contact your processor immediately and consider legal counsel."
+    }
+  ],
+  "related": [
+    "pci-compliance",
+    "pci-non-compliance-fee",
+    "encryption-p2pe-explained",
+    "tokenization-explained",
+    "payment-security-checklist",
+    "data-breach-response"
+  ],
+  "icon": "shield",
+  "read_minutes": 6
+}

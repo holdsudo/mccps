@@ -5,7 +5,15 @@
   "seo_title": "Accept Card Payments at Events & Pop-Ups | MCCPS",
   "meta_description": "Plan card acceptance for fairs, markets, trade shows and pop-ups: connectivity, offline risk, speed at peak, backup devices and settlement after the event.",
   "primary_keyword": "accept payments at events",
-  "keywords": ["pop-up shop card payments", "trade show card reader", "festival vendor payments", "event payment processing", "offline card payments", "craft fair credit cards", "temporary booth payments"],
+  "keywords": [
+    "pop-up shop card payments",
+    "trade show card reader",
+    "festival vendor payments",
+    "event payment processing",
+    "offline card payments",
+    "craft fair credit cards",
+    "temporary booth payments"
+  ],
   "eyebrow": "Event sales",
   "dek": "A crowded weekend, a flaky signal and a long line: how to be ready to take cards when the sales come all at once.",
   "intro": [
@@ -52,7 +60,8 @@
       "h2": "After the event: reconciling and funding",
       "paragraphs": [
         "Event sales are easy to lose track of. Close out your batch at the end of each day rather than waiting until you are back at the shop, then compare the batch total with your own count. Receipts sent by email or text help customers recognize the charge later, which cuts the odd disputed sale from people who forgot where they bought.",
-        "Remember that funding follows the batch schedule. A Saturday market closed out on Saturday night may not reach your bank until early the next week, so plan cash flow around that. Next-day funding, which MCCPS offers, can shorten the wait when available on your account."
+        "Remember that funding follows the batch schedule. A Saturday market closed out on Saturday night may not reach your bank until early the next week, so plan cash flow around that. Next-day funding, which MCCPS offers, can shorten the wait when available on your account.",
+        "It also pays to track how each event performs as a business decision, not only as a payment exercise. Note the booth fee, hours worked, total card sales, cash sales and the processing cost, then compare events side by side. Some shows turn out to be busy but low-margin once costs are counted, while a quieter market with larger tickets can be better. Payment data gives you the evidence to choose which events deserve a place on next year's calendar."
       ]
     },
     {
@@ -70,13 +79,35 @@
     "Close your batch daily and expect funding to follow the normal settlement schedule."
   ],
   "faq": [
-    {"q": "What do I need to take cards at a craft fair or pop-up?", "a": "A merchant account, a payment app or portable terminal, a cellular data connection, charged power and signage. A backup device is strongly recommended. Test a transaction in your booth before the doors open, and decide in advance how you will handle a lost signal."},
-    {"q": "Can I take card payments with no internet?", "a": "Some devices can store transactions and submit them later, but the card is not approved at the time of sale, so declines and fraud become your problem. Use offline mode only as a fallback, with a low ceiling per sale, and prefer a cellular-connected device so you rarely need it."},
-    {"q": "How fast will I get paid after an event?", "a": "It depends on when you close your batch and your funding schedule. Standard funding takes a business day or two, and weekends can add time. MCCPS offers next-day funding where available. Close the batch the same day as sales so the clock starts promptly."},
-    {"q": "Should I add a cash discount at events?", "a": "It can work for booths with many small sales, but rules on cash discounts, dual pricing and surcharges vary by state and card network, and require clear disclosure and signage. Confirm current requirements for the state where each event takes place before posting two prices."},
-    {"q": "What if my reader fails during the busiest hour?", "a": "Switch to your backup device or send customers a payment link or QR code. Keep support contact details handy, because a quick fix is possible for many issues. After the event, find out why it failed so it does not happen at the next one."}
+    {
+      "q": "What do I need to take cards at a craft fair or pop-up?",
+      "a": "A merchant account, a payment app or portable terminal, a cellular data connection, charged power and signage. A backup device is strongly recommended. Test a transaction in your booth before the doors open, and decide in advance how you will handle a lost signal."
+    },
+    {
+      "q": "Can I take card payments with no internet?",
+      "a": "Some devices can store transactions and submit them later, but the card is not approved at the time of sale, so declines and fraud become your problem. Use offline mode only as a fallback, with a low ceiling per sale, and prefer a cellular-connected device so you rarely need it."
+    },
+    {
+      "q": "How fast will I get paid after an event?",
+      "a": "It depends on when you close your batch and your funding schedule. Standard funding takes a business day or two, and weekends can add time. MCCPS offers next-day funding where available. Close the batch the same day as sales so the clock starts promptly."
+    },
+    {
+      "q": "Should I add a cash discount at events?",
+      "a": "It can work for booths with many small sales, but rules on cash discounts, dual pricing and surcharges vary by state and card network, and require clear disclosure and signage. Confirm current requirements for the state where each event takes place before posting two prices."
+    },
+    {
+      "q": "What if my reader fails during the busiest hour?",
+      "a": "Switch to your backup device or send customers a payment link or QR code. Keep support contact details handy, because a quick fix is possible for many issues. After the event, find out why it failed so it does not happen at the next one."
+    }
   ],
-  "related": ["accept-payments-on-the-go", "event-venues", "ticketing-and-events", "offline-payments", "farmers-markets-and-vendors", "qr-code-payments"],
+  "related": [
+    "accept-payments-on-the-go",
+    "event-venues",
+    "ticketing-and-events",
+    "offline-payments",
+    "farmers-markets-and-vendors",
+    "qr-code-payments"
+  ],
   "icon": "pin",
   "read_minutes": 6
 }

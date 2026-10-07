@@ -1,0 +1,95 @@
+{
+  "slug": "collect-overdue-invoices",
+  "category": "use-cases",
+  "title": "Collecting Overdue Invoices With Payment Links",
+  "seo_title": "Collect Overdue Invoices With Payment Links | MCCPS",
+  "meta_description": "Chase late invoices without the awkwardness: payment links, reminder cadence, partial payments, card and ACH options, and when to escalate to formal steps.",
+  "primary_keyword": "collect overdue invoices",
+  "keywords": ["late invoice payment link", "accounts receivable collections small business", "invoice reminder schedule", "pay by link", "partial payment plan", "ACH invoice payment", "get customers to pay invoices"],
+  "eyebrow": "Accounts receivable",
+  "dek": "Most late invoices are not refusals. They are friction. Remove the friction and a surprising share get paid within days.",
+  "intro": [
+    "You did the work, sent the invoice and waited. Thirty days came and went, then forty-five. Now you are drafting a polite follow-up email and dreading the reply. Late payments rarely come from bad intent; more often the invoice is sitting in someone's inbox, awaiting a check, a login or an approval nobody remembered to give.",
+    "The fix is to make paying easier than ignoring. A payment link in every reminder gives the customer a one-tap route to settle the bill by card or bank transfer. Combined with a calm, consistent follow-up routine, it turns collections from a dreaded chore into a process. This guide describes the steps and the limits."
+  ],
+  "sections": [
+    {
+      "h2": "Why invoices go unpaid",
+      "paragraphs": [
+        "Delays usually have mundane causes. The invoice reached the wrong person, the customer's approval process is slow, they cannot find the payment instructions, they prefer to pay by card but you only gave bank details, or cash is tight and they are hoping you will not notice. Some of these are administrative and some are financial, and your response should differ.",
+        "Administrative delays vanish when you make payment immediate. Financial strain may call for a payment plan. A small share of invoices are genuine disputes about the work, and those need a conversation rather than a reminder."
+      ]
+    },
+    {
+      "h2": "How a payment link changes the equation",
+      "paragraphs": [
+        "A payment link points to a secure hosted page showing the invoice amount, your business name and a place to pay by card, wallet or, where offered, bank transfer. The customer does not need to log in, find a checkbook or call the office. Because the amount and invoice reference are already filled in, errors drop, and you get an automatic receipt and a record of when it was paid.",
+        "Say a customer owes $850. If you offer a card option, they might pay from a phone during a coffee break. You pay card fees on that $850, which is a real cost, so weigh it against the carrying cost of waiting. Some businesses offer ACH for larger balances, since bank transfers usually cost less than cards."
+      ]
+    },
+    {
+      "h2": "A reminder rhythm that works",
+      "paragraphs": [
+        "Consistency matters more than intensity. Automate where you can, and keep the tone helpful:"
+      ],
+      "bullets": [
+        "Before the due date: a friendly note with the invoice and link a few days ahead.",
+        "On the due date: a short reminder that payment is due today, with the link.",
+        "A few days late: a courteous check that the invoice arrived, and an offer to resend.",
+        "A week or two late: a phone call or personal message, with the link and an invitation to discuss any problem.",
+        "Later: a formal notice that cites your terms, including any late fee that was agreed in advance."
+      ]
+    },
+    {
+      "h2": "Offering flexibility without losing control",
+      "paragraphs": [
+        "If a customer cannot pay in full, a short payment plan often recovers more than a hard line. Offer a schedule with specific dates and amounts, put it in writing and use payment links or stored payment methods, with the customer's authorization, for each installment. Get agreement on what happens if a payment is missed.",
+        "Partial payments through links are also useful, as a customer can settle part of the balance now and the rest later. Record each payment against the invoice so your books stay accurate. Be careful about late fees: only charge what your written terms and applicable law allow, and consult your attorney or accountant if unsure."
+      ]
+    },
+    {
+      "h2": "Disputes and escalation",
+      "paragraphs": [
+        "When a customer disputes the work, resolve the disagreement first. Review the contract or estimate, photos, messages and delivery records. A partial credit can be cheaper than a drawn-out fight. If the debt is undisputed and ignored, escalate in steps: a formal demand letter, a collections agency or small claims court, depending on the amount and your agreement. Rules on collection practices are strict and vary by location, so speak with an attorney before taking formal action.",
+        "Also keep chargebacks in mind. A customer who pays by card and then disputes the charge can reverse the payment, so document the work and approvals carefully."
+      ]
+    },
+    {
+      "h2": "Setting up the process",
+      "paragraphs": [
+        "A repeatable setup saves hours every month."
+      ],
+      "steps": [
+        "Add a payment link or pay button to every invoice template.",
+        "State payment terms and any agreed late fees clearly on each invoice.",
+        "Schedule automatic reminders before and after the due date.",
+        "Offer card and bank transfer options where they suit the invoice size.",
+        "Record the date and method of each payment against the invoice.",
+        "Review aging weekly and follow up on balances over thirty days."
+      ]
+    },
+    {
+      "h2": "Help from MCCPS",
+      "paragraphs": [
+        "MCCPS offers invoicing and payment link tools, ACH processing and next-day funding where available. Call 844.826.6227 to set up a collection-friendly process, and request the free statement analysis to see what card acceptance on invoices costs you."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Most late invoices are stalled by friction, not refusal; make payment one tap away.",
+    "A payment link carries the amount, reference and a secure checkout in every reminder.",
+    "Use a steady reminder cadence with a friendly tone, escalating gradually.",
+    "Offer written payment plans for customers in genuine difficulty.",
+    "Check legal limits on late fees and collection practices before escalating."
+  ],
+  "faq": [
+    {"q": "How do I send a payment link for an overdue invoice?", "a": "Create a link for the invoice amount in your gateway, invoicing tool or virtual terminal, then include it in your reminder by email or text. The customer taps it and pays on a secure hosted page. You receive a confirmation, and the payment is recorded against the invoice."},
+    {"q": "Should I charge late fees?", "a": "Only if your written terms say so and the law in your location allows it. Late fees can be effective but may strain relationships and have legal limits. State them on every invoice and apply them consistently. Ask your attorney or accountant what is allowed and sensible for your business."},
+    {"q": "Is it better to collect by card or ACH?", "a": "Cards are fast and convenient but cost more, especially on large balances. ACH typically costs less but takes longer and can be returned for insufficient funds. Many businesses offer both and encourage ACH for bigger invoices. Choose based on invoice size and your cash flow needs."},
+    {"q": "When should I involve a collections agency?", "a": "Usually after reminders, a phone call and a formal demand have failed and the debt is undisputed. Agencies take a share of what they recover, and collection practices are regulated. Consider small claims for modest amounts. Speak with an attorney before taking formal steps."},
+    {"q": "Can a customer dispute a payment made through a link?", "a": "Yes, since it is a card payment. Reduce the risk by keeping signed estimates, work records, approvals and communication. Use a recognizable billing descriptor and send an itemized receipt. If a dispute arrives, respond with this evidence before the deadline."}
+  ],
+  "related": ["invoicing-and-payment-links", "get-paid-faster", "payment-links-guide", "ach-vs-credit-card", "professional-services", "contractors"],
+  "icon": "file",
+  "read_minutes": 6
+}

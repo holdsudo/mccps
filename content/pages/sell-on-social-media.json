@@ -1,0 +1,95 @@
+{
+  "slug": "sell-on-social-media",
+  "category": "use-cases",
+  "title": "Selling on Social Media With Payment Links",
+  "seo_title": "Sell on Social Media With Payment Links | MCCPS",
+  "meta_description": "Turn DMs and comments into paid orders with secure payment links: how to create them, keep records, avoid scams, handle shipping and reduce disputes.",
+  "primary_keyword": "sell on social media payment links",
+  "keywords": ["payment link for Instagram sales", "accept payments in DMs", "social commerce payments", "pay by link", "sell without a website", "invoice by text", "QR code payment"],
+  "eyebrow": "Social selling",
+  "dek": "If your customers find you in a feed and ask to buy in a message, the payment should be one tap away, and it should be secure.",
+  "intro": [
+    "Plenty of small businesses now sell mostly through social media. A customer comments on a post, sends a direct message and asks how to pay, and the owner scrambles for an answer. Some send a bank handle, others a personal payment app, and some tell the buyer to wait until the website is ready. Each of those answers leaks a few sales.",
+    "A payment link solves the problem. You generate a secure payment page for the exact amount, send it in the chat, and the customer pays by card or wallet in seconds. You get the money through your merchant account, with a receipt and a record. Here is how to make that flow reliable, safe and professional."
+  ],
+  "sections": [
+    {
+      "h2": "What a payment link is",
+      "paragraphs": [
+        "A payment link is a web address that opens a hosted checkout page for a specific amount or product. The page is run by your payment gateway, so the customer enters card details on a secure form rather than typing them into a message, and you never see the card number. After payment, you and the customer both get a confirmation, and the funds settle to your account on the normal schedule.",
+        "Because it is a standard card transaction, you can accept wallets such as Apple Pay and Google Pay, issue refunds the usual way and see the sale in the same reporting as the rest of your business. It is card-not-present, so it is priced and risk-managed accordingly."
+      ]
+    },
+    {
+      "h2": "Why it beats informal payment methods",
+      "paragraphs": [
+        "Informal methods feel quick but carry hidden costs:"
+      ],
+      "bullets": [
+        "Personal payment apps mix business and personal money, can freeze accounts with business activity and offer weak dispute handling for sellers.",
+        "Bank transfer details exposed in chats invite mistakes and scams.",
+        "Cash or checks by mail delay shipping and cause uncertainty.",
+        "Typing card numbers into messages is unsafe and breaches card network and PCI rules.",
+        "None of them gives you clean records for bookkeeping or taxes."
+      ]
+    },
+    {
+      "h2": "Building a smooth DM-to-paid flow",
+      "paragraphs": [
+        "Reduce the steps between yes and paid. Keep a short script that confirms the item, size or option, price, shipping cost and timeframe, then drops the link. Include the total in the message so the amount on the page is no surprise. Where you sell similar items repeatedly, create reusable links or a simple catalog page so you are not building from scratch each time.",
+        "For limited drops or one-off items, set links to expire, or mark an item sold out when it is gone. A QR code on a poster, a business card or a story can send people to the same payment page from the real world, which is useful at markets and pop-ups."
+      ]
+    },
+    {
+      "h2": "Prevent disputes and scams",
+      "paragraphs": [
+        "Social sales have a reputation for disputes because trust is thinner and descriptions can be vague. Protect yourself with a recognizable billing descriptor, a confirmation email with the item and delivery estimate, and clear policies on returns and shipping posted on your profile or in the link. Keep the conversation thread and shipping tracking, since these are your evidence.",
+        "Watch for buyer red flags: requests to ship to a different country before payment clears, overpayment offers, pressure to rush or buyers who want to split a large order across multiple cards. Also be wary of fake links that imitate yours; always send links from your own verified account and tell customers what your real links look like."
+      ]
+    },
+    {
+      "h2": "Shipping, tax and records",
+      "paragraphs": [
+        "Build shipping and any applicable sales tax into the link total or itemize them clearly. Rules about collecting sales tax on online sales vary by location, so ask your accountant what applies to you. Record each sale with the order details so your books reconcile with your deposits, and mark the order shipped only when the item leaves, with tracking sent to the buyer.",
+        "Ship promptly. Late shipping is among the leading reasons buyers dispute a purchase."
+      ]
+    },
+    {
+      "h2": "Getting started",
+      "paragraphs": [
+        "A basic setup takes little time."
+      ],
+      "steps": [
+        "Make sure your merchant account and gateway support payment links and online sales.",
+        "Create a link for your most popular item or a custom amount.",
+        "Write a short script for confirming order details before sending the link.",
+        "Post your return, shipping and contact policies on your profile.",
+        "Test a purchase from your own card and check the receipt.",
+        "Reconcile each week's sales against your deposits."
+      ]
+    },
+    {
+      "h2": "Support from MCCPS",
+      "paragraphs": [
+        "MCCPS provides payment links, invoicing and virtual terminal options, with free 24/7 technical support. Call 844.826.6227 to talk through a setup for your shop, and ask for the free analysis if you want to know what online sales cost today."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A payment link opens a hosted, secure checkout so card numbers never pass through your chat.",
+    "Links work with cards and wallets and flow into the same reporting as your other sales.",
+    "Informal payment methods mix personal and business money and offer weak records.",
+    "Clear descriptors, receipts, policies and tracking reduce disputes.",
+    "Beware of overpayment requests, odd shipping demands and lookalike links."
+  ],
+  "faq": [
+    {"q": "What is a payment link?", "a": "A payment link is a web address that opens a secure hosted checkout page for a set amount or item. The customer pays by card or wallet on that page, you receive a confirmation, and the funds settle to your merchant account. Card details never pass through your messages."},
+    {"q": "Can I accept payments in Instagram or Facebook messages?", "a": "Yes, by sending a payment link in the chat. The customer taps it, pays on the hosted page and you receive the sale in your account. Do not ask customers to type card numbers into messages, which is unsafe and conflicts with card network and PCI rules."},
+    {"q": "Are payment links safe for customers?", "a": "They are when they open a hosted page from your gateway on a recognizable address. Scammers imitate links, so send them only from your verified account, include the amount and your business name and tell customers what to expect. Never ask for passwords or codes."},
+    {"q": "How do I handle sales tax on social sales?", "a": "Rules vary by state and location, and apply differently to online sales. Itemize any tax collected and keep records of each order. Ask your accountant or your state's tax authority what applies to your business. Do not assume that the platform collects it for you."},
+    {"q": "Do I need a website to use payment links?", "a": "No. Payment links work without a website, which makes them popular with small social sellers and service businesses. A simple catalog or link page can help organize your offerings, but a link can be created for a custom amount and sent immediately."}
+  ],
+  "related": ["payment-links-guide", "invoicing-and-payment-links", "qr-code-payments", "accept-payments-online", "card-present-vs-card-not-present", "photographers"],
+  "icon": "chat",
+  "read_minutes": 6
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "integrate-payments-with-pos",
+  "category": "use-cases",
+  "title": "Integrating Payments With Your POS",
+  "seo_title": "Integrate Payment Processing With Your POS | MCCPS",
+  "meta_description": "Connect card processing to your POS without locking yourself in: integrated versus standalone terminals, open integrations, reporting and switching risks.",
+  "primary_keyword": "integrate payments with POS",
+  "keywords": [
+    "POS payment integration",
+    "integrated payment terminal",
+    "POS processor compatibility",
+    "semi-integrated POS",
+    "open POS integration",
+    "POS reporting",
+    "switch processors keep POS"
+  ],
+  "eyebrow": "POS integration",
+  "dek": "The way your register talks to your card terminal decides how fast checkout runs, how clean your books are and how hard it is to leave.",
+  "intro": [
+    "In many small businesses the point-of-sale system and the card machine are two separate boxes. The cashier rings up the order on one, then retypes the total into the other. It works, but every retyped amount is a chance for a mistake, and every end-of-day reconciliation is a chore.",
+    "Integration removes that gap, sending the amount from the register to the terminal and the result back again. It also raises a question that rarely comes up in a sales pitch: if your payments are tied to your POS provider, what happens when you want better pricing from someone else? This guide explains the options and the trade-offs."
+  ],
+  "sections": [
+    {
+      "h2": "Three ways a POS can take cards",
+      "paragraphs": [
+        "A standalone terminal sits next to the register and operates independently. The cashier keys in the total, the customer pays and the result is recorded separately. It is the simplest and cheapest to start, but it invites errors and manual tracking.",
+        "A semi-integrated setup keeps a separate payment device, often a PIN pad, but the POS sends the amount to it automatically and receives the approval back. The card data goes only to the payment device, which keeps the POS outside much of the card-handling scope. A fully embedded system builds payment acceptance into the POS itself, which is convenient but typically means the POS vendor controls the processing relationship."
+      ]
+    },
+    {
+      "h2": "What integration improves",
+      "paragraphs": [
+        "Done well, the benefits show up daily:"
+      ],
+      "bullets": [
+        "Fewer keying errors, since the amount passes automatically from the sale to the terminal.",
+        "Faster checkout, particularly at peak times and with tips and split payments.",
+        "Cleaner reconciliation, because each sale in the POS ties to a card transaction.",
+        "Better reporting across items, staff, shifts and payment types.",
+        "Tighter control over refunds and voids, which are linked to the original sale."
+      ]
+    },
+    {
+      "h2": "The lock-in question",
+      "paragraphs": [
+        "Some POS companies require you to use their own payment processing. The rate is whatever they set, the contract may carry its own terms and moving to another processor can mean changing the entire system. If you plan to remain with that vendor forever and the pricing is competitive, that may be fine. But you should know the price of leaving before you begin.",
+        "Open or processor-agnostic POS platforms work with several processors and gateways. This gives you the freedom to negotiate, compare interchange-plus quotes and move your merchant account without replacing your register. MCCPS integrates with almost any POS, smartphone or terminal, and supports multiple gateways, so in many cases you can keep the system you like and still improve the pricing underneath it."
+      ]
+    },
+    {
+      "h2": "Check compatibility the right way",
+      "paragraphs": [
+        "Do not rely on a general statement that something works with your POS. Ask for the specific POS name and version, the integration method and the list of supported terminals. Confirm which features carry across: tipping, split tender, partial approvals, refunds against the original sale, gift cards and offline handling. A feature that is missing may force workarounds that cancel the benefit of integrating.",
+        "Find out who supports what. When something fails at the register, you want to know whether the first call goes to the POS vendor, the processor or both, and whether both offer help at the hours you trade. MCCPS provides free 24/7 technical support for the payment side.",
+        "Think, too, about what happens when the connection fails. Ask whether the integrated device can still take a payment if the POS goes offline, and whether sales taken that way sync back to the register afterward. The best setups degrade gracefully: the terminal keeps working on its own and the POS catches up later. A system that stops dead when the network blips will cost you far more at a busy hour than any difference in processing rates."
+      ]
+    },
+    {
+      "h2": "How to approach a change",
+      "paragraphs": [
+        "If you are adding integration or changing processors under an existing POS, a measured process reduces the risk of downtime."
+      ],
+      "steps": [
+        "List your POS name, version and current terminals, plus how you connect them.",
+        "Ask your POS vendor whether it permits third-party processors and what the process is.",
+        "Request a compatibility confirmation in writing from the new processor.",
+        "Schedule the changeover outside peak trading hours and keep the old setup available until tested.",
+        "Test sales, refunds, tips, split payments and voids on live cards before relying on it.",
+        "Compare reports for the first few days to confirm totals match."
+      ]
+    },
+    {
+      "h2": "Watch for hidden costs",
+      "paragraphs": [
+        "Integration fees, per-terminal software charges, monthly gateway fees and paid reporting add-ons can all appear. Ask for every fee tied to the integration, and ask whether any are waived if you already own compatible hardware. Compare the total, including the POS subscription, rather than only the processing rate.",
+        "A free statement analysis is a good way to see how your current arrangement prices out. MCCPS reviews two months of statements line by line, with no obligation, and savings depend on what the analysis finds. Call 844.826.6227 if you want to discuss keeping your POS while changing the processing behind it."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Integration passes the sale amount to the terminal automatically, which cuts errors and speeds checkout.",
+    "Semi-integrated setups keep card data on a separate payment device and away from the POS.",
+    "Some POS vendors tie you to their processing, so learn the cost of leaving before you commit.",
+    "Confirm compatibility by exact POS version and feature, not by general assurance.",
+    "Compare total cost including software and gateway fees, not just the rate."
+  ],
+  "faq": [
+    {
+      "q": "What does it mean to integrate payments with my POS?",
+      "a": "It means the POS sends the sale total to the card terminal and receives the approval back, rather than staff retyping the amount. This reduces errors, speeds checkout and ties each card payment to its sale in your reports. Methods range from semi-integrated devices to payments built into the POS."
+    },
+    {
+      "q": "Can I change processors without replacing my POS?",
+      "a": "Often, if your POS supports multiple processors or gateways. Some systems are locked to their own processing, in which case you may need to change platforms. Ask your POS vendor directly. MCCPS integrates with almost any POS, so you may be able to keep what you have."
+    },
+    {
+      "q": "Is an integrated terminal more secure?",
+      "a": "A semi-integrated or encrypted terminal keeps card data on the payment device and away from the POS, which can shrink your PCI scope and risk. Security depends on the design and encryption. Ask whether the device uses point-to-point encryption and tokenization, and complete the relevant questionnaire."
+    },
+    {
+      "q": "Will integration slow down my checkout?",
+      "a": "Properly set up, it should speed it up, as staff no longer key amounts into a second device. Slowness usually comes from poor connectivity or misconfiguration. Test at your busiest hours, and make sure tips, splits and refunds work within the integration."
+    },
+    {
+      "q": "What if my POS and payment processor blame each other?",
+      "a": "This is why support structure matters. Ask before you sign who owns what, whether either offers help at your trading hours and how problems are escalated. Keep device models and error messages handy. A processor with 24/7 support helps resolve payment-side issues without waiting for the POS vendor."
+    }
+  ],
+  "related": [
+    "pos-systems",
+    "retail-pos",
+    "restaurant-pos",
+    "best-pos-features-small-business",
+    "switch-payment-processors",
+    "credit-card-terminals"
+  ],
+  "icon": "gear",
+  "read_minutes": 6
+}
