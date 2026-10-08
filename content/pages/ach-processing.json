@@ -91,7 +91,7 @@
       "a": "They are closely related. ACH is the network that moves money between banks. eCheck usually refers to a web-based payment where a customer enters bank details to pay online, which is then processed over the ACH network."
     },
     {
-      "q": "How long does an ACH payment take?",
+      "q": "What is the usual timeline for an ACH payment to settle?",
       "a": "Typically a few business days to settle, with weekends and holidays adding time. Some setups offer faster options. Returns can arrive later, so build your policies around the delay rather than assuming a debit is final on day one."
     },
     {

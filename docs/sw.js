@@ -1,6 +1,6 @@
 // MCCPS service worker — offline support + fast repeat visits.
-const V = 'ff-b7b494d4';
-const CORE = ['/', '/offline/', '/assets/site.css?v=b7b494d4', '/assets/site.js?v=b7b494d4', '/assets/assistant.js?v=b7b494d4', '/assets/fonts/inter-var.woff2', '/assets/img/logo-white.webp', '/assets/img/logo.webp'];
+const V = 'ff-f9548a60';
+const CORE = ['/', '/offline/', '/assets/site.css?v=f9548a60', '/assets/site.js?v=f9548a60', '/assets/assistant.js?v=f9548a60', '/assets/fonts/manrope-var.woff2', '/assets/fonts/sourceserif4-var.woff2', '/assets/img/logo-white.webp', '/assets/img/logo.webp'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(V).then(c => c.addAll(CORE)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== V).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
 self.addEventListener('fetch', e => {

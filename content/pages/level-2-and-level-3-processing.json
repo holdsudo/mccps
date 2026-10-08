@@ -31,7 +31,7 @@
     {
       "h2": "Which cards and which sales qualify",
       "paragraphs": [
-        "Level 2 and Level 3 apply to commercial cards: purchasing cards, corporate cards, fleet cards and some government cards. They do not apply to ordinary consumer cards. The rules, qualifying rates and required fields differ by network and change over time, so treat any rate you see quoted online as a general example, not a promise.",
+        "Level 2 and Level 3 apply to commercial cards: purchasing cards, corporate cards, fleet cards and some government cards. Regular consumer cards fall outside Level 2 and Level 3. The rules, qualifying rates and required fields differ by network and change over time, so treat any rate you see quoted online as a general example, not a promise.",
         "The data must also be accurate. A tax amount that does not match the invoice, or a purchase order field filled with filler text, may cause a transaction to fall back to a standard rate. Clean data matters more than clever data.",
         "Because requirements change, ask your processor to confirm which fields are mandatory today rather than relying on an old checklist."
       ],

@@ -25,7 +25,7 @@
       "h2": "Start with speed and reliability at the counter",
       "paragraphs": [
         "A POS is judged in the busiest ten minutes of your day. If it takes six taps to apply a discount or split a check, the line grows and customers walk. Look for fast item lookup, quick modifiers, simple refunds and a layout your newest employee can learn in a shift.",
-        "Reliability matters even more. Ask what happens when the internet drops. A good system can keep taking card payments in an offline mode, storing transactions and submitting them when the connection returns, though offline approvals carry more risk because the card cannot be verified in real time. Know how long offline transactions can queue and who bears the risk if one declines later.",
+        "Reliability matters even more. Find out how the register behaves during a Wi-Fi outage. A good system can keep taking card payments in an offline mode, storing transactions and submitting them when the connection returns, though offline approvals carry more risk because the card cannot be verified in real time. Know how long offline transactions can queue and who bears the risk if one declines later.",
         "A useful test is to run a mock rush before you commit. Ring up ten typical orders back to back, including one with a discount, one with a split payment and one refund, and time how long each takes. If you are comparing two systems, do the same drill on both with the same person at the keyboard. The differences that show up in a ten-minute test tend to be the same ones that frustrate you after six months of daily use, and it costs nothing to find out before you sign."
       ],
       "bullets": [

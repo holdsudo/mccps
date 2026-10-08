@@ -95,23 +95,23 @@
  "faq": [
   {
    "q": "What information must be on a credit card receipt?",
-   "a": "Requirements vary, but generally include the business name, date, amount, last four digits of the card, approval code and transaction type. Full card numbers and expiration dates must not appear on the customer copy. Check card brand rules and state law. Check the details against your own agreement, since terms differ between providers."
+   "a": "Requirements vary, but generally include the business name, date, amount, last four digits of the card, approval code and transaction type. Full card numbers and expiration dates must not appear on the customer copy. Check card brand rules and state law. Compare these receipt rules with your own merchant agreement, because providers differ."
   },
   {
    "q": "Should I offer email or text receipts instead of paper?",
-   "a": "Offering all options is ideal. Digital receipts cost less, are searchable and reduce waste, while some customers still want paper. Always ask permission before using contact details, confirm them on screen and avoid adding marketing without consent. A quick call to your processor can confirm how this works on your specific account."
+   "a": "Offering all options is ideal. Digital receipts cost less, are searchable and reduce waste, while some customers still want paper. Always ask permission before using contact details, confirm them on screen and avoid adding marketing without consent. Your processor can confirm over a quick call how receipt delivery works on your account."
   },
   {
    "q": "How long should I keep card receipts?",
-   "a": "Retention depends on tax law, your processor agreement and industry rules. Many businesses keep records for several years. Ask your accountant and read your merchant agreement, then store receipts securely and shred paper copies when the period ends. Write the answer down so every manager and employee gives customers the same explanation."
+   "a": "Retention depends on tax law, your processor agreement and industry rules. Many businesses keep records for several years. Ask your accountant and read your merchant agreement, then store receipts securely and shred paper copies when the period ends. Document your receipt-retention rule so every manager and employee explains it to customers the same way."
   },
   {
    "q": "Do receipts help in chargeback disputes?",
-   "a": "Yes. A receipt showing the amount, date, authorization code and your contact details helps prove the sale occurred. Signed receipts, delivery confirmations and customer communications strengthen your response. Clear descriptors also prevent customers from disputing charges they simply do not recognize. Revisit the question at least once a year, because equipment, rules and pricing change."
+   "a": "Yes. A receipt showing the amount, date, authorization code and your contact details helps prove the sale occurred. Signed receipts, delivery confirmations and customer communications strengthen your response. Clear descriptors also prevent customers from disputing charges they simply do not recognize. Look over your receipt and descriptor setup annually, as equipment, rules and pricing all change."
   },
   {
    "q": "Is it safe to text a receipt to a customer?",
-   "a": "It is generally safe if the message contains no sensitive data, such as the full card number, and you have the customer's consent. Use a clear business name, offer opt-out and follow messaging rules for any marketing content. When in doubt, ask for the answer in writing before you commit to anything."
+   "a": "It is generally safe if the message contains no sensitive data, such as the full card number, and you have the customer's consent. Use a clear business name, offer opt-out and follow messaging rules for any marketing content. If you are uncertain about messaging consent, request the answer in writing before relying on it."
   }
  ],
  "related": [

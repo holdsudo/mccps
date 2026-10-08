@@ -18,7 +18,7 @@
   "dek": "How to collect repeat payments without surprising customers, losing revenue to expired cards, or inviting chargebacks.",
   "intro": [
     "Recurring billing looks simple: store a card, charge it every month. In practice, a share of those charges will fail for ordinary reasons, expired cards, tight balances, replaced numbers, and each failure is either a recovered payment or a quietly lost customer, depending on what you do next.",
-    "A well-run recurring program has four parts working together: clear consent at signup, a payment setup that stays current, a sensible plan for failed payments, and communication that keeps customers informed. Here is how to build each."
+    "A well-run recurring program has four parts working together: clear consent at signup, a payment setup that stays current, a sensible plan for failed payments, and communication that keeps customers informed. The steps below show how to build each of those parts."
   ],
   "sections": [
     {

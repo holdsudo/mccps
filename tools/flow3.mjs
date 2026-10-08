@@ -29,7 +29,7 @@ await p.click('#btn-next'); await p.waitForTimeout(500);
 console.log('review', (await p.textContent('#review')).replace(/\s+/g, ' ').slice(0, 200));
 await p.check('#s-agree'); await p.click('#btn-next'); await p.waitForTimeout(1800);
 console.log('success', await p.isVisible('#apply-success'));
-await p.goto(base + '/blog/', { waitUntil: 'networkidle' }); console.log('blog cards', await p.$$eval('.vcard:not([hidden])', a => a.length)); await p.click('[data-filter=pricing]'); console.log('pricing filter', await p.$$eval('.vcard:not([hidden])', a => a.length));
+await p.goto(base + '/blog/', { waitUntil: 'networkidle' }); console.log('blog cards', await p.$$eval('.ecard:not([hidden])', a => a.length)); await p.click('[data-filter=pricing]'); console.log('pricing filter', await p.$$eval('.ecard:not([hidden])', a => a.length));
 await p.keyboard.press('Meta+k'); await p.keyboard.type('chargeback'); await p.waitForTimeout(700); console.log('cmdk', await p.$$eval('.cmdk__item', a => a.slice(1, 4).map(x => x.textContent.trim())));
 for (const u of ['/', '/industries/restaurants/', '/tools/savings-calculator/', '/tools/pricing-model-comparison/', '/free-analysis/', '/agents/', '/glossary/', '/blog/']) {
   const q = await mk({ width: 390, height: 844 }); await q.goto(base + u, { waitUntil: 'networkidle' });

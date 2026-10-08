@@ -94,11 +94,11 @@
  "faq": [
   {
    "q": "What is the first thing a small business should do for payment security?",
-   "a": "Inspect every card reader and terminal, change all default passwords and put payment devices on a separate network. These steps are inexpensive and block many common attacks. Then complete your annual PCI self-assessment and train employees to recognize scams. The right answer depends on your volume, ticket size and customer mix."
+   "a": "Inspect every card reader and terminal, change all default passwords and put payment devices on a separate network. These steps are inexpensive and block many common attacks. Then complete your annual PCI self-assessment and train employees to recognize scams. The right security setup depends on your volume, ticket size and customer mix."
   },
   {
    "q": "Do I really need to follow PCI standards?",
-   "a": "Yes. Anyone who accepts cards is expected to follow PCI requirements, usually by completing a self-assessment questionnaire each year. Your processor may charge non-compliance fees if you do not. MCCPS can help you complete it. Keep a note of what you decided and why, so the next review starts from facts."
+   "a": "Yes. Anyone who accepts cards is expected to follow PCI requirements, usually by completing a self-assessment questionnaire each year. Your processor may charge non-compliance fees if you do not. MCCPS can help you complete it. Write down what you chose in your security review and why, so the next review begins with facts."
   },
   {
    "q": "Is it okay to write down a customer's card number?",
@@ -106,11 +106,11 @@
   },
   {
    "q": "How often should I check my card readers?",
-   "a": "Inspect them at the start of each day or shift, looking for loose parts, new cables, stickers or broken seals. Do a deeper inventory check monthly against your serial number list. Report anything unusual to your processor immediately. If you are unsure how this applies to your business, MCCPS support can talk it through at 844.826.6227."
+   "a": "Inspect them at the start of each day or shift, looking for loose parts, new cables, stickers or broken seals. Do a deeper inventory check monthly against your serial number list. Report anything unusual to your processor immediately. If you are unsure how these security steps apply to your business, MCCPS support can talk it through at 844.826.6227."
   },
   {
    "q": "What should I do if someone calls claiming to be my processor?",
-   "a": "Do not give out passwords, card data or remote access. Hang up and call your processor back using a number from your contract or statement. Legitimate support teams will understand and can confirm whether they contacted you. Your own statements and records are the best guide, so review them before you decide."
+   "a": "Do not give out passwords, card data or remote access. Hang up and call your processor back using a number from your contract or statement. Legitimate support teams will understand and can confirm whether they contacted you. Your own statements and records are the best guide to payment security spending, so review them before you decide."
   }
  ],
  "related": [

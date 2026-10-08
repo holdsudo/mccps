@@ -24,7 +24,7 @@
     {
       "h2": "What PCI DSS is",
       "paragraphs": [
-        "PCI DSS stands for Payment Card Industry Data Security Standard. It is a set of requirements created by the major card networks to reduce card fraud and data theft. Any business that accepts, stores, processes or transmits card data is expected to meet it, no matter how small.",
+        "PCI DSS is short for the Payment Card Industry Data Security Standard. It is a set of requirements created by the major card networks to reduce card fraud and data theft. Any business that accepts, stores, processes or transmits card data is expected to meet it, no matter how small.",
         "Your acquirer or processor passes the obligation to you through your merchant agreement. Compliance is validated by completing a self-assessment questionnaire, and in some cases by passing network scans, once a year.",
         "Compliance is not the same as security, but it is a solid baseline. The requirements cover areas such as firewalls, access control, secure configuration, monitoring and written policies, scaled to how much card data you actually touch."
       ]

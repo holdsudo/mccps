@@ -18,7 +18,7 @@
   "dek": "How your shopping cart talks to your payment gateway decides how safe, fast and flexible your checkout is.",
   "intro": [
     "You built the store, photographed the products and wrote the descriptions. Then you reach the payment step and discover that your cart supports a short list of gateways, each with its own fees, setup and quirks. This is the point where many online sellers choose whatever is easiest, then live with the consequences.",
-    "Integration is the technical connection between your store and the services that take the money. It affects your security obligations, your conversion rate and how easily you can change providers later. Here is how to think about it."
+    "Integration is the technical connection between your store and the services that take the money. It affects your security obligations, your conversion rate and how easily you can change providers later. Below is a way to weigh the choice for your online store."
   ],
   "sections": [
     {

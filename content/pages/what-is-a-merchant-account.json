@@ -84,7 +84,7 @@
   ],
   "faq": [
     {
-      "q": "Do I need a merchant account to accept cards?",
+      "q": "Is a merchant account required before I can take card payments?",
       "a": "You need some arrangement that provides one, either a dedicated merchant account or an account under a payment facilitator. Each has trade-offs in cost, stability and control. A dedicated account usually offers more transparent pricing and direct underwriting, while aggregated models start faster."
     },
     {

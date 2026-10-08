@@ -93,7 +93,7 @@
       "a": "Many can, but acceptance depends on how your service is classified and what verification your processor requires. Ask your processor what is needed for your type of practice."
     },
     {
-      "q": "Is it safe to keep a patient's card on file?",
+      "q": "Can a telehealth practice securely store a patient's card for later visits?",
       "a": "It can be, if the patient consents and the card is stored as a token in a secure vault rather than in your records. Limit who can charge it and send a receipt each time."
     },
     {

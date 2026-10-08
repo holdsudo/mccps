@@ -30,7 +30,7 @@
       "bullets": [
         "Store cards as tokens with the customer's written or recorded consent.",
         "State the price, billing date and cancellation steps in the agreement.",
-        "Send a receipt after every charge.",
+        "Email or text a receipt to the client after each landscaping charge.",
         "Use account updater so replaced cards do not cause failures."
       ]
     },
@@ -79,7 +79,7 @@
       "h2": "Costs and a good first step",
       "paragraphs": [
         "Say your company bills 120 customers at $180 a month, or $21,600, with a 3.0 percent effective rate. That is $648 in fees. Recurring charges are card-not-present, so they may price differently than in-person sales. Review how your statement treats them, plus any gateway or recurring-billing fees.",
-        "Some landscapers use a cash discount or dual pricing program, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and current requirements should be confirmed first. The free statement analysis reviews two months of statements line by line, with savings depending on what is found. ACH is also an option for customers who prefer to pay from a bank account."
+        "Some landscapers use a cash discount or dual pricing program, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and current requirements should be confirmed first. The no-cost analysis for landscapers examines two months of statements line by line, and what you save is determined by what it uncovers. ACH is also an option for customers who prefer to pay from a bank account."
       ]
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "q": "Can a landscaper add a card fee?",
-      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure. Confirm requirements before adding a fee to service agreements or invoices."
+      "a": "A lawn-care company could consider a surcharge, cash discount or dual pricing, though state and card network rules differ and each requires disclosure. Confirm requirements before adding a fee to service agreements or invoices."
     }
   ],
   "related": [

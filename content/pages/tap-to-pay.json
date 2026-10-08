@@ -72,7 +72,7 @@
     {
       "h2": "Turning on tap acceptance with MCCPS",
       "paragraphs": [
-        "MCCPS supports EMV and contactless acceptance and integrates with almost any POS, smartphone or terminal. If your existing terminal has an NFC reader and is re-programmable, there is a good chance it can be kept. If it predates contactless, a specialist will tell you honestly whether replacement is worth it.",
+        "Tap to pay works with MCCPS, which handles EMV and contactless acceptance and connects to nearly any POS, phone or terminal. If your existing terminal has an NFC reader and is re-programmable, there is a good chance it can be kept. If it predates contactless, a specialist will tell you honestly whether replacement is worth it.",
         "Free 24/7 technical support covers setup questions, and the reporting dashboard shows tap versus dip volume if you want to see how customers pay. Request the free savings analysis to see where your current processing stands before you spend anything on hardware."
       ]
     }
@@ -86,7 +86,7 @@
   "faq": [
     {
       "q": "Do I need a special terminal to accept Apple Pay and Google Pay?",
-      "a": "You need a terminal with an NFC reader. Most current terminals include one, and wallets are accepted as contactless transactions. Older machines may lack it. MCCPS can check your model and tell you whether it can be reprogrammed or should be replaced."
+      "a": "Accepting taps requires a terminal that includes an NFC reader. Most current terminals include one, and wallets are accepted as contactless transactions. Older machines may lack it. MCCPS can check your model and tell you whether it can be reprogrammed or should be replaced."
     },
     {
       "q": "Is tap to pay secure?",

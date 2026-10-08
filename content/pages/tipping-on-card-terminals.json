@@ -88,7 +88,7 @@
    "a": "For tabs and table service, the final amount is not known yet, so the pre-authorization places a hold that includes a cushion for the tip. The hold is released or replaced when you capture the final amount, but customers may see it temporarily on their statement."
   },
   {
-   "q": "Do I pay processing fees on tips?",
+   "q": "Are card processing fees charged on the tip amount too?",
    "a": "Yes, because the tip is part of the card transaction total and is priced along with it. The cost is usually small per transaction but adds up. How you treat that cost with staff depends on local employment rules, so check with your payroll provider."
   },
   {

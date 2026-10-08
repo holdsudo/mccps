@@ -94,15 +94,15 @@
  "faq": [
   {
    "q": "What should I do first if I suspect a payment data breach?",
-   "a": "Disconnect affected devices from the network without wiping them, change compromised passwords and write down what you know. Then notify your processor and contact an attorney experienced in data privacy. Do not delete files or reinstall systems until you have advice. Check the details against your own agreement, since terms differ between providers."
+   "a": "Disconnect affected devices from the network without wiping them, change compromised passwords and write down what you know. Then notify your processor and contact an attorney experienced in data privacy. Do not delete files or reinstall systems until you have advice. Compare these first steps with your processing agreement, because breach obligations differ between providers."
   },
   {
    "q": "Do I have to tell my customers about a breach?",
-   "a": "Many states require notice to affected individuals when personal information is exposed, with rules varying on timing and content. This is general information, not legal advice. Consult your attorney before sending notices so you comply with the law in every relevant state."
+   "a": "Many states require notice to affected individuals when personal information is exposed, with rules varying on timing and content. Treat this notification overview as general information rather than legal advice. Consult your attorney before sending notices so you comply with the law in every relevant state."
   },
   {
    "q": "Will I need a forensic investigator?",
-   "a": "Card brands may require an approved payment-card forensic investigator when a compromise of card data is suspected. Your processor will tell you what is required. Your attorney can help coordinate the investigation and protect the confidentiality of findings. A quick call to your processor can confirm how this works on your specific account."
+   "a": "Card brands may require an approved payment-card forensic investigator when a compromise of card data is suspected. Your processor will tell you what is required. Your attorney can help coordinate the investigation and protect the confidentiality of findings. After a suspected compromise, your processor can tell you what the forensic requirement means for your own account."
   },
   {
    "q": "Does insurance cover a data breach?",
@@ -110,7 +110,7 @@
   },
   {
    "q": "How can I lower the chance of a breach?",
-   "a": "Use chip and encrypted terminals, tokenize stored cards, use unique passwords with two-step verification, isolate payment devices on their own network and complete your PCI self-assessment every year. Train employees to recognize phishing and social-engineering calls. Write the answer down so every manager and employee gives customers the same explanation."
+   "a": "Use chip and encrypted terminals, tokenize stored cards, use unique passwords with two-step verification, isolate payment devices on their own network and complete your PCI self-assessment every year. Train employees to recognize phishing and social-engineering calls. Put your prevention checklist in writing so each manager and employee follows the same routine."
   }
  ],
  "related": [

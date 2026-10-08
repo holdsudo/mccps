@@ -38,7 +38,7 @@
         "State the amount and billing frequency up front",
         "Explain trial terms and when the first charge occurs",
         "Provide a simple way to cancel or pause",
-        "Send a receipt after every charge",
+        "Email a receipt each time a member is billed",
         "Notify customers before price changes"
       ]
     },

@@ -73,7 +73,7 @@
    "h2": "Write policies and handle problems carefully",
    "paragraphs": [
     "Put your expectations in writing: how to handle voids, refunds, discounts, employee purchases and cash shortages. Have employees sign that they have read the policy. Clear rules remove the excuse of misunderstanding and make enforcement fairer.",
-    "If you suspect theft, avoid confronting anyone on a hunch. Gather evidence quietly, document dates, amounts and reports, and talk to your attorney before taking action. Employment law, wrongful accusation risk and police reporting all require care. This is general information, not legal advice.",
+    "If you suspect theft, avoid confronting anyone on a hunch. Gather evidence quietly, document dates, amounts and reports, and talk to your attorney before taking action. Employment law, wrongful accusation risk and police reporting all require care. What is described here about handling suspected theft is general information, and it is not legal advice.",
     "Remember that controls protect honest employees as much as the business. When every sale, refund and void is logged by login, a good employee is protected from suspicion if the drawer comes up short, because the records show exactly what happened. Frame the controls that way when you introduce them, so they feel like fairness rather than distrust."
    ]
   },
@@ -95,7 +95,7 @@
  "faq": [
   {
    "q": "What are the most common ways employees steal at the POS?",
-   "a": "Common methods include not ringing cash sales, voiding transactions after payment, issuing fake refunds to a personal card, giving unauthorized discounts and loading gift cards without payment. Role-based permissions and daily exception reports make these much harder to hide. Revisit the question at least once a year, because equipment, rules and pricing change."
+   "a": "Common methods include not ringing cash sales, voiding transactions after payment, issuing fake refunds to a personal card, giving unauthorized discounts and loading gift cards without payment. Role-based permissions and daily exception reports make these much harder to hide. Review your list of theft methods and POS controls at least annually, since systems and tactics evolve."
   },
   {
    "q": "Which POS reports help catch theft?",

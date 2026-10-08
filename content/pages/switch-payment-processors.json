@@ -40,7 +40,7 @@
       "h2": "Do the numbers before you move",
       "paragraphs": [
         "Compare total cost, not just rates. Add termination fees, remaining lease payments and any setup costs, then compare against the monthly savings. If a switch saves $300 a month and costs $1,500 to exit, you break even in five months, a reasonable trade for many.",
-        "The free statement analysis from MCCPS reviews two months of your statements line by line, so the comparison uses your real volume and card mix. Savings depend on that review, and no result is promised in advance.",
+        "The free statement analysis from MCCPS reviews two months of your statements line by line, so the comparison uses your real volume and card mix. Any savings from switching hinge on that statement comparison, and none are promised beforehand.",
         "Do not overlook non-financial costs: staff time for retraining, a day of slower service while terminals are swapped, and the effort of updating your website checkout and recurring billing. They are usually modest, but listing them keeps the plan honest."
       ]
     },
@@ -96,11 +96,11 @@
       "a": "It should not, if you overlap accounts and test thoroughly. Keep the old setup running until the new one is verified, and choose a quiet day for the cutover. Support is available during the switch."
     },
     {
-      "q": "What is an early termination fee?",
+      "q": "What does an early termination fee mean when I leave a processor?",
       "a": "A charge for ending the contract before the term is up. It may be a flat amount or tied to expected future volume. Check your agreement and add it to the cost-benefit comparison."
     },
     {
-      "q": "Can I keep my current terminal?",
+      "q": "Will my existing card reader work with a new processor?",
       "a": "Often yes, if it is owned and re-programmable. Leased or locked devices may need to be returned or paid off. MCCPS can check your model during the free analysis."
     },
     {

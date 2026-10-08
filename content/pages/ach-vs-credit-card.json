@@ -93,7 +93,7 @@
       "a": "Often yes, particularly on larger payments, because ACH fees tend to be flat or small while card fees scale with the amount. Actual costs depend on your provider and agreement."
     },
     {
-      "q": "How long does an ACH payment take?",
+      "q": "How many days until an ACH payment actually arrives?",
       "a": "Typically one to a few banking days, depending on the processing option and your provider. Same-day options exist in some cases. Funds are not guaranteed until the return window passes."
     },
     {

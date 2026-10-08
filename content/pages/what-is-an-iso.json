@@ -24,7 +24,7 @@
     {
       "h2": "The short definition",
       "paragraphs": [
-        "ISO stands for independent sales organization. It is a company that is registered with the card networks through an acquiring bank, and that markets and supports card processing services to merchants. The ISO is not the bank. It sits between the bank and the merchant, doing the sales, onboarding and service work that banks generally prefer not to do directly for small accounts.",
+        "An ISO is an independent sales organization. It is a company that is registered with the card networks through an acquiring bank, and that markets and supports card processing services to merchants. The ISO is not the bank. It sits between the bank and the merchant, doing the sales, onboarding and service work that banks generally prefer not to do directly for small accounts.",
         "In practice, an ISO signs up merchants under the sponsorship of a bank, working with a processor to handle the technical side. The merchant sees one company, but the services come from several."
       ]
     },

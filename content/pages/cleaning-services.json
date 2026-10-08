@@ -59,7 +59,7 @@
       "h2": "Commercial and janitorial accounts",
       "paragraphs": [
         "Offices, clinics and retail spaces usually want an invoice, a PO number and net terms. They may pay by ACH or by corporate card. A payment link on the invoice makes it easy for the accounts payable team to pay, and ACH usually costs less than cards for larger monthly amounts.",
-        "If a customer pays with a corporate or purchasing card, sending extra data with the transaction, known as Level 2 or Level 3, can lower interchange. MCCPS supports B2B enhanced data processing. Keep the contract and visit logs for each account, since commercial customers sometimes ask for documentation before paying."
+        "If a customer pays with a corporate or purchasing card, sending extra data with the transaction, known as Level 2 or Level 3, can lower interchange. For commercial customers of a cleaning company, MCCPS handles enhanced B2B data processing. Keep the contract and visit logs for each account, since commercial customers sometimes ask for documentation before paying."
       ]
     },
     {
@@ -79,7 +79,7 @@
       "h2": "Review your costs",
       "paragraphs": [
         "Say your company processes $40,000 a month by card with a 3.1 percent effective rate, or $1,240 in fees. A big share of that is recurring, card-not-present billing. Check your statement for gateway fees, recurring-billing fees and monthly minimums, and ask how failed charges are priced.",
-        "Some cleaning companies explore a cash discount or dual pricing arrangement, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and current requirements should be confirmed before changing prices. The free statement analysis reviews two months of statements line by line, with savings depending on what is found."
+        "Some cleaning companies explore a cash discount or dual pricing arrangement, and MCCPS offers its Zero Processing Fees program, designed to bring card-processing cost to $0. Rules vary by state and card network, disclosure is required and current requirements should be confirmed before changing prices. A cleaning business can request the free statement analysis, which goes through two months of statements line by line, and any savings depend on its findings."
       ]
     }
   ],
@@ -109,7 +109,7 @@
     },
     {
       "q": "Can a cleaning company add a card fee?",
-      "a": "Possibly through surcharging, cash discount or dual pricing, but rules vary by state and card network and require disclosure. Confirm requirements before adding a fee."
+      "a": "A cleaning company might consider surcharging, a cash discount or dual pricing, but rules differ by state and card network and disclosure is required. Confirm requirements before adding a fee."
     }
   ],
   "related": [

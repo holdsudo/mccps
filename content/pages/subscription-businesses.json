@@ -73,8 +73,8 @@
   ],
   "faq": [
     {"q": "What is involuntary churn?", "a": "Involuntary churn is when a subscriber leaves because a payment failed rather than because they chose to cancel. Causes include expired cards, insufficient funds and bank fraud holds. Retries, card updater services and clear reminders can recover some of this revenue."},
-    {"q": "How many times should I retry a failed payment?", "a": "There is no universal number. Many businesses retry a few times over several days, spacing attempts to catch paydays, and stop when the decline is clearly permanent. Follow card network rules on retries and check what your processor recommends."},
-    {"q": "What is a card account updater?", "a": "It is a service that refreshes stored card details when a bank reissues a card or changes an expiration date, so the next recurring charge still works. Availability depends on your processor and the card networks."},
+    {"q": "How often should a declined subscription charge be retried?", "a": "There is no universal number. Many businesses retry a few times over several days, spacing attempts to catch paydays, and stop when the decline is clearly permanent. Follow card network rules on retries and check what your processor recommends."},
+    {"q": "What does a card account updater do for subscriptions?", "a": "It is a service that refreshes stored card details when a bank reissues a card or changes an expiration date, so the next recurring charge still works. Availability depends on your processor and the card networks."},
     {"q": "Do I need customer consent for recurring charges?", "a": "Yes. You need clear agreement to the amount, schedule and cancellation terms, and you should keep a record of it. Auto-renewal laws vary by state, so consult your attorney."},
     {"q": "Can I use ACH for subscriptions?", "a": "Yes, ACH debits work well for larger or longer-term recurring amounts and usually cost less than cards. They have different failure timing and require signed authorization. Many businesses offer both."}
   ],

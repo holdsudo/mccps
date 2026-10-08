@@ -59,35 +59,53 @@ def crumbs_ld(items):
     return {"@context": "https://schema.org", "@type": "BreadcrumbList",
             "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "item": SITE + u} for i, (n, u) in enumerate(items)]}
 
-def card(p, small=False):
+def card(p, small=False, feature=False):
     c = p["category"]; u = f"/{c}/{p['slug']}/"
-    grads = {"industries": "linear-gradient(140deg,#1565C0,#0B2D5B)", "solutions": "linear-gradient(140deg,#2E9E4F,#0A2A4A)",
-             "use-cases": "linear-gradient(140deg,#1E7DF0,#0A2342)", "blog": "linear-gradient(140deg,#0D47A1,#2E7D32)"}
-    return (f'<a class="vcard" href="{u}" data-tags="{esc(p.get("_topics", c))}"><div class="vcard__thumb"><div class="vcard__art" style="background:{grads[c]}">'
-            f'{ic(p.get("icon", "book"))}<strong>{esc(p["title"])}</strong></div><span class="vcard__badge">{p.get("read_minutes", 5)} min read</span><span class="vcard__bar"></span></div>'
-            f'<div class="vcard__meta"><span class="vcard__ch"><img src="/assets/img/favicon-32.png" alt="" width="28" height="28" loading="lazy"></span><div>'
-            f'<div class="vcard__title">{esc(p["title"])}</div><div class="vcard__sub">{CATS[c]["single"]} · MCCPS</div></div></div></a>')
+    blurb = p.get("dek") or p.get("meta_description", "")
+    return (f'<a class="ecard{" ecard--feature" if feature else ""}" href="{u}" data-tags="{esc(p.get("_topics", c))}">'
+            f'<span class="ecard__cat">{ic(p.get("icon", "book"))}{CATS[c]["single"]}</span><h3>{esc(p["title"])}</h3>'
+            f'<p>{esc(blurb)}</p><span class="ecard__meta">{p.get("read_minutes", 5)} min read · Read →</span></a>')
+
+def variant(slug, options):
+    """Deterministically pick template copy per page so repeated chrome varies across the site."""
+    return options[int(hashlib.md5(slug.encode()).hexdigest(), 16) % len(options)]
+
+MID_CTA = [
+    ("See exactly what you pay to accept cards", "Free statement analysis · no obligation · keep your terminals where possible", "Get my free analysis"),
+    ("Curious what your last statement is hiding?", "Send two months of statements — we go line by line, free", "Review my statements"),
+    ("Your processing cost, in plain numbers", "A specialist breaks down every fee — no contract, no pressure", "Show me my numbers"),
+    ("Could Zero Processing Fees work for you?", "Find out in a free, no-obligation savings analysis", "Check if Zero fits"),
+    ("Ready for a second opinion on your rates?", "We compare your current pricing against a PayPilot proposal — free", "Get a second opinion"),
+    ("Know before you switch", "Free analysis, 24/7 support, and help moving your terminals", "Start my analysis"),
+]
+SIDE_BOX = [
+    ("Stop overpaying for cards.", "Send two statements. We’ll show you line by line where the money goes — free."),
+    ("What are you really paying?", "Our team reads your statement line by line and tells you straight."),
+    ("Lower costs, same terminal.", "Many terminals can be re-programmed — so savings don’t mean new hardware."),
+    ("Talk to a real person, 24/7.", "Questions about this topic? Call or request a free savings analysis."),
+]
 
 def render_content(p, by_slug):
     c = p["category"]; cat = CATS[c]; url = f"/{c}/{p['slug']}/"
     toc, body = [], []
-    for i, s in enumerate(p["sections"]):
-        hid = re.sub(r"[^a-z0-9]+", "-", s["h2"].lower()).strip("-")[:60] or f"s{i}"
-        toc.append((hid, s["h2"]))
-        b = f'<h2 id="{hid}">{esc(s["h2"])}</h2>' + "".join(para(x) for x in s.get("paragraphs", []))
-        if s.get("bullets"): b += "<ul>" + "".join(f"<li>{link_paypilot(esc(x))}</li>" for x in s["bullets"]) + "</ul>"
-        if s.get("steps"): b += '<ol class="steps-list">' + "".join(f"<li>{link_paypilot(esc(x))}</li>" for x in s["steps"]) + "</ol>"
+    cta = variant(p["slug"], MID_CTA); side = variant(p["slug"] + "s", SIDE_BOX)
+    for i, s_ in enumerate(p["sections"]):
+        hid = re.sub(r"[^a-z0-9]+", "-", s_["h2"].lower()).strip("-")[:60] or f"s{i}"
+        toc.append((hid, s_["h2"]))
+        b = f'<h2 id="{hid}"><span class="num">{i + 1:02d}</span>{esc(s_["h2"])}</h2>' + "".join(para(x) for x in s_.get("paragraphs", []))
+        if s_.get("bullets"): b += "<ul>" + "".join(f"<li>{link_paypilot(esc(x))}</li>" for x in s_["bullets"]) + "</ul>"
+        if s_.get("steps"): b += '<ol class="steps-list">' + "".join(f"<li>{link_paypilot(esc(x))}</li>" for x in s_["steps"]) + "</ol>"
         body.append(b)
-        if i == 1:  # mid-article conversion module
-            body.append(f'''<aside class="inline-cta"><div><b>See exactly what you pay to accept cards</b><span>Free statement analysis · no obligation · keep your terminals where possible</span></div><a class="btn btn--primary" href="/free-analysis/?ref={esc(p['slug'])}">Get my free analysis {ic("arrow")}</a></aside>''')
+        if i == 1:
+            body.append(f'<aside class="inline-cta"><div><b>{cta[0]}</b><span>{cta[1]}</span></div><a class="btn btn--primary" href="/free-analysis/?ref={esc(p["slug"])}">{cta[2]} {ic("arrow")}</a></aside>')
     takeaways = "".join(f"<li>{ic('check')}<span>{esc(t)}</span></li>" for t in p.get("key_takeaways", []))
     faq = "".join(f'<details{" open" if k == 0 else ""}><summary>{esc(f["q"])}<span class="faq__pm" aria-hidden="true"></span></summary><div class="faq__a"><p>{link_paypilot(esc(f["a"]))}</p></div></details>' for k, f in enumerate(p.get("faq", [])))
-    rel = [by_slug[s] for s in p.get("related", []) if s in by_slug and s != p["slug"]][:6]
+    rel = [by_slug[x] for x in p.get("related", []) if x in by_slug and x != p["slug"]][:6]
     if len(rel) < 3:
         rel += [q for q in by_slug.values() if q["category"] == c and q["slug"] != p["slug"] and q not in rel][: 3 - len(rel)]
     toc_html = "".join(f'<a href="#{i}">{esc(h)}</a>' for i, h in toc)
-    is_processing = "Fidelity Funding" in json.dumps(p)
-    side_extra = (f'<a class="paypilot-mini" href="{FIDELITY}" target="_blank" rel="noopener"><span class="pp-badge">{ic("cash")}</span><span><b>Fidelity Funding</b><small>Working capital for merchants</small></span>{ic("arrow-up-right")}</a>' if is_processing else "")
+    fund = ('<div class="doc__box"><b>Need working capital?</b><p>MCCPS merchants can explore business funding through our partner Fidelity Funding.</p>'
+            f'<a class="btn btn--ghost" href="{FIDELITY}" target="_blank" rel="noopener">Fidelity Funding {ic("arrow-up-right")}</a></div>') if "Fidelity Funding" in json.dumps(p) else ""
     widget = ""
     if c == "industries":
         nm = esc(p["title"].replace(" Payment Processing", "").replace(" Processing", ""))
@@ -102,40 +120,34 @@ def render_content(p, by_slug):
                   "author": {"@type": "Organization", "name": "MCCPS Editorial Team", "url": SITE + "/about/"},
                   "publisher": {"@type": "Organization", "name": "MCCPS — Merchant Credit Card Processing Services", "logo": {"@type": "ImageObject", "url": SITE + "/assets/img/logo.png"}}}))
     intro = "".join(para(x) for x in p.get("intro", []))
+    related = "".join(f'<a href="/{r["category"]}/{r["slug"]}/"><span><b>{esc(r["title"])}</b><small>{esc(r.get("dek") or r.get("meta_description", ""))}</small></span>{ic("arrow")}</a>' for r in rel)
     page = f'''<article class="content-page">
-<header class="article-hero">
-  <div class="container">
-    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/{c}/">{cat["name"]}</a><span>/</span><span aria-current="page">{esc(p["title"])}</span></nav>
-    <span class="eyebrow" style="margin-top:22px">{esc(p.get("eyebrow", cat["single"]))}</span>
-    <h1 class="h1">{esc(p["title"])}</h1>
-    <p class="lead" style="margin-top:18px;max-width:780px">{esc(p.get("dek", ""))}</p>
-    <div class="article-meta"><span class="vcard__ch"><img src="/assets/img/favicon-32.png" alt="" width="28" height="28"></span><b style="color:var(--ink)">MCCPS Editorial Team</b><span>Updated {TODAY.strftime("%b %-d, %Y")}</span><span>· {p.get("read_minutes", 6)} min read</span>
-      <button class="share-btn" type="button" data-share>{ic("send")} Share</button></div>
-  </div>
+<header class="container doc__head">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/{c}/">{cat["name"]}</a><span>/</span><span aria-current="page">{esc(p["title"])}</span></nav>
+  <div style="margin-top:26px"><span class="eyebrow">{esc(p.get("eyebrow", cat["single"]))}</span></div>
+  <h1>{esc(p["title"])}</h1>
+  <p class="doc__dek">{esc(p.get("dek", ""))}</p>
+  <div class="doc__meta"><span>By the MCCPS Editorial Team</span><span>Updated {TODAY.strftime("%B %-d, %Y")}</span><span>{p.get("read_minutes", 6)} min read</span><button class="share-btn" type="button" data-share>{ic("send")} Share</button></div>
 </header>
-<div class="container article-wrap">
+<div class="container doc">
+  <aside class="doc__rail" aria-label="On this page">
+    <h4>In this guide</h4>
+    <nav class="toc">{toc_html}<a href="#faq-t">Questions</a></nav>
+    <div class="doc__box"><b>{side[0]}</b><p>{side[1]}</p><a class="btn btn--green" href="/free-analysis/?ref={esc(p['slug'])}">Free analysis {ic("arrow")}</a></div>
+    {fund}
+  </aside>
   <div class="prose">
     {intro}
-    {"<div class='takeaways'><h2 class='h3'>Key takeaways</h2><ul>" + takeaways + "</ul></div>" if takeaways else ""}
+    {"<div class='takeaways'><h2 class='h3'>The short version</h2><ul>" + takeaways + "</ul></div>" if takeaways else ""}
     {"".join(body)}
     {widget}
-    <section class="faq faq--inline" aria-labelledby="faq-t"><h2 id="faq-t">Frequently asked questions</h2>{faq}</section>
-    <div class="tags">{"".join(f"<span>#{esc(k)}</span>" for k in p.get("keywords", [])[:6])}</div>
-    <p class="disclaimer-light">This article is general information, not legal, tax or compliance advice. Card-network and state rules change — confirm current requirements before acting. Savings depend on your individual statement analysis.</p>
+    <section class="faq faq--inline" aria-labelledby="faq-t"><h2 id="faq-t">Common questions</h2>{faq}</section>
+    <div class="tags">{"".join(f"<span>{esc(k)}</span>" for k in p.get("keywords", [])[:6])}</div>
+    <p class="disclaimer-light">General information only — not legal, tax or compliance advice. Card-network and state rules change, so confirm current requirements before acting. Savings depend on your own statement analysis.</p>
   </div>
-  <aside class="article-aside"><div class="aside-sticky">
-    <div class="side-card">
-      <h3>Stop overpaying for cards.</h3>
-      <p>Send two statements. We’ll show you line by line where the money goes — free, no obligation.</p>
-      <a class="btn btn--white" href="/free-analysis/?ref={esc(p['slug'])}">Free analysis {ic("arrow")}</a>
-      <a class="btn btn--ghost-dark" href="tel:+18448266227" style="width:100%;margin-top:10px">{ic("phone")} 844.826.6227</a>
-    </div>
-    {side_extra}
-    <nav class="toc" aria-label="On this page"><h4>On this page</h4>{toc_html}<a href="#faq-t">FAQ</a></nav>
-  </div></aside>
 </div>
 </article>
-<section class="section section--tight section--soft"><div class="container"><div class="row__head"><h2 class="h3">Keep exploring</h2><a class="link-arrow" href="/{c}/">All {cat["name"].lower()} {ic("arrow")}</a></div><div class="vgrid">{"".join(card(r) for r in rel)}</div></div></section>
+<section class="section section--tight section--soft"><div class="container"><div class="row__head"><h2 class="h3">Read next</h2><a class="link-arrow" href="/{c}/">All {cat["name"].lower()} {ic("arrow")}</a></div><div class="related">{related}</div></div></section>
 '''
     meta = {"title": p["seo_title"], "desc": p["meta_description"], "nav": c, "light": True, "image": f"/assets/img/og-{c}.jpg"}
     return meta, page, head
@@ -147,7 +159,7 @@ def render_hub(c, pages):
         chips = ('<div class="filters" role="group" aria-label="Filter by topic"><button class="fchip" data-filter="all" aria-pressed="true">All</button>'
                  + "".join(f'<button class="fchip" data-filter="{k}" aria-pressed="false">{n}</button>' for k, n in
                            [("pricing", "Pricing & fees"), ("basics", "Payments basics"), ("security", "Security & fraud"), ("chargebacks", "Chargebacks"), ("hardware", "POS & features"), ("agents", "For agents")]) + "</div>")
-    grid = "".join(card(p) for p in pages)
+    grid = "".join(card(p, feature=(i == 0)) for i, p in enumerate(pages))
     body = f'''<section class="page-hero">
   <div class="hero__bg" aria-hidden="true"><div class="aurora"><i></i><i></i><i></i><i></i></div><div class="hero__grid"></div></div>
   <div class="container">
@@ -163,7 +175,7 @@ def render_hub(c, pages):
       {chips or '<span></span>'}
       <label class="search">{ic("search")}<span class="sr-only">Search</span><input type="search" placeholder="Search {cat["name"].lower()}" data-filter-search></label>
     </div>
-    <div class="vgrid" data-filter-grid data-paginate="24">{grid}</div>
+    <div class="elist" data-filter-grid data-paginate="24">{grid}</div>
     <div style="text-align:center;margin-top:40px"><button class="btn btn--ghost btn--lg" type="button" data-more hidden>Load more</button></div>
     <p class="empty" data-empty hidden>Nothing matches that yet. <button class="link-arrow" type="button" data-ai-open>Ask MCCPS AI instead {ic("sparkles")}</button></p>
   </div>
@@ -232,7 +244,7 @@ def main():
     # dynamic blocks for hand-written pages
     def pick(c, n): return [p for p in by_slug.values() if p["category"] == c][:n]
     blocks = {
-        "{{cards:blog}}": "".join(card(p) for p in pick("blog", 8)),
+        "{{cards:blog}}": "".join(card(p, feature=(i == 0)) for i, p in enumerate(pick("blog", 6))),
         "{{cards:industries}}": "".join(card(p) for p in pick("industries", 8)),
         "{{links:industries}}": "".join(f'<a href="/industries/{p["slug"]}/">{esc(p["title"].replace(" Payment Processing", "").replace(" Processing", ""))}</a>' for p in by_slug.values() if p["category"] == "industries"),
         "{{links:solutions}}": "".join(f'<a href="/solutions/{p["slug"]}/">{esc(p["title"])}</a>' for p in by_slug.values() if p["category"] == "solutions"),

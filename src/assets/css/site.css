@@ -1,7 +1,8 @@
 /* MCCPS — design system
    Brand: MCCPS blue #1565C0 · green #2E9E4F */
 
-@font-face{font-family:"Inter";font-style:normal;font-weight:400 800;font-display:swap;src:url(/assets/fonts/inter-var.woff2) format("woff2")}
+@font-face{font-family:"Manrope";font-style:normal;font-weight:500 800;font-display:swap;src:url(/assets/fonts/manrope-var.woff2) format("woff2")}
+@font-face{font-family:"Source Serif 4";font-style:normal;font-weight:400 700;font-display:swap;src:url(/assets/fonts/sourceserif4-var.woff2) format("woff2")}
 
 :root{
   --blue:#1565C0; --blue-600:#0D5AB0; --blue-700:#0D47A1; --blue-50:#E8F1FD; --blue-100:#CFE3FA;

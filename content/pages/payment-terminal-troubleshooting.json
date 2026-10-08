@@ -93,15 +93,15 @@
  "faq": [
   {
    "q": "Why is my card machine not connecting?",
-   "a": "The most common causes are a loose cable, a router that needs restarting, a weak Wi-Fi or cellular signal, or an internet outage. Restart the terminal and router, run any network test and call technical support if it still can't connect. The right answer depends on your volume, ticket size and customer mix."
+   "a": "The most common causes are a loose cable, a router that needs restarting, a weak Wi-Fi or cellular signal, or an internet outage. Restart the terminal and router, run any network test and call technical support if it still can't connect. Which of these connection problems applies depends on your terminal type and how it links to the internet."
   },
   {
    "q": "Why does my chip reader keep failing?",
-   "a": "Often the card is the issue: dirt, scratches or a damaged chip. Wipe the card, insert it fully and leave it in until prompted. If all cards fail, the reader may be dirty or damaged and need cleaning or replacement. Keep a note of what you decided and why, so the next review starts from facts."
+   "a": "Often the card is the issue: dirt, scratches or a damaged chip. Wipe the card, insert it fully and leave it in until prompted. If all cards fail, the reader may be dirty or damaged and need cleaning or replacement. Jot down which card failed and what you tried, so any later troubleshooting begins with facts."
   },
   {
    "q": "What does it mean when a card is declined?",
-   "a": "A decline means the customer's bank refused the transaction, for reasons such as insufficient funds, suspected fraud or a restricted card. Ask the customer to try another card or call their bank. Avoid retrying the same card repeatedly. If you are unsure how this applies to your business, MCCPS support can talk it through at 844.826.6227."
+   "a": "A decline means the customer's bank refused the transaction, for reasons such as insufficient funds, suspected fraud or a restricted card. Ask the customer to try another card or call their bank. Avoid retrying the same card repeatedly. If a declined card has you stumped at the counter, MCCPS support can help at 844.826.6227."
   },
   {
    "q": "How do I fix a receipt printer that won't print?",
@@ -109,7 +109,7 @@
   },
   {
    "q": "When should I replace my terminal?",
-   "a": "Consider replacing a terminal that fails often, cannot accept chip or contactless payments, no longer receives security updates or costs more to repair than to replace. MCCPS can often reprogram existing terminals, so ask before buying or leasing a new one. Your own statements and records are the best guide, so review them before you decide."
+   "a": "Consider replacing a terminal that fails often, cannot accept chip or contactless payments, no longer receives security updates or costs more to repair than to replace. MCCPS can often reprogram existing terminals, so ask before buying or leasing a new one. Your repair history and terminal age are the best guide, so look at them before buying a replacement."
   }
  ],
  "related": [

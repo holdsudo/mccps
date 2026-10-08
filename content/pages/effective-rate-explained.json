@@ -81,11 +81,11 @@
   ],
   "faq": [
     {
-      "q": "How do I calculate my effective rate?",
+      "q": "What steps do I follow to find my own effective rate?",
       "a": "Add up every fee your processor charged in a month, including interchange, markup, per-item, monthly and compliance fees, then divide by your gross card sales for that month and multiply by 100. The result is your effective rate and the most honest comparison number for providers."
     },
     {
-      "q": "What is a good effective rate?",
+      "q": "What effective rate counts as good for a small merchant?",
       "a": "It depends on your mix of cards, ticket size and whether sales are in person or online. Many businesses see something in the 2 to 4 percent range. Instead of chasing a universal benchmark, compare your rate with quotes built from your own statements."
     },
     {
