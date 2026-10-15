@@ -190,13 +190,11 @@ def main():
     (OUT / "assets").mkdir(parents=True)
     shutil.copytree(SRC / "assets" / "img", OUT / "assets" / "img")
     shutil.copytree(SRC / "assets" / "fonts", OUT / "assets" / "fonts")
-    shutil.copytree(SRC / "assets" / "vendor", OUT / "assets" / "vendor")
     css = minify_css(read("assets/css/design.css"))
     js = {n: minify_js(read(f"assets/js/{n}")) for n in ("site.js", "motion.js", "assistant.js", "analysis.js", "tools.js")}
-    ver = hashlib.sha1((css + "".join(js.values()) + read("assets/js/scene.js")).encode()).hexdigest()[:8]
+    ver = hashlib.sha1((css + "".join(js.values())).encode()).hexdigest()[:8]
     (OUT / "assets/site.css").write_text(css)
     for n, s in js.items(): (OUT / "assets" / n).write_text(s)
-    (OUT / "assets/scene.js").write_text(read("assets/js/scene.js"))
     (OUT / "sw.js").write_text(read("assets/js/sw.js").replace("{{ver}}", ver))
 
     head_t, nav, foot, assistant, sprite = (read(f"partials/{n}") for n in ("head.html", "nav.html", "footer.html", "assistant.html", "icons.svg"))

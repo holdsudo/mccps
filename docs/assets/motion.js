@@ -27,6 +27,11 @@ el.style.setProperty('--gx', (x * 100).toFixed(1) + '%'); el.style.setProperty('
 el.addEventListener('pointerleave', () => { cancelAnimationFrame(raf); el.classList.remove('is-tilting'); el.style.setProperty('--rx', '0deg'); el.style.setProperty('--ry', '0deg'); });
 });
 }
+const ledger = $$('[data-stage-list] li');
+if (ledger.length) {
+let k = 0; const mark = () => ledger.forEach((li, i) => li.classList.toggle('is-on', i === k));
+mark(); if (!reduce) setInterval(() => { k = (k + 1) % ledger.length; mark(); }, 2600);
+}
 const steps = $('.steps');
 if (steps) {
 const items = $$('.step', steps);

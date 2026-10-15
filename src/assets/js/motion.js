@@ -33,6 +33,13 @@
     });
   }
 
+  // ---- hero ledger: highlight each stage in turn ----
+  const ledger = $$('[data-stage-list] li');
+  if (ledger.length) {
+    let k = 0; const mark = () => ledger.forEach((li, i) => li.classList.toggle('is-on', i === k));
+    mark(); if (!reduce) setInterval(() => { k = (k + 1) % ledger.length; mark(); }, 2600);
+  }
+
   // ---- steps: light each number as the line reaches it ----
   const steps = $('.steps');
   if (steps) {
