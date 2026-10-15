@@ -47,15 +47,14 @@ const place = (p) => {
 const f = p * (n - 1);
 panes.forEach((el, i) => {
 const d = i - f; // <0 already passed, >0 still coming
-const z = -Math.abs(d) * 260 - (d < 0 ? 120 : 0), x = d * 120, y = d * -18, ry = d * -18, rx = d < 0 ? -d * 20 : 0;
-const o = d < -.9 ? Math.max(0, 1 + (d + .9) * 2.5) : d > 2.2 ? 0 : 1;
-el.style.transform = `translate(-50%,-50%) translate3d(${x.toFixed(1)}px,${y.toFixed(1)}px,${z.toFixed(1)}px) rotateY(${ry.toFixed(2)}deg) rotateX(${rx.toFixed(2)}deg)`;
+const z = d > 0 ? -d * 320 : d * 200, y = d > 0 ? d * 150 : d * 340, rx = d > 0 ? -d * 14 : -d * 40;
+const o = d < -.15 ? Math.max(0, 1 + (d + .15) * 1.8) : d > 2.2 ? 0 : 1;
+el.style.transform = `translate(-50%,-50%) translate3d(0px,${y.toFixed(1)}px,${z.toFixed(1)}px) rotateX(${rx.toFixed(2)}deg)`;
 el.style.opacity = o.toFixed(3);
 el.style.zIndex = String(100 - Math.round(Math.abs(d) * 10));
 el.style.filter = `brightness(${(1 - Math.min(.55, Math.abs(d) * .35)).toFixed(2)})`;
 });
 bars.forEach((b, i) => b.style.setProperty('--f', clamp(f - i + 1, 0, 1).toFixed(3)));
-stack.style.setProperty('--p', p.toFixed(3));
 const k = clamp(Math.round(f), 0, n - 1);
 if (k !== cur) { cur = k; copy.forEach((c, i) => c.classList.toggle('is-on', i === k)); panes.forEach((c, i) => c.classList.toggle('is-on', i === k)); }
 };
@@ -91,7 +90,7 @@ else { rot += vel; if (!idle) { vel *= .95; if (Math.abs(vel) < .02) { idle = tr
 }
 apply(); requestAnimationFrame(loop);
 };
-ring.addEventListener('pointerdown', (e) => { drag = true; moved = 0; sx = lastX = e.clientX; sr = rot; lastT = performance.now(); snapTo = null; ring.classList.add('is-drag'); ring.setPointerCapture(e.pointerId); });
+ring.addEventListener('pointerdown', (e) => { if (e.pointerType !== 'mouse') return; drag = true; moved = 0; sx = lastX = e.clientX; sr = rot; lastT = performance.now(); snapTo = null; ring.classList.add('is-drag'); ring.setPointerCapture(e.pointerId); });
 ring.addEventListener('pointermove', (e) => {
 if (!drag) return;
 const dx = e.clientX - sx, now = performance.now();
@@ -108,6 +107,33 @@ $$('[data-ring-dir]').forEach(b => b.addEventListener('click', () => nudge(+b.da
 ring.addEventListener('keydown', (e) => { if (e.key === 'ArrowRight') { nudge(1); e.preventDefault(); } if (e.key === 'ArrowLeft') { nudge(-1); e.preventDefault(); } });
 ring.addEventListener('focusin', (e) => { const i = items.indexOf(e.target.closest('.ring__item')); if (i >= 0) { idle = false; vel = 0; snapTo = -i * step + 360 * Math.round((rot + i * step) / 360); } });
 apply(); requestAnimationFrame(loop);
+}
+if (!reduce) {
+const items = $$('main .section > .container, main .section--tight > .container, .hero .container, .page-hero .container, .doc__head')
+.filter(el => !el.closest('[data-journey]'));
+items.forEach(el => { el.classList.add('depth'); el.parentElement.classList.add('depth-scene'); });
+const cta = $$('.cta-band');
+let tick = false;
+const run = () => {
+tick = false;
+const H = innerHeight;
+for (const el of items) {
+const r = el.getBoundingClientRect();
+if (r.bottom < -200 || r.top > H + 200) continue;
+const enter = clamp((r.top - H * .82) / (H * .35), 0, 1);       // still below the fold
+const leave = clamp((H * .28 - r.bottom) / (H * .45), 0, 1);     // scrolled past the top
+const z = -(enter * 220 + leave * 260), rx = enter * -14 + leave * 18, y = enter * 60 - leave * 30;
+el.style.transform = (enter || leave) ? `translate3d(0,${y.toFixed(1)}px,${z.toFixed(1)}px) rotateX(${rx.toFixed(2)}deg)` : '';
+el.style.opacity = (1 - leave * .65 - enter * .35).toFixed(3);
+}
+for (const b of cta) {
+const r = b.getBoundingClientRect(), c = clamp(((r.top + r.height / 2) - H / 2) / H, -1, 1);
+b.style.transform = `perspective(1200px) rotateX(${(c * 22).toFixed(2)}deg) scale(${(1 - Math.abs(c) * .06).toFixed(3)})`;
+b.style.setProperty('--oy', (c * -80).toFixed(1) + 'px');
+}
+};
+addEventListener('scroll', () => { if (!tick) { tick = true; requestAnimationFrame(run); } }, { passive: true });
+addEventListener('resize', run); run();
 }
 $$('[data-cols]').forEach(w => {
 const r = $('input[type=range]', w.closest('[data-savings]') || document), cur = $('.prism--cur', w), zero = $('.prism--zero', w);

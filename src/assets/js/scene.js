@@ -119,8 +119,8 @@ function init(host) {
   const camAt = (sp) => {
     // framed so the stream rides above/right of the headline; scrolling dollies down the stream
     const m = innerWidth < 760;
-    const pos = m ? new THREE.Vector3(1 + cur.x * 2, 2.5 + cur.y * 1.2, 24 - sp * 8) : new THREE.Vector3(2 + cur.x * 2.4 + sp * 5, 2.4 + cur.y * 1.4, 17 - sp * 7);
-    const at = m ? new THREE.Vector3(0.5 + sp * 3, -5.2, -5) : new THREE.Vector3(-8.2 + sp * 7, -3.4, -5);
+    const pos = m ? new THREE.Vector3(1, 2.5 + sp * 2.5, 24 - sp * 10) : new THREE.Vector3(2 + cur.x * 2.4, 2.4 + cur.y * 1.4 + sp * 2.5, 17 - sp * 9);
+    const at = m ? new THREE.Vector3(0.5, -5.2 + sp * 1.5, -5) : new THREE.Vector3(-8.2, -3.4 + sp * 1.5, -5);
     return { pos, look: at };
   };
   const size = () => {
@@ -131,7 +131,6 @@ function init(host) {
   size(); addEventListener('resize', size);
 
   if (matchMedia('(hover:hover)').matches) addEventListener('pointermove', (e) => { target.x = e.clientX / innerWidth - .5; target.y = -(e.clientY / innerHeight - .5); }, { passive: true });
-  addEventListener('deviceorientation', (e) => { if (e.gamma == null) return; target.x = Math.max(-.5, Math.min(.5, e.gamma / 60)); target.y = Math.max(-.5, Math.min(.5, (e.beta - 45) / 90)); }, { passive: true });
   const hero = host.closest('.hero');
   const onScroll = () => { const r = hero.getBoundingClientRect(); scrollP = Math.min(1, Math.max(0, -r.top / r.height)); };
   addEventListener('scroll', onScroll, { passive: true }); onScroll();
