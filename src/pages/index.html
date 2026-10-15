@@ -1,72 +1,148 @@
-<!--{"title":"Credit Card Processing Made Simple — Lower Fees, 24/7 Support | MCCPS","desc":"Accept cards in store, online and on the go with one account. Free statement analysis, Zero Processing Fees program, next-day funding and 24/7 support from MCCPS.","nav":"home","head":"<link rel=\"modulepreload\" href=\"/assets/vendor/three.module.min.js\"><script type=\"module\" src=\"/assets/hero-card.js\"></script>"}-->
+<!--{"title":"Credit Card Processing Made Simple — Lower Fees, 24/7 Support | MCCPS","desc":"Accept cards in store, online and on the go with one account. Free statement analysis, Zero Processing Fees program, next-day funding and 24/7 support from MCCPS.","nav":"home","head":"<link rel=\"modulepreload\" href=\"/assets/vendor/three.module.min.js\"><script type=\"module\" src=\"/assets/scene.js?v={{ver}}\"></script>"}-->
 <section class="hero" aria-labelledby="hero-title">
-  <div class="hero__bg" aria-hidden="true">
-    <div class="aurora"><i></i><i></i><i></i><i></i></div>
-    <div class="hero__grid"></div>
-    <canvas class="hero__canvas" id="hero-canvas"></canvas>
-  </div>
+  <div class="hero__stage" data-stage aria-hidden="true"><div class="hero__fallback"></div></div>
+  <span class="stage-tag" aria-hidden="true"><i>1</i>Tap</span>
+  <span class="stage-tag" aria-hidden="true"><i>2</i>Authorize</span>
+  <span class="stage-tag" aria-hidden="true"><i>3</i>Settle</span>
+  <span class="stage-tag" aria-hidden="true"><i>4</i>Deposit</span>
   <div class="container">
     <div class="hero__inner">
       <div class="hero__copy">
         <span class="hero__pill fade-up"><b>{{i:bolt}} Zero</b> Ask about our Zero Processing Fees program</span>
         <h1 class="display" id="hero-title">
-          <span class="line"><span>Better payment</span></span>
-          <span class="line"><span>processing <span class="grad-text">starts here.</span></span></span>
+          <span class="line"><span>Every card payment,</span></span>
+          <span class="line"><span><span class="grad-text">settled</span> for less.</span></span>
         </h1>
-        <p class="hero__sub fade-up d2">Accept cards in store, online and on the go with one account, lower costs and real people to call 24/7.</p>
+        <p class="hero__sub fade-up d2">Accept cards in store, online and on the go with one account — lower costs, next-day funding available, and real people to call 24/7.</p>
         <div class="hero__ctas fade-up d3">
-          <a class="btn btn--green btn--lg btn--glow" href="/free-analysis/">Get my free analysis {{i:arrow}}</a>
+          <a class="btn btn--green btn--lg" href="/free-analysis/">Get my free analysis {{i:arrow}}</a>
           <a class="btn btn--ghost-dark btn--lg" href="tel:+18448266227">{{i:phone}} 844.826.6227</a>
         </div>
         <div class="hero__assure fade-up d4">
           <span>{{i:check}} No obligation</span>
           <span>{{i:card}} Keep your terminals</span>
-          <span>{{i:clock}} Next-day funding available</span>
+          <span>{{i:clock}} 24/7 live support</span>
         </div>
       </div>
-      <div class="fade-up d3">
-        <div class="card-stage" data-hero-card>
-          <div class="card-stage__fallback" aria-hidden="true"></div>
-          <canvas id="card-canvas" aria-label="Interactive 3D MCCPS card — drag to rotate, tap to flip"></canvas>
-          <div class="chip-float a"><span class="ic">{{i:check}}</span><div>Approved<small>Tap · $84.20</small></div></div>
-          <div class="chip-float b"><span class="ic">{{i:bolt}}</span><div>Deposited<small>Next business day</small></div></div>
-          <span class="card-stage__hint">Drag to rotate · tap to flip</span>
+      <aside class="hero__aside fade-up d4" aria-label="How a card payment moves">
+        <h2>Where your money travels</h2>
+        <ol data-stage-list>
+          <li><span><b>Tap</b>Chip, tap, wallet or online checkout</span></li>
+          <li><span><b>Authorize</b>Encrypted and approved in seconds</span></li>
+          <li><span><b>Settle</b>Batched with pricing you can read</span></li>
+          <li><span><b>Deposit</b>Next-day funding available</span></li>
+        </ol>
+      </aside>
+    </div>
+  </div>
+  <span class="scroll-cue" aria-hidden="true">Scroll</span>
+</section>
+
+<div class="marquee" aria-label="Processing through registered ISOs of these banks">
+  <div class="marquee__track">
+    <span class="marquee__item"><span class="marquee__lbl">Registered ISOs of</span></span><span class="marquee__item">Wells Fargo Bank, N.A.</span><span class="marquee__item">RBS WorldPay</span><span class="marquee__item">Deutsche Bank USA</span><span class="marquee__item">Merrick Bank</span><span class="marquee__item">Harris N.A.</span><span class="marquee__item">Fifth Third Bank</span>
+    <span class="marquee__item" aria-hidden="true"><span class="marquee__lbl">Registered ISOs of</span></span><span class="marquee__item" aria-hidden="true">Wells Fargo Bank, N.A.</span><span class="marquee__item" aria-hidden="true">RBS WorldPay</span><span class="marquee__item" aria-hidden="true">Deutsche Bank USA</span><span class="marquee__item" aria-hidden="true">Merrick Bank</span><span class="marquee__item" aria-hidden="true">Harris N.A.</span><span class="marquee__item" aria-hidden="true">Fifth Third Bank</span>
+  </div>
+</div>
+
+<section class="journey" data-journey aria-labelledby="jr-t">
+  <div class="container journey__pin">
+    <div class="journey__copy">
+      <div class="journey__head"><span class="eyebrow">The journey of a tap</span><h2 class="sr-only" id="jr-t">How a card payment moves with MCCPS</h2></div>
+      <div class="journey__step is-on">
+        <span class="num">01 — TAP</span>
+        <h3>Take every way your customers pay.</h3>
+        <p>EMV chip, tap to pay, Apple Pay and Google Pay at the counter; a secure gateway online; key-entry and mobile readers on the go. One account under PayPilot by MCCPS.</p>
+        <a class="link-arrow" href="/solutions/">Every way to get paid {{i:arrow}}</a>
+      </div>
+      <div class="journey__step">
+        <span class="num">02 — AUTHORIZE</span>
+        <h3>Encrypted end to end. Approved in seconds.</h3>
+        <p>Card data is protected from the moment it’s read, with PCI compliance guidance included — so security isn’t a project you have to run.</p>
+        <a class="link-arrow" href="/blog/">How card security works {{i:arrow}}</a>
+      </div>
+      <div class="journey__step">
+        <span class="num">03 — SETTLE</span>
+        <h3>Pricing you can actually read.</h3>
+        <p>We review your statements line by line and show you where every cent goes — interchange, assessments and markup — before you decide anything.</p>
+        <a class="link-arrow" href="/tools/processing-fee-calculator/">Check your effective rate {{i:arrow}}</a>
+      </div>
+      <div class="journey__step">
+        <span class="num">04 — DEPOSIT</span>
+        <h3>Money in your account the next business day.</h3>
+        <p>Next-day funding is available, so cash flow doesn’t wait on your processor. And if something looks off, real people answer 24/7.</p>
+        <a class="link-arrow" href="/free-analysis/">Start a free analysis {{i:arrow}}</a>
+      </div>
+      <div class="journey__bar" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+    </div>
+    <div class="journey__scene" aria-hidden="true">
+      <div class="jstack">
+        <div class="jpane">
+          <span class="jpane__k">Counter · Terminal</span>
+          <div class="jpane__tap"><i></i><i></i><i></i>{{i:card}}</div>
+          <div class="jpane__big">$84.20</div>
+          <div class="jpane__row"><span>Method</span><b>Contactless</b></div>
+          <div class="jpane__row"><span>Also accepted</span><b>Chip · Wallet · Online</b></div>
+        </div>
+        <div class="jpane">
+          <span class="jpane__k">Network · Issuer</span>
+          <span class="jpane__chip">{{i:check}} Approved</span>
+          <div class="jpane__big">Secure</div>
+          <div class="jpane__row"><span>Card data</span><b>Encrypted</b></div>
+          <div class="jpane__row"><span>Compliance</span><b>PCI guidance</b></div>
+          <div class="jpane__row"><span>Fraud tools</span><b>AVS · CVV</b></div>
+        </div>
+        <div class="jpane">
+          <span class="jpane__k">Batch · Statement</span>
+          <div class="jpane__row" style="border:0"><span>Interchange</span><b>Card networks</b></div>
+          <div class="jpane__meter" style="--w:72%"><i></i></div>
+          <div class="jpane__row"><span>Assessments</span><b>Visa · MC</b></div>
+          <div class="jpane__meter" style="--w:14%"><i></i></div>
+          <div class="jpane__row"><span>Processor markup</span><b>Where savings hide</b></div>
+          <div class="jpane__meter" style="--w:38%"><i></i></div>
+        </div>
+        <div class="jpane">
+          <span class="jpane__k">Your bank</span>
+          <span class="jpane__chip">{{i:bolt}} Next-day funding</span>
+          <div class="jpane__big">Deposited</div>
+          <div class="jpane__cal"><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span><span>S</span><span>6</span><span class="is-a">7</span><span class="is-b">8</span><span>9</span><span>10</span><span>11</span><span>12</span></div>
         </div>
       </div>
     </div>
-
   </div>
 </section>
 
-<div class="container"><p class="trust reveal"><span>Processing through registered ISOs of</span><b>Wells Fargo Bank, N.A.</b><b>RBS WorldPay</b><b>Deutsche Bank USA</b><b>Merrick Bank</b><b>Harris N.A.</b><b>Fifth Third Bank</b></p></div>
-
-<div class="container"><div class="figures reveal"><div><b>24/7</b><span>Live technical support</span></div><div><b>Next day</b><span>Funding available</span></div><div><b>$0</b><span>Possible with the Zero program</span></div><div><b>PCI</b><span>Compliance help included</span></div></div></div>
-
 <section class="section" id="products" aria-labelledby="prod-title">
   <div class="container">
-    <div class="section-head reveal">
-      <span class="eyebrow">One account, every channel</span>
-      <h2 class="h2" id="prod-title">Take payments however your customers want to pay.</h2>
-      <p class="lead">EMV chip, tap to pay, Apple Pay and Google Pay, online checkout, phone orders, invoices and subscriptions — all under one roof with PayPilot by MCCPS.</p>
+    <div class="row__head reveal">
+      <div class="section-head" style="margin:0"><span class="eyebrow">One account, every channel</span><h2 class="h2" id="prod-title">Take payments however<br>your customers pay.</h2></div>
+      <a class="link-arrow" href="/solutions/">All {{count:solutions}} solutions {{i:arrow}}</a>
     </div>
     <div class="tools-grid reveal-stagger">
-      <a class="tool-card" href="/solutions/credit-card-terminals/"><span class="ic">{{i:card}}</span><h3>In store</h3><p>Countertop terminals, card readers and tap to phone. Keep re-programmable terminals you already own.</p><span class="link-arrow">Terminals {{i:arrow}}</span></a>
-      <a class="tool-card" href="/solutions/payment-gateway/"><span class="ic">{{i:cart}}</span><h3>Online</h3><p>A secure gateway that plugs into your website, cart or invoicing — with multiple gateways to fit your needs.</p><span class="link-arrow">Online gateway {{i:arrow}}</span></a>
-      <a class="tool-card" href="/solutions/mobile-payments/"><span class="ic">{{i:phone}}</span><h3>On the go</h3><p>Mobile readers and key-entry for deliveries, markets, service calls and phone orders.</p><span class="link-arrow">Mobile payments {{i:arrow}}</span></a>
-      <a class="tool-card" href="/solutions/recurring-billing/"><span class="ic">{{i:refresh}}</span><h3>Recurring</h3><p>Subscriptions, memberships and payment plans with automated billing and reporting.</p><span class="link-arrow">Recurring billing {{i:arrow}}</span></a>
+      <a class="tool-card" href="/solutions/credit-card-terminals/"><span class="tool-card__n">01</span><span class="ic">{{i:card}}</span><h3>In store</h3><p>Countertop terminals, card readers and tap to phone. Keep re-programmable terminals you already own.</p><span class="link-arrow">Terminals {{i:arrow}}</span></a>
+      <a class="tool-card" href="/solutions/payment-gateway/"><span class="tool-card__n">02</span><span class="ic">{{i:cart}}</span><h3>Online</h3><p>A secure gateway that plugs into your website, cart or invoicing — with multiple gateways to fit your needs.</p><span class="link-arrow">Online gateway {{i:arrow}}</span></a>
+      <a class="tool-card" href="/solutions/mobile-payments/"><span class="tool-card__n">03</span><span class="ic">{{i:phone}}</span><h3>On the go</h3><p>Mobile readers and key-entry for deliveries, markets, service calls and phone orders.</p><span class="link-arrow">Mobile payments {{i:arrow}}</span></a>
+      <a class="tool-card" href="/solutions/recurring-billing/"><span class="tool-card__n">04</span><span class="ic">{{i:refresh}}</span><h3>Recurring</h3><p>Subscriptions, memberships and payment plans with automated billing and reporting.</p><span class="link-arrow">Recurring billing {{i:arrow}}</span></a>
     </div>
   </div>
 </section>
 
 <section class="section section--soft" aria-labelledby="save-t">
-  <div class="container savings">
+  <div class="container savings" data-savings>
     <div class="reveal">
-      <span class="eyebrow">Lower your biggest hidden cost</span>
-      <h2 class="h2" id="save-t" style="margin-top:14px">See what you’d save.</h2>
-      <p class="lead" style="margin-top:16px">Many merchants pay roughly 2.5–3.5% of every card sale to their processor without realizing it. Slide to see what that adds up to — then let us show you the real numbers from your statements.</p>
-      <div class="hero__ctas"><a class="btn btn--primary btn--lg" href="/free-analysis/">Start my free analysis {{i:arrow}}</a><a class="btn btn--ghost btn--lg" href="/tools/savings-calculator/">Full calculator</a></div>
+      <span class="eyebrow">Your biggest hidden cost</span>
+      <h2 class="h2" id="save-t" style="margin-top:18px">See what you’d keep.</h2>
+      <p class="lead" style="margin-top:20px">Many merchants pay roughly 2.5–3.5% of every card sale to their processor without realizing it. Slide to your monthly card volume — then let us show you the real numbers from your statements.</p>
+      <div class="cols3d" data-cols aria-hidden="true">
+        <div class="cols3d__floor">
+          <div class="cols3d__grid"></div>
+          <div class="prism prism--cur" style="left:30%;top:42%"><i class="f1"></i><i class="f2"></i><i class="top"></i></div>
+          <div class="prism prism--zero" style="left:56%;top:30%"><i class="f1"></i><i class="f2"></i><i class="top"></i></div>
+        </div>
+      </div>
+      <div class="cols3d__legend" aria-hidden="true"><div>Typical cost / yr<b data-est-mirror>$9,600</b></div><div class="z">With Zero<b>$0</b></div></div>
     </div>
-    <div class="save-card reveal" data-savings>
+    <div class="save-card reveal">
       <div class="save-row" style="border:0;padding-bottom:0"><span>Monthly card volume</span><b data-est-rev>$25,000</b></div>
       <label class="sr-only" for="home-vol">Monthly card volume</label>
       <input id="home-vol" type="range" min="5000" max="300000" step="5000" value="25000">
@@ -75,7 +151,7 @@
       <div class="save-row total"><span>With MCCPS Zero (dual pricing)</span><b>$0</b></div>
       <div class="save-row total" style="border:0"><span>Potential yearly savings</span><b data-est-zero>$9,600</b></div>
       <a class="btn btn--green btn--lg" data-est-go href="/free-analysis/" style="width:100%;margin-top:18px">See my real numbers {{i:arrow}}</a>
-      <p class="muted" style="font-size:12.5px;margin-top:12px">*Illustrative at a 3.2% effective rate. Dual-pricing programs are subject to card-network rules and state law; your free analysis shows your actual numbers and options.</p>
+      <p class="muted" style="font-size:12px;margin-top:14px;line-height:1.55">*Illustrative at a 3.2% effective rate. Dual-pricing programs are subject to card-network rules and state law; your free analysis shows your actual numbers and options.</p>
     </div>
   </div>
 </section>
@@ -86,46 +162,68 @@
       <img src="/assets/img/zero.webp" alt="MCCPS Zero Processing Fees" width="211" height="214" loading="lazy">
       <div>
         <h2 class="h3">Zero Processing Fees</h2>
-        <p class="muted" style="margin-top:8px">A compliant dual-pricing program that can take your card processing cost to $0 — with the signage, receipts and setup handled the right way.</p>
+        <p class="muted" style="margin-top:10px">A compliant dual-pricing program that can take your card processing cost to $0 — with the signage, receipts and setup handled the right way.</p>
       </div>
       <a class="btn btn--primary btn--lg" href="/solutions/zero-processing-fees/">How it works {{i:arrow}}</a>
     </div>
   </div>
 </section>
 
-<section class="section section--tight" aria-labelledby="finder-t">
-  <div class="container" style="text-align:center">
-    <span class="eyebrow reveal">Built for your business</span>
-    <h2 class="h2 reveal" id="finder-t" style="margin-top:14px">What kind of business do you run?</h2>
+<section class="section section--dark" aria-labelledby="ind-title" style="overflow:hidden">
+  <div class="container">
+    <div class="row__head reveal">
+      <div><span class="eyebrow">Industries</span><h2 class="h2" id="ind-title" style="margin-top:18px">Payments built for<br>how you sell.</h2></div>
+      <div class="ring__nav"><button class="ring__btn" type="button" data-ring-dir="-1" aria-label="Previous industry">{{i:chev-l}}</button><button class="ring__btn" type="button" data-ring-dir="1" aria-label="Next industry">{{i:chev-r}}</button></div>
+    </div>
+    <div class="ring reveal" data-ring role="group" aria-label="Industries — drag or use the arrow keys">
+      <div class="ring__floor" aria-hidden="true"></div>
+      <div class="ring__track">
+        <a class="ring__item" href="/industries/restaurants/" style="--tint:rgba(233,207,150,.35)">{{i:utensils}}<em>01</em><b>Restaurants</b><span>Tableside tap, tips and POS that keeps up with the rush.</span></a>
+        <a class="ring__item" href="/industries/retail-stores/" style="--tint:rgba(107,149,255,.4)">{{i:store}}<em>02</em><b>Retail</b><span>Fast countertop checkout tied to your inventory.</span></a>
+        <a class="ring__item" href="/industries/ecommerce/">{{i:cart}}<em>03</em><b>E-commerce</b><span>Secure gateway, fraud tools and fewer chargebacks.</span></a>
+        <a class="ring__item" href="/industries/salons-and-spas/" style="--tint:rgba(233,207,150,.35)">{{i:scissors}}<em>04</em><b>Salons &amp; spas</b><span>Deposits, no-show fees, tips and retail in one place.</span></a>
+        <a class="ring__item" href="/industries/medical-practices/" style="--tint:rgba(107,149,255,.4)">{{i:heart}}<em>05</em><b>Medical</b><span>Copays, HSA/FSA cards and payment plans.</span></a>
+        <a class="ring__item" href="/industries/bars-and-nightclubs/">{{i:flame}}<em>06</em><b>Bars &amp; nightlife</b><span>Open tabs, pre-auths and speed at last call.</span></a>
+        <a class="ring__item" href="/industries/contractors/" style="--tint:rgba(233,207,150,.35)">{{i:hammer}}<em>07</em><b>Contractors</b><span>Deposits, invoices and Level 2/3 for B2B jobs.</span></a>
+        <a class="ring__item" href="/industries/gyms-and-fitness/" style="--tint:rgba(107,149,255,.4)">{{i:users}}<em>08</em><b>Gyms</b><span>Recurring memberships with fewer failed payments.</span></a>
+        <a class="ring__item" href="/industries/b2b-wholesale/">{{i:factory}}<em>09</em><b>B2B &amp; wholesale</b><span>Enhanced data for lower interchange on business cards.</span></a>
+        <a class="ring__item" href="/industries/auto-repair-shops/" style="--tint:rgba(233,207,150,.35)">{{i:car}}<em>10</em><b>Auto repair</b><span>Large tickets, deposits and fast counter checkout.</span></a>
+      </div>
+    </div>
+    <p class="ring__hint" aria-hidden="true">Drag to explore</p>
     <div class="finder reveal" id="finder">
-      <div class="finder__box">{{i:search}}<label class="sr-only" for="finder-in">Find your industry or topic</label><input id="finder-in" type="text" placeholder="Try “restaurant”, “salon”, “interchange”, “chargeback”…" autocomplete="off"></div>
+      <div class="finder__box">{{i:search}}<label class="sr-only" for="finder-in">Find your industry or topic</label><input id="finder-in" type="text" placeholder="Don’t see yours? Try “food truck”, “dental”, “chargeback”…" autocomplete="off"></div>
       <div class="finder__list" hidden></div>
-      <div class="finder__chips"><a href="/industries/restaurants/">Restaurants</a><a href="/industries/retail-stores/">Retail</a><a href="/industries/ecommerce/">E-commerce</a><a href="/industries/salons-and-spas/">Salons</a><a href="/industries/medical-practices/">Medical</a><a href="/industries/">All {{count:industries}} →</a></div>
+      <div class="finder__chips"><a href="/industries/">All {{count:industries}} industries →</a></div>
     </div>
   </div>
 </section>
 
-<section class="section section--soft" id="how" aria-labelledby="how-title">
+<section class="section" id="how" aria-labelledby="how-title">
   <div class="container">
     <div class="section-head center reveal">
       <span class="eyebrow">How it works</span>
-      <h2 class="h2" id="how-title">Three steps. <span class="grad-blue">No obligation.</span></h2>
+      <h2 class="h2" id="how-title">Three steps. <span class="grad-text">No obligation.</span></h2>
       <p class="lead">Your time is valuable, so the analysis is quick and painless — and you keep your existing hardware wherever possible.</p>
     </div>
-    <div class="steps reveal-stagger">
+    <div class="steps">
       <div class="steps__line" aria-hidden="true"><i></i></div>
-      <article class="step"><div class="step__num">01</div><div class="step__icon">{{i:chat}}</div><h3>Tell us about your business</h3><p>Retail, online, mobile or not accepting cards yet — a few quick questions.</p></article>
-      <article class="step"><div class="step__num">02</div><div class="step__icon">{{i:file}}</div><h3>Send two statements</h3><p>We review two months of processing statements line by line and show you where the money goes.</p></article>
-      <article class="step"><div class="step__num">03</div><div class="step__icon">{{i:rocket}}</div><h3>Switch and save</h3><p>We set you up, program your terminals and stay with you — real support, 24/7.</p></article>
+      <article class="step reveal"><div class="step__num">01</div><h3>Tell us about your business</h3><p>Retail, online, mobile or not accepting cards yet — a few quick questions.</p></article>
+      <article class="step reveal"><div class="step__num">02</div><h3>Send two statements</h3><p>We review two months of processing statements line by line and show you where the money goes.</p></article>
+      <article class="step reveal"><div class="step__num">03</div><h3>Switch and save</h3><p>We set you up, program your terminals and stay with you — real support, 24/7.</p></article>
     </div>
   </div>
 </section>
 
-
 <section class="section section--soft" aria-labelledby="ess-t">
-  <div class="container">
-    <div class="section-head reveal"><span class="eyebrow">Everything included</span><h2 class="h2" id="ess-t" style="margin-top:14px">The essentials, done right.</h2></div>
-    <div class="why__list reveal-stagger" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr));display:grid;margin-top:0">
+  <div class="container why">
+    <div class="reveal" style="position:sticky;top:calc(var(--nav-h) + 40px)">
+      <span class="eyebrow">Everything included</span>
+      <h2 class="h2" id="ess-t" style="margin-top:18px">The essentials,<br>done right.</h2>
+      <p class="lead" style="margin-top:20px">No add-on menu, no surprise line items. These come with every MCCPS account.</p>
+      <div class="hero__ctas"><a class="btn btn--primary btn--lg" href="/free-analysis/">Start my free analysis {{i:arrow}}</a></div>
+    </div>
+    <div class="why__list reveal-stagger" style="grid-template-columns:1fr">
       <div class="why__item"><span class="ic">{{i:shield}}</span><div><h3>PCI compliance</h3><p>End-to-end encryption and compliance guidance, so security isn’t your problem to solve.</p></div></div>
       <div class="why__item"><span class="ic">{{i:bolt}}</span><div><h3>Next-day funding</h3><p>Deposits the next business day, so cash flow never waits on your processor.</p></div></div>
       <div class="why__item"><span class="ic">{{i:trend}}</span><div><h3>Reporting dashboard</h3><p>Real-time reporting on transactions, deposits and chargebacks.</p></div></div>
@@ -136,26 +234,9 @@
   </div>
 </section>
 
-<section class="section section--dark" aria-labelledby="ind-title">
-  <div class="container">
-    <div class="row__head reveal"><div><span class="eyebrow">Industries</span><h2 class="h2" id="ind-title" style="margin-top:10px">Payments built for how you sell.</h2></div><a class="btn btn--white" href="/industries/">All {{count:industries}} industries {{i:arrow}}</a></div>
-    <div class="igrid reveal">
-      <a href="/industries/restaurants/">{{i:utensils}}<span><b>Restaurants</b><span>Tableside tap, tips and POS that keeps up with the rush.</span></span></a>
-      <a href="/industries/retail-stores/">{{i:store}}<span><b>Retail</b><span>Fast countertop checkout tied to your inventory.</span></span></a>
-      <a href="/industries/ecommerce/">{{i:cart}}<span><b>E-commerce</b><span>Secure gateway, fraud tools and fewer chargebacks.</span></span></a>
-      <a href="/industries/salons-and-spas/">{{i:scissors}}<span><b>Salons &amp; spas</b><span>Deposits, no-show fees, tips and retail in one place.</span></span></a>
-      <a href="/industries/medical-practices/">{{i:heart}}<span><b>Medical</b><span>Copays, HSA/FSA cards and payment plans.</span></span></a>
-      <a href="/industries/bars-and-nightclubs/">{{i:flame}}<span><b>Bars &amp; nightlife</b><span>Open tabs, pre-auths and speed at last call.</span></span></a>
-      <a href="/industries/contractors/">{{i:hammer}}<span><b>Contractors</b><span>Deposits, invoices and Level 2/3 for B2B jobs.</span></span></a>
-      <a href="/industries/gyms-and-fitness/">{{i:users}}<span><b>Gyms</b><span>Recurring memberships with fewer failed payments.</span></span></a>
-      <a href="/industries/b2b-wholesale/">{{i:factory}}<span><b>B2B &amp; wholesale</b><span>Enhanced data for lower interchange on business cards.</span></span></a>
-    </div>
-  </div>
-</section>
-
 <section class="section" aria-labelledby="tools-t">
   <div class="container">
-    <div class="row__head reveal"><div><span class="eyebrow">Free tools</span><h2 class="h2" id="tools-t" style="margin-top:14px">Know your numbers.</h2></div><a class="link-arrow" href="/tools/">All tools {{i:arrow}}</a></div>
+    <div class="row__head reveal"><div><span class="eyebrow">Free tools</span><h2 class="h2" id="tools-t" style="margin-top:18px">Know your numbers.</h2></div><a class="link-arrow" href="/tools/">All tools {{i:arrow}}</a></div>
     <div class="tools-grid reveal-stagger">
       <a class="tool-card" href="/tools/savings-calculator/"><span class="ic">{{i:dollar}}</span><h3>Savings calculator</h3><p>See what card fees cost you per year — and what Zero or a lower rate could change.</p><span class="link-arrow">Calculate {{i:arrow}}</span></a>
       <a class="tool-card" href="/tools/processing-fee-calculator/"><span class="ic">{{i:calc}}</span><h3>Effective rate check</h3><p>Two numbers from your statement reveal your true rate.</p><span class="link-arrow">Check {{i:arrow}}</span></a>
@@ -169,11 +250,11 @@
   <div class="container agent-band">
     <div class="reveal">
       <span class="eyebrow">Independent sales agents &amp; ISOs</span>
-      <h2 class="h2" id="ag-t" style="margin-top:14px">Refer merchants. Earn every month.</h2>
-      <p class="lead" style="margin-top:16px">Join our team of independent sales agents. We lower your merchants’ costs — you earn residuals for as long as they process with MCCPS, plus overrides on your team. Set your own hours. Work solo or build a team.</p>
-      <div class="hero__ctas"><a class="btn btn--white btn--lg" href="/agents/">Become an MCCPS agent {{i:arrow}}</a><a class="btn btn--ghost-dark btn--lg" href="/agents/faq/">Agent FAQ</a></div>
+      <h2 class="h2" id="ag-t" style="margin-top:18px">Refer merchants.<br><span class="grad-text">Earn every month.</span></h2>
+      <p class="lead" style="margin-top:20px">Join our team of independent sales agents. We lower your merchants’ costs — you earn residuals for as long as they process with MCCPS, plus overrides on your team. Set your own hours. Work solo or build a team.</p>
+      <div class="hero__ctas"><a class="btn btn--green btn--lg" href="/agents/">Become an MCCPS agent {{i:arrow}}</a><a class="btn btn--ghost-dark btn--lg" href="/agents/faq/">Agent FAQ</a></div>
     </div>
-    <div class="stats-band reveal-stagger" style="grid-template-columns:1fr 1fr">
+    <div class="stats-band reveal-stagger">
       <div class="stat"><b>{{i:refresh}}</b><span>Residuals for as long as your merchants process</span></div>
       <div class="stat"><b>{{i:users}}</b><span>Earn overrides on the team you build</span></div>
       <div class="stat"><b>{{i:bolt}}</b><span>E-signature applications, fast approvals</span></div>
@@ -184,8 +265,8 @@
 
 <section class="section" aria-labelledby="lib-t">
   <div class="container">
-    <div class="row__head reveal"><div><span class="eyebrow">The payments library</span><h2 class="h2" id="lib-t" style="margin-top:10px">{{count:all}} guides. Zero jargon.</h2></div><a class="link-arrow" href="/blog/">Browse the blog {{i:arrow}}</a></div>
-    <div class="elist reveal">{{cards:blog}}</div>
+    <div class="row__head reveal"><div><span class="eyebrow">The payments library</span><h2 class="h2" id="lib-t" style="margin-top:18px">{{count:all}} guides. Zero jargon.</h2></div><a class="link-arrow" href="/blog/">Browse the blog {{i:arrow}}</a></div>
+    <div class="elist reveal-stagger">{{cards:blog}}</div>
     <div class="seo-links reveal">
       <div><h3>Payments by industry</h3><div class="link-cloud">{{links:industries}}</div></div>
       <div><h3>Solutions</h3><div class="link-cloud">{{links:solutions}}</div></div>

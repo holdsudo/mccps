@@ -44,7 +44,6 @@
     lastY = y;
     const h = document.documentElement.scrollHeight - innerHeight;
     if (prog) prog.style.transform = `scaleX(${h > 0 ? y / h : 0})`;
-    stepsLine();
     parallax();
     ticking = false;
   };
@@ -358,7 +357,7 @@
   // Theme toggle
   $$('[data-theme-toggle]').forEach(b => b.addEventListener('click', () => {
     const d = document.documentElement, t = d.dataset.theme === 'dark' ? 'light' : 'dark';
-    const apply = () => { d.dataset.theme = t; try { localStorage.setItem('ff-theme', t); } catch {} };
+    const apply = () => { d.dataset.theme = t; try { localStorage.setItem('mccps-theme', t); } catch {} };
     document.startViewTransition && !reduce ? document.startViewTransition(apply) : apply();
   }));
 
@@ -394,7 +393,7 @@
   $$('[data-savings]').forEach(w => {
     const r = $('input[type=range]', w), rv = $('[data-est-rev]', w), out = $('[data-est-out]', w), go = $('[data-est-go]', w), zero = $('[data-est-zero]', w), mo = $('[data-est-mo]', w);
     const base = go ? go.getAttribute('href') : '';
-    const upd = () => { const v = +r.value, yr = v * 12 * 0.032; rv.textContent = money(v); out.textContent = money(Math.round(yr)); if (mo) mo.textContent = money(Math.round(v * 0.032)); if (zero) zero.textContent = money(Math.round(yr)); if (go) go.href = base + (base.includes('?') ? '&' : '?') + 'volume=' + v; };
+    const upd = () => { const v = +r.value, yr = v * 12 * 0.032; rv.textContent = money(v); out.textContent = money(Math.round(yr)); if (mo) mo.textContent = money(Math.round(v * 0.032)); if (zero) zero.textContent = money(Math.round(yr)); $$('[data-est-mirror]', w).forEach(m => m.textContent = money(Math.round(yr))); if (go) go.href = base + (base.includes('?') ? '&' : '?') + 'volume=' + v; };
     r.addEventListener('input', upd); upd();
   });
 

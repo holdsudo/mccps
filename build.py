@@ -191,12 +191,12 @@ def main():
     shutil.copytree(SRC / "assets" / "img", OUT / "assets" / "img")
     shutil.copytree(SRC / "assets" / "fonts", OUT / "assets" / "fonts")
     shutil.copytree(SRC / "assets" / "vendor", OUT / "assets" / "vendor")
-    css = minify_css(read("assets/css/site.css") + read("assets/css/v2.css") + read("assets/css/mccps.css"))
-    js = {n: minify_js(read(f"assets/js/{n}")) for n in ("site.js", "assistant.js", "analysis.js", "tools.js")}
-    ver = hashlib.sha1((css + "".join(js.values())).encode()).hexdigest()[:8]
+    css = minify_css(read("assets/css/design.css"))
+    js = {n: minify_js(read(f"assets/js/{n}")) for n in ("site.js", "motion.js", "assistant.js", "analysis.js", "tools.js")}
+    ver = hashlib.sha1((css + "".join(js.values()) + read("assets/js/scene.js")).encode()).hexdigest()[:8]
     (OUT / "assets/site.css").write_text(css)
     for n, s in js.items(): (OUT / "assets" / n).write_text(s)
-    (OUT / "assets/hero-card.js").write_text(read("assets/js/hero-card.js"))
+    (OUT / "assets/scene.js").write_text(read("assets/js/scene.js"))
     (OUT / "sw.js").write_text(read("assets/js/sw.js").replace("{{ver}}", ver))
 
     head_t, nav, foot, assistant, sprite = (read(f"partials/{n}") for n in ("head.html", "nav.html", "footer.html", "assistant.html", "icons.svg"))
@@ -277,8 +277,8 @@ def main():
         h = (head_t.replace("{{title}}", esc(meta["title"])).replace("{{desc}}", esc(meta.get("desc", "")))
              .replace("{{canonical}}", SITE + (route or "/")).replace("{{og_image}}", SITE + meta.get("image", "/assets/img/og.jpg"))
              .replace("{{ver}}", ver).replace("{{robots}}", "noindex" if (route is None or meta.get("noindex")) else "index,follow,max-image-preview:large")
-             .replace("{{extra_head}}", (org_ld + site_ld if route == "/" else "") + extra))
-        scripts = f'<script src="/assets/site.js?v={ver}" defer></script><script src="/assets/assistant.js?v={ver}" defer></script>'
+             .replace("{{extra_head}}", (org_ld + site_ld if route == "/" else "") + extra).replace("{{ver}}", ver))
+        scripts = f'<script src="/assets/site.js?v={ver}" defer></script><script src="/assets/motion.js?v={ver}" defer></script><script src="/assets/assistant.js?v={ver}" defer></script>'
         for s in meta.get("scripts", []): scripts += f'<script src="/assets/{s}?v={ver}" defer></script>'
         out = (h + '<body class="no-js">' + sprite + '<a class="skip" href="#main">Skip to content</a>' + navh
                + f'<main id="main">{body}</main>' + foot + assistant + scripts + "</body></html>")
